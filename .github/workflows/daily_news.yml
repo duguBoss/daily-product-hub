@@ -2,9 +2,11 @@ name: Daily Tech News Crawler
 
 on:
   schedule:
-    # 每天 UTC 时间 01:00 运行（对应北京时间早上 9:00）
-    - cron: '0 1 * * *'
-  workflow_dispatch: # 允许手动触发测试
+    - cron: '0 1 * * *' # 北京时间 09:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   run-crawler:
@@ -21,18 +23,27 @@ jobs:
           cache: 'pip'
 
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+        run: pip install requests openai
+
+      - name: Create Data Directory
+        run: mkdir -p data
 
       - name: Run Crawler Script
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-        run: |
-          python news_crawler.py
+        run: python news_crawler.py
 
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: daily-tech-news
-          path: daily_tech_news.json
-          retention-days: 7
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          # 强制添加到暂存区，确保 data 目录下的变化被捕获
+          git add data/daily_tech_news.json
+          
+          # 检查是否有变更需要提交
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "update: daily tech news data [skip ci]"
+            git push
+          fi

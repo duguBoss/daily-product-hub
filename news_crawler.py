@@ -6,168 +6,225 @@ import requests
 from urllib.parse import urljoin
 from openai import OpenAI
 
+# === 配置 ===
 OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
-AI_MODEL = "google/gemini-2.5-flash:free" 
+# 备用模型列表，如果第一个失败尝试第二个 (免费模型不稳定)
+AI_MODELS = [
+    "stepfun/step-3.5-flash:free",
+    "z-ai/glm-4.5-air:free"
+]
 SOURCES = [
     "https://www.ithome.com",
     "https://www.mydrivers.com"
 ]
+OUTPUT_DIR = "data"
+OUTPUT_FILE = os.path.join(OUTPUT_DIR, "daily_tech_news.json")
 
-# 兜底文件保存函数
-def save_json_file(data, filename="daily_tech_news.json"):
-    with open(filename, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
+# 初始化客户端
+client = OpenAI(
+    base_url="https://openrouter.ai/api/v1",
+    api_key=OPENROUTER_API_KEY,
+)
+
+def ensure_dir():
+    """确保 data 目录存在"""
+    if not os.path.exists(OUTPUT_DIR):
+        os.makedirs(OUTPUT_DIR)
+        print(f"创建目录: {OUTPUT_DIR}")
+
+def save_json_file(data):
+    """保存到 data/daily_tech_news.json"""
+    ensure_dir()
+    try:
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=4)
+        print(f"✅ 文件已保存至: {OUTPUT_FILE}")
+    except Exception as e:
+        print(f"❌ 保存文件失败: {e}")
 
 def fetch_jina_content(url):
-    """使用 jina.ai 读取网页内容，增加浏览器伪装"""
-    print(f"  -> 正在抓取: {url}")
+    """抓取网页，增加重试和验证"""
+    print(f"🌐 正在请求 Jina 读取: {url}")
     headers = {
         "X-Return-Format": "markdown",
-        # 增加 User-Agent 伪装，防止被目标网站拦截
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
-    try:
-        response = requests.get(f"https://r.jina.ai/{url}", headers=headers, timeout=60)
-        response.raise_for_status()
-        return response.text
-    except Exception as e:
-        print(f"  -> [抓取失败] {url}: {e}")
-        return ""
+    
+    for _ in range(2): # 重试2次
+        try:
+            resp = requests.get(f"https://r.jina.ai/{url}", headers=headers, timeout=30)
+            if resp.status_code == 200:
+                text = resp.text
+                if len(text) < 200:
+                    print(f"⚠️ 警告: 内容过短 ({len(text)} 字符)，可能是被反爬拦截验证码。")
+                    return ""
+                return text
+        except Exception as e:
+            print(f"   请求出错: {e}")
+            time.sleep(2)
+    return ""
 
 def clean_json_string(text):
-    """提取 JSON 字符串"""
+    """深度清洗 JSON 字符串"""
     if not text: return ""
     text = text.strip()
+    # 移除 Markdown 代码块
     match = re.search(r'```(?:json)?\s*(.*?)\s*```', text, re.DOTALL | re.IGNORECASE)
     if match: text = match.group(1).strip()
     
-    start_array, start_object = text.find('['), text.find('{')
-    if start_array != -1 and (start_object == -1 or start_array < start_object):
-        end_array = text.rfind(']')
-        if end_array != -1: return text[start_array:end_array+1]
-    if start_object != -1 and (start_array == -1 or start_object < start_array):
-        end_object = text.rfind('}')
-        if end_object != -1: return text[start_object:end_object+1]
+    # 寻找最外层的 [] 或 {}
+    s1, s2 = text.find('['), text.find('{')
+    start = -1
+    if s1 != -1 and s2 != -1: start = min(s1, s2)
+    elif s1 != -1: start = s1
+    elif s2 != -1: start = s2
+    
+    if start != -1:
+        # 简单截取，假设最后是对应的结束符
+        text = text[start:]
+        e1, e2 = text.rfind(']'), text.rfind('}')
+        end = -1
+        if e1 != -1 and e2 != -1: end = max(e1, e2)
+        elif e1 != -1: end = e1
+        elif e2 != -1: end = e2
+        if end != -1:
+            text = text[:end+1]
+            
     return text
 
-def process_long_text_with_ai(client, system_prompt, full_text, final_prompt, chunk_size=6000):
-    if not full_text.strip(): return ""
-    chunks = [full_text[i:i + chunk_size] for i in range(0, len(full_text), chunk_size)]
-    total_chunks = len(chunks)
-    messages = [{"role": "system", "content": system_prompt}]
-    
-    for i, chunk in enumerate(chunks):
-        if i < total_chunks - 1:
-            msg = f"【片段 {i+1}/{total_chunks}】\n{chunk}\n\n[指令]：这是部分内容，只需回复“收到”，不要做任何总结。"
-            messages.append({"role": "user", "content": msg})
-            try:
-                client.chat.completions.create(model=AI_MODEL, messages=messages)
-                messages.append({"role": "assistant", "content": "收到"}) 
-            except Exception as e:
-                print(f"  -> [AI片段投喂报错]: {e}")
+def call_ai_with_retry(messages):
+    """尝试调用 AI，失败则切换模型"""
+    for model in AI_MODELS:
+        try:
+            # print(f"🤖 正在调用模型: {model}")
+            resp = client.chat.completions.create(
+                model=model,
+                messages=messages,
+                temperature=0.3 # 降低随机性
+            )
+            content = resp.choices[0].message.content
+            if content:
+                return content
+        except Exception as e:
+            print(f"⚠️ 模型 {model} 调用失败: {e}")
             time.sleep(1)
-        else:
-            msg = f"【片段 {i+1}/{total_chunks}】\n{chunk}\n\n[最终指令]：所有内容完毕！\n{final_prompt}"
-            messages.append({"role": "user", "content": msg})
-            try:
-                resp = client.chat.completions.create(model=AI_MODEL, messages=messages)
-                return resp.choices[0].message.content
-            except Exception as e:
-                print(f"  -> [AI最终分析报错]: {e}")
-                return ""
     return ""
 
-def get_hot_news_links(client, all_markdown):
-    system_prompt = "你是一个科技资讯编辑，负责提取有价值的硬件科技新闻。不要输出除了 JSON 之外的字符。"
-    final_prompt = """
-    请从之前的所有内容中，提取当日最热门的【5个科技硬件产品（如手机、电脑、芯片等）资讯】。
-    严格返回 JSON 数组格式！
-    格式：[{"title": "新闻标题", "url": "对应的原文链接(如果是相对路径请尽量完整)"}]
+def get_hot_news_links(all_markdown):
+    """提取热点新闻链接"""
+    print("🧠 正在分析热点新闻...")
+    
+    # 为了防止 Gemini 免费版过载，这里不使用多轮对话，直接截取 Markdown 的前 15000 字符
+    # 免费版处理超长上下文非常慢且容易超时，15000字符通常包含了当天所有重要新闻标题
+    shortened_md = all_markdown[:15000]
+    
+    prompt = f"""
+    基于以下科技新闻网站的内容，提取今日最热门的5条【硬件/数码产品】新闻。
+    
+    内容来源：
+    {shortened_md}
+    
+    要求：
+    1. 必须是硬件产品（手机、显卡、芯片、电脑等）。
+    2. 返回标准 JSON 数组，无 Markdown 标记。
+    3. 格式：[{{"title": "标题", "url": "链接"}}]
+    4. 如果链接是相对路径，请保留原样。
     """
-    print("\n提交AI进行热点提取...")
-    ai_response = process_long_text_with_ai(client, system_prompt, all_markdown, final_prompt, chunk_size=8000)
+    
+    messages = [{"role": "user", "content": prompt}]
+    resp = call_ai_with_retry(messages)
     
     try:
-        json_str = clean_json_string(ai_response)
-        news_list = json.loads(json_str)
-        valid_news = []
-        for item in news_list:
-            url = item.get("url", "")
-            title = item.get("title", "无标题")
-            if "..." in url or not url: continue
-            if url.startswith("/"):
-                base = "https://www.mydrivers.com" if "mydrivers" in all_markdown else "https://www.ithome.com"
-                url = urljoin(base, url)
-            if url.startswith("http"):
-                valid_news.append({"title": title, "url": url})
-        return valid_news[:5]
+        json_str = clean_json_string(resp)
+        data = json.loads(json_str)
+        
+        # 修正链接
+        valid_data = []
+        for item in data:
+            u = item.get("url", "")
+            if not u: continue
+            if u.startswith("/"):
+                # 简单补全
+                base = "https://www.ithome.com" if "ithome" in u or "html" in u else "https://www.mydrivers.com"
+                u = urljoin(base, u)
+            valid_data.append({"title": item["title"], "url": u})
+        return valid_data[:5]
     except Exception as e:
-        print(f"[错误] 新闻列表JSON解析失败: {e}\nAI返回内容:\n{ai_response}")
+        print(f"❌ 解析热点列表失败: {e}")
+        print(f"AI 原文: {resp}")
         return []
 
-def get_article_details(client, markdown_text):
-    system_prompt = "你是一个内容提取助手，严格输出 JSON 格式。"
-    final_prompt = """
-    提取核心详细内容和配图链接。严格返回 JSON 格式：
-    {"content": "这里是提取的核心内容(200字以上)...", "images": ["图片url1", "图片url2"]}
+def get_article_details(title, url):
+    """提取单篇详情"""
+    print(f"  -> 分析详情: {title}")
+    md = fetch_jina_content(url)
+    if not md: return None
+    
+    # 截取详情页前 8000 字符防止 tokens 溢出
+    md_short = md[:8000]
+    
+    prompt = f"""
+    阅读文章：{md_short}
+    
+    任务：
+    1. 总结核心内容（200-400字）。
+    2. 提取文中第一张相关产品图片的链接（以http开头）。
+    
+    返回 JSON：
+    {{"content": "总结内容...", "images": ["图片链接"]}}
     """
-    ai_response = process_long_text_with_ai(client, system_prompt, markdown_text, final_prompt, chunk_size=8000)
+    
+    resp = call_ai_with_retry([{"role": "user", "content": prompt}])
     try:
-        json_str = clean_json_string(ai_response)
+        json_str = clean_json_string(resp)
         return json.loads(json_str)
-    except Exception as e:
-        print(f"[错误] 详情解析失败: {e}")
-        return {"content": "内容提取失败", "images": []}
+    except:
+        return {"content": "提取失败", "images": []}
 
 def main():
-    # 兜底机制：脚本一开始就先生成一个空的 JSON 文件，确保后续 GitHub Actions 传文件时不报错
-    save_json_file([])
+    # 1. 预先创建空文件，防止 Workflow 报错
+    ensure_dir()
+    if not os.path.exists(OUTPUT_FILE):
+        save_json_file([])
 
     if not OPENROUTER_API_KEY:
-        print("【致命错误】缺少 OPENROUTER_API_KEY 环境变量！请检查 GitHub Secrets 配置。")
+        print("❌ 错误: 未设置 OPENROUTER_API_KEY")
         return
 
-    client = OpenAI(base_url="https://openrouter.ai/api/v1", api_key=OPENROUTER_API_KEY)
-
-    print("=== 1. 抓取主页数据 ===")
-    combined_home_markdown = ""
+    # 2. 抓取主页
+    full_content = ""
     for site in SOURCES:
-        md = fetch_jina_content(site)
-        if md: combined_home_markdown += f"\n\n来源网站: {site}\n" + md
-
-    if not combined_home_markdown.strip():
-        print("【失败结束】所有网站主页均抓取失败或为空，程序退出。")
+        text = fetch_jina_content(site)
+        print(f"   站点 {site} 获取长度: {len(text)} 字符")
+        if len(text) > 500:
+            full_content += f"\n来源 {site}:\n{text}\n"
+    
+    if not full_content:
+        print("❌ 所有站点抓取内容均为空，可能是 IP 被封锁。")
         return
 
-    print("=== 2. AI 提取热点新闻 ===")
-    hot_news = get_hot_news_links(client, combined_home_markdown)
-    if not hot_news:
-        print("【失败结束】AI未能提取到任何有效新闻格式，程序退出。")
-        return
-        
-    print(f"成功获取 {len(hot_news)} 条新闻。")
+    # 3. 提取列表
+    news_list = get_hot_news_links(full_content)
+    print(f"✅ 提取到 {len(news_list)} 条新闻")
 
-    print("\n=== 3. 进入详情页分析 ===")
-    final_results = []
-    for item in hot_news:
-        print(f"\n-> 处理: {item['title']}")
-        article_md = fetch_jina_content(item['url'])
-        if not article_md:
-            print("   (页面获取为空，跳过)")
-            continue
-            
-        details = get_article_details(client, article_md)
-        final_results.append({
-            "资讯标题": item["title"],
-            "链接": item["url"],
-            "内容": details.get("content", ""),
-            "配图": details.get("images", [])
-        })
-        time.sleep(2)
+    # 4. 循环提取详情
+    final_result = []
+    for news in news_list:
+        details = get_article_details(news["title"], news["url"])
+        if details:
+            final_result.append({
+                "资讯标题": news["title"],
+                "内容": details.get("content", ""),
+                "配图": details.get("images", [])
+            })
+        time.sleep(2) # 避免速率限制
 
-    print("\n=== 4. 生成最终数据文件 ===")
-    save_json_file(final_results)
-    print(f"执行成功！共 {len(final_results)} 条记录已保存。")
+    # 5. 保存结果
+    if final_result:
+        save_json_file(final_result)
+        print(json.dumps(final_result, ensure_ascii=False, indent=2))
+    else:
+        print("⚠️ 最终结果为空，未进行保存覆盖。")
 
 if __name__ == "__main__":
     main()

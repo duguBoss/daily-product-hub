@@ -193,7 +193,7 @@ def get_article_details(title, url):
     
     try:
         resp = client.chat.completions.create(
-            model="google/gemini-2.5-flash:free",
+            model="stepfun/step-3.5-flash:free",
             messages=[{"role": "user", "content": prompt}]
         )
         return json.loads(clean_json_string(resp.choices[0].message.content))

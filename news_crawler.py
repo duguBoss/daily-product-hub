@@ -166,7 +166,7 @@ def get_latest_hot_news(all_markdown):
             
             valid_data.append({"title": t, "url": u})
             
-        return valid_data[:5] # 只取前5条
+        return valid_data[:8] # 只取前5条
         
     except Exception as e:
         print(f"❌ AI 提取列表报错: {e}")

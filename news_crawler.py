@@ -134,7 +134,7 @@ def get_hot_news_links(all_markdown):
     
     try:
         resp = client.chat.completions.create(
-            model="google/gemini-2.5-flash:free",
+            model="stepfun/step-3.5-flash:free",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.1
         )

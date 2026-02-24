@@ -2,8 +2,9 @@ name: Daily Tech News Crawler
 
 on:
   schedule:
-    - cron: '0 1 * * *' # 北京时间 09:00
-  workflow_dispatch:
+    # 北京时间每天 09:00 (UTC 01:00) 运行
+    - cron: '0 1 * * *'
+  workflow_dispatch: # 允许手动点击按钮触发
 
 permissions:
   contents: write
@@ -31,19 +32,22 @@ jobs:
       - name: Run Crawler Script
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-        run: python news_crawler.py
+        run: |
+          python news_crawler.py
 
-      - name: Commit and Push changes
+      - name: Check and Push Changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          # 强制添加到暂存区，确保 data 目录下的变化被捕获
+          
+          # 强制添加到暂存区
           git add data/daily_tech_news.json
           
-          # 检查是否有变更需要提交
+          # 检查是否有变更（因为脚本是覆盖写，如果内容和昨天不一样，这里就会检测到变更）
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "No changes in news content."
           else
-            git commit -m "update: daily tech news data [skip ci]"
+            echo "News updated. Committing..."
+            git commit -m "update: latest daily tech news [skip ci]"
             git push
           fi

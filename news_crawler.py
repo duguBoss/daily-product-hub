@@ -8,19 +8,14 @@ from openai import OpenAI
 
 # === 配置 ===
 OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
-# 备用模型列表，如果第一个失败尝试第二个 (免费模型不稳定)
-AI_MODELS = [
-    "stepfun/step-3.5-flash:free",
-    "z-ai/glm-4.5-air:free"
-]
 SOURCES = [
     "https://www.ithome.com",
     "https://www.mydrivers.com"
 ]
+# 确保数据保存到 data 目录
 OUTPUT_DIR = "data"
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "daily_tech_news.json")
 
-# 初始化客户端
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
     api_key=OPENROUTER_API_KEY,
@@ -30,159 +25,183 @@ def ensure_dir():
     """确保 data 目录存在"""
     if not os.path.exists(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
-        print(f"创建目录: {OUTPUT_DIR}")
+        print(f"📁 创建目录: {OUTPUT_DIR}")
 
 def save_json_file(data):
-    """保存到 data/daily_tech_news.json"""
+    """保存 JSON 到 data/daily_tech_news.json"""
     ensure_dir()
     try:
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
-        print(f"✅ 文件已保存至: {OUTPUT_FILE}")
+        print(f"✅ 文件已成功保存至: {OUTPUT_FILE}")
     except Exception as e:
         print(f"❌ 保存文件失败: {e}")
 
 def fetch_jina_content(url):
-    """抓取网页，增加重试和验证"""
+    """
+    使用 Jina 读取网页，不使用 API Key，但极力伪装成浏览器
+    """
     print(f"🌐 正在请求 Jina 读取: {url}")
-    headers = {
-        "X-Return-Format": "markdown",
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    }
     
-    for _ in range(2): # 重试2次
+    # 构造 Jina URL
+    jina_url = f"https://r.jina.ai/{url}"
+    
+    # 伪装成真实的 Chrome 浏览器，防止被识别为 GitHub 机器人
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+        "Referer": "https://www.google.com/",
+        "X-Return-Format": "markdown"
+    }
+
+    # 重试机制
+    for attempt in range(3):
         try:
-            resp = requests.get(f"https://r.jina.ai/{url}", headers=headers, timeout=30)
-            if resp.status_code == 200:
-                text = resp.text
-                if len(text) < 200:
-                    print(f"⚠️ 警告: 内容过短 ({len(text)} 字符)，可能是被反爬拦截验证码。")
-                    return ""
-                return text
+            # 增加 timeout 防止卡死
+            response = requests.get(jina_url, headers=headers, timeout=30)
+            
+            # 如果是 429 (Too Many Requests) 或 403，说明 IP 被限制
+            if response.status_code in [429, 403]:
+                print(f"   ⚠️ IP 可能被限制 (HTTP {response.status_code})，等待 10 秒后重试...")
+                time.sleep(10)
+                continue
+                
+            response.raise_for_status()
+            text = response.text
+            
+            # 检查是否返回了 Jina 的报错页面（有时候状态码是 200 但内容是报错）
+            if "Usage Limit" in text or "Rate Limit" in text:
+                print("   ❌ 触发了 Jina 的匿名使用限制。")
+                return ""
+                
+            if len(text) < 200:
+                print(f"   ⚠️ 内容过短 ({len(text)} 字符)，可能是空页面。")
+                print(f"   📄 内容预览: {text[:100]}") # 打印出来看看到底返回了啥
+                return ""
+                
+            return text
+            
         except Exception as e:
-            print(f"   请求出错: {e}")
-            time.sleep(2)
+            print(f"   ❌ 请求出错 (尝试 {attempt+1}/3): {e}")
+            time.sleep(5)
+            
     return ""
 
 def clean_json_string(text):
-    """深度清洗 JSON 字符串"""
+    """强力清洗 JSON"""
     if not text: return ""
     text = text.strip()
-    # 移除 Markdown 代码块
     match = re.search(r'```(?:json)?\s*(.*?)\s*```', text, re.DOTALL | re.IGNORECASE)
     if match: text = match.group(1).strip()
     
     # 寻找最外层的 [] 或 {}
-    s1, s2 = text.find('['), text.find('{')
+    s_arr = text.find('[')
+    s_obj = text.find('{')
     start = -1
-    if s1 != -1 and s2 != -1: start = min(s1, s2)
-    elif s1 != -1: start = s1
-    elif s2 != -1: start = s2
+    
+    if s_arr != -1 and s_obj != -1: start = min(s_arr, s_obj)
+    elif s_arr != -1: start = s_arr
+    elif s_obj != -1: start = s_obj
     
     if start != -1:
-        # 简单截取，假设最后是对应的结束符
         text = text[start:]
-        e1, e2 = text.rfind(']'), text.rfind('}')
-        end = -1
-        if e1 != -1 and e2 != -1: end = max(e1, e2)
-        elif e1 != -1: end = e1
-        elif e2 != -1: end = e2
+        e_arr = text.rfind(']')
+        e_obj = text.rfind('}')
+        end = max(e_arr, e_obj)
         if end != -1:
-            text = text[:end+1]
-            
+            return text[:end+1]
     return text
-
-def call_ai_with_retry(messages):
-    """尝试调用 AI，失败则切换模型"""
-    for model in AI_MODELS:
-        try:
-            # print(f"🤖 正在调用模型: {model}")
-            resp = client.chat.completions.create(
-                model=model,
-                messages=messages,
-                temperature=0.3 # 降低随机性
-            )
-            content = resp.choices[0].message.content
-            if content:
-                return content
-        except Exception as e:
-            print(f"⚠️ 模型 {model} 调用失败: {e}")
-            time.sleep(1)
-    return ""
 
 def get_hot_news_links(all_markdown):
     """提取热点新闻链接"""
-    print("🧠 正在分析热点新闻...")
+    print("🧠 正在分析热点新闻 (Gemini-Flash Free)...")
     
-    # 为了防止 Gemini 免费版过载，这里不使用多轮对话，直接截取 Markdown 的前 15000 字符
-    # 免费版处理超长上下文非常慢且容易超时，15000字符通常包含了当天所有重要新闻标题
+    # 截取前 15000 字符，通常足够包含首页列表
     shortened_md = all_markdown[:15000]
     
     prompt = f"""
-    基于以下科技新闻网站的内容，提取今日最热门的5条【硬件/数码产品】新闻。
+    基于以下内容，提取今日最热门的 5 条【硬件/数码产品】新闻。
     
-    内容来源：
+    内容：
     {shortened_md}
     
     要求：
-    1. 必须是硬件产品（手机、显卡、芯片、电脑等）。
-    2. 返回标准 JSON 数组，无 Markdown 标记。
-    3. 格式：[{{"title": "标题", "url": "链接"}}]
-    4. 如果链接是相对路径，请保留原样。
+    1. 必须是硬件（手机、电脑、芯片等）。
+    2. 返回 JSON 数组：[{{"title": "标题", "url": "链接"}}]
+    3. 如果链接是相对路径，保留原样，不要自己编造域名。
     """
     
-    messages = [{"role": "user", "content": prompt}]
-    resp = call_ai_with_retry(messages)
-    
     try:
-        json_str = clean_json_string(resp)
-        data = json.loads(json_str)
+        resp = client.chat.completions.create(
+            model="google/gemini-2.5-flash:free",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.1
+        )
+        content = resp.choices[0].message.content
         
-        # 修正链接
+        try:
+            data = json.loads(clean_json_string(content))
+        except:
+            print(f"❌ JSON 解析失败，AI 返回: {content}")
+            return []
+
+        # 链接补全逻辑
         valid_data = []
         for item in data:
             u = item.get("url", "")
+            title = item.get("title", "")
             if not u: continue
+            
+            # 智能补全域名
             if u.startswith("/"):
-                # 简单补全
-                base = "https://www.ithome.com" if "ithome" in u or "html" in u else "https://www.mydrivers.com"
-                u = urljoin(base, u)
-            valid_data.append({"title": item["title"], "url": u})
+                # 如果标题看起来像之家的，或者上下文主要来自之家
+                if "ithome" in all_markdown and "mydrivers" not in u:
+                     u = urljoin("https://www.ithome.com", u)
+                else:
+                     u = urljoin("https://www.mydrivers.com", u)
+            
+            valid_data.append({"title": title, "url": u})
+            
         return valid_data[:5]
     except Exception as e:
-        print(f"❌ 解析热点列表失败: {e}")
-        print(f"AI 原文: {resp}")
+        print(f"❌ AI 提取列表失败: {e}")
         return []
 
 def get_article_details(title, url):
-    """提取单篇详情"""
-    print(f"  -> 分析详情: {title}")
-    md = fetch_jina_content(url)
-    if not md: return None
+    """提取详情"""
+    print(f"  -> 正在分析详情: {title}")
     
-    # 截取详情页前 8000 字符防止 tokens 溢出
-    md_short = md[:8000]
+    # 强制休眠，避免 Jina 认为我们在 DDoS
+    time.sleep(5) 
+    
+    md = fetch_jina_content(url)
+    if not md: 
+        print("     (获取内容失败，跳过)")
+        return None
     
     prompt = f"""
-    阅读文章：{md_short}
+    阅读文章：{md[:10000]}
     
     任务：
     1. 总结核心内容（200-400字）。
-    2. 提取文中第一张相关产品图片的链接（以http开头）。
+    2. 提取文中第一张产品图片的链接。
     
     返回 JSON：
     {{"content": "总结内容...", "images": ["图片链接"]}}
     """
     
-    resp = call_ai_with_retry([{"role": "user", "content": prompt}])
     try:
-        json_str = clean_json_string(resp)
-        return json.loads(json_str)
+        resp = client.chat.completions.create(
+            model="google/gemini-2.5-flash:free",
+            messages=[{"role": "user", "content": prompt}]
+        )
+        return json.loads(clean_json_string(resp.choices[0].message.content))
     except:
         return {"content": "提取失败", "images": []}
 
 def main():
-    # 1. 预先创建空文件，防止 Workflow 报错
+    # 1. 启动时先创建空文件，作为兜底
     ensure_dir()
     if not os.path.exists(OUTPUT_FILE):
         save_json_file([])
@@ -195,19 +214,22 @@ def main():
     full_content = ""
     for site in SOURCES:
         text = fetch_jina_content(site)
-        print(f"   站点 {site} 获取长度: {len(text)} 字符")
+        print(f"   [{site}] 获取长度: {len(text)}")
         if len(text) > 500:
-            full_content += f"\n来源 {site}:\n{text}\n"
-    
+            full_content += f"\n=== {site} ===\n{text}\n"
+        
+        # 每个站点之间休息 3 秒
+        time.sleep(3) 
+
     if not full_content:
-        print("❌ 所有站点抓取内容均为空，可能是 IP 被封锁。")
+        print("❌ 所有站点内容均为空。请检查 GitHub Actions 日志中的 HTTP 状态码。")
         return
 
     # 3. 提取列表
     news_list = get_hot_news_links(full_content)
     print(f"✅ 提取到 {len(news_list)} 条新闻")
 
-    # 4. 循环提取详情
+    # 4. 提取详情
     final_result = []
     for news in news_list:
         details = get_article_details(news["title"], news["url"])
@@ -217,14 +239,13 @@ def main():
                 "内容": details.get("content", ""),
                 "配图": details.get("images", [])
             })
-        time.sleep(2) # 避免速率限制
 
     # 5. 保存结果
     if final_result:
         save_json_file(final_result)
         print(json.dumps(final_result, ensure_ascii=False, indent=2))
     else:
-        print("⚠️ 最终结果为空，未进行保存覆盖。")
+        print("⚠️ 最终结果为空，未覆盖原文件。")
 
 if __name__ == "__main__":
     main()

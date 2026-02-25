@@ -3,7 +3,7 @@ name: Daily Tech News Crawler
 on:
   schedule:
     # 北京时间每天 09:00 (UTC 01:00) 运行
-    - cron: '0 1 * * *'
+    - cron: '0 13 * * *'
   workflow_dispatch: # 允许手动点击按钮触发
 
 permissions:

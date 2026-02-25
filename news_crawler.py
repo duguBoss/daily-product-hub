@@ -113,7 +113,7 @@ def get_latest_hot_news(all_markdown):
     # 截取前 20000 字符，step-3.5-flash 处理长文本能力尚可
     context = all_markdown[:20000]
     
-    # 【修改点 1】：提示词中让 AI 提取 8 条新闻
+    # 提示词要求 8 条
     prompt = f"""
     今天是北京时间：{today_date}。
     
@@ -167,7 +167,7 @@ def get_latest_hot_news(all_markdown):
             
             valid_data.append({"title": t, "url": u})
             
-        # 【修改点 2】：确保最终返回最多 8 条数据
+        # 返回前 8 条
         return valid_data[:8]
 
     except Exception as e:
@@ -228,7 +228,7 @@ def main():
     if not full_home_content:
         print("❌ 所有来源抓取失败，无法进行后续分析。")
         print("⚠️ 终止更新，保留原有数据。")
-        return # 发生错误直接退出，不再保存空数据
+        return
 
     # 3. 提取今日热点
     news_list = get_latest_hot_news(full_home_content)
@@ -237,30 +237,37 @@ def main():
     if not news_list:
         print("⚠️ 未提取到有效新闻，可能是因为今天还没有更新或 AI 解析失败。")
         print("⚠️ 终止更新，保留原有数据。")
-        return # 发生错误直接退出，不再保存空数据
+        return
 
     # 4. 循环提取详情
     final_result = []
     for news in news_list:
         details = get_article_details(news["title"], news["url"])
+        
         if details:
+            content = details.get("content", "")
+            
+            # 【关键修改点】：如果内容是“内容提取失败”或为空，则跳过该条新闻
+            if content == "内容提取失败" or not content:
+                print(f"   ⚠️ 内容无效，跳过: {news['title']}")
+                continue
+
             final_result.append({
                 "资讯标题": news["title"],
-                "内容": details.get("content", ""),
+                "内容": content,
                 "配图": details.get("images", [])
             })
 
-    # 5. 保存结果（只有当成功获取到详情数据时，才进行文件覆盖保存）
+    # 5. 保存结果
     if final_result:
         save_json_file(final_result)
         # 打印结果供日志检查
         print(json.dumps(final_result, ensure_ascii=False, indent=2))
     else:
-        print("❌ 详情分析全部失败。")
+        print("❌ 所有详情分析均失败或无效。")
         print("⚠️ 终止更新，保留原有数据。")
 
 if __name__ == "__main__":
-    # 增加全局容错，如果代码运行过程中出现任何意料之外的报错崩溃，不破坏原有文件
     try:
         main()
     except Exception as e:

@@ -9,7 +9,7 @@ from openai import OpenAI
 
 # ================= 全局配置 =================
 # 1. 统一使用的 AI 模型
-AI_MODEL = "stepfun/step-3.5-flash:free" 
+AI_MODEL = "stepfun/step-3.5-flash:free"  
 
 # 2. 目标数据源
 SOURCES = [
@@ -17,7 +17,7 @@ SOURCES = [
     "https://www.mydrivers.com"
 ]
 
-# 3. 输出文件路径 (每次运行都会覆盖此文件)
+# 3. 输出文件路径
 OUTPUT_DIR = "data"
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "daily_tech_news.json")
 
@@ -167,7 +167,7 @@ def get_latest_hot_news(all_markdown):
             valid_data.append({"title": t, "url": u})
             
         return valid_data[:8] # 只取前5条
-        
+
     except Exception as e:
         print(f"❌ AI 提取列表报错: {e}")
         return []
@@ -183,7 +183,7 @@ def get_article_details(title, url):
     if not md:
         print("     (跳过：未获取到详情页内容)")
         return None
-    
+        
     prompt = f"""
     请阅读这篇科技新闻，提取核心内容总结（300字以内）和第一张产品图片的链接。
     
@@ -212,7 +212,7 @@ def main():
     # 1. 启动时的兜底措施
     if not OPENROUTER_API_KEY:
         print("❌ 致命错误: 未配置 OPENROUTER_API_KEY")
-        return
+        return 
 
     # 2. 抓取所有来源的主页
     full_home_content = ""
@@ -225,9 +225,8 @@ def main():
 
     if not full_home_content:
         print("❌ 所有来源抓取失败，无法进行后续分析。")
-        # 生成一个空的 JSON 文件以避免 Action 报错，同时也清空了旧数据
-        save_json_file([]) 
-        return
+        print("⚠️ 终止更新，保留原有数据。")
+        return # 发生错误直接退出，不再保存空数据
 
     # 3. 提取今日热点
     news_list = get_latest_hot_news(full_home_content)
@@ -235,8 +234,8 @@ def main():
 
     if not news_list:
         print("⚠️ 未提取到有效新闻，可能是因为今天还没有更新或 AI 解析失败。")
-        save_json_file([])
-        return
+        print("⚠️ 终止更新，保留原有数据。")
+        return # 发生错误直接退出，不再保存空数据
 
     # 4. 循环提取详情
     final_result = []
@@ -248,15 +247,21 @@ def main():
                 "内容": details.get("content", ""),
                 "配图": details.get("images", [])
             })
-    
-    # 5. 保存结果（覆盖旧数据）
+
+    # 5. 保存结果（只有当成功获取到详情数据时，才进行文件覆盖保存）
     if final_result:
         save_json_file(final_result)
         # 打印结果供日志检查
         print(json.dumps(final_result, ensure_ascii=False, indent=2))
     else:
-        print("⚠️ 详情分析全部失败，保存空数组。")
-        save_json_file([])
+        print("❌ 详情分析全部失败。")
+        print("⚠️ 终止更新，保留原有数据。")
+        # 移除了 save_json_file([])，改为保留旧数据
 
 if __name__ == "__main__":
-    main()
+    # 增加全局容错，如果代码运行过程中出现任何意料之外的报错崩溃，不破坏原有文件
+    try:
+        main()
+    except Exception as e:
+        print(f"💥 脚本发生未捕获异常退出: {e}")
+        print("⚠️ 终止更新，保留原有数据。")

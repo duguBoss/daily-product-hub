@@ -113,10 +113,11 @@ def get_latest_hot_news(all_markdown):
     # 截取前 20000 字符，step-3.5-flash 处理长文本能力尚可
     context = all_markdown[:20000]
     
+    # 【修改点 1】：提示词中让 AI 提取 8 条新闻
     prompt = f"""
     今天是北京时间：{today_date}。
     
-    请分析以下网页内容，严格筛选出【今天 ({today_date})】发布的、最热门的 5 条【硬件科技产品】新闻（手机、电脑、芯片、数码等）。
+    请分析以下网页内容，严格筛选出【今天 ({today_date})】发布的、最热门的 8 条【硬件科技产品】新闻（手机、电脑、芯片、数码等）。
     
     如果不确定日期，请优先选择列表中最靠前的新闻。
     
@@ -166,7 +167,8 @@ def get_latest_hot_news(all_markdown):
             
             valid_data.append({"title": t, "url": u})
             
-        return valid_data[:8] # 只取前5条
+        # 【修改点 2】：确保最终返回最多 8 条数据
+        return valid_data[:8]
 
     except Exception as e:
         print(f"❌ AI 提取列表报错: {e}")
@@ -256,7 +258,6 @@ def main():
     else:
         print("❌ 详情分析全部失败。")
         print("⚠️ 终止更新，保留原有数据。")
-        # 移除了 save_json_file([])，改为保留旧数据
 
 if __name__ == "__main__":
     # 增加全局容错，如果代码运行过程中出现任何意料之外的报错崩溃，不破坏原有文件

@@ -1,56 +1,56 @@
 [
     {
         "资讯标题": "消息称苹果 iPad 12 下周发布：升级 A19 芯片 + 8GB RAM",
-        "内容": "根据外媒Mac Rumors消息，苹果计划于下周发布新款11英寸iPad，可能命名为“11英寸iPad（A19）”。核心升级包括：搭载A19芯片以支持Apple智能功能，运行内存从上一代的6GB提升至8GB。外观设计与现款iPad 11基本一致，屏幕延续11英寸LCD面板（2360x1640分辨率），并配备前后12MP摄像头。国行起售价预计参考现款2999元。",
+        "内容": "据外媒Mac Rumors透露，苹果计划于下周发布新款iPad，预计命名为“11英寸 iPad（A19）”。新品外观与现款iPad 11基本保持一致，但核心升级为A19芯片以支持Apple智能功能，运行内存因此从6GB提升至8GB。屏幕延续11英寸2360x1640分辨率LCD面板，前后摄像头均为12MP。作为参考，现款11英寸iPad国行起售价为2999元。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/2/e9c6d31b-4d3e-4f85-ae9f-38faaa943221.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "HMD 推出 4G 新机 Luma：紫光展锐 T615 处理器、3.5mm 耳机孔、SD 卡槽",
-        "内容": "HMD推出新款4G手机Luma，搭载紫光展锐T615处理器，配备4GB内存及128GB/256GB存储（支持microSD卡扩展）。保留3.5mm耳机孔与FM收音机功能，内置5000mAh电池支持18W充电。后置5000万像素主摄，前置800万像素，采用6.67英寸LCD屏。仅支持4G双卡，提供钛金属与蓝色两种配色。该机已现身尼日利亚和加纳官网，价格未公布，预计近期上市。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/f1e240bb-3340-4b24-83ff-6e69631b28f2.png?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "索尼官宣 PS5 Pro 升级版 PSSR，《生化危机 9：安魂曲》首个尝鲜",
-        "内容": "索尼宣布升级版PSSR（光谱超分辨率）AI图像增强技术将在未来几周内面向全球PS5 Pro用户推送。该技术通过逐像素分析提升游戏分辨率，目前已支持超过50款游戏。作为首发作品，《生化危机9：安魂曲》于今日正式搭载此升级版技术。新版PSSR在神经网络和算法上均有革新，源自索尼与AMD合作的“紫水晶计划”，融合了AMD FSR 4技术，旨在同时保障高帧率与高画质。索尼表示，更多游戏升级计划及细节将于3月公布。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/58c395a1-0804-4079-a033-949b4d8900c4.png?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "三星确认 Galaxy S26 系列手机全系配备 10bit 屏幕，但官网标注为 8bit",
-        "内容": "三星在Galaxy S26系列发布会上推出S26、S26+及S26 Ultra，但官网参数表错误标注其屏幕仅支持“1600万种颜色”（对应8bit色深）。据科技媒体Sammobile报道及三星官方确认，该系列全系实际配备10bit屏幕（可显示约10.1亿种颜色），能有效减少色彩断层。YouTube博主HFV Unbox的对比测试也显示，S26 Ultra在显示同一照片时无色彩断层，而S25 Ultra存在，进一步佐证了10bit屏幕的存在。分析认为，官网参数错误可能是维护人员复制粘贴旧机型描述所致。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/849dc1f6-1128-4376-a0ff-378dfb6d2b08.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "摩托罗拉 Edge 70 Fusion、Razr Fold 手机 FIFA 世界杯限定版外观曝光：金色 Logo，灰黑色后盖",
-        "内容": "消息人士Evan Blass曝光了摩托罗拉两款FIFA世界杯限定版手机外观，分别为Edge 70 Fusion（直板）和Razr Fold（大折叠）。两款机型均采用灰黑色绒面纹理后盖，保留方形三摄模组，后盖底部印有金色品牌Logo、FIFA世界杯标志及“官方智能手机合作伙伴”字样。其中，Edge 70 Fusion的相机模组带有一圈金色装饰边框。摩托罗拉官方尚未官宣，但标准版Edge 70 Fusion将于3月6日推出，限定版可能随后发布。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/fcac981b-7471-4538-945f-3993704815b0.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "首搭美光 GDDR7 显存，影驰 RTX 5060 显卡拆解曝光",
-        "内容": "影驰GeForce RTX 5060 Black OC V2显卡拆解证实，该卡首次搭载美光GDDR7显存（型号MT68A512M32DF，速率28 Gbps）。此前RTX 50系列主要使用三星和SK海力士显存，此举是英伟达为应对严峻的GDDR7供应短缺而拓展供应商。短缺主因是英伟达优先保障高利润AI卡显存供应，且内存厂商超40%产能转向AI领域，导致游戏卡显存紧张、价格上涨。此外，美光已发布24Gb GDDR7（36 Gbps）芯片，但仅应用于专业卡和移动GPU，未用于当前RTX 50系列桌面显卡。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/d5666d19-09bc-4033-a05c-21f9c5a18776.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "消息称荣耀 Magic V6 手机 6800mAh 版硅含量达 25%，有望成今年电池最大折叠屏",
-        "内容": "博主@数码闲聊站爆料，荣耀Magic V6折叠屏手机将推出6800mAh和7000mAh+两种大容量电池版本。其中6800mAh版电池硅含量达25%，持平前代顶配水平；7000mAh+版硅含量更高，刷新行业记录。该机有望成为2026年电池容量最大的折叠屏手机。此外，其屏幕采用UTG玻璃，折痕控制优秀，并配备独家实用黑科技。",
+        "资讯标题": "魅族科技宣布战略转型，将暂停国内手机新产品自研硬件项目",
+        "内容": "魅族科技宣布战略转型，将暂停国内手机新产品自研硬件项目，原有业务及用户权益不受影响。公司转向以AI驱动软件产品为主导，打造Flyme开放生态系统。暂停主因是内存价格持续暴涨导致新产品商业化不可为。魅族承诺手机、AI眼镜、PANDAER产品正常销售，售后与系统更新持续。同时澄清破产重组等谣言，并称海外手机、AI眼镜及PANDAER品牌将启动市场化运作。",
         "配图": [
             "https://img.ithome.com/images/v2/t.png"
         ]
     },
     {
+        "资讯标题": "华为 Mate 80 Pro 手机 16GB+512GB 规格开放购买：麒麟 9030 Pro 芯片，6999 元",
+        "内容": "华为Mate 80 Pro手机16GB+512GB版本已开放购买，售价6999元，搭载麒麟9030 Pro芯片，整机性能较上代Mate 70 Pro最高提升42%。预计2026年3月15日前发货。购买渠道包括华为官网（限晨曦金、云杉绿配色）和京东等平台（全配色可选）。",
+        "配图": [
+            "https://img.ithome.com/images/v2/t.png"
+        ]
+    },
+    {
+        "资讯标题": "三星 Galaxy S26 / S26+ / S26 Ultra 系列新品发布会一文汇总：首发硬件防窥屏、谷歌“豆包手机”",
+        "内容": "三星于2月26日发布Galaxy S26系列，包含S26、S26+及Ultra三款机型，并推出Galaxy Buds4系列耳机。核心亮点：1. S26 Ultra首发原生硬件防窥屏，支持针对应用、通知及密码输入的单独防窥设置。2. 全系搭载第五代骁龙8至尊版for Galaxy芯片，NPU、GPU、CPU性能分别提升约39%、24%、19%。3. 屏幕升级：Ultra为6.9英寸QHD+第二代动态AMOLED，支持1-120Hz刷新率与2600尼特峰值亮度，全系色深提升至10bit。4. 影像：Ultra后置四摄（200MP主摄+50MP超广角+双长焦），广角与长焦光圈分别扩大至F1.4和F2.9，成像亮度显著提升；S26/S26+配备50MP主摄，新增水平锁定视频功能。5. 全系支持Galaxy AI功能，如修图、AI同传等。6. 价格：S26起售价6999元（京东限时5499元），S26+起售价7999元，S26 Ultra起售价9999元。7. Galaxy Buds4/4 Pro耳机同步发布，售价1399元与1899元，支持超清晰通话与AI同传功能。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/2/44040078-b8ce-44f0-b137-238b5c73bfeb.jpg?x-bce-process=image/quality,q_75/format,f_webp/auto-orient,o_1"
+        ]
+    },
+    {
+        "资讯标题": "索尼官宣 PS5 Pro 升级版 PSSR，《生化危机 9：安魂曲》首个尝鲜",
+        "内容": "索尼宣布PS5 Pro的PSSR光谱超分辨率技术升级版将于未来几周内全球推送。PSSR是一种AI图像增强技术，已为超过50款游戏提升分辨率。《生化危机9：安魂曲》作为首发3A大作应用此升级版技术。新版PSSR在神经网络和算法上改进，源自索尼与AMD的“紫水晶计划”并融合FSR 4技术，旨在同时保持高帧率与高画质。更多现有游戏升级计划于3月公布。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/2/58c395a1-0804-4079-a033-949b4d8900c4.png?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "消息称苹果开发两款 Studio Display 2 显示器：高端机型接口更先进，最快下周见",
+        "内容": "据外媒报道，苹果正在开发两款新一代Studio Display 2显示器，最早可能于下周发布。其中高端型号将配备更先进的I/O接口、更大功率的扬声器系统，并可能采用更大尺寸的显示面板。全系预计搭载A19芯片并支持HDR显示，但刷新率或有差异：入门型号可能为90Hz，高端型号则支持120Hz ProMotion。两款产品可能均为27英寸，仅在功能配置上区分。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/2/8ea4fd4c-b91f-4876-a3d3-acd9c9fe0228.png?x-bce-process=image/quality,q_75/format,f_webp/auto-orient,o_1"
+        ]
+    },
+    {
+        "资讯标题": "消息称荣耀 Magic V6 手机 6800mAh 版硅含量达 25%，有望成今年电池最大折叠屏",
+        "内容": "据数码博主爆料，荣耀Magic V6折叠屏手机将提供6800mAh和7000mAh+两种大电池版本。其中6800mAh版电池硅含量达25%，持平前代顶配水平；7000mAh+版硅含量刷新行业记录。该机有望成为2026年电池容量最大的折叠屏手机。此外，其屏幕采用UTG玻璃，折痕控制优秀，并配备独家“黑科技”。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/2/9022e306-7c74-4139-8667-b473530eec1b.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
         "资讯标题": "蓝宝石发布黑钻、合金脉动 S 两款 RX 9060 XT 8G 显卡，2749 元起",
-        "内容": "蓝宝石于2026年2月27日发布两款Radeon RX 9060 XT 8G显卡：旗舰款“黑钻RX 9060 XT 8G D6 OC”售价2999元，采用钻石雕刻外观、Tri-X三风扇散热；主流款“合金脉动S RX 9060 XT 8G”售价2749元，主打FreeFlow风道与安全熔断保护。两者均基于4nm工艺、2048流处理器、20Gbps显存，支持DP 2.1a/HDMI 2.1b接口及AMD FSR 4技术。",
+        "内容": "蓝宝石发布两款Radeon RX 9060 XT 8G显卡：旗舰黑钻版（2999元）与主流合金脉动S版（2749元）。两者均基于4nm工艺，配备2048流处理器、20Gbps显存，支持DP 2.1a与HDMI 2.1b接口。黑钻版采用钻石雕刻外观、Tri-X三风扇散热系统；合金脉动S版主打FreeFlow风道设计，并加入安全熔断保护机制。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/2/13282a92-004d-4bd1-bcfe-887b4a4561de.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]

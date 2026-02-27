@@ -1,58 +1,51 @@
 [
     {
-        "资讯标题": "消息称苹果 iPad 12 下周发布：升级 A19 芯片 + 8GB RAM",
-        "内容": "据外媒Mac Rumors报道，苹果计划于下周发布新款iPad，预计命名为“11英寸 iPad（A19）”。新品外观与iPad 11基本一致，核心升级为A19芯片以支持Apple智能功能，运行内存从6GB增至8GB。屏幕延续11英寸2360x1640分辨率LCD面板，配备前后12MP摄像头。国行起售价预计与现款2999元持平。",
+        "资讯标题": "疑似 Vision GT 概念超跑现身后，小米宣布 MWC 2026 还有 One more thing",
+        "内容": "小米官方宣布，在MWC 2026世界移动通信大会（西班牙当地时间2月28日14时）的发布会上将有“One more thing”，并发布了一张形似汽车轮廓的预告图。此前，有网友在巴塞罗那街头拍到了一台疑似小米未发布的全新超跑（概念车），车身流畅且轮毂印有“xiaomi”字样，外媒认为其很可能为此次MWC大会准备。值得注意的是，小米同日还将举行小米17系列全球发布会。此前小米已宣布SU7 Ultra加入《GT赛车7》，并计划与Polyphony Digital合作推出小米Vision Gran Turismo概念车。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/e9c6d31b-4d3e-4f85-ae9f-38faaa943221.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/2/3f5e66cf-9407-483a-bd7d-0c452be56e72.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "华为 Mate 80 Pro 旗舰手机海外版预装 EMUI 15.0 系统",
-        "内容": "华为Mate 80 Pro旗舰手机已在海外市场发布，提供晨曦金、云杉绿、曜石黑三种配色，Slogan为“See it True”，主打红枫真实色彩影像。其海外版本预装EMUI 15.0系统，这与国行版搭载的HarmonyOS 6系统形成区分。该机是华为Mate 80系列的一员，国行版于2025年11月发布，配备麒麟芯片、高刷屏及卫星通信等功能。",
+        "资讯标题": "HMD 推出 4G 新机 Luma：紫光展锐 T615 处理器、3.5mm 耳机孔、SD 卡槽",
+        "内容": "HMD 发布新款 4G 智能手机 Luma。该机搭载紫光展锐 T615 处理器，配备 4GB 内存，提供 128GB/256GB 存储版本并支持 microSD 卡扩展。其保留 3.5mm 耳机孔与 FM 收音机功能，内置 5000mAh 电池，支持 18W USB-C 充电。后置 5000 万像素主摄，前置 800 万像素，配备 6.67 英寸 720p LCD 屏幕。提供钛金属与蓝色两种配色，目前已在尼日利亚和加纳官网亮相，价格未公布，预计近期上市。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/323cdbae-b0eb-4907-9c49-5dbbef432a67.png?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/2/f1e240bb-3340-4b24-83ff-6e69631b28f2.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "魅族科技宣布战略转型，将暂停国内手机新产品自研硬件项目",
-        "内容": "魅族科技宣布重大战略转型，将暂停国内手机新产品的自研硬件项目，转向以AI驱动软件产品为主导的发展方向。公司表示，此举是因内存成本上涨导致新产品商业化困难，但原有手机、AI眼镜、PANDAER品牌等业务销售及服务不受影响，用户售后与系统更新将持续保障。未来将重点发展Flyme开放生态系统，并已与吉利等车企合作智能座舱系统，同时海外手机业务及AI眼镜等将启动市场化运作。公司否认破产等谣言，强调这是为集中资源实现高质量发展的主动调整。",
+        "资讯标题": "消息称苹果开发两款 Studio Display 2 显示器：高端机型接口更先进，最快下周见",
+        "内容": "据外媒报道，苹果正在开发两款新一代Studio Display 2显示器，最早可能于下周发布。高端型号将具备显著升级，包括更强功率的扬声器系统、更丰富先进的I/O接口（可能对应更大尺寸面板），并支持120Hz ProMotion自适应刷新率、HDR显示及A19芯片。入门型号则可能仅支持90Hz刷新率。两款产品预计均为27英寸，但配置存在差异。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/2/8ea4fd4c-b91f-4876-a3d3-acd9c9fe0228.png?x-bce-process=image/quality,q_75/format,f_webp/auto-orient,o_1"
+        ]
+    },
+    {
+        "资讯标题": "Forlinx 推出 OK153-S12 Mini 单板电脑：全志 T153 芯片、双千兆以太网口",
+        "内容": "Forlinx在海外市场推出OK153-S12 Mini单板电脑，定位为“树莓派替代品”。其核心搭载全志T153芯片（四核Cortex-A7，最高1.6GHz），提供256MB/512MB/1GB内存及多种存储选项。接口方面配备双千兆以太网口、两个USB Type-C（供电/调试）和40pin GPIO（兼容树莓派配件）。无HDMI接口，但支持LVDS、MIPI DSI视频输出及MIPI CSI摄像头输入。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/2/c5b4a827-5a4d-408d-a686-3348385f0765.png?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "索尼官宣 PS5 Pro 升级版 PSSR，《生化危机 9：安魂曲》首个尝鲜",
+        "内容": "索尼宣布其PS5 Pro主机的PSSR光谱超分辨率技术即将迎来升级版，并将在未来几周内面向全球玩家推送。该AI驱动技术通过逐像素分析提升游戏分辨率，此前已支持超50款游戏。升级版PSSR在神经网络与算法上进行了重构，源自索尼与AMD合作的“紫水晶计划”，并融合了AMD FSR 4技术，旨在更好地平衡高帧率与高画质。游戏《生化危机9：安魂曲》作为首发作品，成为首款应用该升级技术的3A大作。索尼透露，更多现有游戏的升级计划将于今年3月公布。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/2/58c395a1-0804-4079-a033-949b4d8900c4.png?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "消息称捷尼赛思将在中国市场推出高端 MPV：2029 年见，“老板级”舒适",
+        "内容": "捷尼赛思计划于2029年前后在中国市场推出一款高端MPV。该车型基于内部概念车“Jet on Wheels”研发，设计强调动感与未来感，保留品牌标志性前大灯。预计年产量为1.8万辆，或将采用增程技术，核心聚焦后排“老板级”舒适性，配备后排娱乐屏与自动驾驶功能。现代汽车集团高管确认该项目已进入实质研发阶段，非单纯概念探索。",
         "配图": [
             "https://img.ithome.com/images/v2/t.png"
         ]
     },
     {
-        "资讯标题": "库克在 X 平台暗示苹果将从 3 月 2 日起陆续推出新品，预计为平价 MacBook / iPhone 17e 等",
-        "内容": "苹果CEO蒂姆·库克在X平台发文，预告公司将于北京时间3月2日晚起连续多晚发布新品。参考此前爆料，预计发布的产品包括入门级MacBook、iPhone 17e（即iPhone SE 4），以及搭载M5 Pro/Max芯片的MacBook Pro、Mac Studio，和Studio Display 2显示器等。此外，苹果已宣布将于3月4日晚10点在上海举行Apple体验活动。",
+        "资讯标题": "奇瑞路虎合作：新神行者品牌首款车型谍照曝光，定位大六座 SUV",
+        "内容": "捷豹路虎与奇瑞合作，借奇瑞平台复活停更超十年的神行者（Freelander）品牌，并将其打造为独立新能源品牌。首款车型内部代号E0V，定位插混大六座SUV，车长超5.1米，融合硬派越野与轿跑设计，标配空气悬架及L2级辅助驾驶，提供纯电/增程双动力，纯电版支持800V高压快充，预计2026年下半年上市。该车型将接替发现运动版等车型，通过奇瑞专属渠道销售，定位低于揽胜、卫士等豪华车型。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/73be6e0a-e5ce-4458-b888-55bf3aa61714.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "华为余承东公布鸿蒙智行问界 M6 车型全色系",
-        "内容": "华为终端BG董事长余承东正式公布鸿蒙智行问界M6车型全色系，展示了橙、白、黑、银、青、紫、蓝等多种配色。该车已登陆华为商城并开放预约，定位为“新锐智慧SUV”。新车采用俯冲动感姿态设计，配备顶置激光雷达、半隐藏式门把手、晶耀大灯及AITO发光尾灯。其车身尺寸为长4960mm、宽1985mm、高1736mm，轴距2950mm。工信部信息显示，问界M6增程版将提供180公里、260公里、272公里三种纯电续航版本，并计划于今年春季正式发布。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/10278654-b28c-49d5-a24c-152323683b6c.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "1036 公里，比亚迪官宣全新腾势 Z9GT 为全球最长纯电续航车型",
-        "内容": "比亚迪腾势全新Z9GT纯电版在CLTC工况下最高续航达1036公里，成为全球最长纯电续航车型。新车外观延续家族设计，主要升级包括将激光雷达移至车顶并新增智驾状态指示灯（小蓝灯），同时推出21英寸低滚阻静音轮圈及全新配色（如峡湾绿）。车身尺寸为长5195/5180mm、宽1990mm、高1480/1500mm，轴距3125mm。动力提供单电机（370kW）与三电机（前230kW、后双310kW）配置。纯电版搭载102.326kWh或122.496kWh电池，CLTC续航覆盖820km至1036km共五版本；插混版配备63.82kWh电池，WLTC纯电续航301公里。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/de9f0110-b763-4b48-9007-d6aa59c3a2b0.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "消息称荣耀 Magic V6 手机 6800mAh 版硅含量达 25%，有望成今年电池最大折叠屏",
-        "内容": "博主@数码闲聊站爆料，荣耀Magic V6折叠屏手机将推出6800mAh和7000mAh+电池版本，硅含量分别达25%和更高（后者刷新行业记录），有望成为2026年电池最大的折叠屏手机。屏幕采用UTG玻璃，折痕控制优秀，并配备独家黑科技。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/9022e306-7c74-4139-8667-b473530eec1b.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "首搭美光 GDDR7 显存，影驰 RTX 5060 显卡拆解曝光",
-        "内容": "影驰 GeForce RTX 5060 Black OC V2 显卡拆解图显示，该卡首次在 RTX 50 系列游戏显卡中采用了美光 GDDR7 显存芯片（型号 MT68A512M32DF，16Gb，速率 28 Gbps）。此前该系列主要使用三星和 SK 海力士的显存。此举是英伟达为应对严峻的 GDDR7 显存短缺、拓展供应商而采取的策略。短缺主因是英伟达优先保障高利润 AI 卡供应，且存储厂商产能向 AI 内存倾斜。美光最新的 24Gb 36Gbps GDDR7 芯片目前仅用于专业卡与移动版 GPU，未用于当前桌面 RTX 50 系列。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/d5666d19-09bc-4033-a05c-21f9c5a18776.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/2/93bd52dc-6c7f-484d-a82c-1e428e73dae4.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     }
 ]

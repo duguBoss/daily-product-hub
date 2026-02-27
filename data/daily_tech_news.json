@@ -1,51 +1,58 @@
 [
     {
-        "资讯标题": "疑似 Vision GT 概念超跑现身后，小米宣布 MWC 2026 还有 One more thing",
-        "内容": "小米官方宣布，在MWC 2026世界移动通信大会（西班牙当地时间2月28日14时）的发布会上将有“One more thing”，并发布了一张形似汽车轮廓的预告图。此前，有网友在巴塞罗那街头拍到了一台疑似小米未发布的全新超跑（概念车），车身流畅且轮毂印有“xiaomi”字样，外媒认为其很可能为此次MWC大会准备。值得注意的是，小米同日还将举行小米17系列全球发布会。此前小米已宣布SU7 Ultra加入《GT赛车7》，并计划与Polyphony Digital合作推出小米Vision Gran Turismo概念车。",
+        "资讯标题": "消息称苹果 iPad 12 下周发布：升级 A19 芯片 + 8GB RAM",
+        "内容": "根据外媒Mac Rumors消息，苹果计划于下周发布新款11英寸iPad，可能命名为“11英寸iPad（A19）”。核心升级包括：搭载A19芯片以支持Apple智能功能，运行内存从上一代的6GB提升至8GB。外观设计与现款iPad 11基本一致，屏幕延续11英寸LCD面板（2360x1640分辨率），并配备前后12MP摄像头。国行起售价预计参考现款2999元。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/3f5e66cf-9407-483a-bd7d-0c452be56e72.png?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/2/e9c6d31b-4d3e-4f85-ae9f-38faaa943221.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
         "资讯标题": "HMD 推出 4G 新机 Luma：紫光展锐 T615 处理器、3.5mm 耳机孔、SD 卡槽",
-        "内容": "HMD 发布新款 4G 智能手机 Luma。该机搭载紫光展锐 T615 处理器，配备 4GB 内存，提供 128GB/256GB 存储版本并支持 microSD 卡扩展。其保留 3.5mm 耳机孔与 FM 收音机功能，内置 5000mAh 电池，支持 18W USB-C 充电。后置 5000 万像素主摄，前置 800 万像素，配备 6.67 英寸 720p LCD 屏幕。提供钛金属与蓝色两种配色，目前已在尼日利亚和加纳官网亮相，价格未公布，预计近期上市。",
+        "内容": "HMD推出新款4G手机Luma，搭载紫光展锐T615处理器，配备4GB内存及128GB/256GB存储（支持microSD卡扩展）。保留3.5mm耳机孔与FM收音机功能，内置5000mAh电池支持18W充电。后置5000万像素主摄，前置800万像素，采用6.67英寸LCD屏。仅支持4G双卡，提供钛金属与蓝色两种配色。该机已现身尼日利亚和加纳官网，价格未公布，预计近期上市。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/2/f1e240bb-3340-4b24-83ff-6e69631b28f2.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "消息称苹果开发两款 Studio Display 2 显示器：高端机型接口更先进，最快下周见",
-        "内容": "据外媒报道，苹果正在开发两款新一代Studio Display 2显示器，最早可能于下周发布。高端型号将具备显著升级，包括更强功率的扬声器系统、更丰富先进的I/O接口（可能对应更大尺寸面板），并支持120Hz ProMotion自适应刷新率、HDR显示及A19芯片。入门型号则可能仅支持90Hz刷新率。两款产品预计均为27英寸，但配置存在差异。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/8ea4fd4c-b91f-4876-a3d3-acd9c9fe0228.png?x-bce-process=image/quality,q_75/format,f_webp/auto-orient,o_1"
-        ]
-    },
-    {
-        "资讯标题": "Forlinx 推出 OK153-S12 Mini 单板电脑：全志 T153 芯片、双千兆以太网口",
-        "内容": "Forlinx在海外市场推出OK153-S12 Mini单板电脑，定位为“树莓派替代品”。其核心搭载全志T153芯片（四核Cortex-A7，最高1.6GHz），提供256MB/512MB/1GB内存及多种存储选项。接口方面配备双千兆以太网口、两个USB Type-C（供电/调试）和40pin GPIO（兼容树莓派配件）。无HDMI接口，但支持LVDS、MIPI DSI视频输出及MIPI CSI摄像头输入。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/c5b4a827-5a4d-408d-a686-3348385f0765.png?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
         "资讯标题": "索尼官宣 PS5 Pro 升级版 PSSR，《生化危机 9：安魂曲》首个尝鲜",
-        "内容": "索尼宣布其PS5 Pro主机的PSSR光谱超分辨率技术即将迎来升级版，并将在未来几周内面向全球玩家推送。该AI驱动技术通过逐像素分析提升游戏分辨率，此前已支持超50款游戏。升级版PSSR在神经网络与算法上进行了重构，源自索尼与AMD合作的“紫水晶计划”，并融合了AMD FSR 4技术，旨在更好地平衡高帧率与高画质。游戏《生化危机9：安魂曲》作为首发作品，成为首款应用该升级技术的3A大作。索尼透露，更多现有游戏的升级计划将于今年3月公布。",
+        "内容": "索尼宣布升级版PSSR（光谱超分辨率）AI图像增强技术将在未来几周内面向全球PS5 Pro用户推送。该技术通过逐像素分析提升游戏分辨率，目前已支持超过50款游戏。作为首发作品，《生化危机9：安魂曲》于今日正式搭载此升级版技术。新版PSSR在神经网络和算法上均有革新，源自索尼与AMD合作的“紫水晶计划”，融合了AMD FSR 4技术，旨在同时保障高帧率与高画质。索尼表示，更多游戏升级计划及细节将于3月公布。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/2/58c395a1-0804-4079-a033-949b4d8900c4.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "消息称捷尼赛思将在中国市场推出高端 MPV：2029 年见，“老板级”舒适",
-        "内容": "捷尼赛思计划于2029年前后在中国市场推出一款高端MPV。该车型基于内部概念车“Jet on Wheels”研发，设计强调动感与未来感，保留品牌标志性前大灯。预计年产量为1.8万辆，或将采用增程技术，核心聚焦后排“老板级”舒适性，配备后排娱乐屏与自动驾驶功能。现代汽车集团高管确认该项目已进入实质研发阶段，非单纯概念探索。",
+        "资讯标题": "三星确认 Galaxy S26 系列手机全系配备 10bit 屏幕，但官网标注为 8bit",
+        "内容": "三星在Galaxy S26系列发布会上推出S26、S26+及S26 Ultra，但官网参数表错误标注其屏幕仅支持“1600万种颜色”（对应8bit色深）。据科技媒体Sammobile报道及三星官方确认，该系列全系实际配备10bit屏幕（可显示约10.1亿种颜色），能有效减少色彩断层。YouTube博主HFV Unbox的对比测试也显示，S26 Ultra在显示同一照片时无色彩断层，而S25 Ultra存在，进一步佐证了10bit屏幕的存在。分析认为，官网参数错误可能是维护人员复制粘贴旧机型描述所致。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/2/849dc1f6-1128-4376-a0ff-378dfb6d2b08.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "摩托罗拉 Edge 70 Fusion、Razr Fold 手机 FIFA 世界杯限定版外观曝光：金色 Logo，灰黑色后盖",
+        "内容": "消息人士Evan Blass曝光了摩托罗拉两款FIFA世界杯限定版手机外观，分别为Edge 70 Fusion（直板）和Razr Fold（大折叠）。两款机型均采用灰黑色绒面纹理后盖，保留方形三摄模组，后盖底部印有金色品牌Logo、FIFA世界杯标志及“官方智能手机合作伙伴”字样。其中，Edge 70 Fusion的相机模组带有一圈金色装饰边框。摩托罗拉官方尚未官宣，但标准版Edge 70 Fusion将于3月6日推出，限定版可能随后发布。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/2/fcac981b-7471-4538-945f-3993704815b0.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "首搭美光 GDDR7 显存，影驰 RTX 5060 显卡拆解曝光",
+        "内容": "影驰GeForce RTX 5060 Black OC V2显卡拆解证实，该卡首次搭载美光GDDR7显存（型号MT68A512M32DF，速率28 Gbps）。此前RTX 50系列主要使用三星和SK海力士显存，此举是英伟达为应对严峻的GDDR7供应短缺而拓展供应商。短缺主因是英伟达优先保障高利润AI卡显存供应，且内存厂商超40%产能转向AI领域，导致游戏卡显存紧张、价格上涨。此外，美光已发布24Gb GDDR7（36 Gbps）芯片，但仅应用于专业卡和移动GPU，未用于当前RTX 50系列桌面显卡。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/2/d5666d19-09bc-4033-a05c-21f9c5a18776.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "消息称荣耀 Magic V6 手机 6800mAh 版硅含量达 25%，有望成今年电池最大折叠屏",
+        "内容": "博主@数码闲聊站爆料，荣耀Magic V6折叠屏手机将推出6800mAh和7000mAh+两种大容量电池版本。其中6800mAh版电池硅含量达25%，持平前代顶配水平；7000mAh+版硅含量更高，刷新行业记录。该机有望成为2026年电池容量最大的折叠屏手机。此外，其屏幕采用UTG玻璃，折痕控制优秀，并配备独家实用黑科技。",
         "配图": [
             "https://img.ithome.com/images/v2/t.png"
         ]
     },
     {
-        "资讯标题": "奇瑞路虎合作：新神行者品牌首款车型谍照曝光，定位大六座 SUV",
-        "内容": "捷豹路虎与奇瑞合作，借奇瑞平台复活停更超十年的神行者（Freelander）品牌，并将其打造为独立新能源品牌。首款车型内部代号E0V，定位插混大六座SUV，车长超5.1米，融合硬派越野与轿跑设计，标配空气悬架及L2级辅助驾驶，提供纯电/增程双动力，纯电版支持800V高压快充，预计2026年下半年上市。该车型将接替发现运动版等车型，通过奇瑞专属渠道销售，定位低于揽胜、卫士等豪华车型。",
+        "资讯标题": "蓝宝石发布黑钻、合金脉动 S 两款 RX 9060 XT 8G 显卡，2749 元起",
+        "内容": "蓝宝石于2026年2月27日发布两款Radeon RX 9060 XT 8G显卡：旗舰款“黑钻RX 9060 XT 8G D6 OC”售价2999元，采用钻石雕刻外观、Tri-X三风扇散热；主流款“合金脉动S RX 9060 XT 8G”售价2749元，主打FreeFlow风道与安全熔断保护。两者均基于4nm工艺、2048流处理器、20Gbps显存，支持DP 2.1a/HDMI 2.1b接口及AMD FSR 4技术。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/93bd52dc-6c7f-484d-a82c-1e428e73dae4.png?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/2/13282a92-004d-4bd1-bcfe-887b4a4561de.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     }
 ]

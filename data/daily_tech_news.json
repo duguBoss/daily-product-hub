@@ -1,51 +1,58 @@
 [
     {
+        "资讯标题": "小米 Watch 5 智能手表海外发布：谷歌 Wear OS 系统、续航最长 18 天，299.99 欧元",
+        "内容": "小米在海外市场正式发布Watch 5智能手表。该手表搭载谷歌Wear OS系统，采用骁龙W5 Gen 1+BES2800双芯片架构，配备2GB内存+32GB存储及930mAh电池（含硅碳负极材料）。其具备智能/省电双模式，续航分别可达6天和最长18天。功能上支持全天候心率、血氧、压力监测与150种运动模式，并集成谷歌生态应用及Gemini AI助手。提供黑色与杜松绿表带，售价为299.99欧元（约合2433元人民币），目前无eSIM版本。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/bce012c0-c26c-4242-9740-d5bb47bc21cb.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "1999 欧元：小米 17 Ultra 海外徕卡版 LEITZPHONE 发布，“可口可乐”Logo / 边框微调、6000mAh 电池",
+        "内容": "小米在MWC 2026发布海外徕卡版17 Ultra，官方命名为“LEICA LEITZPHONE powered by Xiaomi”，售价1999欧元（约16214元人民币），仅提供16GB+1TB配置。其外观相比国内版主要调整了徕卡“可口可乐”Logo与小米Logo的排列方向（均改为竖向）及边框细节。核心配置搭载骁龙8 Elite Gen 5芯片、6.9英寸120Hz AMOLED屏幕，但电池容量从国内版的6800mAh缩减至6000mAh，支持90W快充。影像系统保留徕卡1英寸LOFIC主摄与2亿像素75-100mm光学变焦长焦，并配备可调节参数的大师变焦环，机身边框带有“LEICA CAMERA GERMANY”刻字，内置M9、M3旁轴滤镜（国内版“徕卡一瞬”模式更名为“Essential mode”）。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/2/82d2a097-583c-48f8-84ce-233e9a6e5c4d.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "消息称苹果 iPad 12 下周发布：升级 A19 芯片 + 8GB RAM",
+        "内容": "根据外媒Mac Rumors消息，苹果计划于下周发布新款iPad，预计命名为“11英寸 iPad（A19）”。该机外观与现款iPad 11基本一致，主要升级包括搭载A19芯片以支持Apple智能功能，运行内存从6GB提升至8GB。屏幕延续11英寸2360x1640分辨率LCD面板，配备前后12MP摄像头。国行起售价预计与现款2999元起相近。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/2/e9c6d31b-4d3e-4f85-ae9f-38faaa943221.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
         "资讯标题": "小米 AI 超轻薄旗舰笔记本曝光：Ultra 5 325/Ultra X7 358H 处理器，重量 1kg±",
-        "内容": "IT之家消息，小米即将推出一款AI超轻薄旗舰笔记本。该笔记本为14英寸，重量约1公斤，将提供两种处理器版本：搭载Intel酷睿Ultra 5 325（8核8线程，最高4.5GHz）的办公版，以及搭载Ultra X7 358H（16核，最高4.8GHz，配备锐炫B390核显）的全能版。内存配置可选24GB+1TB或32GB+1TB，以区分性能定位。",
+        "内容": "小米即将推出一款AI超轻薄旗舰笔记本，预计为14英寸规格。该笔记本将提供两种英特尔处理器版本：Ultra 5 325（8核8线程，最高4.5GHz）主打办公，以及Ultra X7 358H（16核，最高4.8GHz，搭载锐炫B390核显）主打全能。内存配置为24GB+1TB或32GB+1TB，重量控制在1公斤左右，主打极致便携。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/2/7131160e-e37b-4007-bfcf-27426f2354fa.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "小米 YU7 GT 无伪装路试车谍照曝光，极速可达 300km/h",
-        "内容": "小米YU7 GT无伪装路试车谍照曝光，新车采用全车身黑化设计并辅以红色点缀。该车已通过工信部申报，搭载双电机系统（前288kW+后450kW），极速可达300km/h，配备三元锂电池。车身尺寸为长5015mm、轴距3000mm，整备质量2460kg。外观延续YU7设计，配备碳陶刹车盘、立刀式扩散器等运动化元素。预计价格区间为45-50万元人民币，有望于2026年上半年正式发布。",
+        "资讯标题": "AMD 锐龙 5 5500X3D 处理器上架：1119 元，6 核 Zen 3 + 99MB 高速缓存",
+        "内容": "AMD锐龙5 5500X3D处理器已在国内电商平台上架，售价为1119元。这是AMD目前定位最低的X3D系列游戏处理器，采用台积电7nm工艺，基于Zen 3架构，配备6核12线程，基础频率3GHz，加速频率至高4GHz。其最大亮点是拥有高达99MB的L2+L3高速缓存，能显著提升游戏性能。该处理器TDP为105W，支持DDR4-3200内存及PCIe 4.0固态硬盘，官方推荐搭配X570、B550或A520主板使用。目前京东显示为无货状态。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/7dab0c14-d396-457d-8ec1-0468e2adbb49.png?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img14.360buyimg.com/pop/jfs/t1/396918/35/12582/64278/69a2a241F91e1eed1/00833203203aafeb.jpg"
         ]
     },
     {
-        "资讯标题": "小米 17/Ultra 手机海外发布：搭载高通骁龙 8 Elite Gen5，999~1499 欧元",
-        "内容": "小米于2026年2月28日在西班牙巴塞罗那举行的全球发布会上，正式面向海外市场推出Xiaomi 17系列手机，包含小米17和小米17 Ultra两款机型。其配置与国行版基本一致，全球首发第5代高通骁龙8至尊版处理器，并配备小米3D双通道冰环散热系统、6000mAh小米澎湃电池、小米HyperRGB屏幕及峰值亮度达3500尼特的小米龙晶玻璃3.0。售价方面，小米17（12+256GB）为999欧元（约8103元人民币），小米17 Ultra（16+512GB）为1499欧元（约12158元人民币）。",
+        "资讯标题": "华为鸿蒙 HarmonyOS 6.0.0.328 花粉 Beta 版招募开启，覆盖 25 款机型",
+        "内容": "2026年2月28日，华为鸿蒙HarmonyOS 6.0.0.328版本花粉Beta版测试招募正式开启。本次招募覆盖25款机型，包括Mate 80系列、Mate 70系列、Pura 80系列、Mate X折叠屏系列以及多款MatePad平板电脑。用户可通过手机设置中搜索“软件更新”并进入“升级尝鲜”通道进行报名。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/6193b693-1a90-460c-b46c-6d565f8542d2.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/2/cf3ecf07-df17-4246-bad7-2d918aca76c7.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "任天堂推出迷你 Game Boy 播放器：经典复古造型，可插卡播放《宝可梦》游戏配乐",
-        "内容": "任天堂推出了一款迷你Game Boy造型的音乐播放器，采用经典复古设计，通过插入特制卡带播放原版《宝可梦》游戏配乐。该产品共收录45首歌曲，对应45张游戏卡带。美版定价69.99美元（约合480.9元人民币），中国内地定价489元，将于3月6日起开启抽选报名。",
+        "资讯标题": "三星宣布与北美、欧洲、日本运营商深化合作，Galaxy S26 等机型将用上卫星通信",
+        "内容": "三星电子宣布，将与北美、欧洲和日本的主要电信运营商深化合作，以扩大Galaxy智能手机的卫星通信支持范围，未来的Galaxy S26系列等机型将受益。该公司自2025年起已开始在部分Galaxy旗舰及A系列机型中提供卫星通信功能。具体合作包括：在美国与T-Mobile、Starlink、Verizon及AT&T合作；在欧洲与Virgin Media O2合作，并计划与MasOrange、Vodafone推进；在日本与KDDI合作（提供灾害预警），并与软银、docomo、Rakuten Mobile计划从2026年起扩大支持。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/700699b3-2e48-4239-b866-69710a468c05.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/2/ed59fe99-7517-4014-a08b-bda7fe796d5e.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "小米电动滑板车 6 Ultra 海外发布：峰值功率 1200W，12 英寸全地形轮胎",
-        "内容": "小米在MWC 2026前夕于西班牙巴塞罗那举行的Xiaomi 17 Series全球发布会上，正式推出了新款电动滑板车——小米电动滑板车 6 Ultra。该产品主打高性能，采用12英寸全地形轮胎，配备峰值功率达1200W的电机，并升级了碟刹系统，使制动时间相比前代缩短了17%。",
+        "资讯标题": "大疆 Osmo Pocket 4 手持云台相机说明书曝光，屏幕内侧新增两枚按键",
+        "内容": "根据曝光的说明书，大疆 Osmo Pocket 4 手持云台相机外观延续了前代 Pocket 3 的长条形旋转屏设计，主要变化在于屏幕旋转机构内侧新增了两枚物理按键。云台部分外观改动不大。此前消息还显示，该机将提供外置补光灯组件（带两处活动关节）以及全能套装等多种配置。目前具体售价尚未公布，但产品已接近发布状态。",
         "配图": [
-            "https://img.ithome.com/images/v2/t.png"
-        ]
-    },
-    {
-        "资讯标题": "指导价 11.89 万元起，2026 款长安 UNI-Z PHEV 汽车发布",
-        "内容": "2026款长安UNI-Z PHEV插混SUV正式发布，官方指导价11.89万元起，限时权益后9.89万元起。新车新增月华银车色，尺寸为4730*1890*1680mm，轴距2795mm。搭载新一代蓝鲸混动发动机与18.42度磷酸铁锂电池，CLTC纯电续航130km，综合续航1250km，百公里亏电油耗5.09L。内饰配备14.6英寸中控屏及10.25英寸仪表，支持CarPlay等多协议互联，并搭载AI大模型。智能驾驶方面，中高配搭载天枢系统支持高快领航。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/fd56073d-1871-4de2-9678-8e77f23d2837.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "AOC 22B35HM2 办公显示器开售：21.5 英寸 1080P 120Hz VA 面板，429 元",
-        "内容": "AOC推出新款办公显示器22B35HM2，现已开售，售价429元。核心规格为21.5英寸VA面板，分辨率1920x1080（1080P），原生刷新率100Hz可超频至120Hz，MPRT响应时间1ms，亮度250尼特，支持HDR及8bit色深。功能上支持Adaptive Sync防撕裂、暗场控制、动态准星，并配备四种低蓝光情景模式（多媒体、网络、办公室、阅读）。显示器后背带100*100mm标准壁挂孔，支持多屏拼接。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/670abb41-25d6-44a0-8b9f-3aeb107f92c9.png?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/2/b4701c16-aeba-4f7b-a56f-1393c9b0db2d.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     }
 ]

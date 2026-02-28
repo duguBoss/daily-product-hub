@@ -1,58 +1,51 @@
 [
     {
-        "资讯标题": "消息称苹果 iPad 12 下周发布：升级 A19 芯片 + 8GB RAM",
-        "内容": "据外媒Mac Rumors报道，苹果计划于下周发布新款iPad，预计命名为“11英寸 iPad（A19）”。该产品外观将与iPad 11基本保持一致，但核心升级包括搭载A19芯片以支持Apple智能功能，运行内存从6GB提升至8GB。屏幕延续现款11英寸2360x1640分辨率LCD面板，并配备前后12MP摄像头。国行起售价预计为2999元。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/e9c6d31b-4d3e-4f85-ae9f-38faaa943221.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "华为 Mate 80 Pro 手机 16GB+512GB 规格开放购买：麒麟 9030 Pro 芯片，6999 元",
-        "内容": "华为Mate 80 Pro手机16GB+512GB版本已开放购买，售价6999元，搭载麒麟9030 Pro芯片，性能较上代Mate 70 Pro最高提升42%。预计2026年3月15日前发货。购买渠道包括华为官网（仅晨曦金、云杉绿配色）和京东（全配色可选）。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/6a44cc83-1137-4750-95d6-9d11e1c76846.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "三星 Galaxy S26 / S26+ / S26 Ultra 系列新品发布会一文汇总：首发硬件防窥屏、谷歌“豆包手机”",
-        "内容": "三星于2月26日发布Galaxy S26系列旗舰手机，包含S26、S26+及Ultra三款。最大亮点是Ultra版首发原生硬件防窥屏，可针对应用、通知及密码输入单独设置。全系搭载第五代骁龙8至尊版for Galaxy芯片，NPU、GPU及CPU性能均有显著提升。屏幕采用第二代动态AMOLED，支持1-120Hz刷新率与2600尼特峰值亮度，色深增至10bit。Ultra版配备200MP主摄及F1.4大光圈广角，影像系统升级，并支持S Pen。全系内置Galaxy AI功能。国内售价方面，S26起售价5499元（限时），S26+起售价8299元，S26 Ultra起售价10299元（限时）。同时发布Galaxy Buds4/4 Pro无线耳机，售价1399元与1899元。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/44040078-b8ce-44f0-b137-238b5c73bfeb.jpg?x-bce-process=image/quality,q_75/format,f_webp/auto-orient,o_1"
-        ]
-    },
-    {
         "资讯标题": "小米 AI 超轻薄旗舰笔记本曝光：Ultra 5 325/Ultra X7 358H 处理器，重量 1kg±",
-        "内容": "IT之家报道，博主@数码闲聊站爆料小米将推出新款AI超轻薄旗舰笔记本。该笔记本预计配备14英寸屏幕，提供两种处理器配置：Intel Ultra 5 325（8核8线程，最高4.5GHz）和Ultra X7 358H（16核，最高4.8GHz，搭载锐炫B390核显），对应办公与全能不同定位。内存可选24GB+1TB或32GB+1TB，重量约为1公斤，主打极致便携。",
+        "内容": "IT之家消息，小米即将推出一款AI超轻薄旗舰笔记本。该笔记本为14英寸，重量约1公斤，将提供两种处理器版本：搭载Intel酷睿Ultra 5 325（8核8线程，最高4.5GHz）的办公版，以及搭载Ultra X7 358H（16核，最高4.8GHz，配备锐炫B390核显）的全能版。内存配置可选24GB+1TB或32GB+1TB，以区分性能定位。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/2/7131160e-e37b-4007-bfcf-27426f2354fa.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "苹果 iPhone 18 Pro 被曝正测试全新“深红色”，而折叠屏 iPhone 配色偏保守",
-        "内容": "据彭博社马克·古尔曼爆料，苹果正为iPhone 18 Pro测试全新“深红色”配色，此举受iPhone 17 Pro系列“星宇橙”在中国市场巨大成功（被称为“爱马仕橙”）的启发。新配色得益于Pro系列铝合金一体成型机身提供的灵活着色空间。苹果也可能从咖啡色、紫色、酒红色中选一款作为年度主打色，若深红色落地，将是自iPhone 14后首次推出红色系，并首次应用于Pro机型。与此同时，苹果首款折叠屏iPhone（内部代号V68，预计2026年9月发布）配色策略极为保守，仅提供深灰/黑、白/浅银等基础色调，以简化生产流程，类似iPhone X发布时的策略。需注意，工程机测试配色未必最终量产。",
+        "资讯标题": "小米 YU7 GT 无伪装路试车谍照曝光，极速可达 300km/h",
+        "内容": "小米YU7 GT无伪装路试车谍照曝光，新车采用全车身黑化设计并辅以红色点缀。该车已通过工信部申报，搭载双电机系统（前288kW+后450kW），极速可达300km/h，配备三元锂电池。车身尺寸为长5015mm、轴距3000mm，整备质量2460kg。外观延续YU7设计，配备碳陶刹车盘、立刀式扩散器等运动化元素。预计价格区间为45-50万元人民币，有望于2026年上半年正式发布。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/75c89da7-4f44-465c-bf91-1e3fe66781da.png?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/2/7dab0c14-d396-457d-8ec1-0468e2adbb49.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "Nothing Phone (4a) Pro 手机细节曝光：后盖首次非透明，相机 140 倍变焦",
-        "内容": "Nothing Phone (4a) Pro 手机细节曝光，将于3月5日发布。该机是Nothing首款取消整体透明后盖设计的机型，但摄像头区域与Glyph Matrix灯效系统仍保留在透明凸起结构中，并配备更大尺寸的灯条。影像方面，搭载5000万像素主摄及同规格长焦镜头，支持最高140倍变焦（标准版为70倍），另配800万像素超广角和3200万像素前置摄像头。核心配置采用骁龙7 Gen 4处理器，内置5400mAh电池，支持50W有线充电。标准版Phone (4a)则延续透明后盖，搭载骁龙7s Gen 4，长焦变焦能力较低。",
+        "资讯标题": "小米 17/Ultra 手机海外发布：搭载高通骁龙 8 Elite Gen5，999~1499 欧元",
+        "内容": "小米于2026年2月28日在西班牙巴塞罗那举行的全球发布会上，正式面向海外市场推出Xiaomi 17系列手机，包含小米17和小米17 Ultra两款机型。其配置与国行版基本一致，全球首发第5代高通骁龙8至尊版处理器，并配备小米3D双通道冰环散热系统、6000mAh小米澎湃电池、小米HyperRGB屏幕及峰值亮度达3500尼特的小米龙晶玻璃3.0。售价方面，小米17（12+256GB）为999欧元（约8103元人民币），小米17 Ultra（16+512GB）为1499欧元（约12158元人民币）。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/1ec4dc0c-6fa4-41f3-bc12-1d31e09f7a2b.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/2/6193b693-1a90-460c-b46c-6d565f8542d2.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "消息称一加 15T 手机搭载 5000 万像素 85mm F2.8 潜望长焦，拥有无线充、7 开头大电池等特性",
-        "内容": "据博主@数码闲聊站爆料，一加即将发布的小屏旗舰手机一加15T将搭载5000万像素85mm F2.8潜望长焦镜头，支持等效3.5倍光学变焦。此外，该机还具备窄边框设计、无线充电、满级防水、7000mAh以上大电池以及超声波指纹等特性。有用户质疑其可能取消超广角镜头，博主回应称因超广角启用率低，双摄方案更侧重长焦。该机被一加社区负责人称为“小屏党的梦中情机”，预计搭载骁龙8 Elite Gen5芯片，并于近期（可能为3月）发布。",
+        "资讯标题": "任天堂推出迷你 Game Boy 播放器：经典复古造型，可插卡播放《宝可梦》游戏配乐",
+        "内容": "任天堂推出了一款迷你Game Boy造型的音乐播放器，采用经典复古设计，通过插入特制卡带播放原版《宝可梦》游戏配乐。该产品共收录45首歌曲，对应45张游戏卡带。美版定价69.99美元（约合480.9元人民币），中国内地定价489元，将于3月6日起开启抽选报名。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/bee60fe0-396d-42cf-aa4b-a40b3b857f85.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/2/700699b3-2e48-4239-b866-69710a468c05.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "AMD Zen 7 Grimlock Ridge 桌面处理器渲染图曝光：最高 32 核",
-        "内容": "消息源Moore's Law Is Dead曝光了AMD下一代Zen 7桌面处理器渲染图。旗舰型号代号“Grimlock Ridge”，最高配备32核，由两个16核CCD和一个IOD组成。此外还有16核的“Silverton”版本（频率或达7GHz）和精简规格的8核“Silverking”版本（不支持3D V-Cache，带宽减半）。该系列预计采用台积电1.4纳米A14工艺，计划2028年量产。AMD还计划将能效最佳的8核芯片用于移动端，推出“Grimlock Point”和“Grimlock Halo”笔记本处理器。",
+        "资讯标题": "小米电动滑板车 6 Ultra 海外发布：峰值功率 1200W，12 英寸全地形轮胎",
+        "内容": "小米在MWC 2026前夕于西班牙巴塞罗那举行的Xiaomi 17 Series全球发布会上，正式推出了新款电动滑板车——小米电动滑板车 6 Ultra。该产品主打高性能，采用12英寸全地形轮胎，配备峰值功率达1200W的电机，并升级了碟刹系统，使制动时间相比前代缩短了17%。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/2ef88bec-74a8-4534-9641-ab4855cbcf95.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/images/v2/t.png"
+        ]
+    },
+    {
+        "资讯标题": "指导价 11.89 万元起，2026 款长安 UNI-Z PHEV 汽车发布",
+        "内容": "2026款长安UNI-Z PHEV插混SUV正式发布，官方指导价11.89万元起，限时权益后9.89万元起。新车新增月华银车色，尺寸为4730*1890*1680mm，轴距2795mm。搭载新一代蓝鲸混动发动机与18.42度磷酸铁锂电池，CLTC纯电续航130km，综合续航1250km，百公里亏电油耗5.09L。内饰配备14.6英寸中控屏及10.25英寸仪表，支持CarPlay等多协议互联，并搭载AI大模型。智能驾驶方面，中高配搭载天枢系统支持高快领航。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/2/fd56073d-1871-4de2-9678-8e77f23d2837.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "AOC 22B35HM2 办公显示器开售：21.5 英寸 1080P 120Hz VA 面板，429 元",
+        "内容": "AOC推出新款办公显示器22B35HM2，现已开售，售价429元。核心规格为21.5英寸VA面板，分辨率1920x1080（1080P），原生刷新率100Hz可超频至120Hz，MPRT响应时间1ms，亮度250尼特，支持HDR及8bit色深。功能上支持Adaptive Sync防撕裂、暗场控制、动态准星，并配备四种低蓝光情景模式（多媒体、网络、办公室、阅读）。显示器后背带100*100mm标准壁挂孔，支持多屏拼接。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/2/670abb41-25d6-44a0-8b9f-3aeb107f92c9.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     }
 ]

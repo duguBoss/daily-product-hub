@@ -1,58 +1,58 @@
 [
     {
-        "资讯标题": "1036 公里，比亚迪官宣全新腾势 Z9GT 为全球最长纯电续航车型",
-        "内容": "比亚迪宣布腾势Z9GT纯电版在CLTC工况下最高续航达1036公里，成为全球最长纯电续航车型。新车外观延续家族设计，主要变化包括激光雷达移至车顶、新增智驾状态指示灯（小蓝灯），并配备21英寸低滚阻静音轮圈及多款新配色。车身尺寸为长5195/5180mm、宽1990mm、高1480/1500mm，轴距3125mm。动力提供单电机（370kW）与三电机（前230kW、后双310kW）版本。纯电版搭载102.3kWh或122.5kWh电池，CLTC续航五档（820-1036km）；插混版配63.82kWh电池，CLTC纯电续航超400km。",
+        "资讯标题": "AMD Zen 7 Grimlock Ridge 桌面处理器渲染图曝光：最高 32 核",
+        "内容": "AMD Zen 7桌面处理器（代号Grimlock Ridge）渲染图曝光。旗舰型号最高配备32核心，由两个16核CCD与IOD组合。此外还有16核的Silverton版本（频率或达7GHz）以及8核的Silverking版本（规格简化，不支持3D V-Cache）。该系列预计采用台积电A14（1.4nm）工艺，计划2028年量产。移动端规划有Grimlock Point和Grimlock Halo等型号。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/de9f0110-b763-4b48-9007-d6aa59c3a2b0.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/2/2ef88bec-74a8-4534-9641-ab4855cbcf95.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "消息称苹果 iPad 12 下周发布：升级 A19 芯片 + 8GB RAM",
-        "内容": "据外媒Mac Rumors消息，苹果计划于下周发布新款iPad，正式命名可能为“11英寸iPad（A19）”。核心升级包括：处理器从上一代的A16升级至A19芯片以支持Apple智能功能，运行内存从6GB提升至8GB。外观设计与现款iPad 11基本一致，预计延续11英寸2360x1640分辨率LCD屏幕及前后12MP摄像头配置。现款11英寸iPad国行起售价为2999元，可作为参考。",
+        "资讯标题": "英特尔酷睿 9 273PQE 曝光：12 个纯 P 核旗舰处理器，最高睿频 5.9 GHz",
+        "内容": "英特尔未发布的旗舰处理器酷睿9 273PQE工程样品曝光。该处理器属于Bartlett Lake系列，采用12个纯性能核（P-Core）设计，无能效核（E-Core），最高睿频达5.9 GHz，配备36 MB三级缓存。作为对比，当前旗舰酷睿i9 14900K仅限8个性能核，新处理器通过堆叠更多性能核展现不同性能取向。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/e9c6d31b-4d3e-4f85-ae9f-38faaa943221.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/2/7a7f6373-9698-4566-9fbf-ac3743792d4b.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "华为余承东公布鸿蒙智行问界 M6 车型全色系",
-        "内容": "华为终端BG董事长余承东正式公布鸿蒙智行问界M6车型全色系，包括橙、白、黑、银、青、紫、蓝等多款颜色。新车定位“新锐智慧SUV”，已登陆华为商城开放预约。外观采用俯冲动感姿态设计，配备顶置激光雷达、半隐藏式门把手、晶耀大灯及AITO发光尾灯。车身尺寸为长4960mm、宽1985mm、高1736mm，轴距2950mm。工信部信息显示，其增程版将提供180公里、260公里、272公里三种纯电续航版本，并计划于今年春天正式发布。",
+        "资讯标题": "告别“火龙”称号：三星 Exynos 2600 芯片温控测试通关",
+        "内容": "YouTube频道Vật Vờ Studio对搭载Exynos 2600芯片的三星Galaxy S26/S26+进行了极限温控测试。在室温约26℃下连续运行《英雄联盟手游》、《原神》和《崩坏》等高负载游戏，测试结果显示：运行《英雄联盟手游》时S26基础版平均温度仅约32℃；运行《原神》时S26+机身正面最高约38℃，背面稳定在37℃-37.5℃；运行《崩坏》时机身正面最高39℃。这表明三星成功解决了Exynos芯片长期存在的发热降频问题。出色的温控表现主要得益于三项技术：1）采用三星2nm GAA工艺提升能效；2）应用FOWLP扇出型晶圆级封装技术；3）引入HPB热传导块技术，通过铜基散热器将热阻改善高达30%。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/10278654-b28c-49d5-a24c-152323683b6c.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/2/41424ca5-90eb-44ec-95d2-1bf8deb3eaeb.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "联想 Yoga Book Pro 3D 概念笔记本曝光：双屏加持，主打裸眼 3D",
-        "内容": "联想将在MWC 2026上展示概念笔记本Yoga Book Pro 3D，主打裸眼3D显示技术。该设备采用双屏设计，展开后下半部分为第二块屏幕，取消内置键盘需搭配蓝牙键盘。其裸眼3D通过向双眼投射差异图像产生立体效果，主要面向创意专业人士用于3D可视化。设备配备双USB-C、HDMI接口及支架，但面临软件适配挑战。",
+        "资讯标题": "苹果 M4 Max MacBook Pro 模拟运行《生化危机：安魂曲》游戏帧率稳定 90 FPS",
+        "内容": "Reddit玩家u/oyskionline在搭载M4 Max芯片（14核CPU/32核GPU/36GB内存）的MacBook Pro上，通过Crossover 26模拟器成功运行《生化危机：安魂曲》。测试中将游戏画质设为“高”，关闭路径追踪，并开启AMD FSR3平衡档位与帧生成技术，在1800x1169分辨率下，游戏初期复杂场景稳定输出约90FPS，内存占用约16GB。随着进入室内场景，帧率预计会进一步提升。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/b351ced5-a1d5-40f9-9317-eb47ec9c29c4.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/2/81dbe2f4-44e5-4ece-b746-2ce6e11820e9.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "胡峥楠回应网传小米 Vision GT 超跑图：网友作品，实车帅多了，超出大家认知",
-        "内容": "针对网传小米Vision GT超跑实车图，顺为资本投资合伙人胡峥楠回应称该图为“网友作品”，并强调实际车型“帅多了，超出大家认知”，请公众耐心等待。此前有消息称一台疑似小米未发布超跑车型在西班牙巴塞罗那街头被拍，轮毂带“xiaomi”标识，或为MWC 2026做准备。同时，小米汽车官方预告“给大家准备了一个惊喜”，并宣布与游戏开发商Polyphony Digital合作，将在《GT赛车7》中推出小米Vision Gran Turismo概念车。",
+        "资讯标题": "小米 AI 超轻薄旗舰笔记本曝光：Ultra 5 325/Ultra X7 358H 处理器，重量 1kg±",
+        "内容": "IT之家消息，小米即将推出一款AI超轻薄旗舰笔记本。该笔记本采用14英寸屏幕，重量约1公斤，将提供两种处理器版本：英特尔酷睿Ultra 5 325（8核8线程，最高4.5GHz）和性能更强的Ultra X7 358H（16核，最高4.8GHz，配备锐炫B390核显）。内存配置可选24GB+1TB或32GB+1TB，分别对应办公与全能定位。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/847fe857-86f8-46c2-819a-94e661f0b7f1.jpg?x-bce-process=image/quality,q_75/format,f_webp/auto-orient,o_1"
+            "https://img.ithome.com/newsuploadfiles/2026/2/7131160e-e37b-4007-bfcf-27426f2354fa.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "消息称 OPPO 将推出 Watch X3 mini 智能手表",
-        "内容": "根据数码博主@数码闲聊站爆料，OPPO计划推出Watch X3 mini智能手表，并可能与小尺寸平板电脑一同发布。此前，一款型号为OWW261的OPPO新品已通过工信部无线电核准，预计为OPPO Watch X3系列，有望与OPPO Find N6折叠屏手机同步亮相。目前具体规格未明。作为参考，前代OPPO Watch X2于2024年2月发布，起售价2499元，采用钛合金表圈、1.5英寸LTPO钻石屏及蓝宝石表镜，支持5天全智能模式续航，并配备ECG、多通道心率血氧等健康传感器。",
+        "资讯标题": "vivo 三月新品曝光：X300 Ultra、X300s、Pad6 Pro",
+        "内容": "vivo将于2026年3月发布三款新品：影像旗舰X300 Ultra、大屏天玑旗舰X300s及骁龙超大屏平板Pad6 Pro。其中，X300 Ultra定位顶级影像，是全球首款搭载双2亿像素镜头的手机，主摄为索尼LYT-901，潜望长焦为HPB，并配备双增距镜。该机工程机采用6.82英寸直屏与直角金属中框，下周在MWC 2026全球首秀，国行发布会稍晚。X300s配备6.78英寸屏幕，未采用Max命名。Pad6 Pro为骁龙旗舰平板。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/b46d6e3e-51e9-46b3-83c3-b1230509b1c9.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/images/v2/t.png"
         ]
     },
     {
-        "资讯标题": "移动办公新物种：联想 ThinkBook 模块化 AI PC 概念前瞻",
-        "内容": "联想将在MWC 2026上展示ThinkBook模块化AI PC概念笔记本。其核心创新在于将传统笔记本底部键盘区域改造为可更换的模块化空间，用户可自由安装标准键盘模块或与主屏同尺寸的副屏模块，以适应移动办公（单屏+轻薄键盘）或固定办公（双屏+外设）等不同场景。为控制成本并提升耐用性，该设计采用分离式屏幕拼接方案，实现类似折叠屏的视野，但避免了柔性OLED面板的高成本与脆弱性问题。",
+        "资讯标题": "联想 ThinkBook 14 / 16 (PTL 3x6H) 笔记本开启预约，售价 6999 元起",
+        "内容": "联想发布新款ThinkBook 14/16 2026款笔记本，搭载Intel Panther Lake H484系列处理器（Ultra 5 336H/Ultra 7 356H），全系32GB DDR5-5600内存与1TB PCIe 4.0 SSD。14英寸版售价6999元起，16英寸版7299元起。采用金属机身，支持40W性能释放，配备Wi-Fi 7、双雷电4接口、IR人脸识别及第二M.2硬盘位。14英寸为2.8K 120Hz 500nits屏，16英寸为2.5K 120Hz 400nits屏，将于3月2日开售。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/26a40f83-e763-4572-9ecd-bbc60c6d1abf.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/2/2b4aa91f-5ecd-40a1-917e-cf725e3d455c.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "中兴通讯“剧透”：努比亚 M153 豆包手机助手技术预览版将亮相 MWC 2026",
-        "内容": "中兴通讯宣布，搭载豆包手机助手技术预览版的努比亚M153工程样机将在MWC 2026世界移动通信大会上亮相。该产品是中兴通讯与字节跳动豆包合作的成果，豆包手机助手作为操作系统层面的AI助手，基于豆包大模型能力，支持跨应用自动操作，可帮助用户完成订票、下单、批量下载、物流查询等任务。此前，该工程样机已于2025年12月少量发售，官方售价为3499元。",
+        "资讯标题": "三星新“镜皇”HPA 曝光：200Mp 1/1.12 支持 LOFIC，Galaxy S27 Ultra 用上“兄弟款”",
+        "内容": "三星被曝光新款旗舰影像传感器HPA，具备200万像素、1/1.12英寸大底规格，并支持LOFIC超高动态技术，内部预计2027年推出，可能由vivo超大杯机型（如X500 Ultra）首发。同时，三星Galaxy S27 Ultra将搭载其自研版本HP6，性能与HPA对齐但传感器尺寸为1/1.3英寸。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/c0af985b-898e-48b1-b052-b4547238bd97.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/2/2da22d59-5690-41a7-a76b-473ecfe417a0.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     }
 ]

@@ -1,58 +1,58 @@
 [
     {
-        "资讯标题": "荣耀 Magic V6 首发亮相 MWC 2026：折叠状态 8.75mm 挑战全球最薄，3 月 10 日国行发布",
-        "内容": "荣耀Magic V6在MWC 2026全球首发，主打超轻薄设计，折叠状态厚度仅8.75mm，挑战全球最薄。该机采用荣耀鲁班架构，搭载第五代高通骁龙8至尊版芯片，内置6660mAh硅碳刀片电池，支持80W有线及66W无线快充。屏幕方面，外屏峰值亮度6000nits，内屏5000nits，均支持高频PWM调光，内屏采用UTG柔性玻璃并优化折痕。铰链采用2800MPa荣耀盾构钢，支持50万次开合，并通过SGS五星抗摔及IP68/IP69防尘防水认证。影像系统配备双5000万像素广角镜头与64MP潜望长焦。提供赤兔红（绒马环保皮）、白、金、黑四色，国行版将于3月10日发布。",
+        "资讯标题": "微软 Win10 停止支持约五个月后，Win11 市场份额已逼近 75% 大关",
+        "内容": "根据StatCounter数据，在Windows 10停止支持约五个月后，Windows 11全球桌面操作系统市场份额已跃升至72.57%，逼近75%大关，而Windows 10份额则从同期约45%大幅下滑至26.45%。此次Win11份额的显著增长主要源于新机换机潮，而非旧用户主动升级。由于Win11存在较高的硬件门槛、强制使用微软账户登录以及系统Bug等问题，导致部分Win10用户拒绝升级，甚至转向macOS或Linux系统。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/e1843fa8-c1cd-4521-a816-25baeb19811c.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/c5320096-64c8-4ea9-bb4e-b44279118e35.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "徕卡设计师亲自操刀：小米 17 Ultra 徕卡版手机全新「黑银色」首发亮相，承袭 M 系列相机语言",
-        "内容": "小米17 Ultra徕卡版推出全新「黑银色」配色，由徕卡设计师亲自操刀设计，承袭徕卡M系列相机语言。该配色采用一体纯黑磨砂背板搭配亮银色中框，并铭刻徕卡红标。此版本外观与海外发布的LEITZPHONE高度相似，预计为其国行版本。",
+        "资讯标题": "Core AI 框架取代 Core ML？曝苹果 WWDC 26 开发者大会将公布多项 AI 功能",
+        "内容": "据彭博社记者马克·古尔曼爆料，苹果计划在2026年WWDC开发者大会上推出全新的“Core AI”框架，旨在取代或更名现有的Core ML，以更贴合当前AI集成需求。新框架将允许开发者更便捷地集成第三方AI模型，可能采用MCP（模型上下文协议）实现。同时，苹果可能在此次大会上发布基于谷歌Gemini训练的“Apple智能”功能。尽管有传闻称iOS 27将主打稳定性修复，但AI仍是重点。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/0ab99bdc-a3fd-42cf-8fe5-d4ebea6d1a2e.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/c697b5d2-59e9-4aef-a8bd-858797c132d8.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "小米更新终止维护机型名单，11 全系、12 Pro 天玑版及平板 5 等在列",
-        "内容": "小米安全中心于2026年2月28日更新了终止维护（EOL）机型名单。此次列入名单的机型包括小米11全系、小米12 Pro天玑版、小米平板5全系及小米平板5 Pro 12.4等。小米宣布，对于名单内的产品，将不再提供任何软件或固件更新（含安全性更新），也可能不再响应针对这些产品的安全漏洞报告。用户若仍在使用这些设备，需自行承担由此带来的潜在安全风险。",
+        "资讯标题": "40° 大摆幅，福派扫振声波电动牙刷 41 元久违发车（声波版低至 31.9 元）",
+        "内容": "福派扫振声波电动牙刷在天猫旗舰店促销，扫振版实付41.42元，SE声波版低至31.92元，豪华透明探索版50.92元。价格通过44元优惠券及淘金币抵扣实现，产品主打40°大摆幅特性，提供冰蓝粉、星河银、水墨黑等颜色选择，并搭配不同数量的刷头。",
         "配图": [
             "https://img.ithome.com/images/v2/t.png"
         ]
     },
     {
-        "资讯标题": "1999 欧元：小米 17 Ultra 海外徕卡版 LEITZPHONE 发布，“可口可乐”Logo / 边框微调、6000mAh 电池",
-        "内容": "小米在MWC 2026发布了海外徕卡特别版手机，官方命名为“LEICA LEITZPHONE powered by Xiaomi”。该机基于国内版小米17 Ultra徕卡版打造，主要变化在于外观：将徕卡“可口可乐”Logo由横向改为竖向排列，小米Logo位置也相应调整，并对边框细节进行了微调。核心配置搭载1英寸LOFIC传感器主摄与75-100mm光学变焦APO长焦，内置“Essential mode”及经典滤镜。硬件采用骁龙8 Elite Gen 5芯片与6.9英寸120Hz AMOLED屏幕，但电池容量从国内的6800mAh缩减至6000mAh，支持90W快充。此外保留了大师变焦环和徕卡同款边框文字。仅提供16GB+1TB版本，售价1999欧元（约合16214元人民币）。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/82d2a097-583c-48f8-84ce-233e9a6e5c4d.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
         "资讯标题": "古尔曼：触控屏版 MacBook Pro 最快 2026 年底发布，苹果零售店正为下周发布会做准备",
-        "内容": "彭博社记者马克·古尔曼爆料，苹果计划在2026年底推出首款触控屏MacBook Pro。但苹果仍坚持将iPad与Mac视为独立产品线，因两者年营收合计超600亿美元。新款MacBook Pro并非触摸优先设备，将保留完整键盘与触控板，触摸仅为可选项。同时，苹果零售店正为下周的发布会进行大规模准备，预计将发布iPhone 17e、新款MacBook Pro/Air、新iPad及一款被描述为“难以置信性价比”的低价MacBook，后者可能设置专属展示台。",
+        "内容": "彭博社记者古尔曼透露，苹果首款触控屏MacBook Pro预计最快2026年底发布，但该产品仍将保留键盘和触控板，以点按操作为核心，触摸仅为辅助选项。苹果坚持将iPad和Mac视为独立产品线，两者年营收各约300亿美元，并通过功能协同而非融合来营销。同时，苹果零售店正为下周发布会做准备，预计将发布包括iPhone 17e、新款MacBook系列、新iPad及一款定位“难以置信性价比”的低价MacBook在内的多款产品，后者旨在吸引Windows和Chromebook用户。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/3/27a1779b-43f2-4476-b038-4ce7b1bbe2a5.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
         "资讯标题": "万志强：魅族 23 已完成开发但不会推向市场，后续 Flyme 仍提供基本维护",
-        "内容": "魅族科技于2月27日宣布战略转型，暂停国内手机新产品自研硬件项目。星纪魅族集团中国区CMO万志强在直播中确认：魅族22、Note 16系列及Lucky 08仍在正常售卖且不会涨价；已完成开发的魅族23将不会推向市场；Flyme系统后续不再推出大版本更新，但会持续提供基本维护。此外，魅族22的1TB版本及归航版库存有限。",
+        "内容": "魅族科技宣布战略转型，暂停国内手机新产品自研硬件项目。星纪魅族集团中国区CMO万志强确认，已完成开发的魅族23将不会推向市场。现有机型魅族22、魅族Note 16系列及魅族Lucky 08仍在正常售卖且官方承诺不会涨价，其中魅族22的1TB版本已售罄。此外，Flyme系统未来将不再推出大版本更新，但会持续提供基本安全维护。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2025/9/1ebbf04b-26a9-44a5-9b13-18dd012a49e1.jpg?x-bce-process=image/quality,q_75/format,f_webp/auto-orient,o_1"
         ]
     },
     {
         "资讯标题": "【IT之家图赏】荣耀 Robot Phone 机器人手机现场实拍：三轴云台亮眼，号称“具身智能”加持",
-        "内容": "荣耀在MWC 2026发布Robot Phone机器人手机，核心特点是顶部配备可电动翻转的三轴云台相机，搭载2亿像素传感器并与ARRI合作，支持AI物体追踪、智能剪辑和实时画面稳定。同时具备AI智能体模式，可语音交互。外观为银灰色拉丝边框，背面有α标识。",
+        "内容": "荣耀在MWC 2026发布Robot Phone，作为具身智能AI终端，最大特点是顶部配备可翻转的三轴云台相机（2亿像素，ARRI合作），支持AI物体追踪、智能拍摄与实时防抖，并具备AI智能体语音交互功能。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/3/47af3bb5-8204-44d7-8bfd-7c4904d8ed7e.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
         "资讯标题": "荣耀 MagicBook Pro 14 2026 笔记本海外发布：至高可选酷睿 Ultra X9 388H 处理器，14.6 英寸 OLED 触屏",
-        "内容": "荣耀在MWC 2026发布MagicBook Pro 14 2026笔记本，定位中高端。搭载英特尔最新“Panther Lake”处理器，可选至高酷睿Ultra X9 388H。配备14.6英寸3:2比例OLED触控屏，分辨率3120*2080，支持120Hz高刷。内置92Wh大电池，标称续航15小时，整机重1.37kg，性能释放达80W，预装Windows 11家庭版。",
+        "内容": "荣耀在MWC 2026发布MagicBook Pro 14 2026笔记本。该笔记本定位中高端，搭载英特尔最新Panther Lake处理器，可选Ultra 5 336H、338H及顶配Ultra X9 388H。配备14.6英寸OLED触控屏，分辨率3120*2080（3:2比例），支持120Hz高刷、100% DCI-P3色域，峰值亮度700尼特。整机性能释放达80W，内置92Wh电池，标称续航15小时，支持100W快充。接口包括雷电4、USB-C、USB-A、HDMI 2.1及3.5mm耳机孔。重量1.37kg，预装Windows 11家庭版。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/3/dc685546-a22f-41ed-877b-62f7159aa62b.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "更新内容超多：华为鸿蒙 HarmonyOS 6.0.0.328 花粉 Beta 版本亮点抢先看",
+        "内容": "华为鸿蒙HarmonyOS 6.0.0.328花粉Beta版已启动招募并推送，更新包体积超10GB（部分机型达18GB），或为HarmonyOS 6.1的前瞻版本。本次更新涵盖系统性能（启动速度、动画流畅度）、通信（双卡切换、HiPlay）、通知（智能摘要与置顶）、设计（锁屏自定义、界面布局）、端侧AI、图库（AI修图消除反光）、游戏体验、安全隐私（防诈、亲情守护）及相机功能等多方面改进。首批支持机型包括Mate 80/70系列、Pura 80系列、Mate X折叠屏系列及多款MatePad平板电脑。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/d55044ed-1091-4a45-bb23-1f7cf55273ae.jpg?x-bce-process=image/quality,q_75/format,f_webp/auto-orient,o_1"
         ]
     }
 ]

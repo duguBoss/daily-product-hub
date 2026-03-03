@@ -1,58 +1,58 @@
 [
     {
         "资讯标题": "苹果发布搭载 M5 Pro/M5 Max 芯片款 MacBook Pro：17999 元起，3 月 11 日发售",
-        "内容": "苹果于2026年3月3日发布新款MacBook Pro，搭载M5 Pro与M5 Max芯片，起售价17999元，3月4日开启预购，3月11日正式发售。新款芯片性能相比M1 Pro/Max最高分别提升7.8倍与8倍，适用于代码编译、DNA测序及多路8K视频剪辑等高负载任务。产品提供14/16英寸XDR显示屏，支持ProMotion自适应刷新率，并配备SDXC卡槽、HDMI、MagSafe 3及三个雷雳5接口。此外，新增Apple N1无线芯片，支持Wi-Fi 7、蓝牙6与Thread网络。最高可选配18核CPU/40核GPU的M5 Max芯片、128GB内存与8TB固态硬盘。",
+        "内容": "苹果于2026年3月3日发布新款MacBook Pro，搭载M5 Pro与M5 Max芯片，3月4日22:15开启预购，3月11日正式发售，起售价17999元。性能方面，M5 Pro较M1 Pro最高提速7.8倍，M5 Max较M1 Max最高提速8倍，满足高阶专业需求。屏幕提供14/16英寸可选，XDR对比度达1000000:1，最高亮度1600尼特，支持ProMotion自适应刷新率。接口包括SDXC、HDMI、3.5mm耳机孔、MagSafe 3及三个雷雳5接口。新增Apple N1芯片，支持Wi-Fi 7、蓝牙6与Thread。重量与上代相近，最高可选18核CPU/40核GPU、128GB内存与8TB固态硬盘。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/2d87a517-15e5-427e-897e-7bf4168e4f31.png?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/d3ce572a-5927-4cc5-8a68-e40de63718ba.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
         "资讯标题": "苹果 M5 MacBook Air 笔记本发布：搭 N1 无线网络芯片、支持灵活定制，8499 元起",
-        "内容": "苹果于2026年3月3日发布新款M5芯片MacBook Air。该产品沿用上一代模具，提供天蓝、银、星光、午夜四种配色，配备13.6英寸LCD屏幕及53.8瓦时电池，续航最长18小时。核心升级为M5芯片（可选8核/10核GPU），起步配置为16GB RAM+512GB存储。13英寸款起售价8499元，15英寸款起售价9999元。其最大亮点是支持高度灵活的定制服务，用户可自选内存、硬盘、键盘及电源适配器。此外，该机搭载Apple N1无线芯片，支持Wi-Fi 7、蓝牙6及Thread网络技术。",
+        "内容": "苹果于2026年3月3日发布新款M5芯片MacBook Air，13英寸款起售价8499元，15英寸款起售价9999元，将于3月4日开启预购，3月11日正式发售。新品沿用上一代模具，提供天蓝色、银色、星光色、午夜色四种配色，13英寸重1.23千克，15英寸重1.51千克。核心升级在于搭载M5芯片（可选8核或10核图形处理器），并配备Apple N1无线网络芯片，支持Wi-Fi 7与蓝牙6.0。此外，SSD读写速度较上一代提升2倍，续航最长可达18小时。该机型支持灵活的定制选项，用户可自由选配内存、固态硬盘、键盘及电源适配器。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/3/d8787b89-e111-43e6-9f47-cca57eeb52ab.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
+        "资讯标题": "苹果 iPhone 17e 细节：4 核 GPU 版 A19 芯片、新一代人像、单实体 SIM + eSIM 设计",
+        "内容": "苹果iPhone 17e核心细节：搭载4核GPU版A19芯片（较标准版5核GPU有缩减，与前代16e相同），国行采用单实体nano-SIM卡+eSIM设计（部分海外版取消实体卡槽）。配备MagSafe磁吸充电、第二代超瓷晶面板、C1X 5G基带，起步存储256GB，新增柔粉色。影像升级为新一代人像模式，可自动识别人、狗、猫并保存景深信息供后期调整。电池容量4005mAh与前代一致，运行内存预计8GB。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/db140b1f-b743-43b4-838e-0ab5428c7882.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "酷态科 6 号屏显充 Ultra 充电头发布：最高 100W，智能识别 iPhone，屏幕动态表情",
+        "内容": "酷态科于2026年3月3日发布6号屏显充Ultra充电头，定价单体版149元，套装版169元（含6A 240W数据线）。产品采用折叠插脚设计，体积较常规67W充电头缩小约29%，最大亮点是配备0.96英寸小屏幕，可显示充电数据及虚拟形象Cool bot动态表情。性能方面，它支持最高100W输出，搭载OPC放心充2.0技术，兼容65W PD、ADC2.0及小米100W MAX澎湃秒充，提供1A2C接口。该充电头可智能识别iPhone 15-17系列并匹配专属充电策略，支持iPhone、iPad全系满速快充及MacBook 65W MAX持续快充。产品已开启预约，将于3月5日10:00正式开售。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/b834209c-d8f5-4c56-9e4e-b82108c14ae6.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "苹果 iPhone 17e 上架京东：A19 芯片、实体 SIM + eSIM 设计，4499 元起",
+        "内容": "苹果iPhone 17e已上架京东开启预约。该机搭载A19芯片，起步容量为256GB，国行售价4499元起，叠加以旧换新及国补后最低可至3299元起。配备6.1英寸超视网膜XDR显示屏、4800万像素摄像头（支持2倍光学长焦），支持MagSafe磁吸充电和卫星通信功能。采用单实体SIM卡+eSIM设计，提供白色、黑色、浅粉色三种配色，256GB与512GB两种规格。将于3月4日22:15接受预购，3月11日正式发售。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/933be4eb-50dd-450f-ba3c-fe59c5673633.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "iPhone 17e 发布后，128GB 起步的苹果 iPhone 16e 手机从官网下线",
+        "内容": "苹果发布iPhone 17e（256GB起步，4499元起）后，上一代iPhone 16e（128GB起步，4499元起）已从官网下线。目前苹果官网在售的128GB起步iPhone仅剩iPhone 16和iPhone 16 Plus，分别售价5399元和5999元。iPhone 16e于2025年2月发布，搭载A18处理器，采用刘海屏设计。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/599e6b89-db2f-43f4-97d9-871a8b0fb5f1.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
         "资讯标题": "苹果发布新款 Studio Display 和全新 Studio Display XDR，起售价 11999 元",
-        "内容": "苹果发布两款全新显示器：标准版Studio Display与高端Studio Display XDR。标准版为27英寸5K屏（60Hz），升级1200万像素居中摄像头、三麦克风阵列及支持空间音频的六扬声器，配备雷电5接口，起售价11999元。XDR版采用27英寸5K mini-LED背光屏（2304分区），支持120Hz高刷、1000尼特典型亮度与2000尼特峰值亮度，对比度达100万:1，同样配备高级音视频系统与雷电5接口，起售价24999元。两者均提供纳米纹理玻璃可选，将于3月4日晚10:15开启预购，3月11日正式发售。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/95fe53a8-40b8-425d-ba57-4a4336333aa5.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "努比亚 Neo 5 GT 亮相 MWC 2026：天玑 7400 芯片、6.8 英寸 144Hz AMOLED 屏幕",
-        "内容": "努比亚在MWC 2026上发布Neo 5 GT手机，主打游戏体验。其核心配置为联发科天玑7400芯片、6.8英寸144Hz AMOLED屏幕（HDR峰值亮度4500尼特）及6210mAh双电芯大电池。最大亮点是将主动散热风扇下放至中端价位段，并配备触控肩键，可选配霍尔摇杆游戏手柄。提供12GB+512GB版本，售价399欧元起（约合3224元人民币），预计下月海外上市。",
+        "内容": "苹果发布两款新显示器：新款 Studio Display 与全新 Studio Display XDR。新款 Studio Display 保持 27 英寸 5K/60Hz 屏幕，升级 1200 万像素居中摄像头、三麦克风阵列及六扬声器空间音频系统，并搭载雷电 5 接口。Studio Display XDR 为高配版，采用 mini-LED 背光（2304 分区），支持 120Hz 自适应刷新率，峰值亮度达 2000 尼特。前者起售价 11999 元，后者起售价 24999 元，均于 3 月 4 日晚 10:15 开启预购，3 月 11 日发售。",
         "配图": [
             "https://img.ithome.com/images/v2/t.png"
         ]
     },
     {
-        "资讯标题": "OnePlus PLZ110 新机现身安兔兔：第五代骁龙 8 至尊版、跑分超 445 万，预计为一加 15T",
-        "内容": "安兔兔后台发现一加新机OnePlus PLZ110，预计为一加15T小屏旗舰。其搭载第五代骁龙8至尊版移动平台，总跑分超445万（CPU 123万、GPU 156万、MEM 62万、UX 103万），系统基于Android 16，提供16GB+1TB/512GB存储规格。此外，该机采用超窄黑边设计，拥有1.xx mm物理极窄四等边，视觉效果突出。",
+        "资讯标题": "一半都是中国玩家？Steam 平台 2026 年 2 月硬件统计：RTX 5070 首夺第一，32GB 内存占比飙升至 57%",
+        "内容": "Steam平台2026年2月硬件调查显示多项数据剧烈波动，主要归因于中国春节假期影响。核心变化包括：NVIDIA RTX 5070显卡份额猛增6.4%至9.12%，首次登顶显卡榜；32GB内存占比飙升18.91%至56.93%，超越16GB成为最主流配置。同时，Windows 10系统份额增长12.46%，2K分辨率显示器份额增长17.32%至38.64%。简体中文用户比例激增30.74%，总占比达54.6%。此外，超1TB硬盘份额也大幅增加。分析认为，春节假期使中国玩家有更多时间游戏，促销活动带动装机，网吧硬件配置也被计入统计。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/c5b81bc5-8bf8-4e2d-b1ba-5dd577335bae.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "vivo Pad 6 Pro 全球首秀：行业首发 4K 原彩屏，搭载第五代骁龙至尊版芯片",
-        "内容": "vivo Pad 6 Pro 在 MWC 2026 全球首秀，核心亮点包括：行业首发 4K 原彩屏，宣称开启平板 4K 时代；搭载第五代骁龙至尊版旗舰芯片，定位为 4K 创作神器。该平板配备 13.2 英寸超高刷新率大屏，电池额定容量 12700mAh（典型值约 13000mAh），支持 80W/90W 快充。外观边框控制出色，并提供磁吸键盘、手写笔等可选配件。同期 vivo 还入网了 iQOO Pad6 Pro。",
-        "配图": [
-            "https://img.ithome.com/images/v2/t.png"
-        ]
-    },
-    {
-        "资讯标题": "Click 实体键盘智能手机 Communicator 确认搭载联发科 MT8883 处理器",
-        "内容": "Click公司确认其CES 2026上发布的实体键盘智能手机Communicator将搭载联发科MT8883处理器。该芯片是天玑8300的物联网版本，但提供更长的系统支持（至Android 20）与安全更新（至2031年）。手机配备4.03英寸1080×1200挖孔AMOLED屏、256GB存储（支持microSD扩展）、4000mAh硅碳负极电池（兼容Qi2无线充电），重170g。影像方面拥有50MP OIS后摄与24MP前摄，支持Wi-Fi 6、蓝牙、NFC及3.5mm耳机孔，并提供可自定义快捷键和物理Kill Switch按键。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/0b037ce2-7b07-4d77-b3f5-6376d6c60688.png?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "OPPO 确认 Find X9 Ultra 手机将登陆全球市场，首次走出国门",
-        "内容": "OPPO正式宣布Find X9 Ultra将于今年晚些时候登陆全球市场，这是Find X系列Ultra机型首次在中国内地以外地区发布。该机将搭载由哈苏联合研发的先进影像系统，据爆料配备2亿像素1/1.28英寸超大底潜望长焦与5000万像素10X潜望超长焦，并拥有超7000mAh大电池，支持100W有线及50W无线充电，具备3D超声波指纹与IP68/IP69级防水。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/dc2343bd-077c-4c23-8566-e985c223ab0e.png?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/a4e8c2a5-c7fb-4d44-9bca-398fce57160c.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     }
 ]

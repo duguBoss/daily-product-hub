@@ -1,58 +1,58 @@
 [
     {
-        "资讯标题": "苹果发布搭载 M5 Pro/M5 Max 芯片款 MacBook Pro：17999 元起，3 月 11 日发售",
-        "内容": "苹果于2026年3月3日发布新款MacBook Pro，搭载M5 Pro与M5 Max芯片，起售价17999元人民币，3月4日晚22:15开启预购，3月11日正式发售。新款笔记本性能相比M1 Pro/Max机型最高提升8倍，适用于代码编译、8K视频剪辑等高阶任务。屏幕提供14/16英寸可选，XDR对比度达100万:1，最高亮度1600尼特，支持ProMotion自适应刷新率。接口包括MagSafe 3、三个雷雳5（USB-C）、SDXC卡槽、HDMI和耳机孔。新增Apple N1无线芯片，支持Wi-Fi 7、蓝牙6和Thread网络。重量方面，14英寸机型约1.6kg，16英寸约2.14kg。最高可选配18核CPU/40核GPU的M5 Max芯片、128GB内存和8TB固态硬盘。",
+        "资讯标题": "苹果 MacBook Neo 笔记本双 USB-C 接口仅有一个为 USB 3 速率、另一个为 USB 2 速率",
+        "内容": "苹果发布入门级MacBook Neo笔记本，13英寸Liquid视网膜显示屏，起售价4599元。该机未配备MagSafe磁吸充电接口，仅在机身左侧提供两个USB-C接口，但两者速率不同：一个为USB 3（最高10Gb/s），另一个为USB 2（最高480Mb/s）。官方表示，其支持最高4K 60Hz的外接显示器，其中USB 3端口支持DisplayPort 1.4传输。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/d3ce572a-5927-4cc5-8a68-e40de63718ba.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/ee285cc9-ca01-419e-83f8-6159f537a7a0.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "苹果 M5 MacBook Air 笔记本发布：搭 N1 无线网络芯片、支持灵活定制，8499 元起",
-        "内容": "苹果发布新款M5芯片MacBook Air，沿用上一代模具，提供13英寸（起价8499元）和15英寸（起价9999元）两种尺寸，将于3月4日预购，3月11日开售。核心升级包括搭载M5芯片（可选8核/10核GPU）、SSD读写速度提升2倍，并首次配备Apple N1无线芯片，支持Wi-Fi 7与蓝牙6。该系列以16GB RAM+512GB SSD起步，提供天蓝、银、星光、午夜四种配色，支持灵活定制内存、硬盘、键盘及电源适配器。配备13.6英寸LCD屏、12MP摄像头，电池续航最长18小时，接口包括MagSafe、双雷电4及3.5mm耳机孔。",
+        "资讯标题": "苹果平价 MacBook Neo 笔记本搭载 8GB RAM，可选 256/512GB 固态硬盘",
+        "内容": "苹果发布平价MacBook Neo笔记本，配备13英寸Liquid视网膜显示屏，搭载A18 Pro处理器，标配8GB RAM，可选256GB或512GB固态硬盘，其中512GB版本配备触控ID指纹传感器，起售价为4599元。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/d8787b89-e111-43e6-9f47-cca57eeb52ab.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/images/v2/t.png"
         ]
     },
     {
-        "资讯标题": "苹果发布新款 Studio Display 和全新 Studio Display XDR，起售价 11999 元",
-        "内容": "苹果发布两款全新显示器：新款 Studio Display 与旗舰级 Studio Display XDR。新款 Studio Display 为 27 英寸 5K 分辨率（60Hz），升级了 1200 万像素居中摄像头、三麦克风阵列及支持空间音频的六扬声器系统，并搭载雷电 5 接口。全新 Studio Display XDR 同样为 27 英寸 5K Retina XDR 显示屏，但采用 mini-LED 背光（2304 个分区），支持 120Hz 刷新率，峰值亮度达 2000 尼特，对比度 1,000,000:1。两款均支持桌面视角功能，接口配置丰富。起售价分别为 11999 元（标准支架）与 24999 元（可调支架），3 月 4 日晚 10:15 预购，3 月 11 日发售。",
+        "资讯标题": "苹果平价 MacBook Neo 笔记本未配备 MagSafe 磁吸充电接口，仅提供双 USB-C",
+        "内容": "苹果于2026年3月4日发布了入门级笔记本MacBook Neo，配备13英寸Liquid视网膜显示屏，起售价为4599元。该产品为控制成本，未配备MacBook Pro/Air同款的MagSafe磁吸充电接口，仅在机身左侧提供2个USB-C接口和1个3.5mm耳机孔。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/95fe53a8-40b8-425d-ba57-4a4336333aa5.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/ed736235-30bb-4a1d-84a9-52627a9597f1.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "是平价版 MacBook 吗？苹果官网意外出现“MacBook Neo”表述，型号 A3404",
-        "内容": "苹果官网在发布M5系列MacBook Pro、MacBook Air等新品时，意外短暂出现了一款型号为A3404的“MacBook Neo”监管文件链接，但随后被迅速删除。据科技媒体MacRumors报道及此前传闻，这款可能对应“平价版MacBook”的产品预计将搭载A18 Pro芯片，配备12.9英寸显示屏，并推出多彩配色以吸引年轻及学生用户。其定位下沉市场，预计起售价在599美元至799美元之间（约合人民币4135元至5516元）。不过，目前尚不确定“MacBook Neo”是否即为传闻中的平价版MacBook，需等待后续官方信息确认。",
+        "资讯标题": "11999 元起苹果新款 Studio Display / XDR 显示器开启预售：至高搭 5K 120Hz mini‑LED 背光面板",
+        "内容": "苹果于2026年3月4日发布新款Studio Display和Studio Display XDR显示器，两款均为27英寸5K分辨率，已在京东开启预售。Studio Display售价11999元起，为60Hz面板，亮度600尼特。Studio Display XDR售价24999元起，升级为120Hz mini-LED背光面板（2304个调光区），HDR峰值亮度2000尼特，并配备1200万像素摄像头、六扬声器系统（支持空间音频）和三麦克风阵列。两款均提供标准或纳米纹理玻璃可选，并支持政府数码补贴。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/1eab9bc8-8ab6-43bd-a345-0e4b5088730f.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img14.360buyimg.com/pop/jfs/t1/394312/19/20161/71742/69a70347Fd9e8a876/00835dc5dc33937e.jpg"
         ]
     },
     {
-        "资讯标题": "苹果 M5 Pro / Max 采用新融合架构，AI 计算性能大幅提升",
-        "内容": "苹果发布M5 Pro和M5 Max芯片，用于新款MacBook Pro。其核心创新是采用全新融合架构，将两颗第三代3纳米晶粒通过先进封装工艺整合为单片系统（SoC）。M5 Pro配备18核CPU（6超核+12性能核）与最高20核GPU，M5 Max则为18核CPU与最高40核GPU。AI计算性能相比M4系列提升超4倍，相比M1系列提升超6倍。此外，两者均搭载16核神经网络引擎、支持雷雳5、具备高带宽统一内存（M5 Pro最高64GB/307GB/s，M5 Max最高128GB/614GB/s），并集成媒体处理引擎与内存安全保护功能。",
+        "资讯标题": "4499 元起苹果 iPhone 17e 开启预售：A19 芯片、叠加国补 + 以旧换新低至 3299 元",
+        "内容": "苹果iPhone 17e于3月4日开启预售，起售价4499元。该机搭载A19芯片，配备6.1英寸60Hz OLED屏、后置48MP主摄，并支持MagSafe磁吸充电，采用新款C1X基带芯片。通过叠加国家补贴与以旧换新，最低到手价可达3299元。产品提供白、黑、浅粉三色，重170克，将于3月11日正式发售。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/7e0a77aa-a387-42d6-a391-3e3639f66228.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img14.360buyimg.com/pop/jfs/t1/397229/10/13811/9629/69a59f1dF494e0326/00833203206307db.jpg"
         ]
     },
     {
-        "资讯标题": "苹果 Pro Display XDR 正式停产，全新 Studio Display XDR 接棒",
-        "内容": "苹果已正式停产2019年推出的Pro Display XDR显示器（32英寸，标准配置售价39999元，专业支架需另购7799元）。该产品由全新发布的Studio Display XDR接替。新款为27英寸，采用更多背光分区的mini-LED面板，支持120Hz刷新率，并内置扬声器与摄像头，售价24999元且支架已包含在内。主要区别在于尺寸、价格、内置功能及刷新率。",
+        "资讯标题": "8499 元起苹果 M5 系列 MacBook Air / Pro 笔记本预售：支持 1500 元国补、叠加教育优惠 + 以旧换新至高优惠 3800 元",
+        "内容": "苹果于3月4日发布M5系列MacBook笔记本，包括M5 Pro/Max款MacBook Pro（起售价17999元）和M5款MacBook Air（起售价8499元），现已在京东开启预售，3月11日正式发售。\n\nM5 Pro/Max款MacBook Pro最高可享国补1500元、教育优惠1200元起、以旧换新补贴1100元，合计优惠至高3800元。14英寸机型重1.6千克，16英寸机型重2.14千克，性能相比M1 Pro/Max最高提升8倍，并新增Apple N1无线芯片，支持Wi-Fi 7。\n\nM5款MacBook Air最高可享国补1500元、教育优惠800元起、以旧换新补贴1100元，合计优惠至高3400元。13英寸重1.23千克，15英寸重1.51千克，同样搭载M5芯片与Apple N1无线芯片。\n\n两款产品均支持12期京东白条免息，并参与2026年数码家电政府补贴活动。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/489ad447-92b1-4da2-a43b-fd2ec618a013.png?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img14.360buyimg.com/pop/jfs/t1/400272/7/7450/7144/69a729c2Fb57c1c21/0083320320aa7754.jpg"
         ]
     },
     {
-        "资讯标题": "苹果调整 14 英寸 M5 MacBook Pro 配置：1TB 起跳",
-        "内容": "苹果在发布M5 Pro/M5 Max芯片版MacBook Pro的同时，调整了14英寸标准版M5 MacBook Pro的配置。主要变化为：取消512GB存储选项，全系1TB固态硬盘起跳，最高可扩展至4TB。价格方面，起步配置从16GB+512GB（12999元）变为16GB+1TB（13499元），起步价上涨500元。但苹果同时降低了存储升级成本，此前16GB+1TB版本售价14499元，现在便宜了1000元。",
+        "资讯标题": "苹果最便宜笔记本 MacBook Neo 发布：搭载 A18 Pro 处理器、没有刘海，售价 4599 元起",
+        "内容": "苹果于2026年3月4日发布新款笔记本电脑MacBook Neo，采用铝金属机身设计，提供4款配色，配备13英寸Liquid视网膜显示屏。目前具体配置、价格及发售日期等详细信息尚未公布，IT之家将持续跟进。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/9ba62ec7-22ca-4adb-96a8-90b294c8c361.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/0b158207-704c-49be-b95e-596725677255.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "16+1T 大内存早买早安心：小米 17 Pro 手机 5999 → 5198 元京东再降，配妙享背屏",
-        "内容": "小米17 Pro手机（2025年9月发布）的16GB+1TB大内存版本，原价5999元。目前在京东平台，通过点击文章内卡片可能自动领取300元优惠券，并叠加政府补贴（国补），到手价降至5198元。该机型配备可互动显示的“妙享背屏”，相关功能更新中提及背屏可养小宠物。文章主要聚焦于该高配版手机的限时降价促销信息。",
+        "资讯标题": "钻石散热走入 AI 服务器，Akash Systems 实现 H200 / MI350X 系统出货",
+        "内容": "Akash Systems公司于2026年2月和3月分别出货了全球首批基于英伟达H200和AMD MI350X的金刚石（钻石）冷却AI服务器，标志着该技术正式进入数据中心。金刚石散热相比传统铜散热具有显著优势，能降低GPU与HBM温度最多10%，在标准温度下能效提升最多22%，高温环境下Token吞吐量提升最多15%，并支持高达50℃的工作环境温度。据称每台服务器四年内可额外创造高达100万美元价值，数据中心整体可节省最高100%的专属散热功耗。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2025/9/04284de5-7d5b-4fc6-8380-32a4e101e7ea.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/de5b4efd-3324-4107-a97c-52f41af26374.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     }
 ]

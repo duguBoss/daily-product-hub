@@ -1,58 +1,58 @@
 [
     {
+        "资讯标题": "长江存储首款 PCIe 5.0 商用消费级固态硬盘 PC550 发布：满载功耗低于 6W，最高 2TB 容量",
+        "内容": "长江存储发布首款PCIe 5.0商用消费级固态硬盘PC550，专为AI PC设计。采用自研X4-9070闪存芯片与四通道方案，顺序读写速度分别达10,500 MB/s和10,000 MB/s，随机读写均达1300K IOPS。核心亮点是低功耗设计，满载功耗低于6W，休眠功耗仅3mW，有利于笔记本散热与续航。支持多命名空间管理，实现数据隔离与AI场景优化，并搭载谷底预测算法提升可靠性。提供512GB、1TB、2TB三种容量，可选2242和2280两种尺寸规格。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/927d6e22-b3a0-4441-927d-911cbbd060a1.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "苹果特努斯谈为何现在才推出 MacBook Neo 笔记本：只做让我们引以为傲的产品",
+        "内容": "苹果硬件工程高级副总裁特努斯在接受采访时，详细阐述了MacBook Neo的推出原因与产品理念。MacBook Neo作为苹果最便宜的笔记本，起售价4599元，其核心优势在于扎实、可靠、耐用，并通过搭载iPhone同款自研芯片有效控制成本。产品提供胭脂粉、靛蓝、银色及全新柑橘色四款配色，致敬经典。特努斯强调，苹果坚持极高产品标准，只有打造出令团队引以为傲的产品才会发布，这是该产品历经长时间打磨的原因。此外，他重申苹果AI追求“无感”体验，旨在让技术无缝融入用户日常，提升效率而不显突兀。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/0f1fd3e2-beea-454e-9d05-ad2650b17dc6.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "华为 Mate 80 Pro Max 手机开放购买：麒麟 9030 Pro 芯片，7999 元起",
+        "内容": "华为Mate 80 Pro Max手机已正式开放购买，起售价为7999元。该机搭载麒麟9030 Pro处理器，整机性能较前代Mate 70 Pro+最高提升42%。目前购买渠道包括华为官网及京东等电商平台，部分平台预计发货时间为4月5日前，官网最晚于4月15日前完成发货。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/e03fbc06-afb7-4d89-8c8d-825797f75552.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "小米 17 系列手机“龙虾”封测版本开推，新增基于 MiMo 大模型构建的 Xiaomi miclaw 应用",
+        "内容": "小米17系列手机内部代号“龙虾”的封测版本已开始推送，版本号为3.0.303.4.WPBCNXM，包体约1.5GB。本次更新核心是新增了基于小米MiMo大模型构建的AI交互应用“Xiaomi miclaw”。该应用旨在通过一句话指令，理解用户意图并授权后，调用手机应用、米家生态及系统工具完成任务，具备学习、记忆和持续成长能力。官方强调此为前沿探索型小范围测试产品，在稳定性、功耗及复杂任务执行成功率方面仍在优化中。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/fd51f139-c9fd-4b47-8898-bab1a355eaa2.png?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "三星 Galaxy S26 Ultra 手机确认启用 ALoP 长焦镜头，不再宣传“潜望式”",
+        "内容": "三星Galaxy S26 Ultra确认采用新型ALoP（棱镜上置镜头）技术替代传统潜望式长焦。ALoP将镜头元件直接放置在棱镜上方，节省空间并允许使用更大镜片，从而提升进光量，改善夜景与人像拍摄，并产生更柔和的圆形散景。但新架构导致最近对焦距离从26厘米退化至52厘米，削弱了微距拍摄能力。三星在官方宣传中已彻底弃用“潜望式镜头”字眼。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/3068e28b-05db-40e1-9e5c-0c13860b0595.png?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "荣耀 Magic V6 折叠屏手机搭载 6400 万像素长焦镜头， 支持 CIPA6.5 防抖",
+        "内容": "荣耀即将发布的Magic V6折叠屏手机主打影像系统，其核心升级在于配备了6400万像素潜望式长焦镜头（豪威OV64B），支持CIPA 6.5级防抖，并搭载AiMAGE原色引擎以提升色彩真实性。其他关键参数包括：京东方提供的2K+分辨率内外双屏，峰值亮度分别达6000尼特和5000尼特；内置7150mAh“青海湖刀片电池”，能量密度985Wh/L；整机重219g（白色），折叠厚度8.75mm；搭载第五代骁龙8至尊版芯片；后置双5000万像素广角镜头。提供赤兔红、旭日金、雪域白、绒黑色四种配色，国行发布会定于2026年3月10日举行。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/8760cbbf-af57-4160-b9ba-40d8bf730448.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "苹果 M5 Pro 芯片 GeekBench 跑分曝光：多核破 2.8 万，逼近 M3 Ultra",
+        "内容": "苹果M5 Pro芯片在GeekBench 6.5跑分库中曝光，单核得分4242分，多核得分28111分，多核性能已非常接近M3 Ultra的28169分。该芯片采用台积电N3P工艺，配备18核CPU（6个超级核心+12个性能核心）和最高20核GPU，支持64GB统一内存，带宽提升至307GB/s。其最大亮点是采用“融合架构”，通过先进封装技术将两个芯片模组连接，实现高带宽、低延迟的单芯片体验。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/70daf528-4231-4bf6-8acc-5ff93da0d613.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
         "资讯标题": "OPPO Find N6 折叠手机渲染图再曝：橙色版吸睛",
-        "内容": "OPPO Find N6折叠手机渲染图曝光，新增吸睛的橙色配色。该机采用“无痕钛合金铰链 + 自修复记忆玻璃”，通过莱茵认证，折痕控制出色。配备8.12英寸2K LTPO UTG内屏与6.62英寸外屏，重约225g，支持IP56/58/59级防水。影像系统为哈苏2亿超清四摄，并有望搭载200万像素丹霞色彩还原镜头。核心规格预计包括骁龙8至尊版芯片、6000mAh双电芯电池及80W有线快充，提供最高1TB存储。",
+        "内容": "OPPO Find N6折叠手机渲染图曝光，新增吸睛的橙色配色。其采用“无痕钛合金铰链 + 自修复记忆玻璃”，通过莱茵“全球最平整”折叠机认证。配置方面，内屏为8.12英寸2K LTPO UTG大屏，外屏6.62英寸，整机重约225g，支持IP56/58/59级防水。影像系统搭载哈苏2亿超清四摄，并有望配备200万像素丹霞色彩还原镜头。核心规格预估为高通骁龙8至尊版芯片、6000mAh双电芯电池（支持80W快充），以及最高1TB的存储组合。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/3/e5df65ca-eadc-403a-b897-5b7354cd7a86.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "惠普官网意外偷跑：首款搭载英特尔酷睿 Ultra 7 270K Plus 电脑曝光",
-        "内容": "惠普澳大利亚官网意外上架新款OMEN 35L游戏台式机，成为首款搭载未发布的英特尔酷睿Ultra 7 270K Plus处理器的产品。该处理器采用Arrow Lake Refresh架构，拥有24核24线程（8P+16E），最高睿频5.5GHz，支持DDR5-7200内存，功耗125-250W。相比现款Ultra 7 265K，新增4个能效核与6MB三级缓存，规格接近旗舰Ultra 9 285K的“青春版”。整机还配备英伟达GeForce RTX 5070显卡、16GB内存与1TB固态硬盘，起售价为5499澳元（约合26646元人民币）。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/2ce97234-6002-4fec-b1a1-01a4dbb406f3.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "三星智能眼镜细节曝光：摄像头与眼睛齐平、手机处理核心数据，采用三方合作模式",
-        "内容": "三星智能眼镜的关键细节已曝光：其摄像头位于与眼睛齐平的位置，可捕捉用户第一视角画面，但核心数据处理（如AI分析、物体识别）主要依赖连接的智能手机完成，以降低眼镜本身功耗与复杂度。产品采用高通（芯片）、谷歌（Android XR平台）与三星（硬件及共同开发）的三方合作模式。三星高管透露，该设备旨在通过AI解读视觉信息并提供实时建议，交互可能借助手机或智能手表。产品规划上，不带显示屏的版本预计2026年晚些时候发布，而配备显示屏的版本则可能推迟至2027年。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/991cb3a9-408e-4067-81a4-3e50154a9e78.png?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "苹果 iPhone 17e 手机 Geekbench 跑分曝光：GPU 性能低于 iPhone 17，CPU 几乎持平",
-        "内容": "苹果iPhone 17e的Geekbench跑分曝光，其搭载的A19芯片GPU核心从标准版的5核阉割至4核。跑分显示，iPhone 17e的CPU多核分数（9241分）与iPhone 17标准版（9249分）几乎持平，但GPU性能（Metal分数约31000-31500分）明显低于iPhone 17标准版（约37000分）。文章指出，从实际应用角度看，大多数用户可能不会感受到明显的GPU性能差异。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/17e44562-7100-41ec-98d6-fd49ea14ab49.png?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "苹果设计主管揭秘 MacBook Neo 工艺：大幅削减加工周期、材料用量减半",
-        "内容": "苹果工业设计主管Molly Anderson透露，2026款MacBook Neo在制造工艺上实现重大革新。为保持高品质，团队从零开始设计，坚持使用优质铝材，并摒弃了传统依赖的昂贵数控铣削（CNC）方案。新工艺采用“挤压成型”结合高温高压技术，仅需少量精细机加工，大幅削减加工周期，并将机身材料消耗量减少一半，有效降低成本。同时，该产品贯彻环保理念，整机使用约60%再生材料，其中机身外壳再生铝合金占比高达90%，以支持苹果2030年碳中和目标。MacBook Neo官方定价4599元起，叠加教育优惠及国补后最低可至3399元。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/3fb2057e-11f6-4490-8f6f-7f23a7cccc4d.png?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "V社声明：Steam Machine 主机仍计划今年发售",
-        "内容": "V社针对Steam Machine等硬件发售计划发表声明，确认三款产品（Steam Machine主机、Steam Frame VR一体机、Steam手柄）仍计划于2026年上市。此前博文“希望于2026年将产品上市”的表述引发疑虑，但V社公关代表澄清“无任何变化”，并更新博文明确“将在今年推出”。此背景是自去年11月发布以来，内存及存储芯片价格上涨给硬件成本带来压力。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/f288b21e-6875-4f03-9076-31333361a7e5.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "映泰推出 H810MT-E 2.0 主板，提供 PCIe Gen5 ×16 插槽",
-        "内容": "映泰（BIOSTAR）推出 H810MT-E 2.0 主板，定位办公生产力与家庭娱乐等日常计算场景。该主板采用非标准 218×240mm M-ATX 板型，配备上下桥供电，支持 2 条 DDR5-6400 内存。其核心扩展性包括 1 条 PCIe Gen5 ×16 插槽、1 条 PCIe Gen4 ×1 插槽、1 个 PCIe Gen4 ×4 M.2 2280 盘位及 4 个 SATA III 接口，并搭载瑞昱 1GbE 有线网卡及无线网卡预留位。后置 I/O 提供 HDMI、DP 1.2 及多个 USB 接口。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/57c34873-9c83-4439-ac11-88b0024bd28b.png?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "七彩虹 iGame GeForce RTX 5070 Ti Ultra Black 显卡外观曝光",
-        "内容": "七彩虹将推出新款iGame GeForce RTX 5070 Ti Ultra Black显卡。该产品属于iGame Ultra系列，主打年轻时尚艺术风格。与现有以嘻哈文化为灵感、采用白底桃粉配色的Ultra W型号不同，Ultra Black版本采用黑底搭配紫色装饰的配色方案，外观模具与Ultra W类似。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/3a9a8da8-0a42-411d-8d6e-47ff723a6c27.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     }
 ]

@@ -1,56 +1,58 @@
 [
     {
-        "资讯标题": "小米官方手机“龙虾”智能体小范围封测",
-        "内容": "小米基于MiMo大模型构建的AI交互测试产品“Xiaomi miclaw”（昵称“龙虾”）已开启小范围邀请制封测。其核心功能是通过一句话指令，让AI理解用户意图后自主调用系统工具、应用及米家设备能力完成任务，并具备记忆与学习能力以越用越懂用户。技术上采用推理-执行循环，封装了50余项系统与生态服务，并支持通过MCP协议及开放SDK接入第三方能力。本次封测仅限小米17系列五款机型，官方建议用户在非主力设备上体验并做好数据备份，同时承诺个人数据仅用于实时指令执行且优先本地处理。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/fd51f139-c9fd-4b47-8898-bab1a355eaa2.png?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
         "资讯标题": "苹果 M5 Pro 芯片 GeekBench 跑分曝光：多核破 2.8 万，逼近 M3 Ultra",
-        "内容": "苹果M5 Pro芯片在GeekBench 6.5跑分库中曝光，单核成绩4242分，多核成绩28111分，多核性能已非常接近M3 Ultra（28169分）。该芯片采用台积电第三代3纳米N3P工艺，最高配备18核CPU（6个超级核心+12个性能核心）和20核GPU，支持最高64GB统一内存，带宽达307GB/s。其最大亮点是采用“融合架构”，通过先进封装技术将两个芯片模组连接，实现高带宽、低延迟的单芯片体验。",
+        "内容": "苹果新一代M5 Pro芯片在GeekBench 6.5跑分库中曝光，其搭载18核CPU（6个超级核心+12个性能核心）与最高20核GPU，采用台积电N3P工艺，支持64GB统一内存及307GB/s带宽。该芯片最大亮点是采用“融合架构”，通过先进封装将两个芯片模组连接，实现高带宽低延迟。其多核跑分达28111分，仅以微弱差距逼近旗舰芯片M3 Ultra的28169分，展现了强劲性能。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/3/70daf528-4231-4bf6-8acc-5ff93da0d613.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "华为 Mate 80 Pro Max 手机开放购买：麒麟 9030 Pro 芯片，7999 元起",
-        "内容": "华为Mate 80 Pro Max手机已开放购买，起售价为7999元。该机搭载麒麟9030 Pro处理器，整机性能较前代Mate 70 Pro+最高提升42%。目前华为官网及京东等平台均已上架，部分渠道预计发货时间为4月5日前，官网则为4月15日前。作为系列顶配版，Pro Max拥有6000mAh电池、100W有线快充、5000万像素超长焦摄像头及第三代玄武钢化昆仑玻璃等旗舰配置，提供槿紫、玄黑、皓白三种配色。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/e03fbc06-afb7-4d89-8c8d-825797f75552.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
         "资讯标题": "苹果 iPhone 17e 手机 Geekbench 跑分曝光：GPU 性能低于 iPhone 17，CPU 几乎持平",
-        "内容": "苹果iPhone 17e的Geekbench跑分曝光。该机搭载阉割版A19芯片，GPU核心从标准版的5核减少至4核。跑分显示，其CPU多核性能（9241分）与iPhone 17标准版（9249分）几乎持平，但GPU的Metal图形性能（约31000-31500分）明显低于iPhone 17标准版（约37000分）。文章指出，对于大多数日常应用，用户可能难以感知这种GPU性能差异。",
+        "内容": "iPhone 17e搭载的A19芯片CPU核心与iPhone 17相同，但GPU仅4核（iPhone 17为5核）。Geekbench跑分显示，其CPU多核性能与iPhone 17几乎持平（9241分 vs 9249分），但GPU的Metal分数约为31000-31500分，明显低于iPhone 17的37000分。文章指出，实际使用中大多数用户可能感受不到明显的GPU性能差异。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/3/17e44562-7100-41ec-98d6-fd49ea14ab49.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
         "资讯标题": "苹果 2026 款 M5 芯片 MacBook Air 跑分再曝：单核比 M4 款高 9.34%、多核高 13.56%",
-        "内容": "科技媒体TechRadar的Lance Ulanoff曝光了苹果2026款M5芯片MacBook Air的GeekBench跑分数据。其单核成绩为4190分，相比M4款MacBook Air（3832分）提升9.34%；多核成绩为17073分，相比M4款（15034分）提升13.56%。此外，M5版MacBook Air的性能比搭载M3 Pro芯片的MacBook Pro快约16%。但由于轻薄无风扇设计及产品定位，其绝对性能仍低于搭载M4 Pro及更新旗舰芯片的MacBook Pro机型。",
+        "内容": "科技媒体TechRadar曝光了尚未发布的2026款M5芯片MacBook Air的GeekBench跑分数据。与当前在售的2025款M4芯片MacBook Air相比，M5版单核成绩为4190分（提升9.34%），多核成绩为17073分（提升13.56%）。根据提供的跑分对照表，其多核性能已超越M3 Pro芯片的MacBook Pro约16%，但受轻薄无风扇设计限制，绝对性能仍低于搭载M4 Pro及以上芯片的MacBook Pro。该信息源自TechRadar编辑在X平台分享的跑分截图。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/3/a6fcffc2-de0d-4384-b2cc-a8543677b666.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "华为“零中断”光网络在全球超六十张运营商网络中部署：断纤不断网，可靠性达 99.999%",
-        "内容": "华为在MWC26巴塞罗那期间发布其“零中断”光网络（Zero-Outage Network）技术，该技术通过断纤不断网实现99.999%的超高可靠性，目前已在全球超过六十张运营商网络中成功部署。其解决方案集成OTNSpirit主动风险预防、毫秒级WSON快速自愈与智能故障定位三大核心能力，可将网络中断风险降低90%，运维成本降低40%。此外，华为还完成了8000多个传统波分站点的绿色节能改造，并推出FANSpirit和OTNSpirit智能体以提升运维效率。该技术融合fgOTN、Beyond 1T等关键技术，旨在打造具备毫秒级时延和T比特级容量的下一代全光网络，以满足AI时代对确定性低时延、超大带宽和超高可靠性的需求。",
-        "配图": []
-    },
-    {
-        "资讯标题": "特斯拉史上最大超级充电站今年开建：超 400 个 V4 充电桩，达当前最大站两倍多",
-        "内容": "特斯拉计划在加州Yermo的Eddie World超级充电站原址上，扩建为史上规模最大的超级充电站，规划超过400个V4充电桩，是当前最大站（168桩）的两倍多。项目分六个阶段推进，第一阶段将于今年晚些时候启动，新增72个V4充电桩。该站位于洛杉矶至拉斯维加斯交通要道，将配套Cracker Barrel、麦当劳等商业设施，并设计贯通式车位以服务Cybertruck及Semi等大型电动车。",
+        "资讯标题": "华为 Mate 80 Pro Max 手机开放购买：麒麟 9030 Pro 芯片，7999 元起",
+        "内容": "华为Mate 80 Pro Max手机已正式开放购买，起售价为7999元。该机搭载麒麟9030 Pro处理器，整机性能相比HarmonyOS 4.3出厂版本的Mate 70 Pro+最高提升42%，并预装HarmonyOS 6.0系统。购买渠道包括华为官网及京东等平台，部分平台预计发货时间为4月5日前，官网则为4月15日前。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/6219d1ad-7c6b-4f82-9f7c-f19bfcaff63c.png?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/e03fbc06-afb7-4d89-8c8d-825797f75552.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "DDR5 内存套装卖 4000 美元？电商平台新蛋回应称定价系统出错",
-        "内容": "美国电商平台新蛋近日将部分高端DDR5内存套装（主要为海盗船Vengeance和芝奇Trident Z5系列）价格异常标定为3980美元，远高于正常售价（如原价439.99美元）。该错误影响了约27款产品，涵盖不同容量和频率。新蛋随后确认系内部定价系统故障导致，影响了50多个SKU，并正在修复。其他零售商价格未受影响。",
+        "资讯标题": "realme 真我 C83 5G 手机海外发布：搭载天玑 6300 芯片、3.5mm 耳机口，6.8 寸 144Hz LCD 高刷屏",
+        "内容": "realme在印度发布入门级5G手机C83，主打7000mAh超大电池，并保留3.5mm耳机孔与microSD卡槽（支持扩展至2TB）。核心配置包括6.8英寸144Hz刷新率LCD屏、联发科天玑6300芯片、最高6GB+128GB存储组合，后置1300万像素主摄。该机支持侧边指纹识别、IP64防尘防水，预装基于Android 16的realmeUI 7.0系统，提供紫、深绿两色，售价约合人民币1024元起。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/82ad5247-c528-450c-b9d9-ab4c0e2d523c.png?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/379f7079-65b3-4d18-8a8a-4a72b3c9ec23.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "三星 Galaxy S26 Ultra 手机确认启用 ALoP 长焦镜头，不再宣传“潜望式”",
+        "内容": "三星Galaxy S26 Ultra确认采用新型ALoP（棱镜上置镜头）技术，取代传统的“潜望式”长焦镜头设计。ALoP将镜头元件直接置于棱镜上方，通过折叠结构节省空间并容纳更大镜片，从而提升进光量。主要优势包括改善夜景与人像拍摄，并实现更平滑的圆形散景，解决了上一代机型矩形光斑的问题。但新架构导致最近对焦距离从26厘米增至52厘米，削弱了微距拍摄能力。三星在官方宣传中已彻底弃用“潜望式”一词以凸显这一架构变革。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/3068e28b-05db-40e1-9e5c-0c13860b0595.png?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "英特尔酷睿 Ultra 5 250K Plus 处理器 PassMark 跑分曝光",
+        "内容": "英特尔酷睿 Ultra 5 250K Plus 处理器在 PassMark 基准测试中曝光，单核得分 4854 分，多核得分 50478 分。相比前代 Ultra 5 245K，其单核性能提升约 3%，多核性能提升 16.6%。性能提升主要归因于增加 4 个能效核，使其达到 18 核心 18 线程，最高加速频率 5.3 GHz。目前 PassMark 数据库中仅有一条测试记录，数据准确性有待更多样本验证。",
+        "配图": [
+            "https://img.ithome.com/images/v2/t.png"
+        ]
+    },
+    {
+        "资讯标题": "vivo X300 Max 手机原型曝光：预估天玑 9500 芯片、6.78 英寸屏幕、7000mAh 电池",
+        "内容": "vivo X300 Max手机原型在MWC 2026展会上曝光。该机型号为V2548A，采用家族式设计，后置摄像头以蔡司T*标志为中心进行布局。其配备6.78英寸1440p分辨率LTPO OLED屏幕，边框对称并采用居中打孔方案。核心配置方面，因展台紧邻联发科天玑9500处理器宣传牌，故预估该机将搭载此芯片。电池与充电方面，根据此前入网信息，该机将内置7000mAh大电池，并支持90W有线快充。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/a6b3379e-d181-46a4-9d32-0603d4c50731.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     }
 ]

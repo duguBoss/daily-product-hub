@@ -1,58 +1,58 @@
 [
     {
-        "资讯标题": "苹果 M5 Pro 芯片 GeekBench 跑分曝光：多核破 2.8 万，逼近 M3 Ultra",
-        "内容": "苹果新一代M5 Pro芯片在GeekBench 6.5跑分库中曝光，其搭载18核CPU（6个超级核心+12个性能核心）与最高20核GPU，采用台积电N3P工艺，支持64GB统一内存及307GB/s带宽。该芯片最大亮点是采用“融合架构”，通过先进封装将两个芯片模组连接，实现高带宽低延迟。其多核跑分达28111分，仅以微弱差距逼近旗舰芯片M3 Ultra的28169分，展现了强劲性能。",
+        "资讯标题": "消息称某厂今年新机有阔屏大折叠、阔屏直板机、超大屏 Air 等，预计为华为",
+        "内容": "根据数码博主爆料，华为预计在2026年推出多款新机，包括阔屏大折叠（或为Pura X2，配7.69英寸WQHD+内屏、5.5英寸外屏，升级麒麟9030及长焦）、阔屏直板机（工程机测试6.39英寸±1.5K OLED屏，比例约16:9/16:10，定位不低，暂定Q4发布）和超大屏Air（参考Mate 70 Air的7英寸高刷屏、超薄设计）。以上信息为网络爆料，具体配置与发布时间以官方公布为准。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/70daf528-4231-4bf6-8acc-5ff93da0d613.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/d073748d-c2c2-47a6-83b0-335d7e942f8a.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "苹果 iPhone 17e 手机 Geekbench 跑分曝光：GPU 性能低于 iPhone 17，CPU 几乎持平",
-        "内容": "iPhone 17e搭载的A19芯片CPU核心与iPhone 17相同，但GPU仅4核（iPhone 17为5核）。Geekbench跑分显示，其CPU多核性能与iPhone 17几乎持平（9241分 vs 9249分），但GPU的Metal分数约为31000-31500分，明显低于iPhone 17的37000分。文章指出，实际使用中大多数用户可能感受不到明显的GPU性能差异。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/17e44562-7100-41ec-98d6-fd49ea14ab49.png?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "苹果 2026 款 M5 芯片 MacBook Air 跑分再曝：单核比 M4 款高 9.34%、多核高 13.56%",
-        "内容": "科技媒体TechRadar曝光了尚未发布的2026款M5芯片MacBook Air的GeekBench跑分数据。与当前在售的2025款M4芯片MacBook Air相比，M5版单核成绩为4190分（提升9.34%），多核成绩为17073分（提升13.56%）。根据提供的跑分对照表，其多核性能已超越M3 Pro芯片的MacBook Pro约16%，但受轻薄无风扇设计限制，绝对性能仍低于搭载M4 Pro及以上芯片的MacBook Pro。该信息源自TechRadar编辑在X平台分享的跑分截图。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/a6fcffc2-de0d-4384-b2cc-a8543677b666.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "华为 Mate 80 Pro Max 手机开放购买：麒麟 9030 Pro 芯片，7999 元起",
-        "内容": "华为Mate 80 Pro Max手机已正式开放购买，起售价为7999元。该机搭载麒麟9030 Pro处理器，整机性能相比HarmonyOS 4.3出厂版本的Mate 70 Pro+最高提升42%，并预装HarmonyOS 6.0系统。购买渠道包括华为官网及京东等平台，部分平台预计发货时间为4月5日前，官网则为4月15日前。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/e03fbc06-afb7-4d89-8c8d-825797f75552.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "realme 真我 C83 5G 手机海外发布：搭载天玑 6300 芯片、3.5mm 耳机口，6.8 寸 144Hz LCD 高刷屏",
-        "内容": "realme在印度发布入门级5G手机C83，主打7000mAh超大电池，并保留3.5mm耳机孔与microSD卡槽（支持扩展至2TB）。核心配置包括6.8英寸144Hz刷新率LCD屏、联发科天玑6300芯片、最高6GB+128GB存储组合，后置1300万像素主摄。该机支持侧边指纹识别、IP64防尘防水，预装基于Android 16的realmeUI 7.0系统，提供紫、深绿两色，售价约合人民币1024元起。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/379f7079-65b3-4d18-8a8a-4a72b3c9ec23.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "三星 Galaxy S26 Ultra 手机确认启用 ALoP 长焦镜头，不再宣传“潜望式”",
-        "内容": "三星Galaxy S26 Ultra确认采用新型ALoP（棱镜上置镜头）技术，取代传统的“潜望式”长焦镜头设计。ALoP将镜头元件直接置于棱镜上方，通过折叠结构节省空间并容纳更大镜片，从而提升进光量。主要优势包括改善夜景与人像拍摄，并实现更平滑的圆形散景，解决了上一代机型矩形光斑的问题。但新架构导致最近对焦距离从26厘米增至52厘米，削弱了微距拍摄能力。三星在官方宣传中已彻底弃用“潜望式”一词以凸显这一架构变革。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/3068e28b-05db-40e1-9e5c-0c13860b0595.png?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "英特尔酷睿 Ultra 5 250K Plus 处理器 PassMark 跑分曝光",
-        "内容": "英特尔酷睿 Ultra 5 250K Plus 处理器在 PassMark 基准测试中曝光，单核得分 4854 分，多核得分 50478 分。相比前代 Ultra 5 245K，其单核性能提升约 3%，多核性能提升 16.6%。性能提升主要归因于增加 4 个能效核，使其达到 18 核心 18 线程，最高加速频率 5.3 GHz。目前 PassMark 数据库中仅有一条测试记录，数据准确性有待更多样本验证。",
+        "资讯标题": "OPPO 回应 realme 真我暂停新机研发，称相关工作均正常进行中",
+        "内容": "针对realme真我疑似暂停2026年新机研发的传闻，OPPO官方回应称相关产品研发工作均正常进行中。背景是，今年1月realme已正式宣布回归OPPO，成为其旗下子品牌，由realme CEO李炳忠（Sky Li）领导整体业务，一加中国区总裁李杰职责不变，并承诺新品将如期发布。同时，realme手机将于今年4月全面接入OPPO售后服务体系。",
         "配图": [
             "https://img.ithome.com/images/v2/t.png"
         ]
     },
     {
-        "资讯标题": "vivo X300 Max 手机原型曝光：预估天玑 9500 芯片、6.78 英寸屏幕、7000mAh 电池",
-        "内容": "vivo X300 Max手机原型在MWC 2026展会上曝光。该机型号为V2548A，采用家族式设计，后置摄像头以蔡司T*标志为中心进行布局。其配备6.78英寸1440p分辨率LTPO OLED屏幕，边框对称并采用居中打孔方案。核心配置方面，因展台紧邻联发科天玑9500处理器宣传牌，故预估该机将搭载此芯片。电池与充电方面，根据此前入网信息，该机将内置7000mAh大电池，并支持90W有线快充。",
+        "资讯标题": "苹果 M5 Pro 芯片 GeekBench 跑分曝光：多核破 2.8 万，逼近 M3 Ultra",
+        "内容": "苹果M5 Pro芯片在GeekBench 6.5跑分库中曝光，单核成绩4242分，多核成绩28111分，多核性能已非常接近M3 Ultra（28169分）。该芯片采用台积电第三代3纳米N3P工艺，最高配置为18核CPU（6个超级核心+12个性能核心）和20核GPU，支持最高64GB统一内存，内存带宽提升至307GB/s。其最大技术亮点是采用“融合架构”，通过先进封装技术将两个芯片模组连接，以实现高带宽、低延迟的单芯片体验。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/a6b3379e-d181-46a4-9d32-0603d4c50731.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/images/v2/t.png"
+        ]
+    },
+    {
+        "资讯标题": "苹果 iPhone 17e 手机 Geekbench 跑分曝光：GPU 性能低于 iPhone 17，CPU 几乎持平",
+        "内容": "苹果iPhone 17e手机的Geekbench跑分已曝光，揭示了其搭载的阉割版A19芯片性能。该芯片CPU核心与iPhone 17标准版相同，因此CPU多核跑分几乎持平（iPhone 17e为9241分，iPhone 17为9249分）。然而，其GPU核心被削减至4核（标准版为5核），导致Metal图形性能显著降低，约为31000-31500分，明显低于标准版的37000分。尽管跑分差距存在，但文章指出，对于大多数日常应用，用户可能难以感知明显的GPU性能差异。此前iPhone 16e同样采用了4核GPU设计。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/17e44562-7100-41ec-98d6-fd49ea14ab49.png?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "纯电续航 1036 公里全球第一，比亚迪全新腾势 Z9GT 已抵达全国 14 城",
+        "内容": "比亚迪全新腾势Z9GT已在全国14个城市（北京、上海、广州等）设立首批展车。该车搭载第二代刀片电池，其纯电版CLTC续航达1036公里，创全球量产车纪录；插混版纯电续航401公里，综合续航1301公里。支持闪充技术，10%充至70%仅需5分钟。配备天神之眼5.0智驾系统、云辇-A智能空气车身控制系统、电动尾翼，并采用易三方技术平台，支持高精度无人智能漂移。性能方面，零百加速2.7秒，配备碳陶制动盘与六活塞卡钳。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/dd7a0b72-dd2c-4406-abd5-e7d97d39fa4c.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "苹果 2026 款 M5 芯片 MacBook Air 跑分再曝：单核比 M4 款高 9.34%、多核高 13.56%",
+        "内容": "科技媒体曝光苹果2026款M5芯片MacBook Air的GeekBench跑分。其单核成绩为4190分，较M4款（3832分）提升9.34%；多核成绩为17073分，较M4款（15034分）提升13.56%。性能比M3 Pro芯片的MacBook Pro快约16%，但受轻薄无风扇设计限制，绝对性能仍低于M4 Pro及更新旗舰芯片的MacBook Pro。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/a6fcffc2-de0d-4384-b2cc-a8543677b666.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "苹果 iPhone 17e 发布：搭载 A19 芯片、支持 MagSafe，4499 元起",
+        "内容": "苹果于2026年3月2日发布iPhone 17e，定位入门机型。核心升级包括：搭载新一代A19芯片（3纳米工艺）及自研C1X基带（网速较前代提升最高2倍，功耗降低30%）；配备6.1英寸超视网膜XDR显示屏，采用超瓷晶面板2，抗刮擦性能提升3倍；后置4800万像素融合式摄像头，支持光学级2倍长焦及新一代人像模式；支持MagSafe磁吸充电（最高15W）及卫星通信功能（紧急求救、道路救援等）。国行256GB起步，售价4499元起，提供黑、白、柔粉三款哑光配色。3月4日晚10:15预购，3月11日正式发售。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/933be4eb-50dd-450f-ba3c-fe59c5673633.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "苹果最便宜笔记本 MacBook Neo 发布：搭载 A18 Pro 处理器、没有刘海，售价 4599 元起",
+        "内容": "苹果发布最便宜笔记本MacBook Neo，搭载iPhone 16 Pro同款A18 Pro处理器，采用无风扇静音设计。配备13英寸无刘海Liquid视网膜显示屏，拥有多彩铝金属机身，重1.23千克。提供8+256GB（4599元）和8+512GB（5299元）两种配置，有银、桃粉、柑橘黄、靛蓝四种颜色。目标用户为Chromebook及低端Windows用户，3月6日预购，3月11日正式发售。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/4b6da6e3-cacb-4f72-9986-6389161739b7.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     }
 ]

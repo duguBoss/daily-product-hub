@@ -1,58 +1,56 @@
 [
     {
-        "资讯标题": "苹果 M5 Pro 芯片 GeekBench 跑分曝光：多核破 2.8 万，逼近 M3 Ultra",
-        "内容": "苹果M5 Pro芯片在GeekBench 6.5跑分库中曝光，单核成绩4242分，多核成绩达28111分，多核性能已非常接近苹果顶级芯片M3 Ultra（28169分）。该芯片采用台积电第三代3纳米工艺（N3P），最高配备18核CPU（6个超级核心+12个性能核心）和20核GPU，支持最高64GB统一内存，内存带宽提升至307GB/s。其最大亮点是采用“融合架构”（Fusion Architecture），通过先进封装技术将两个芯片模组连接，以实现高带宽、低延迟的单芯片体验。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/70daf528-4231-4bf6-8acc-5ff93da0d613.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "荣耀 MagicOS 11 系统大版本官宣“正全力筹备中”，官方发布新功能前瞻",
-        "内容": "荣耀官方宣布 MagicOS 11 系统大版本正在全力筹备中，并预览了主要升级方向。新版本将聚焦于提升系统流畅度与能效、增加存储空间、增强相机与图库功能、优化网络稳定性，并重点升级跨设备互联体验，特别是提及希望支持与 iPhone 双持时跨端回复消息，以加强生态互通。此外，YOYO 助手拟人化与安全防护功能也将得到完善。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/64c11e33-46f8-4724-bd6e-e46c414ca79e.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "长江存储首款 PCIe 5.0 商用消费级固态硬盘 PC550 发布：满载功耗低于 6W，最高 2TB 容量",
-        "内容": "长江存储发布首款PCIe 5.0商用消费级固态硬盘PC550，专为AI PC设计。采用四通道X4-9070闪存芯片与晶栈Xtacking 4.0技术，顺序读写速度分别达10,500 MB/s和10,000 MB/s，随机读写速度最高1,300K IOPS。核心亮点是低功耗设计，满载功耗低于6W，休眠功耗仅3mW，更适合笔记本环境。支持多命名空间管理，实现数据硬件级隔离与AI场景优化，并搭载谷底预测算法提升可靠性。提供512GB、1TB、2TB三种容量，可选2242和2280两种尺寸规格。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/927d6e22-b3a0-4441-927d-911cbbd060a1.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "华为 Mate 80 Pro Max 手机开放购买：麒麟 9030 Pro 芯片，7999 元起",
-        "内容": "华为Mate 80 Pro Max手机已正式开放购买，起售价为7999元。该机搭载麒麟9030 Pro处理器，整机性能较HarmonyOS 4.3版本的Mate 70 Pro+最高提升42%。目前部分配色和版本已在华为官网及京东等平台开售，官网预计4月15日前发货，京东部分渠道承诺4月5日前发货。作为系列顶配型号，其配备6000mAh电池、100W有线超级快充，并支持天通卫星通信、第三代玄武钢化昆仑玻璃等旗舰配置。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/e03fbc06-afb7-4d89-8c8d-825797f75552.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "小米 17 系列手机“龙虾”封测版本开推，新增基于 MiMo 大模型构建的 Xiaomi miclaw 应用",
-        "内容": "小米17系列手机“龙虾”封测版本开始推送，版本号3.0.303.4.WPBCNXM，包体约1.5GB。核心新增功能是基于小米MiMo大模型构建的Xiaomi miclaw应用，该AI交互产品支持通过一句话指令操控手机及米家智能设备，能理解意图、调用系统与应用能力，并具备持续学习与记忆功能。官方说明此为前沿探索型测试，在稳定性、功耗及复杂任务执行成功率方面仍在优化中。",
+        "资讯标题": "小米官方手机“龙虾”智能体小范围封测",
+        "内容": "小米基于MiMo大模型构建的AI交互测试产品“Xiaomi miclaw”（昵称“龙虾”）已开启小范围邀请制封测。其核心功能是通过一句话指令，让AI理解用户意图后自主调用系统工具、应用及米家设备能力完成任务，并具备记忆与学习能力以越用越懂用户。技术上采用推理-执行循环，封装了50余项系统与生态服务，并支持通过MCP协议及开放SDK接入第三方能力。本次封测仅限小米17系列五款机型，官方建议用户在非主力设备上体验并做好数据备份，同时承诺个人数据仅用于实时指令执行且优先本地处理。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/3/fd51f139-c9fd-4b47-8898-bab1a355eaa2.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
+        "资讯标题": "苹果 M5 Pro 芯片 GeekBench 跑分曝光：多核破 2.8 万，逼近 M3 Ultra",
+        "内容": "苹果M5 Pro芯片在GeekBench 6.5跑分库中曝光，单核成绩4242分，多核成绩28111分，多核性能已非常接近M3 Ultra（28169分）。该芯片采用台积电第三代3纳米N3P工艺，最高配备18核CPU（6个超级核心+12个性能核心）和20核GPU，支持最高64GB统一内存，带宽达307GB/s。其最大亮点是采用“融合架构”，通过先进封装技术将两个芯片模组连接，实现高带宽、低延迟的单芯片体验。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/70daf528-4231-4bf6-8acc-5ff93da0d613.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "华为 Mate 80 Pro Max 手机开放购买：麒麟 9030 Pro 芯片，7999 元起",
+        "内容": "华为Mate 80 Pro Max手机已开放购买，起售价为7999元。该机搭载麒麟9030 Pro处理器，整机性能较前代Mate 70 Pro+最高提升42%。目前华为官网及京东等平台均已上架，部分渠道预计发货时间为4月5日前，官网则为4月15日前。作为系列顶配版，Pro Max拥有6000mAh电池、100W有线快充、5000万像素超长焦摄像头及第三代玄武钢化昆仑玻璃等旗舰配置，提供槿紫、玄黑、皓白三种配色。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/e03fbc06-afb7-4d89-8c8d-825797f75552.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
         "资讯标题": "苹果 iPhone 17e 手机 Geekbench 跑分曝光：GPU 性能低于 iPhone 17，CPU 几乎持平",
-        "内容": "苹果iPhone 17e手机的Geekbench跑分曝光。该机搭载的A19芯片CPU核心规格与iPhone 17标准版相同，因此CPU多核跑分几乎持平（iPhone 17e为9241分，iPhone 17为9249分）。但其GPU核心被阉割为4核（标准版为5核），导致Metal图形性能显著降低，约为31000-31500分，低于标准版的37000分。不过，从实际应用角度看，大多数用户可能不会感受到明显的GPU性能差异。",
+        "内容": "苹果iPhone 17e的Geekbench跑分曝光。该机搭载阉割版A19芯片，GPU核心从标准版的5核减少至4核。跑分显示，其CPU多核性能（9241分）与iPhone 17标准版（9249分）几乎持平，但GPU的Metal图形性能（约31000-31500分）明显低于iPhone 17标准版（约37000分）。文章指出，对于大多数日常应用，用户可能难以感知这种GPU性能差异。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/3/17e44562-7100-41ec-98d6-fd49ea14ab49.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "江波龙：搭载自研主控的 UFS 4.1 产品正在批量出货前夕",
-        "内容": "江波龙宣布其搭载自研主控芯片的UFS 4.1产品已处于批量出货前夕。该旗舰级存储产品在制程、读写速度及稳定性上具备竞争力，公司已与多家晶圆原厂及头部智能终端厂商建立深度合作。在MWC26上，江波龙还展示了自研的HLC UFS技术（可降低终端DRAM用量与成本）和pTLC UFS技术（通过智能模式切换化解QLC性能与寿命短板），以及面向AI可穿戴设备的超薄ePOP5x封装产品。",
+        "资讯标题": "苹果 2026 款 M5 芯片 MacBook Air 跑分再曝：单核比 M4 款高 9.34%、多核高 13.56%",
+        "内容": "科技媒体TechRadar的Lance Ulanoff曝光了苹果2026款M5芯片MacBook Air的GeekBench跑分数据。其单核成绩为4190分，相比M4款MacBook Air（3832分）提升9.34%；多核成绩为17073分，相比M4款（15034分）提升13.56%。此外，M5版MacBook Air的性能比搭载M3 Pro芯片的MacBook Pro快约16%。但由于轻薄无风扇设计及产品定位，其绝对性能仍低于搭载M4 Pro及更新旗舰芯片的MacBook Pro机型。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/2cd1f886-120a-4d5b-a60a-cadbede61f48.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/a6fcffc2-de0d-4384-b2cc-a8543677b666.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "绿联推出 Maxidok 系列雷电 5 扩展坞，可选 17 合 1、10 合 1",
-        "内容": "绿联（UGREEN）面向海外市场推出Maxidok系列雷电5扩展坞，包含17合1和10合1两款型号。核心区别在于：17合1型号内置M.2 NVMe SSD扩展位，配备2.5GbE网口，匹配240W电源适配器并支持最高140W上行输出；10合1型号则无存储扩展，网口为1GbE，匹配140W电源，上行输出最高100W。两款产品的早鸟价格分别为389.99美元（约合2697元人民币）和249.99美元（约合1729元人民币）。",
+        "资讯标题": "华为“零中断”光网络在全球超六十张运营商网络中部署：断纤不断网，可靠性达 99.999%",
+        "内容": "华为在MWC26巴塞罗那期间发布其“零中断”光网络（Zero-Outage Network）技术，该技术通过断纤不断网实现99.999%的超高可靠性，目前已在全球超过六十张运营商网络中成功部署。其解决方案集成OTNSpirit主动风险预防、毫秒级WSON快速自愈与智能故障定位三大核心能力，可将网络中断风险降低90%，运维成本降低40%。此外，华为还完成了8000多个传统波分站点的绿色节能改造，并推出FANSpirit和OTNSpirit智能体以提升运维效率。该技术融合fgOTN、Beyond 1T等关键技术，旨在打造具备毫秒级时延和T比特级容量的下一代全光网络，以满足AI时代对确定性低时延、超大带宽和超高可靠性的需求。",
+        "配图": []
+    },
+    {
+        "资讯标题": "特斯拉史上最大超级充电站今年开建：超 400 个 V4 充电桩，达当前最大站两倍多",
+        "内容": "特斯拉计划在加州Yermo的Eddie World超级充电站原址上，扩建为史上规模最大的超级充电站，规划超过400个V4充电桩，是当前最大站（168桩）的两倍多。项目分六个阶段推进，第一阶段将于今年晚些时候启动，新增72个V4充电桩。该站位于洛杉矶至拉斯维加斯交通要道，将配套Cracker Barrel、麦当劳等商业设施，并设计贯通式车位以服务Cybertruck及Semi等大型电动车。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/3980f855-76a9-440f-998f-ac872e7a75c5.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/6219d1ad-7c6b-4f82-9f7c-f19bfcaff63c.png?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "DDR5 内存套装卖 4000 美元？电商平台新蛋回应称定价系统出错",
+        "内容": "美国电商平台新蛋近日将部分高端DDR5内存套装（主要为海盗船Vengeance和芝奇Trident Z5系列）价格异常标定为3980美元，远高于正常售价（如原价439.99美元）。该错误影响了约27款产品，涵盖不同容量和频率。新蛋随后确认系内部定价系统故障导致，影响了50多个SKU，并正在修复。其他零售商价格未受影响。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/82ad5247-c528-450c-b9d9-ab4c0e2d523c.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     }
 ]

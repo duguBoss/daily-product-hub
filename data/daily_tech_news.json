@@ -1,58 +1,58 @@
 [
     {
-        "资讯标题": "长江存储首款 PCIe 5.0 商用消费级固态硬盘 PC550 发布：满载功耗低于 6W，最高 2TB 容量",
-        "内容": "长江存储发布首款PCIe 5.0商用消费级固态硬盘PC550，专为AI PC设计。采用四通道X4-9070闪存芯片与晶栈Xtacking 4.0技术，顺序读写速度分别达10,500 MB/s与10,000 MB/s，随机读写速度最高1300K IOPS。满载功耗低于6W，休眠功耗仅3mW，显著优化散热与续航。支持多命名空间管理，实现数据硬件级隔离与AI场景性能优化，并搭载谷底预测算法提升可靠性。提供512GB、1TB、2TB三种容量，可选2242与2280两种尺寸规格。",
+        "资讯标题": "OPPO Find N6 折叠手机渲染图再曝：橙色版吸睛",
+        "内容": "OPPO Find N6折叠手机渲染图曝光，新增吸睛的橙色配色。该机采用“无痕钛合金铰链 + 自修复记忆玻璃”，通过莱茵认证，折痕控制出色。配备8.12英寸2K LTPO UTG内屏与6.62英寸外屏，重约225g，支持IP56/58/59级防水。影像系统为哈苏2亿超清四摄，并有望搭载200万像素丹霞色彩还原镜头。核心规格预计包括骁龙8至尊版芯片、6000mAh双电芯电池及80W有线快充，提供最高1TB存储。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/927d6e22-b3a0-4441-927d-911cbbd060a1.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/e5df65ca-eadc-403a-b897-5b7354cd7a86.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "4599 元起苹果最便宜笔记本电脑 MacBook Neo 今启预购：国补叠加教育优惠后 3399 元，粉色基础款最为抢手",
-        "内容": "苹果全新入门级笔记本电脑MacBook Neo于3月6日上午9点开启预购，3月11日正式发售，起售价4599元。该机采用铝金属机身，配备13英寸Liquid视网膜显示屏（无刘海），搭载A18 Pro芯片，提供银、粉、黄、蓝四色可选，全系8GB内存，256GB/512GB两种存储，仅512GB版支持Touch ID。通过教育优惠（立减600元）与国家补贴叠加，最低可至3399元。其中，256GB桃粉色基础款最为抢手，在美国官网已出现发货延迟，预计3月13日至20日送达。",
+        "资讯标题": "惠普官网意外偷跑：首款搭载英特尔酷睿 Ultra 7 270K Plus 电脑曝光",
+        "内容": "惠普澳大利亚官网意外上架新款OMEN 35L游戏台式机，成为首款搭载未发布的英特尔酷睿Ultra 7 270K Plus处理器的产品。该处理器采用Arrow Lake Refresh架构，拥有24核24线程（8P+16E），最高睿频5.5GHz，支持DDR5-7200内存，功耗125-250W。相比现款Ultra 7 265K，新增4个能效核与6MB三级缓存，规格接近旗舰Ultra 9 285K的“青春版”。整机还配备英伟达GeForce RTX 5070显卡、16GB内存与1TB固态硬盘，起售价为5499澳元（约合26646元人民币）。",
         "配图": [
-            "https://img.ithome.com/images/v2/t.png"
+            "https://img.ithome.com/newsuploadfiles/2026/3/2ce97234-6002-4fec-b1a1-01a4dbb406f3.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "华为 Mate 80 Pro Max 手机开放购买：麒麟 9030 Pro 芯片，7999 元起",
-        "内容": "华为Mate 80 Pro Max手机已开放购买，起售价为7999元，预计2026年4月15日前发货。该机搭载麒麟9030 Pro芯片（16GB版本），整机性能相比HarmonyOS 4.3出厂版本的Mate 70 Pro+最高提升42%。作为系列顶配版，其核心升级包括：6000mAh典型电池、100W有线超级快充、5000万像素超长焦摄像头组成的影像系统、第三代玄武钢化昆仑玻璃屏幕，以及天通卫星通信功能。目前华为官网及京东等平台均已开售，部分渠道发货时间可早至4月5日前。全系预装HarmonyOS 6.0系统。",
+        "资讯标题": "三星智能眼镜细节曝光：摄像头与眼睛齐平、手机处理核心数据，采用三方合作模式",
+        "内容": "三星智能眼镜的关键细节已曝光：其摄像头位于与眼睛齐平的位置，可捕捉用户第一视角画面，但核心数据处理（如AI分析、物体识别）主要依赖连接的智能手机完成，以降低眼镜本身功耗与复杂度。产品采用高通（芯片）、谷歌（Android XR平台）与三星（硬件及共同开发）的三方合作模式。三星高管透露，该设备旨在通过AI解读视觉信息并提供实时建议，交互可能借助手机或智能手表。产品规划上，不带显示屏的版本预计2026年晚些时候发布，而配备显示屏的版本则可能推迟至2027年。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/e03fbc06-afb7-4d89-8c8d-825797f75552.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/991cb3a9-408e-4067-81a4-3e50154a9e78.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "AYANEO Pocket AIR Mini x B.Duck 小黄鸭联名限定款掌机亮相，搭载联发科 G90T 芯片",
-        "内容": "AYANEO与B.Duck小黄鸭联名推出Pocket AIR Mini限定款掌机，机身印有小黄鸭元素，主题色为黄色。该机搭载联发科G90T芯片，配备4.2英寸4:3屏幕，采用霍尔摇杆与扳机，内置主动散热风扇，电池容量4500mAh，支持Type-C、3.5mm耳机孔、Micro SD卡槽及Wi-Fi 5G/蓝牙5.0，运行AYANEO自研安卓生态。官方未公布价格，参考原版入门机型售价599元起。",
+        "资讯标题": "苹果 iPhone 17e 手机 Geekbench 跑分曝光：GPU 性能低于 iPhone 17，CPU 几乎持平",
+        "内容": "苹果iPhone 17e的Geekbench跑分曝光，其搭载的A19芯片GPU核心从标准版的5核阉割至4核。跑分显示，iPhone 17e的CPU多核分数（9241分）与iPhone 17标准版（9249分）几乎持平，但GPU性能（Metal分数约31000-31500分）明显低于iPhone 17标准版（约37000分）。文章指出，从实际应用角度看，大多数用户可能不会感受到明显的GPU性能差异。",
         "配图": [
-            "https://img.ithome.com/images/v2/t.png"
+            "https://img.ithome.com/newsuploadfiles/2026/3/17e44562-7100-41ec-98d6-fd49ea14ab49.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "雷鸟 2026 款鹤 7 Pro QD-Mini LED 电视预售：可选 65-98 英寸版本，5999 元起",
-        "内容": "雷鸟2026款鹤7 Pro QD-Mini LED电视已开启预售，提供65、75、85、98英寸四种尺寸，日常价6099元起，券后5999元起，将于3月12日晚8点正式开售。产品采用“极景·无黑边”QD-Mini LED蝶翼华曜屏，具备高分区背光与高亮度（最高3840分区，5000nits），支持原生4K 150Hz刷新率及VRR 300Hz，搭载MT9655芯片、4GB内存、安桥2.2.2 Hi-Fi音响及4路HDMI 2.1接口。",
+        "资讯标题": "苹果设计主管揭秘 MacBook Neo 工艺：大幅削减加工周期、材料用量减半",
+        "内容": "苹果工业设计主管Molly Anderson透露，2026款MacBook Neo在制造工艺上实现重大革新。为保持高品质，团队从零开始设计，坚持使用优质铝材，并摒弃了传统依赖的昂贵数控铣削（CNC）方案。新工艺采用“挤压成型”结合高温高压技术，仅需少量精细机加工，大幅削减加工周期，并将机身材料消耗量减少一半，有效降低成本。同时，该产品贯彻环保理念，整机使用约60%再生材料，其中机身外壳再生铝合金占比高达90%，以支持苹果2030年碳中和目标。MacBook Neo官方定价4599元起，叠加教育优惠及国补后最低可至3399元。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/2ea1fc9b-23f0-44e2-a788-a6559965c82d.png?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/3fb2057e-11f6-4490-8f6f-7f23a7cccc4d.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "维咖 NUT108 铝合金机械键盘发布：套件 499 元起，成品 599 元起",
-        "内容": "维咖（Weikav）发布首款全尺寸铝合金机械键盘NUT108，提供套件（无轴体、键帽）和成品两个版本，起售价分别为499元和599元。键盘采用220目磨砂阳极氧化/电泳工艺外壳，正面有雕刻阳极件、反应堆风格发光件及大理石纹理，背板为双拼色设计，并配备拾音+装饰双灯条实现动态光影互动。内部采用双Gasket结构、碰珠快拆设计，集成1.2mm单键开槽PCB、FR4定位板及五层声学阻尼填充，支持QMK/VIA改键与轴体热插拔，内置10000mAh电池。成品版预装HMX定制烟云轴，键帽为PBT五面热升华。",
+        "资讯标题": "V社声明：Steam Machine 主机仍计划今年发售",
+        "内容": "V社针对Steam Machine等硬件发售计划发表声明，确认三款产品（Steam Machine主机、Steam Frame VR一体机、Steam手柄）仍计划于2026年上市。此前博文“希望于2026年将产品上市”的表述引发疑虑，但V社公关代表澄清“无任何变化”，并更新博文明确“将在今年推出”。此背景是自去年11月发布以来，内存及存储芯片价格上涨给硬件成本带来压力。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/e363ecf7-7f8e-45a5-af53-2d3b5409055b.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/f288b21e-6875-4f03-9076-31333361a7e5.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "aesco 推出三模矮轴机械键盘 A83 Air：圆角美学键帽，到手价 469 元",
-        "内容": "雷柏子品牌aesco推出首款多模矮轴机械键盘A83 Air。该键盘采用75%配列，最薄处仅12.5mm，拥有铝合金喷砂上盖与一体式曲面下盖，并配备2档磁吸式脚撑。其搭载凯华定制全POM“薄荷轴”，支持全键热插拔，采用Gasket结构与5层吸声填充设计。内置3800mAh电池，续航达630小时，支持RGB背光与状态岛灯。键盘配备“圆角美学”PBT双色注塑透光键帽，提供三模连接，到手价为469元，于3月6日20:00发售。",
+        "资讯标题": "映泰推出 H810MT-E 2.0 主板，提供 PCIe Gen5 ×16 插槽",
+        "内容": "映泰（BIOSTAR）推出 H810MT-E 2.0 主板，定位办公生产力与家庭娱乐等日常计算场景。该主板采用非标准 218×240mm M-ATX 板型，配备上下桥供电，支持 2 条 DDR5-6400 内存。其核心扩展性包括 1 条 PCIe Gen5 ×16 插槽、1 条 PCIe Gen4 ×1 插槽、1 个 PCIe Gen4 ×4 M.2 2280 盘位及 4 个 SATA III 接口，并搭载瑞昱 1GbE 有线网卡及无线网卡预留位。后置 I/O 提供 HDMI、DP 1.2 及多个 USB 接口。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/5e6dd0e2-92f7-4424-bf18-cd9de52d380f.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/57c34873-9c83-4439-ac11-88b0024bd28b.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "YUNZII 键设宇宙 C98 三模机械键盘国行发售，489 / 519 元",
-        "内容": "YUNZII 键设宇宙 C98 三模机械键盘国行正式发售。该键盘延续海外市场的“蛋糕猫咪”主题设计，采用95%配列，提供蜜桃奶糕（粉）、芝士牛乳（米）、葡萄啵啵（紫）三种配色。核心配置包括Gasket结构、五层填充、宙座热插拔RGB下灯位PCB及MOA高度PBT热升华键帽。支持有线USB-C、2.4GHz无线与蓝牙5.0三模连接，内置10000mAh大电池。设计上融合猫猫笑脸指示灯、蛋糕夹层硅胶侧裙、猫爪脚撑等萌系元素。价格方面，椰奶V2轴款售价489元，糖果轴款售价519元。",
+        "资讯标题": "七彩虹 iGame GeForce RTX 5070 Ti Ultra Black 显卡外观曝光",
+        "内容": "七彩虹将推出新款iGame GeForce RTX 5070 Ti Ultra Black显卡。该产品属于iGame Ultra系列，主打年轻时尚艺术风格。与现有以嘻哈文化为灵感、采用白底桃粉配色的Ultra W型号不同，Ultra Black版本采用黑底搭配紫色装饰的配色方案，外观模具与Ultra W类似。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/ce7a4936-6e39-4026-ace0-606afc8b59a8.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/3a9a8da8-0a42-411d-8d6e-47ff723a6c27.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     }
 ]

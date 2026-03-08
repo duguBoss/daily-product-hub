@@ -1,58 +1,58 @@
 [
     {
         "资讯标题": "消息称某厂今年新机有阔屏大折叠、阔屏直板机、超大屏 Air 等，预计为华为",
-        "内容": "根据数码博主爆料，华为预计在2026年推出三款新手机，包括阔屏大折叠（可能为Pura X2，配7.69英寸内屏和5.5英寸外屏，搭载麒麟9030）、阔屏直板机（工程机6.39英寸±1.5K OLED屏，16:9/16:10比例，定位高端，暂定Q4发布）以及超大屏Air（参考Mate 70 Air的7英寸屏设计）。目前均为传闻，具体信息待官方公布。",
+        "内容": "据博主@数码闲聊站爆料，华为计划在2026年推出多款新形态手机，包括阔屏大折叠（预计为Pura X2）、阔屏直板机及超大屏 Air。其中，阔屏大折叠Pura X2将配备7.69英寸WQHD+内屏和5.5英寸外屏，升级麒麟9030芯片并加入长焦镜头。阔屏直板机工程机已测试6.39英寸±1.5K OLED屏幕，比例约为16:9或16:10。超大屏 Air 暂无具体信息，可参考前代华为Mate 70 Air（7英寸屏，6.6mm厚）。部分机型内部排期暂定2026年第四季度。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/3/d073748d-c2c2-47a6-83b0-335d7e942f8a.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
         "资讯标题": "OPPO 回应 realme 真我暂停新机研发，称相关工作均正常进行中",
-        "内容": "针对realme真我疑似暂停2026年新品手机研发的传闻，OPPO官方回应称相关产品研发工作均正常进行中。此前在今年1月，realme已宣布回归OPPO成为旗下子品牌，由realme CEO李炳忠领导整体业务，并计划于今年4月全面接入OPPO售后服务体系。",
+        "内容": "针对realme真我疑似暂停2026年新机研发的传闻，OPPO官方回应称相关产品研发工作均正常进行中。背景是realme已于今年1月正式回归OPPO，成为旗下子品牌，由realme CEO李炳忠领导整体业务，并计划于今年4月全面接入OPPO售后服务体系。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/3/9e38dfbb-1c64-4b94-84e2-7c4eebb5c261.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
         "资讯标题": "苹果 M5 Pro 芯片 GeekBench 跑分曝光：多核破 2.8 万，逼近 M3 Ultra",
-        "内容": "苹果新一代M5 Pro芯片在GeekBench 6.5跑分库中曝光，其多核成绩达28111分，非常接近前代旗舰M3 Ultra的28169分。该芯片采用台积电第三代3纳米工艺（N3P），配备18核CPU（6个超级核心+12个性能核心）和最高20核GPU，支持64GB统一内存，带宽提升至307GB/s。其最大亮点是采用“融合架构”（Fusion Architecture），通过先进封装技术将两个芯片模组连接，以实现高带宽、低延迟的单芯片体验。",
+        "内容": "苹果M5 Pro芯片在GeekBench 6.5跑分库中曝光，单核得分4242，多核得分28111，多核性能已非常接近M3 Ultra（28169分）。该芯片采用台积电N3P工艺，配备18核CPU（6超级核+12性能核）和最高20核GPU，支持64GB统一内存，内存带宽达307GB/s。其最大亮点是采用“融合架构”（Fusion Architecture），通过先进封装技术将两个芯片模组连接，实现高带宽、低延迟的单芯片体验。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/3/70daf528-4231-4bf6-8acc-5ff93da0d613.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "苹果 iPhone 17e 手机 Geekbench 跑分曝光：GPU 性能低于 iPhone 17，CPU 几乎持平",
-        "内容": "iPhone 17e搭载的A19芯片CPU多核性能与iPhone 17标准版几乎持平（跑分9241 vs 9249），但GPU因核心数从5核缩减至4核，导致Metal图形跑分显著较低（约31000-31500分 vs 37000分）。尽管跑分数据差距明显，但文章指出多数用户在日常使用中可能难以察觉GPU性能差异，且前代iPhone 16e同样采用4核GPU设计。",
+        "资讯标题": "Mac mini 不止养 AI 龙虾：苹果 M4 算力机密被破解，Claude 立新功",
+        "内容": "开发者Manjeet Singh利用Claude逆向工程苹果M4芯片的神经引擎（ANE），成功绕过CoreML框架，实现直接在ANE硬件上进行AI训练。测试显示ANE能效比极高（6.6 TFLOPS/W），可训练单层Transformer及1.1亿参数模型，但当前利用率仅2-3%且工程挑战大。这开启了低成本设备端AI训练时代，但尚无法替代GPU训练。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/17e44562-7100-41ec-98d6-fd49ea14ab49.png?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/03e23ea1-3710-4549-939d-7e232d9d7eaf.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "苹果 2026 款 M5 芯片 MacBook Air 跑分再曝：单核比 M4 款高 9.34%、多核高 13.56%",
-        "内容": "科技媒体曝光了苹果未发布的2026款M5芯片MacBook Air的GeekBench跑分数据。与2025款M4芯片MacBook Air相比，M5版单核成绩为4190分，提升9.34%；多核成绩为17073分，提升13.56%。其多核性能比M3 Pro芯片的MacBook Pro快约16%。但由于MacBook Air的轻薄无风扇设计及产品定位，其绝对性能仍低于搭载M4 Pro及更新旗舰芯片的MacBook Pro机型。",
+        "资讯标题": "红魔姜超谈手机风冷散热：曾经嘲讽没用的友商现在跟风做",
+        "内容": "红魔游戏手机产品总经理姜超在视频中回顾了其风冷散热技术的发展历程。2018年，红魔在MWC展示风冷散热概念手机时遭质疑；2019年，红魔3作为全球首款内置离心风扇的电竞手机上市，却被部分友商批评为“徒增功耗的营销噱头”。此后红魔持续投入研发，将风扇转速从1400转/分提升至24000转/分，性能近乎翻倍。如今，曾嘲讽该技术的友商已纷纷跟风采用内置风扇设计。红魔最新推出的红魔11 Pro系列是行业首款“风水双冷”手机，搭载第五代骁龙8至尊版芯片，配备AI服务器同款宽温域散热液及转速达24000r/min的“驭风4.0”风扇，起售价4999元。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/a6fcffc2-de0d-4384-b2cc-a8543677b666.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/679653f0-6eaa-40d3-94f0-ac0b04ac6432.png?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "一加磁吸冰冰卡轻薄散热器亮相官网，消息称平均厚度不到 1cm",
+        "内容": "一加磁吸冰冰卡轻薄散热器已正式亮相OPPO官网，目前仅公布了暗星白一种配色。该产品预计将伴随一加15T等新品一同发布。据此前报道消息，此款散热器是行业首款超薄磁吸散热器，其平均厚度不到1厘米，主打极致轻薄设计。官网暂未公布具体配置参数。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/88a54612-0472-459e-838b-c13d91b289a3.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "苹果 M5 MacBook Air 游玩《赛博朋克 2077》等 3A 游戏功耗仅 7-8W",
+        "内容": "科技媒体NoteBook Check评测显示，搭载精简版M5芯片（8核GPU）的13英寸无风扇MacBook Air，在运行《赛博朋克 2077》等3A游戏时，整机功耗仅6.9-7.8W。虽然1080P Ultra画质下帧率较低（约19.6FPS），但降低画质并启用MetalFX技术后，游戏可流畅运行且不降频。其游戏能效比达1.107 FPS/W，优于有风扇散热的14英寸M5 MacBook Pro。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/1d08b1d6-4099-45db-b8d2-925bfb187eb1.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
         "资讯标题": "苹果 iPhone 17e 发布：搭载 A19 芯片、支持 MagSafe，4499 元起",
-        "内容": "苹果于2026年3月2日发布iPhone 17e，搭载新一代A19芯片及C1X基带（网速较前代提升最高2倍），起步容量256GB，国行售价4499元起。配备6.1英寸超视网膜XDR显示屏，支持MagSafe磁吸充电。后置4800万像素融合式摄像头，支持光学级2倍长焦及新一代人像模式。新增卫星通信功能（含紧急求救等），提供黑、白、柔粉三款哑光配色。该机将于3月4日晚预购，3月11日正式发售。",
+        "内容": "苹果于2026年3月2日发布新款iPhone 17e，国行起售价4499元，3月4日晚10:15开启预购，3月11日正式发售。核心配置包括：搭载新一代A19芯片（3纳米工艺）及自研C1X基带（网速较前代提升最高2倍，功耗降低30%）；配备6.1英寸超视网膜XDR显示屏，采用超瓷晶面板2，抗刮擦性能提升3倍；后置4800万像素融合式摄像头，支持光学级2倍长焦、4K杜比视界视频及新一代人像模式；支持MagSafe与Qi2无线快充（最高15W）；新增卫星通信功能（含紧急求救、道路救援等）；提供黑色、白色、柔粉色三款哑光配色；机身采用航空级铝合金，具备IP68防护等级。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/933be4eb-50dd-450f-ba3c-fe59c5673633.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "苹果最便宜笔记本 MacBook Neo 发布：搭载 A18 Pro 处理器、没有刘海，售价 4599 元起",
-        "内容": "苹果发布最便宜笔记本MacBook Neo，起售价4599元。该机搭载iPhone 16 Pro同款A18 Pro处理器，采用无风扇静音设计。配备13英寸Liquid Retina显示屏（2408×1506分辨率），无刘海，提供银色、桃粉、柑橘黄、靛蓝四种配色。机身重1.23千克，拥有双USB-C接口、1080p摄像头及杜比全景声扬声器。提供8GB+256GB（4599元）和8GB+512GB（5299元）两种配置，3月6日预购，3月11日正式发售，旨在吸引Chromebook及低端Windows用户。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/4b6da6e3-cacb-4f72-9986-6389161739b7.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "苹果发布搭载 M5 Pro/M5 Max 芯片款 MacBook Pro：17999 元起，3 月 11 日发售",
-        "内容": "苹果发布新款MacBook Pro，搭载M5 Pro/M5 Max芯片，3月4日晚22:15开启预购，3月11日正式发售，起售价17999元。性能方面，M5 Pro较M1 Pro最高提速7.8倍，M5 Max较M1 Max最高提速8倍，满足专业工作负载。配备14/16英寸XDR显示屏，对比度100万:1，最高亮度1600尼特，支持ProMotion自适应刷新率。新增Apple N1无线芯片，支持Wi-Fi 7、蓝牙6及Thread。接口包括MagSafe 3、三个雷雳5（USB-C）、HDMI及SDXC卡槽。重量与上代M4系列相近，可选配至高18核CPU/40核GPU的M5 Max芯片、128GB内存及8TB固态硬盘。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/d3ce572a-5927-4cc5-8a68-e40de63718ba.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/images/v2/t.png"
         ]
     }
 ]

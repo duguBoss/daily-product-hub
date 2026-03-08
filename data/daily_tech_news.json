@@ -1,58 +1,58 @@
 [
     {
-        "资讯标题": "消息称苹果 iPhone 17 系列手机国内销量突破 2000 万，华为 Mate 80 系列约 405.48 万",
-        "内容": "根据微博博主@RD观测截至2026年第九周的数据，苹果iPhone 17系列在中国国内市场销量约为2383.97万部，大幅领先。华为Mate 80系列销量约为405.48万部，位居第二。其他品牌旗舰系列销量分别为：OPPO Find X9系列约144.34万部，vivo X300系列约173.39万部，小米17系列约391.67万部（含Ultra）。此前数据还显示，iPhone 17 Pro Max单款机型在中国市场用时150天激活销量突破1000万台，均价约10800元。",
+        "资讯标题": "古尔曼：苹果今年将推出首款触控 OLED 屏 MacBook Pro",
+        "内容": "根据彭博社马克·古尔曼爆料，苹果计划于2026年底推出全新MacBook Pro，这将是Mac系列首款配备触控屏与OLED显示屏的机型。新品预计搭载M6 Pro/Max芯片，此次更新幅度大于刚发布的M5 Pro/Max芯片机型，且苹果可能在一年内进行两次重大芯片升级。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/51705475-6b95-49c0-95e9-dcc78ff61ec6.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/d34789df-e4e8-48dc-92ad-cb5e0e58599a.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
         "资讯标题": "苹果 M5 MacBook Air 游玩《赛博朋克 2077》等 3A 游戏功耗仅 7-8W",
-        "内容": "科技媒体NoteBook Check评测了无风扇设计的入门配置13英寸M5 MacBook Air（GPU为8核）。测试显示，其在运行《赛博朋克2077》等3A游戏时，SoC功耗仅6.9-7.8W，低于8W理论上限。在1080P Ultra画质下可达到约19.6FPS，连续运行一小时性能不降；若降低画质并启用MetalFX技术，游戏可流畅运行且不降频。其游戏能效比达1.107 FPS/W，整机功耗约19W，能效表现优于有风扇散热的14英寸M5 MacBook Pro。这证明了无风扇MacBook Air在游戏场景下具备出色的能效控制能力。",
+        "内容": "科技媒体NoteBook Check测试了无风扇设计的苹果M5 MacBook Air（入门款13英寸，8核GPU）的游戏能效。测试显示，在运行《赛博朋克 2077》等3A游戏时，SoC功耗仅6.9-7.8W，显著低于其8W的理论上限。1080P Ultra画质下可维持约19.6FPS且一小时不降频。通过降低画质并启用MetalFX技术，可实现流畅游戏体验。其整机功耗约19W，能效比（1.107 FPS/W）优于有风扇的14英寸M5 MacBook Pro。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/3/1d08b1d6-4099-45db-b8d2-925bfb187eb1.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "王腾：内存二季度还要继续涨价，手机行业估计今年各家会有一波大裁员",
-        "内容": "宜休科技创始人王腾（原小米高管）发文称，内存价格在2026年第二季度将继续上涨，且恢复正常供需预计要到2028年，因存储产能扩张需2-3年。他同时预警，手机行业今年可能面临一波大裁员。此观点与小米卢伟冰此前判断（存储涨价将持续至2027年底）及雷军提及的AI需求暴涨导致芯片短缺的背景一致，反映了当前消费电子行业面临的成本与市场压力。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/8e1d297a-b55f-47a1-b709-770bc934ec89.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "突破 400 万大关：消息称华为 Mate 80 系列旗舰手机销量约 405.48 万台",
-        "内容": "据博主@RD观测数据，截至2026年第九周，华为Mate80系列手机销量约405.48万台，成功突破400万大关。该系列于2025年11月25日发布，包含Mate80、Pro、Pro Max及RS非凡大师等型号，搭载麒麟9020/9030系列处理器，首发HarmonyOS 6系统，售价4699元起。目前Mate80 Pro及Pro Max机型已开放购买。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/844c1ae8-b92c-41b3-afff-90efa7d8260b.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
         "资讯标题": "Mac mini 不止养 AI 龙虾：苹果 M4 算力机密被破解，Claude 立新功",
-        "内容": "开发者Manjeet Singh利用Claude逆向工程苹果M4芯片的神经引擎（ANE），绕过CoreML框架限制，直接操控硬件实现AI训练。成功在ANE上训练了单层Transformer（9.3毫秒/步）及1.1亿参数的Stories110M模型，能效比高达6.6 TFLOPS/W，远超GPU。分析表明ANE本质为卷积引擎，需构建深度图、控制数据在32MB SRAM内以达峰值性能。苹果宣称的“38 TOPS”实际为FP16算力19 TFLOPS，INT8未提升速度。此举证明ANE可用于高效训练，开启低成本本地AI训练时代。",
+        "内容": "开发者Manjeet Singh利用Claude逆向工程苹果M4芯片的神经引擎（ANE），绕过CoreML框架，直接操控硬件实现AI模型训练。成功在ANE上训练了单层Transformer及1.1亿参数的微型GPT模型（Stories110M），能效比高达6.6 TFLOPS/W，远超GPU（如A100的80倍）。研究揭示ANE性能关键：需构建深度计算图、优先使用1x1卷积、控制数据在32MB SRAM内，并指出CoreML引入2-4倍开销。苹果宣称的“38 TOPS”实际为19 TFLOPS FP16，INT8未带来加速。此突破使低成本、本地化AI训练成为可能，颠覆传统依赖云端GPU的模式。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/3/03e23ea1-3710-4549-939d-7e232d9d7eaf.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "苹果以抽象视频营销 MacBook Neo 吸引 Z 世代关注，甚至有人怀疑被盗号",
-        "内容": "苹果为推广新款MacBook Neo笔记本，在TikTok平台发布了一系列刻意抽象、古怪的短视频进行营销。视频内容包含柠檬接FaceTime、访达图标脸红、柑橘水果漂浮等荒诞画面，对应桃粉色、柑橘黄色等多彩机身配色。这种非常规的“荒诞主义营销”成功吸引了Z世代用户的关注，引发部分网友怀疑其账号被盗，但也有人表示赞赏。值得注意的是，苹果罕见地开放了视频评论区供用户讨论，并在直播中展示了以访达图标为原型的“访达小人”人偶。此举被视为苹果在营销策略上放低姿态、积极贴近年轻消费者的明确信号。",
+        "资讯标题": "千问 AI 眼镜 G1 现货全渠道暂时售罄：明天 10 点预售，叠加国补价 1997 元起",
+        "内容": "千问AI眼镜G1于3月8日开售后全渠道暂时售罄，将于3月9日上午10点开启全渠道预售，下单后7天内发货。产品官方标价2899元，叠加国家补贴及优惠后，到手价低至1997元起。核心特性包括：整机重约41克，配备64GB本地存储、骨传导精准收音与Super RAW暗光增强技术；右镜腿采用热插拔换电设计实现接力续航；提供威灵顿框蔡司防蓝光镜片及7款针对户外场景的彩色镜片。本月底将通过与千问App打通，逐步实现点外卖、订酒店、打车等“AI办事”功能，并计划年内登陆国际市场。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/dfd9e37b-82e6-41c9-bff6-d851464faaba.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/d40a017c-ea17-48cb-98a2-e34885fa3a50.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "郭明錤：苹果第二代 MacBook Neo 明年推出，有望配备触摸屏",
-        "内容": "分析师郭明錤预测，苹果第二代MacBook Neo预计于2027年推出，有望配备采用on-cell触控技术的触摸屏，以降低机身厚度。初代MacBook Neo已发布，搭载A18 Pro芯片，13英寸Liquid Retina显示屏，起售价599美元。苹果首款触屏Mac（高端MacBook Pro）预计今年推出，搭载OLED屏幕与新设计，macOS 27将加入触屏支持。此外，Neo品牌可能扩展至Apple Watch SE等低价设备。",
+        "资讯标题": "iQOO Z11 手机官宣本月见：165Hz 电竞屏 +9020mAh 电池",
+        "内容": "iQOO官方宣布，全新iQOO Z11手机将于2026年3月发布。该机是iQOO系列中首款搭载165Hz高刷新率电竞屏，并配备目前系列最大的9020mAh电池，主打电竞体验与超长续航。作为参考，此前发布的iQOO Z11 Turbo已搭载第五代骁龙8处理器与2亿像素主摄。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/94325832-5c67-4c92-b68a-b14c1bbca9d8.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/99fd4773-a6c5-4c92-866a-0d032f0ccb83.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "雷蛇毒蝰 Viper V4 Pro 专业版鼠标再曝光：搭载 Focus Pro 50K 传感器",
+        "内容": "雷蛇毒蝰 Viper V4 Pro 专业版鼠标近期通过 Reddit 上的包装盒实物爆料再次曝光。其核心规格包括：搭载支持 50000 DPI 的 Focus Pro 50K 传感器、第 4 代光学鼠标微动、光学滚轮，支持 HyperSpeed Wireless Gen-2 无线技术，无线续航达 180 小时，整体重量为 49g。该鼠标在微动、滚轮和无线技术上与炼狱蝰蛇 V4 Pro 专业版相同，但首发新款传感器；相较于上代毒蝰 Viper V3 Pro 专业版，则实现了进一步减重并提升续航。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/9cbe2455-666b-4ef2-95ca-096be1eee315.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
         "资讯标题": "消息称苹果今年将推出三款 Ultra 级新品：iPhone Ultra、AirPods Ultra、MacBook Ultra",
-        "内容": "据彭博社马克·古尔曼消息，苹果计划今年推出至少三款Ultra级新品：首款折叠屏iPhone Ultra（售价约2000美元，配备超大内屏与屏下传感器）、搭载计算机视觉摄像头的AirPods Ultra（定位高于Pro），以及采用触控OLED屏的MacBook Ultra（价格较现款M5 Pro/Max版最高上涨20%，定位更高而非取代）。这些产品旨在拓展超高端市场，未来可能延伸至折叠屏iPad和更强性能的iMac。但苹果未必为所有新品采用“Ultra”命名。",
+        "内容": "据彭博社马克·古尔曼爆料，苹果计划于2026年推出至少三款Ultra级新品。包括：售价约2000美元的首款折叠屏iPhone Ultra，配备超大内屏与屏下传感器；搭载计算机视觉摄像头以增强Siri视觉智能的AirPods Ultra；以及采用触控OLED屏幕、价格最高上涨20%、定位高于现款M5 Pro/Max版MacBook Pro的MacBook Ultra。古尔曼指出，苹果未必会为所有产品采用Ultra命名，并预计未来该超高端策略可能拓展至iPad和iMac等产品线。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/3/e7ecc989-c34a-4770-946d-4cf91311bce5.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "英特尔锐炫 Arc Pro B70 显卡现身官网，有望近期推出",
+        "内容": "英特尔锐炫 Arc Pro B70 专业显卡已现身英特尔官网支持页面，正式确认其存在并预示近期发布。该显卡基于“Battlemage”架构，采用完整规格的 BMG-G31 GPU 核心，配备 32 个 Xe-core 及 256-bit 位宽的 32GB GDDR6 显存。预计英特尔可能于 3 月 11 日发布酷睿 Ultra 200 Plus 处理器时同步推出此卡。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/0f61a06b-984c-43a8-8444-5ae2c42560bb.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     }
 ]

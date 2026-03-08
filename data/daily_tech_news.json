@@ -1,58 +1,51 @@
 [
     {
         "资讯标题": "消息称苹果 iPhone 17 系列手机国内销量突破 2000 万，华为 Mate 80 系列约 405.48 万",
-        "内容": "根据微博博主@RD观测发布的2026年第九周国内旗舰手机销量数据，苹果iPhone 17系列以约2383.97万部销量位居第一，华为Mate 80系列以约405.48万部位居第二，小米17系列约391.67万部排名第三。此前数据还显示，iPhone 17 Pro Max单品在中国市场激活销量在150天内突破1000万台，均价约10800元。",
+        "内容": "根据博主@RD观测数据，截至2026年第九周，苹果iPhone 17系列国内销量约2383.97万，大幅领先市场。华为Mate 80系列销量约405.48万，位居第二。此前报道显示，iPhone 17 Pro Max在150天内单品激活销量突破1000万台，均价约10800元。其他品牌如OPPO Find X9系列、vivo X300系列、小米17系列销量相对较低。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/3/51705475-6b95-49c0-95e9-dcc78ff61ec6.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "古尔曼：苹果今年将推出首款触控 OLED 屏 MacBook Pro",
-        "内容": "据彭博社马克·古尔曼爆料，苹果计划于2026年底推出大幅更新的MacBook Pro，这将是Mac系列首款搭载触控屏与OLED显示屏的机型。该产品预计将配备M6 Pro/Max芯片，相比刚发布的M5 Pro/Max芯片版本是一次更显著的硬件革新。",
+        "资讯标题": "苹果 M5 MacBook Air 游玩《赛博朋克 2077》等 3A 游戏功耗仅 7-8W",
+        "内容": "科技媒体NoteBook Check评测显示，搭载精简版M5芯片（8核GPU）的13英寸无风扇MacBook Air在运行《赛博朋克 2077》等3A游戏时能效出色。在1080P分辨率下，游戏SoC功耗仅6.9-7.8W，低于其8W理论功耗上限，且连续运行一小时未出现降频。虽然Ultra画质下帧率约19.6FPS，但降低画质并启用MetalFX技术后可实现流畅游玩。其游戏能效比达1.107 FPS/W，整机功耗约19W，表现优于有风扇的14英寸M5 MacBook Pro。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/d34789df-e4e8-48dc-92ad-cb5e0e58599a.png?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/1d08b1d6-4099-45db-b8d2-925bfb187eb1.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "消息称苹果今年将推出三款 Ultra 级新品：iPhone Ultra、AirPods Ultra、MacBook Ultra",
-        "内容": "根据彭博社马克·古尔曼消息，苹果计划今年推出三款Ultra级新品：首款折叠屏iPhone Ultra（售价约2000美元，配备超大内屏与屏下传感器）、搭载计算机视觉摄像头的AirPods Ultra（为Siri提供视觉智能），以及采用触控OLED屏的MacBook Ultra（价格最高上涨20%，定位高于现款Pro）。苹果未来还可能拓展至Ultra级iPad和iMac。但古尔曼指出，Ultra命名未必会用于所有新品。",
+        "资讯标题": "小米首款增程 SUV“YU9”真灯上车，路测视频曝光",
+        "内容": "小米首款增程SUV（代号“昆仑”，有望命名YU9）最新路测视频曝光，测试车已装配真灯并上路，可见刹车灯点亮效果。新车延续小米家族式设计，配备标志性水滴后视镜与竖状尾灯，并有望采用“天地门”后备箱。车身尺寸预计车长超5.2米，车高约1.8米。根据此前报道，该车定位大型D级混动SUV，计划于2026年发布。小米今年预计将推出4款新车，包括YU9在内的两款增程SUV。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/e7ecc989-c34a-4770-946d-4cf91311bce5.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/b5106210-0d2a-4166-84bc-a03a3a4a4c9a.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "三星 Galaxy S26 系列韩国预售量创 S 系列之最，7 天达 135 万部",
-        "内容": "三星Galaxy S26系列在韩国开启预售，仅7天销量即达135万部，创下Galaxy S系列最高预售纪录。此前S25系列用11天售出130万部。本次预售中，最高端机型S26 Ultra占比高达70%。该系列将于3月11日在韩国正式上市，国内起售价为9999元，主要亮点包括原生硬件防窥屏幕、定制芯片及四摄系统等。",
+        "资讯标题": "王腾：内存二季度还要继续涨价，手机行业估计今年各家会有一波大裁员",
+        "内容": "宜休科技创始人王腾（原小米高管）表示，内存价格在2026年第二季度将继续上涨，预计恢复正常需至2028年，因存储产能扩张需2-3年。他同时预测，受成本压力影响，手机行业今年可能迎来一波大裁员。此观点与小米卢伟冰此前判断（涨价持续至2027年底）及雷军提及的AI需求导致芯片短缺相呼应，共同反映当前消费电子行业面临的严峻成本挑战。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/ed59fe99-7517-4014-a08b-bda7fe796d5e.jpg?x-bce-process=image/quality,q_75/format,f_webp/auto-orient,o_1"
+            "https://img.ithome.com/newsuploadfiles/2026/3/8e1d297a-b55f-47a1-b709-770bc934ec89.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "英伟达 RTX 50 系列显存频率限制被破解，RTX 5070 Ti 被超频至 36 Gbps",
-        "内容": "巴西Teclab团队成功破解英伟达RTX 50系列显卡的显存频率限制。他们使用影驰RTX 5070 Ti显卡，通过一种在逻辑或底层初始化层面“欺骗”GPU频率管理机制的新方法，使GDDR7显存实际运行速度超过36 Gbps（18000 MHz+），远超官方28-30 Gbps的标称值。该方法无需更换显存颗粒，监控软件显示频率较低但实际性能提升，在Unigine Superposition测试中跑分达11993分。三星、美光等厂商的36 Gbps显存预计年底或2027年上市。",
+        "资讯标题": "突破 400 万大关：消息称华为 Mate 80 系列旗舰手机销量约 405.48 万台",
+        "内容": "据博主@RD观测数据，截至2026年第9周，华为Mate 80系列旗舰手机累计销量约405.48万台，成功突破400万大关。该系列于2025年11月25日发布，搭载麒麟9020/9030/9030 Pro处理器，首发HarmonyOS 6系统，起售价4699元。经历初期缺货后，目前Mate 80 Pro（16GB规格）及Pro Max机型已开放购买。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/cda0bfa6-a0b8-43de-a627-580b82325949.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/images/v2/t.png"
         ]
     },
     {
-        "资讯标题": "英特尔“Panther Lake - H”移动端处理器细节大曝光，采用分离式芯片设计",
-        "内容": "英特尔Panther Lake-H移动处理器采用分离式芯片设计，包含基底、SoC、Graphics和I/O四个Tile。SoC Tile（18A工艺）集成CPU核心（4P+8E+4LPE）、NPU及内存控制器；Graphics Tile（Intel 3工艺）含核显单元；I/O Tile（N6工艺）提供PCIe 5.0/4.0、雷电5及Wi-Fi 7。该设计延续了Arrow Lake与Lunar Lake思路，但各Tile工艺与配置不同。信息基于Kurnal Insights发布的Die-Shot（芯片裸片图）分析。",
+        "资讯标题": "Mac mini 不止养 AI 龙虾：苹果 M4 算力机密被破解，Claude 立新功",
+        "内容": "开发者Manjeet Singh利用Claude AI逆向工程苹果M4芯片的神经引擎（ANE），成功绕过CoreML框架限制，直接在ANE硬件上实现AI模型训练。关键成果包括：训练单层Transformer（9.3毫秒/步，能效6.6 TFLOPS/W，为A100的80倍）及1.1亿参数的Stories110M模型，功耗极低。技术突破在于通过私有API直接操控ANE，并发现ANE更适合卷积运算、需构建深度图网络以填满流水线，且实际峰值算力为19 TFLOPS FP16（非宣称的38 TOPS INT8）。此举证明NPU训练可行且能效极高，或将开启低成本设备端AI训练革命，使Mac成为本地训练大模型的超级计算机。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/502ec1f0-acec-4561-98ac-8a43d1db1c5f.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/03e23ea1-3710-4549-939d-7e232d9d7eaf.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "索尼 PS6 性能目标曝光：开启光追后实现 4K 120 帧",
-        "内容": "知名爆料者“摩尔定律已死”透露，索尼PS6性能目标为开启光追时实现4K 120帧输出。据此前爆料，其光栅化性能约为PS5的2.5-3倍，光追性能提升6-12倍；相比PS5 Pro，光栅化性能提升约2倍，光追性能提升3-6倍。这得益于RDNA 5 GPU与Zen 6 CPU。但原生4K 120帧+光追可能难以实现，预计将依赖AI超分技术PSSR。发售时间预计为2027年末至2028年初，不会延期。",
+        "资讯标题": "比亚迪 2026 款仰望 U8 全新内饰官图公布，新车售价 100.8 万元起",
+        "内容": "比亚迪于2026年3月8日发布了2026款仰望U8的全新内饰官图，新车售价为100.8万元起。内饰提供昆仑棕、丹霞橙、烟岚紫、远山灰等配色。配置方面，车辆配备前后排多向电动调节、加热、通风、按摩座椅，车载冰箱，空气绿净系统，以及DiLink 300智能座舱。车内搭载12.8英寸OLED星河曲面中控屏、双23.6英寸仪表与副驾屏、双12.8英寸后排屏等，支持AI语音、无麦K歌和UWB数字钥匙。动力搭载PHEV 2.0T发动机与易四方四电机，系统最大功率880kW，最大扭矩1520N·m，CLTC纯电续航230km，综合续航1205km。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/ff7e95d4-31f7-4ebd-a2da-3a112b2a096e.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "2549 元“千问 AI 眼镜”G1 今日开售：叠加国补后 1997 元起",
-        "内容": "千问AI眼镜G1于3月8日正式开售，原价2549元，叠加国家补贴后到手价1997元起。作为千问首款AI硬件，其搭载最新千问大模型，支持AI翻译、高清拍摄、会议记录、识图识物等功能。硬件采用双旗舰芯片、五麦克风阵列及骨传导设计，整机重约40克，支持可换电。影像方面具备0.6秒极速抓拍、3K视频录制，并通过AI技术输出4K视频。产品同时推出墨镜款及7种多彩镜片，并计划于2026年内进军国际市场，适配Spotify、Google Maps等海外服务。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/428e4eb8-a3a2-49c7-82f7-a0efdd14cda1.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/1726758a-d7f9-4dcf-bc0b-75186deba90a.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     }
 ]

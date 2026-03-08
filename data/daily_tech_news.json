@@ -1,58 +1,58 @@
 [
     {
-        "资讯标题": "苹果 M5 Pro 芯片 GeekBench 跑分曝光：多核破 2.8 万，逼近 M3 Ultra",
-        "内容": "苹果新一代M5 Pro芯片在GeekBench 6.5跑分库中曝光，其搭载18核CPU（6个超级核心+12个性能核心）与最高20核GPU，单核得分4242分，多核得分高达28111分，性能已非常接近上一代旗舰M3 Ultra（多核28169分）。该芯片采用台积电N3P工艺，最高支持64GB统一内存，带宽达307GB/s。其最大技术亮点是采用“融合架构”，通过先进封装将两个芯片模组连接，实现高带宽、低延迟的单芯片体验。",
+        "资讯标题": "索尼 PS6 性能目标曝光：开启光追后实现 4K 120 帧",
+        "内容": "根据知名爆料者“摩尔定律已死”透露，索尼下一代主机PlayStation 6（PS6）的性能目标是在开启光线追踪的同时，实现4K分辨率下120帧的输出。为实现这一目标，PS6预计将高度依赖索尼的AI超分技术PSSR。规格方面，其光栅化性能可能达到PS5的2.5至3倍，光追性能则有6至12倍的提升，相比PS5 Pro的光栅化提升约2倍，光追提升3至6倍。硬件上将采用基于RDNA 5架构的下一代GPU和Zen 6架构的CPU。发售时间方面，爆料者认为索尼仍计划于2027年末至2028年初推出，延期可能性不大。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/70daf528-4231-4bf6-8acc-5ff93da0d613.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/ff7e95d4-31f7-4ebd-a2da-3a112b2a096e.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "2549 元“千问 AI 眼镜”G1 今日开售：叠加国补后 1997 元起",
-        "内容": "千问AI眼镜G1于2026年3月8日正式开售，定价2549元，叠加国家补贴后到手价1997元起。该产品搭载千问大模型，支持高精度多模态交互，核心功能包括高清拍摄（0.6秒抓拍、3K视频、AI超分至4K）、AI翻译、会议记录与识图识物。硬件采用双旗舰芯片、五麦克风阵列及骨传导设计，整机重约40克，配备64GB存储。产品提供墨镜款及7种配色，并计划于2026年内进军国际市场，适配Spotify、Google Maps等海外服务。",
+        "资讯标题": "英伟达 RTX 50 系列显存频率限制被破解，RTX 5070 Ti 被超频至 36 Gbps",
+        "内容": "巴西Teclab团队成功破解英伟达RTX 50系列显卡的显存频率限制，将RTX 5070 Ti的GDDR7显存超频至36 Gbps。该团队通过底层逻辑“欺骗”GPU频率管理机制，使监控软件误报频率，但实际性能提升。官方RTX 50系列显存标称速度为28-30 Gbps，常规超频工具仅能提升+3000 MHz。测试显示，超频后显卡在Unigine Superposition中得分达11993分。三星、美光等厂商正在研发36 Gbps显存，预计2026年底或2027年上市。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/428e4eb8-a3a2-49c7-82f7-a0efdd14cda1.jpg"
+            "https://img.ithome.com/newsuploadfiles/2026/3/cda0bfa6-a0b8-43de-a627-580b82325949.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "vivo Y37+ 手机现身官网：6000mAh 电池、天玑 6300 处理器，8GB+256GB 定价 1599 元",
-        "内容": "vivo Y37+ 手机已登陆官网，定位入门级市场。核心配置包括：搭载天玑6300处理器，内置6000mAh五年长寿大电池并支持44W快充，配备6.74英寸LCD护眼屏（90Hz刷新率，1600×720分辨率）。影像方面，前置500万像素，后置1300万像素单摄。此外，该机支持NFC和红外遥控功能，并获得SGS五星整机抗跌耐摔认证。提供曜石黑、琉璃青、日照金山三种配色，8GB+256GB版本售价为1599元。",
+        "资讯标题": "英特尔“Panther Lake - H”移动端处理器细节大曝光，采用分离式芯片设计",
+        "内容": "英特尔Panther Lake-H移动端处理器采用分离式芯片设计，整体布局思路类似Lunar Lake。其由四个主要Tile组成：SoC Tile（18A工艺，含CPU核心、NPU及内存控制器）、Graphics Tile（Intel 3工艺，含4个Xe核心）、I/O Tile（N6工艺，含PCIe 5.0/雷电5控制器及Wi-Fi 7）以及作为中介层的基底Tile（22nm）。Compute Tile具体配置为4个Cougar Cove性能核（P核，最高5.10GHz）+2个Darkmont效率核（E核，最高3.80GHz），共享18MB L3缓存，支持最高9600MT/s的DDR5/LPDDR5X内存，并集成Intel NPU 5。Graphics Tile拥有12个Xe核心（Xe3架构）和16MB L2缓存。I/O Tile提供4条PCIe 5.0、8条PCIe 4.0通道及2个雷电5接口。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/9fecd9b6-57a8-4e90-b6ea-b75fa8045d3f.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "OPPO Watch X3 Mini、OPPO Enco Clip2 新品确认",
-        "内容": "OPPO官方已确认将推出OPPO Watch X3 Mini智能手表和OPPO Enco Clip2耳机。确认信息来源于OPPO在妇女节发布的贺图及微博活动，该活动提供了新品超前体验权。其中，OPPO Watch X3 Mini定位为小型轻量化智能手表，主打小巧机身，适合追求轻盈佩戴感的用户。此外，OPPO Watch X3系列（可能包含标准版）预计将与OPPO Find N6折叠屏手机一同发布。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/8f8edc19-b517-4834-a524-9f89d46c5aea.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/502ec1f0-acec-4561-98ac-8a43d1db1c5f.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
         "资讯标题": "Wolfspeed 推出业界首款可商用 10kV SiC 功率 MOSFET，为 AI 数据中心电网提供关键支撑",
-        "内容": "Wolfspeed公司推出业界首款可商用10kV碳化硅（SiC）功率MOSFET，主要面向高压电力电子系统，为AI数据中心电网等关键场景提供支撑。该产品具备超长寿命（20V栅极偏置下达15.8万年）、简化系统架构（如将三电平逆变器简化为两电平，成本降30%，功率密度增300%）、超高转换效率（99%）及极快开关速度（上升时间<10纳秒）等优势，可替代传统电极式火花隙开关。其应用还涵盖中压UPS、风力发电、固态变压器、地热发电、半导体刻蚀及可持续肥料生产等领域。",
+        "内容": "Wolfspeed推出全球首款可商用10kV SiC（碳化硅）功率MOSFET，专为AI数据中心等高压电力电子应用设计。该产品在20V栅极偏置下宣称寿命达15.8万年，具备超快开关特性（上升时间<10ns）。其核心优势在于简化系统架构（如将三电平逆变器简化为两电平），实现成本降低30%、功率密度提升300%、转换效率达99%，并显著减小磁性元件体积。主要应用于AI数据中心电网、中压UPS、风力发电、固态变压器、地热发电及半导体刻蚀等领域。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/3/0fc21d3a-e5dd-42e7-9f1d-835f1fd1714d.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "全球首款「千线」超长距数字化激光雷达：速腾聚创 EM4 行业唯一支持定制 520 到 2160 线技术方案",
-        "内容": "速腾聚创发布全球首款可量产“千线”超长距数字化激光雷达EM4。该产品基于全新数字化EM平台，搭载SPAD-SoC与VCSEL芯片，支持从520线到2160线的定制化技术方案，是行业唯一具备该范围成熟定制能力的企业。自2025年7月起，已为极氪、智己等品牌旗舰车型实现超500线高性能雷达的规模量产。其最远测距达600米，点频高达2592万点/秒，能更清晰探测远距离目标，显著提升自动驾驶车辆的环境感知与紧急避障能力。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/786852f4-f3a7-4e8a-b9af-dfee330618da.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
         "资讯标题": "技嘉发布两款 Z890 Plus 主板，为英特尔 Arrow Lake Refresh 处理器铺路",
-        "内容": "技嘉发布两款Z890 Plus主板：Z890 AORUS Elite WiFi7 Plus与Z890 Eagle WiFi7 Plus，为英特尔本月底将发布的Arrow Lake-S Refresh处理器（如酷睿Ultra 5 250K Plus）做准备。预计价格约250美元（约1730元人民币）。两款主板均搭载技嘉Ultra Turbo模式，可为K/KF系列处理器提供自动化超频与电压优化。值得注意的是，它们未配备常见的双Thunderbolt 4接口，仅提供一个40Gbps USB4接口。主要区别在于：AORUS Elite采用16+1+2相供电（60A DrMOS）和5GbE网卡，Eagle为14+1+2相供电和2.5GbE网卡。两者均支持WiFi 7与蓝牙5.4，但无线网卡规格不同（AORUS为BE200，Eagle为BE202），音频部分均采用瑞昱ALC1220搭配WIMA电容。",
+        "内容": "技嘉发布两款Z890 Plus主板：Z890 AORUS Elite WiFi7 Plus与Z890 Eagle WiFi7 Plus，为英特尔本月底将发布的Arrow Lake-S Refresh处理器（如酷睿Ultra 5 250K Plus）铺路。两款主板均预置支持、搭载Ultra Turbo自动超频功能，但仅提供一个USB4接口而非双Thunderbolt 4。主要区别在于：AORUS Elite采用16+1+2相60A DrMOS供电和5GbE网卡，Eagle为14+1+2相供电和2.5GbE网卡；两者均支持WiFi 7（前者BE200支持320MHz，后者BE202支持160MHz）及相同音频方案。价格暂未公布，预计约250美元。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/3/13c2c0fc-624e-478f-8c74-c46353409b9a.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "首发搭载量产最高 896 线激光雷达，鸿蒙智行问界 M9 2025 款汽车选配公开",
-        "内容": "鸿蒙智行问界 M9 2025 款汽车首发搭载量产最高规格的 896 线双光路图像级激光雷达。新车提供四座、五座、六座及增程、纯电多种版本，分为 Max 和 Ultra 配置。Max 版建议零售价 47.98 万元起，Ultra 版在此基础上增加百万像素智慧投影大灯和智慧电动门，价格更高。全系标配华为 ADS 辅助驾驶系统高阶版。车辆配备全向立体融合感知系统，共 36 个传感器，包括 1 个 896 线激光雷达、3 个固态激光雷达等。",
+        "资讯标题": "苹果 M5 MacBook Air 游玩《赛博朋克 2077》等 3A 游戏功耗仅 7-8W",
+        "内容": "科技媒体NoteBook Check测试苹果M5 MacBook Air（13英寸，无风扇被动散热，搭载8核GPU精简版M5芯片）的游戏能效。结果显示，运行《赛博朋克 2077》等3A游戏时，SoC功耗仅6.9-7.8W。在1080P Ultra画质下帧率约19.6FPS且连续一小时不降频；降低画质并启用MetalFX技术后可实现流畅运行。整机功耗约19W，能效表现优于主动散热的M5 MacBook Pro。",
         "配图": [
-            "https://img.ithome.com/images/v2/t.png"
+            "https://img.ithome.com/newsuploadfiles/2026/3/1d08b1d6-4099-45db-b8d2-925bfb187eb1.png?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "2549 元“千问 AI 眼镜”G1 今日开售：叠加国补后 1997 元起",
+        "内容": "千问AI眼镜G1今日正式开售，原价2549元，叠加政府补贴后到手价1997元起。该产品搭载最新千问大模型，具备高精度多模态理解与实时交互能力，支持高清拍摄、AI翻译、会议记录、识图识物等功能。硬件方面采用双旗舰芯片、五麦克风阵列与骨传导设计，整机重约40克，支持0.6秒极速抓拍、3K视频录制及AI超分至4K，内置64GB存储。外观提供墨镜款及7种多彩镜片配色，并计划于2026年内进军国际市场，适配Spotify、PayPal等国际服务。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/428e4eb8-a3a2-49c7-82f7-a0efdd14cda1.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "OPPO Watch X3 Mini、OPPO Enco Clip2 新品确认",
+        "内容": "IT之家2026年3月8日消息，OPPO官方已确认将推出OPPO Watch X3 Mini智能手表与OPPO Enco Clip2耳机两款新品，并宣布它们将与OPPO Find N6折叠屏手机一同发布。官宣方式为在妇女节发布贺图并举办微博活动，奖品包含新品超前体验权。其中，OPPO Watch X3 Mini定位为轻量化小型智能手表，主打小巧机身与无感佩戴体验，适合手腕纤细的用户。关于OPPO Enco Clip2的具体信息目前较少。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/8f8edc19-b517-4834-a524-9f89d46c5aea.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     }
 ]

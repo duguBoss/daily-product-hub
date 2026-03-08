@@ -1,58 +1,56 @@
 [
     {
-        "资讯标题": "索尼 PS6 性能目标曝光：开启光追后实现 4K 120 帧",
-        "内容": "根据知名爆料者“摩尔定律已死”透露，索尼下一代主机PlayStation 6（PS6）的性能目标是在开启光线追踪的同时，实现4K分辨率下120帧的输出。为实现这一目标，PS6预计将高度依赖索尼的AI超分技术PSSR。规格方面，其光栅化性能可能达到PS5的2.5至3倍，光追性能则有6至12倍的提升，相比PS5 Pro的光栅化提升约2倍，光追提升3至6倍。硬件上将采用基于RDNA 5架构的下一代GPU和Zen 6架构的CPU。发售时间方面，爆料者认为索尼仍计划于2027年末至2028年初推出，延期可能性不大。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/ff7e95d4-31f7-4ebd-a2da-3a112b2a096e.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "英伟达 RTX 50 系列显存频率限制被破解，RTX 5070 Ti 被超频至 36 Gbps",
-        "内容": "巴西Teclab团队成功破解英伟达RTX 50系列显卡的显存频率限制，将RTX 5070 Ti的GDDR7显存超频至36 Gbps。该团队通过底层逻辑“欺骗”GPU频率管理机制，使监控软件误报频率，但实际性能提升。官方RTX 50系列显存标称速度为28-30 Gbps，常规超频工具仅能提升+3000 MHz。测试显示，超频后显卡在Unigine Superposition中得分达11993分。三星、美光等厂商正在研发36 Gbps显存，预计2026年底或2027年上市。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/cda0bfa6-a0b8-43de-a627-580b82325949.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "英特尔“Panther Lake - H”移动端处理器细节大曝光，采用分离式芯片设计",
-        "内容": "英特尔Panther Lake-H移动端处理器采用分离式芯片设计，整体布局思路类似Lunar Lake。其由四个主要Tile组成：SoC Tile（18A工艺，含CPU核心、NPU及内存控制器）、Graphics Tile（Intel 3工艺，含4个Xe核心）、I/O Tile（N6工艺，含PCIe 5.0/雷电5控制器及Wi-Fi 7）以及作为中介层的基底Tile（22nm）。Compute Tile具体配置为4个Cougar Cove性能核（P核，最高5.10GHz）+2个Darkmont效率核（E核，最高3.80GHz），共享18MB L3缓存，支持最高9600MT/s的DDR5/LPDDR5X内存，并集成Intel NPU 5。Graphics Tile拥有12个Xe核心（Xe3架构）和16MB L2缓存。I/O Tile提供4条PCIe 5.0、8条PCIe 4.0通道及2个雷电5接口。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/502ec1f0-acec-4561-98ac-8a43d1db1c5f.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "Wolfspeed 推出业界首款可商用 10kV SiC 功率 MOSFET，为 AI 数据中心电网提供关键支撑",
-        "内容": "Wolfspeed推出全球首款可商用10kV SiC（碳化硅）功率MOSFET，专为AI数据中心等高压电力电子应用设计。该产品在20V栅极偏置下宣称寿命达15.8万年，具备超快开关特性（上升时间<10ns）。其核心优势在于简化系统架构（如将三电平逆变器简化为两电平），实现成本降低30%、功率密度提升300%、转换效率达99%，并显著减小磁性元件体积。主要应用于AI数据中心电网、中压UPS、风力发电、固态变压器、地热发电及半导体刻蚀等领域。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/0fc21d3a-e5dd-42e7-9f1d-835f1fd1714d.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "技嘉发布两款 Z890 Plus 主板，为英特尔 Arrow Lake Refresh 处理器铺路",
-        "内容": "技嘉发布两款Z890 Plus主板：Z890 AORUS Elite WiFi7 Plus与Z890 Eagle WiFi7 Plus，为英特尔本月底将发布的Arrow Lake-S Refresh处理器（如酷睿Ultra 5 250K Plus）铺路。两款主板均预置支持、搭载Ultra Turbo自动超频功能，但仅提供一个USB4接口而非双Thunderbolt 4。主要区别在于：AORUS Elite采用16+1+2相60A DrMOS供电和5GbE网卡，Eagle为14+1+2相供电和2.5GbE网卡；两者均支持WiFi 7（前者BE200支持320MHz，后者BE202支持160MHz）及相同音频方案。价格暂未公布，预计约250美元。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/13c2c0fc-624e-478f-8c74-c46353409b9a.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
         "资讯标题": "苹果 M5 MacBook Air 游玩《赛博朋克 2077》等 3A 游戏功耗仅 7-8W",
-        "内容": "科技媒体NoteBook Check测试苹果M5 MacBook Air（13英寸，无风扇被动散热，搭载8核GPU精简版M5芯片）的游戏能效。结果显示，运行《赛博朋克 2077》等3A游戏时，SoC功耗仅6.9-7.8W。在1080P Ultra画质下帧率约19.6FPS且连续一小时不降频；降低画质并启用MetalFX技术后可实现流畅运行。整机功耗约19W，能效表现优于主动散热的M5 MacBook Pro。",
+        "内容": "科技媒体NoteBook Check评测显示，入门配置（8核GPU）的13英寸苹果M5 MacBook Air在无风扇被动散热设计下，游戏能效表现突出。运行《赛博朋克2077》时，SoC功耗仅6.9-7.2W；降低画质并启用MetalFX后，可流畅运行《赛博朋克2077》《博德之门3》等3A游戏，功耗约7.5-7.8W且不降频。整机功耗（含屏幕）约19W，能效比（1.107 FPS/W）优于带风扇的14英寸M5 Pro机型。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/3/1d08b1d6-4099-45db-b8d2-925bfb187eb1.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "2549 元“千问 AI 眼镜”G1 今日开售：叠加国补后 1997 元起",
-        "内容": "千问AI眼镜G1今日正式开售，原价2549元，叠加政府补贴后到手价1997元起。该产品搭载最新千问大模型，具备高精度多模态理解与实时交互能力，支持高清拍摄、AI翻译、会议记录、识图识物等功能。硬件方面采用双旗舰芯片、五麦克风阵列与骨传导设计，整机重约40克，支持0.6秒极速抓拍、3K视频录制及AI超分至4K，内置64GB存储。外观提供墨镜款及7种多彩镜片配色，并计划于2026年内进军国际市场，适配Spotify、PayPal等国际服务。",
+        "资讯标题": "消息称苹果 iPhone 17 系列手机国内销量突破 2000 万，华为 Mate 80 系列约 405.48 万",
+        "内容": "IT之家2026年3月8日消息，据微博博主@RD观测数据，截至2026年第九周，国内旗舰手机销量排名如下：苹果iPhone 17系列以约2383.97万部位居第一，华为Mate 80系列约405.48万部排名第二，小米17系列约391.67万部紧随其后，vivo X300系列约173.39万部，OPPO Find X9系列约144.34万部。此前另有消息称，iPhone 17 Pro Max在150天内单品激活销量已突破1000万台，均价约10800元。以上数据为第三方统计，仅供参考。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/428e4eb8-a3a2-49c7-82f7-a0efdd14cda1.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/51705475-6b95-49c0-95e9-dcc78ff61ec6.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "OPPO Watch X3 Mini、OPPO Enco Clip2 新品确认",
-        "内容": "IT之家2026年3月8日消息，OPPO官方已确认将推出OPPO Watch X3 Mini智能手表与OPPO Enco Clip2耳机两款新品，并宣布它们将与OPPO Find N6折叠屏手机一同发布。官宣方式为在妇女节发布贺图并举办微博活动，奖品包含新品超前体验权。其中，OPPO Watch X3 Mini定位为轻量化小型智能手表，主打小巧机身与无感佩戴体验，适合手腕纤细的用户。关于OPPO Enco Clip2的具体信息目前较少。",
+        "资讯标题": "消息称某厂今年新机有阔屏大折叠、阔屏直板机、超大屏 Air 等，预计为华为",
+        "内容": "科技媒体IT之家报道，据博主@数码闲聊站爆料，某厂商（网友推测为华为）今年将推出多款特别新机，包括“阔屏大折叠”、“阔屏直板机”和“超大屏 Air”。其中，阔屏直板机工程机采用约6.39英寸±1.5K OLED屏幕，比例可能为16:9或16:10，定位高端，暂定2026年第四季度发布。另有博主@体验more称，华为Pura X2预计是首款“阔大折”，配备7.69英寸WQHD+内屏和5.5英寸外屏，将升级麒麟9030芯片和长焦镜头。超大屏Air手机参考去年Mate 70 Air（7英寸屏，厚6.6mm），但具体信息未明。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/8f8edc19-b517-4834-a524-9f89d46c5aea.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/d073748d-c2c2-47a6-83b0-335d7e942f8a.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "OPPO 回应 realme 真我暂停新机研发，称相关工作均正常进行中",
+        "内容": "针对realme真我疑似暂停2026年新机研发的传闻，OPPO官方回应称相关产品研发工作均正常进行中。此前在今年1月，realme已宣布正式回归OPPO，成为其旗下子品牌，由realme CEO李炳忠（Sky Li）领导整体业务，并承诺新品将如期发布。同时，realme正逐步接入OPPO售后服务体系，计划于今年4月全面完成对接。",
+        "配图": [
+            "https://img.ithome.com/images/v2/t.png"
+        ]
+    },
+    {
+        "资讯标题": "Mac mini 不止养 AI 龙虾：苹果 M4 算力机密被破解，Claude 立新功",
+        "内容": "开发者Manjeet Singh利用AI工具Claude逆向工程苹果M4芯片的神经引擎（ANE），成功绕过CoreML框架限制，直接在ANE硬件上实现AI模型训练。他训练了单层Transformer和1.1亿参数的Stories110M模型，峰值能效比达6.6 TFLOPS/W，分别是A100的80倍和H100的50倍以上。这证明NPU不仅适用于推理，也适用于训练，将AI训练成本从云端集群（数万美元）降至桌面Mac的电费水平，实现本地、私有、低成本训练。但当前技术仅适用于小型模型，硬件利用率低（约2-3%），且存在工程挑战。苹果宣称的“38 TOPS”算力实际为19 TFLOPS FP16，INT8量化未带来预期速度提升。",
+        "配图": [
+            "https://img.ithome.com/images/v2/t.png"
+        ]
+    },
+    {
+        "资讯标题": "华为“零中断”光网络在全球超六十张运营商网络中部署：断纤不断网，可靠性达 99.999%",
+        "内容": "在MWC 2026期间，华为展示了其光网络领域的最新突破。核心成果是“零中断”光网络（Zero-Outage Network），通过集成OTNSpirit主动风险预防、毫秒级WSON快速自愈与智能故障定位三大能力，实现“断纤不断网”，可靠性达99.999%，可将网络中断风险降低90%、运维成本降低40%。该方案已全球部署超过六十张运营商网络。此外，华为还完成了8000多个传统波分站点的绿色改造，并推出FANSpirit和OTNSpirit智能体，实现光接入与光传送领域的智能化运维，以应对AI时代对超宽带网络提出的确定性低时延、超大带宽和超高可靠性要求。",
+        "配图": []
+    },
+    {
+        "资讯标题": "王腾：内存二季度还要继续涨价，手机行业估计今年各家会有一波大裁员",
+        "内容": "宜休科技创始人王腾（原小米高管）发文称，内存价格二季度将继续上涨，恢复正常需等到2028年，因存储扩产能需2-3年。他预测手机行业今年将迎来一波大裁员。此前，卢伟冰也指出本轮存储涨价是史无前例的长周期，预计持续至2027年底；雷军表示AI需求暴涨导致内存芯片严重不足，给手机业务带来巨大压力。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/8e1d297a-b55f-47a1-b709-770bc934ec89.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "苹果以抽象视频营销 MacBook Neo 吸引 Z 世代关注，甚至有人怀疑被盗号",
+        "内容": "苹果为吸引Z世代，在TikTok上采用抽象、荒诞的视频风格营销新款MacBook Neo。视频内容包含柠檬接FaceTime、访达图标脸红、柑橘水果漂浮等奇特画面，并融入品牌经典元素。部分网友因看不懂而怀疑其账号被盗，但也有用户赞赏这种创新营销。值得注意的是，苹果罕见地开放了视频评论区，并在直播中展示了以访达图标为原型的人偶，显示出其放低姿态、贴近年轻消费者的策略意图。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/dfd9e37b-82e6-41c9-bff6-d851464faaba.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     }
 ]

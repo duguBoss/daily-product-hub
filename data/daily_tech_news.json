@@ -1,58 +1,58 @@
 [
     {
-        "资讯标题": "英特尔 13/14 代酷睿处理器全球库存告急，英特尔高管预警 CPU 恐将缺货并涨价",
-        "内容": "英特尔全球渠道主管Dave Guzzi预警，其13/14代酷睿消费级处理器及老款至强（Xeon）企业级处理器全球库存告急，恐将引发缺货及价格上涨。核心原因在于：一方面，云服务商（CSP）因智能体AI应用普及，将工作负载转向纯CPU架构，并出于“可靠性”考量，大量采购老款Sapphire Rapids等至强处理器；另一方面，消费者为提前锁定货源，开始抢购成熟的Raptor Lake（13/14代）CPU。这导致对依赖“Intel 7”成熟工艺的老产品需求异常激进，英特尔不得不在扩大成熟节点产能与推进新工艺（如Intel 3/18A）间艰难抉择，老产线超负荷运转。英特尔高管表示，CPU价格将不可避免上涨，但涨幅预计将低于此前DRAM内存危机。",
+        "资讯标题": "倍思推出 2026 款 TWS 1 耳机：10mm 动圈、升级蓝牙 6.0，72 元",
+        "内容": "倍思推出2026款TWS 1真无线耳机，首发价仅72元。核心升级包括搭载蓝牙6.0协议和10mm动圈单元，支持最低60ms延迟及3D全景空间音效。采用1:1平衡水滴腔体设计，单耳重3.3克，具备IP55防水等级。续航方面，单耳7小时，配合充电盒总续航最高达40小时，并支持通过倍思App进行个性化调参。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/fdb95c89-3212-4c2f-8169-552c29e4be6b.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/da03f39d-ac6c-40cd-8de4-41dbbdeea5b3.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "余承东展示华为畅享 90 Pro Max 真机：搭载麒麟芯 + 鸿蒙 6 + 巨鲸大电池，月底发布",
-        "内容": "华为常务董事余承东在AWE 2026展会上正式展示并宣布，华为畅享90 Pro Max新机将于2026年3月23日开启预售。该机搭载海思麒麟8系列芯片、HarmonyOS 6（鸿蒙6）系统，并配备名为“巨鲸大电池”的高容量电池，主打超强续航与优秀信号，余承东称其续航能力可让用户出门无需携带充电宝。",
+        "资讯标题": "一加 Nord 6 手机曝光：骁龙 8s Gen 4 芯片，预计下月初发布",
+        "内容": "据消息人士透露，一加Nord 6手机预计于下月初发布。该机将搭载高通骁龙8s Gen 4芯片，其整体核心配置与国内已发布的一加Turbo 6十分相似。参考Turbo 6的配置，Nord 6可能配备1.5K分辨率165Hz电竞屏、9000mAh大电池并支持80W有线快充，但电池容量可能因全球市场法规差异而调整。此外，有暗示称其价格可能较前代Nord系列有所上涨。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/295700e1-740e-4238-8c1c-9de6da49ec26.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/6725cfce-db74-4666-9151-f613df6bf62c.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "iFixit 拆解 MacBook Neo：14 年来最易维修的苹果笔记本",
-        "内容": "维修机构 iFixit 拆解苹果 MacBook Neo 后，称其为自 2012 年以来 14 年间最易维修的 MacBook，给出 6/10 的可修复性评分。其核心维修友好设计包括：用户仅需拧下底部 8 颗五角螺丝即可徒手打开底盖；电池通过 18 颗螺丝固定于托盘，彻底避免加热除胶；电池、扬声器、USB-C 接口等高频损坏组件均无障碍访问。扣分项是存储和内存直接焊接在主板上。该设计被认为是为教育市场量身定制，以应对教室环境中的高损坏率。",
+        "资讯标题": "内测招募：努比亚 Z80 Ultra 成为全球首款原生集成 OpenClaw 的 AI 手机",
+        "内容": "努比亚宣布其Z80 Ultra成为全球首款原生集成OpenClaw的AI手机，并正式开启内测招募。该机通过系统底层与OpenClaw深度融合，而非作为附加插件，使每次交互都成为手机系统本身的能力，全面支持ClawBot的场景化应用及Skills生态。努比亚Z80 Ultra于2025年10月发布，搭载第五代骁龙8至尊版处理器，配备35mm大师光眸主摄，售价4999元起。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/ed388577-77e6-4162-9d69-ec5944c138d7.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "松延动力交付春晚同款机器人“小布米”，宣布与京东深化合作推动消费端落地",
+        "内容": "在AWE 2026展会上，松延动力正式交付因亮相2026年春晚而备受关注的人形机器人“小布米”，并宣布与京东深化合作，推动产品在消费端落地。该产品为业内首款万元级高性能人形机器人（售价9998-18998元），身高98厘米，重17公斤，拥有21个自由度，采用轻量化复合材料设计。春晚后，其已成为京东人形机器人类目销量冠军，线下订单激增。公司正全力提升量产交付能力，目标2026年实现万台规模交付，并计划在未来三年于某一场景达成60%以上市占率。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/e80e60b6-27b6-49c7-926e-f78abda965eb.png?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "小米推出 REDMI 智能电视 A50 一级能效版：50 英寸 4K 144Hz 规格，1399 元",
+        "内容": "小米于2026年3月15日在有品平台推出REDMI智能电视A50一级能效版。该电视主打高性价比，采用50英寸4K（3840x2160）144Hz直下式背光全面屏，支持原彩显示，内置双10W扬声器，运行小米澎湃OS系统。核心配置为A35四核处理器、2GB RAM与32GB存储，仅支持2.4G Wi-Fi。接口丰富，包括2个HDMI、2个USB-A、AV、模拟信号、以太网及S/PDIF音频输出。其定价为1399元。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/0a7ff894-d757-4e60-8c96-b9040627d40f.png?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "平板瞬间化身笔记本，三星推出 Galaxy Tab S11 Ultra Pro 键盘",
+        "内容": "三星为Galaxy Tab S11 Ultra平板推出Pro Keyboard键盘配件。该键盘采用铝合金纤薄设计，可与平板完美贴合，通过Pogo Pin连接并同步睡眠/唤醒，触控板面积较前代增大14.6%，重636克，配备80个按键，售价2198港币（约1940元人民币）。",
         "配图": [
             "https://img.ithome.com/images/v2/t.png"
         ]
     },
     {
-        "资讯标题": "OPPO Find X9s Pro 手机参数曝光：天玑 9500+ 双 2 亿镜头，具备 7K 大电池",
-        "内容": "据博主爆料，OPPO Find X9s Pro（或Find X9s）将搭载联发科天玑9500处理器，配备双2亿像素摄像头系统（包括2亿像素主摄及潜望式长焦），并拥有7K级别大电池。该机定位小屏旗舰，采用小直屏、直角中框与极窄四等边设计，号称“果味十足”。此外，预计还将支持无线充电、超声波指纹、满级防水、多光谱镜头及影像联名等特性。",
+        "资讯标题": "Marstek 推出“全球最薄”插电式储能系统 Venus B，为一户建、公寓等设计",
+        "内容": "Marstek推出Venus B插电式储能系统，专为公寓、一户建等空间有限场景设计，厚度仅8.6厘米，号称“全球最薄”。提供2kWh容量、1.5kW持续功率，采用磷酸铁锂电池，支持6000次以上循环，寿命超10年，工作温度范围广（-20℃至60℃）。具备15毫秒快速切换备用电源、动态电价优化（低充高放）等功能，但无光伏MPP跟踪器，适合作为扩展储能，最多可串联3台，售价约1100欧元（约8705元人民币）。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/35606e4a-ce51-4ae7-8be5-9f790d619126.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/743d08d1-d552-483d-93ce-4f400247d9e5.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "华为畅享 90Plus、90 Pro Max 手机开启新品预约，3 月 23 日预售",
-        "内容": "华为于3月14日宣布畅享90 Plus与90 Pro Max两款新机开启预约，将于3月23日15:30全款预售，价格未公布。外观上，90 Plus采用中置挖孔屏与圆角矩形后摄，90 Pro Max边框更窄，后摄为圆形带亮面点缀。余承东已展示90 Pro Max真机，确认搭载海思麒麟8系列芯片及巨鲸大电池，主打超强续航。作为参考，前代畅享80配备6620mAh电池与40W快充。",
+        "资讯标题": "Astell&Kern STELLA 旗舰有线 Hi-Fi 耳机发售：12 单元 4 重混合驱动架构，30999 元",
+        "内容": "Astell&Kern STELLA旗舰有线Hi-Fi耳机正式发售，售价30999元。其搭载12单元4重混合驱动架构，包括1个9mm动圈、5个动铁、2个磁平面振膜及4个静电高音单元，通过6路分频网络和5个独立声管管理频段衔接。耳机由五次格莱美奖得主Michael Graves完成最终校准，目标还原录音棚级音质。采用铝制腔体搭配蓝宝石玻璃面板，并配备5N铜+4N银+24K金混编线材。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/63db68e7-ec46-4b30-bd79-a1014739a4e6.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "华硕“VG27UQEL5A”27 英寸显示器首销：4K 80Hz/ 1080P 310Hz 双模，1599 元",
-        "内容": "华硕VG27UQEL5A显示器于京东开启首销，售价1599元。其核心特性为27英寸Fast IPS面板支持双模显示：4K分辨率下80Hz刷新率，或1080P分辨率下310Hz刷新率，响应时间低至0.3ms。其他规格包括400nits亮度、1000:1对比度、120% sRGB色域容积。支架支持升降/倾斜/旋转，接口配备DisplayPort 1.4、HDMI 2.0及音频输出，内置2W×2扬声器。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/63b85f8b-16dd-434e-9b98-e2b55cd4e04b.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "TP-LINK 普联推出双频 AX1800 PCIe 无线网卡：蓝牙 5.4 + Wi-Fi 6，119 元",
-        "内容": "TP-LINK普联于2026年3月15日在京东上架一款双频AX1800 PCIe无线网卡，售价119元。该产品支持最新的Wi-Fi 6（802.11ax）和蓝牙5.4标准，配备两根180度可调天线，内置无线驱动，适用于PCI-E X1（短）插槽，兼容Windows 10/11系统。其无线速率方面，2.4GHz频段最高574Mbps，5GHz频段最高1201Mbps，并支持作为移动热点功能。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/cd1de12a-a1da-46bb-8aec-e6f58088dd2d.png?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "制造商 TinyCorp 为 Apple 芯片 Mac 打造 eGPU 扩展板，可连接 RTX5060 显卡用于 AI 大模型推理任务",
-        "内容": "AI初创公司TinyCorp宣布为Apple芯片Mac开发了eGPU扩展板，可将RTX 5060等显卡连接至Mac mini，主要用于AI大模型推理等计算任务。该方案基于ADT-Link转接器，通过雷雳接口提供约40Gbps带宽，并配套Python驱动以解决macOS对NVIDIA GPU的支持问题。但当前仅支持纯计算场景，无法用于图形输出。产品预计2026年第二季度上市，将集成电源管理功能。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/a6a1ccbc-3158-4da5-9668-8fbfea703783.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/images/v2/t.png"
         ]
     }
 ]

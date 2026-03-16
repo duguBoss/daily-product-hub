@@ -1,58 +1,51 @@
 [
     {
-        "资讯标题": "消息称前金立集团全球副总裁俞雷入职 MOVA，任手机和 AI 硬件业务负责人",
-        "内容": "前金立集团全球副总裁俞雷已正式入职MOVA，担任手机和AI硬件业务负责人。俞雷在手机行业经验丰富，2015年加入金立集团任全球副总裁，分管市场营销与渠道销售，主导品牌转型，曾推动金立手机年出货量超过4000万台。此后，他担任强脑科技首席运营官，并创立过主攻海外市场的智能手机品牌。此次加盟MOVA，标志着这位资深高管在手机与AI硬件领域开启新篇章。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/75c2bd30-6d43-4ed8-8ee7-9480defe2102.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "出门问问推出 TicNote Pods AI 录音耳机悦享版：内置 4G 模块、支持 120+ 种语言转写翻译，1764 元",
-        "内容": "出门问问推出 TicNote Pods AI 录音耳机悦享版，主打内置独立 4G 模块，支持 120 多种语言的实时转写与翻译。该耳机定价 1764 元，部分地区国补后到手价低至 1499.4 元。产品提供专业会员（每月 1500 分钟转写时长）与普通会员（每月 600 分钟）服务。续航方面，单耳单词录音 5 小时，搭配充电盒在 Wi-Fi 模式下最高可实现 25 小时连续录制。外观采用黑色设计，单耳重量 7 克。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/1a5a2cd3-4753-468b-8b61-a2d150de2fb4.png?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "七彩虹推出 M1P Air USB 解码放大器：搭 AKM4493SEQ 处理器 + 双 XR2001 运放芯片，599 元",
-        "内容": "七彩虹推出 M1P Air USB 解码放大器（俗称“小尾巴”），售价 599 元。采用同轴环形锌合金机身，厚度 16 克，提供 3.5mm 单端与 4.4mm 平衡双输出。核心搭载 AKM4493SEQ 音频处理器及双 XR2001 独立运放芯片，配备第二代 JitterKill 飞秒时钟技术，支持 High/Low 两档增益以适配不同耳机。特色功能为长按音量“+”键开启游戏模式，可兼容 Switch、PS5 等游戏主机。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/3534a4f2-bbaa-4ab9-aa30-e5420b1e2fce.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "ATK 推出 RS6+ 系列全铝磁轴有线键盘，补贴后 499.8 元起",
-        "内容": "ATK科技于2026年3月13日推出RS6+系列全铝磁轴有线键盘。该键盘采用第三代“烈风 Ultra”磁轴方案，支持8kHz轮询率和32kHz全键扫描率，传输延迟低至0.08ms，全链路延迟0.28ms，Rapid Trigger精度0.001mm。系列分为标准版（补贴后499.8元）与Ultra版（补贴后584.8元），两者在轴体、定位板、夹心棉及键帽上有所区别。键盘配备480MHz MCU主控，采用1.2mm厚度PCB及五层声学填充设计。",
+        "资讯标题": "小米新一代 SU7 将于 3 月 19 日上市，小米笔记本 Pro 14、小米手表 S5 同步登场",
+        "内容": "小米将于3月19日19:00举行发布会，推出三款新品：新一代小米SU7、小米笔记本Pro 14和小米手表S5。SU7已开启预订，预售价22.99万-30.99万元。相比现款，SU7全系标配激光雷达、700TOPS辅助驾驶算力及Xiaomi HAD系统，智能驾驶大幅升级；安全方面采用2200MPa高强度钢防滚架、9安全气囊及三重机械冗余车门设计；动力搭载V6s Plus电机，Max版690马力，CLTC续航最高达902公里。小米笔记本Pro 14重仅1.08kg，采用镁合金与钛合金材质，搭载酷睿Ultra处理器，性能释放50W。小米手表S5续航21天，支持150+运动模式及腕上车辆控制功能。",
         "配图": [
             "https://img.ithome.com/images/v2/t.png"
         ]
     },
     {
-        "资讯标题": "AOC 推出“25B35XE”24.5 英寸显示器：1080P 144Hz，699 元",
-        "内容": "AOC推出新款24.5英寸显示器25B35XE，主打高性价比游戏市场。其采用1080P分辨率IPS面板，支持144Hz刷新率，拥有300尼特亮度、1500:1对比度及4ms GtG响应时间，色彩深度为8-bit。显示器支架支持俯仰调节，并兼容VESA 100x100mm壁挂，提供HDMI和VGA接口。该产品已上架京东，定价为699元。",
+        "资讯标题": "古尔曼：预计苹果只会率先为 M6 Pro / Max 款 MacBook Pro 换用触控屏，Neo / Air 未来三年内不会获得升级",
+        "内容": "彭博社马克·古尔曼预测，苹果仅计划于今年底为搭载M6 Pro/Max芯片的MacBook Pro率先配备触控屏。入门级MacBook Air未来或跟进，但MacBook Neo因成本控制（内存涨价）预计未来三年内不会升级触控屏。MacBook Neo已于3月11日发售，起售价4599元。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/f03b1afb-300f-4ac4-853e-43c2942e4d25.png?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/5c9f6784-aca3-435e-aaba-1b979138c234.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "松下发布 TOUGHBOOK 56 强固型笔记本：模块化热插拔电池，最多 3 网口",
-        "内容": "松下发布TOUGHBOOK 56 (MK1)强固型笔记本，主打极端环境适用性。采用镁合金X型机身，具备IP53防尘防水及MIL-STD-810H军规认证，可抗91cm跌落。配置英特尔酷睿Ultra 200H处理器，可选AMD Radeon PRO专业显卡，至高64GB内存与2TB存储，配备14英寸高亮触控屏。核心亮点为模块化热插拔双电池设计，单电池续航约12小时，且机身左侧、右侧、后方均设扩展区，支持额外安装第二SSD、10GbE/2.5GbE网口、第二电池或指纹模块，最多可实现3个网口。该产品将于2026年5月上市。",
+        "资讯标题": "10 核心设计，AMD \"100-000001713\" 处理器现身",
+        "内容": "IT之家报道，AMD一款型号为“100-000001713”的工程样品处理器在Geekbench基准测试数据库中现身。该处理器CPU辨识符为“AuthenticAMD Family 26 Model 128 Stepping 0”，运行在名为“Plum-MDS1”的主板上。根据主板名称分析，“Plum”可能对应AMD FP10 CPU平台，“MDS1”疑似“Medusa Point 1”缩写，因此该芯片很可能是AMD下一代“Zen 6”移动端处理器的早期测试样品。其采用10核心设计，与此前关于“Medusa Point 1”单片版本的爆料（4+4+2核）相符。缓存方面，配备1.00 MB ×10的L2缓存和32.0MB ×1的L3缓存，单核L2容量与上代持平，但平均每核心的L3容量显著高于上代12核24MB的“Strix Point / Gorgon Point 1”。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/1cbd1691-1607-4000-b7d2-a3c8c07e4a46.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/images/v2/t.png"
         ]
     },
     {
-        "资讯标题": "消息称某厂下代旗舰小屏工程机搭载 7 开头电池、2 亿超大底主摄 + 潜望长焦，预计为小米 18 Pro",
-        "内容": "据博主@数码闲聊站爆料，小米下代旗舰小屏工程机（预计为小米18 Pro）将主要升级影像系统，搭载7开头电池（容量约7000mAh级别），并可能配备同类别唯一的2亿像素超大底主摄与2亿像素潜望长焦双摄。此外，该机还预计配备超声波指纹、满血无线充电和满级防水等配置。博主在评论区回应称，受限于小屏机身空间，若采用更大容量电池（如8000mAh）将影响手感，而市场更青睐堆料配置而非超薄设计。作为参考，前代小米17于2024年9月发布，起售价4499元。",
+        "资讯标题": "频闪敏感用户痛点：三星 Galaxy S26 系列手机坚守 480Hz 低频 PWM 调光",
+        "内容": "三星Galaxy S26系列（尤其是S26 Ultra）在屏幕调光技术上仍坚持使用480Hz低频PWM调光，未采用高频PWM或DC调光等改善方案。低频PWM调光可能引发眼疲劳、头痛等不适，尤其对频闪敏感用户影响显著。文章指出，荣耀、OPPO、小米等竞争对手已普及高频PWM（如3840Hz、2160Hz）或DC调光，甚至入门机型也具备相关功能。三星作为全球最大安卓厂商，未提供任何防频闪软件选项，忽视了全球超10亿偏头痛患者等庞大群体的需求，在无障碍体验上存在明显短板。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/cd5c9bcd-fcba-4c42-beaf-e7ea61bc262f.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/6cd2e2fc-6700-4297-ae08-5541da379990.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "追觅推出 Dreame 智能中控屏 S6：搭 6 英寸 IPS 面板、支持语音交互，2799 元",
-        "内容": "追觅科技于2026年3月16日在京东上架Dreame智能中控屏S6，定价2799元。该产品配备6英寸AF防指纹IPS面板，内置MetaHome OS系统，兼容追觅智能家居生态。它支持Zigbee 3.0、Wi-Fi、蓝牙连接，内置4麦克风实现语音交互，并配有旋钮可调节空调、灯光、窗帘及音量。其采用标准86底盒设计，声称无需改造墙面即可原位替换传统开关。",
+        "资讯标题": "海信 AWE2026 展示 Mini LED 显示器新品 UX、GX Ultra",
+        "内容": "在AWE2026展会上，海信展示了两款未发布的高端Mini LED显示器新品：UX和GX Ultra。UX是全球首款高分区RGB Mini LED显示器，拥有2034个局部调光分区，搭载玲珑真彩背光、信芯H7 AI画质芯片及黑曜屏技术，支持光色同控，色域覆盖100% BT.2020。GX Ultra则是全球首款5K 0OD Mini LED显示器，采用2304分区玻璃基Mini LED背光，结合5K黑曜屏实现微米级光晕控制，支持5K 165Hz与2.5K 330Hz双模切换，峰值亮度达2000nits，并配备DisplayPort 2.1接口。两款产品均定位高端市场，展现了海信在显示技术上的最新成果。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/99ffac2c-6c29-4e26-af04-50bc64ef98c4.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://qimg.ithome.com/image/2026/03/13/20260313_161113_277.jpeg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "一加磁吸小涡轮 2 官宣，支持 50W 无线充电 + 散热 + 桌面支架",
+        "内容": "一加磁吸小涡轮 2 正式官宣，这是一款多功能磁吸无线充电配件。其核心功能包括支持 50W 无线充电、集成散热系统，并内置 360° 可调桌面支架。该产品兼容安卓与 iOS 设备，采用悬浮式设计，可与 OPPO Find N6 芳纶纤维磁吸保护壳配合实现精准快充激活。OPPO 版本定于 3 月 17 日发布，一加版本预计随本月发布的一加 15T 手机一同亮相。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/b0bec159-c33e-43a6-9986-2adcd17ca13d.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "一加 15T 新机官宣首批支持《无畏契约手游》原生 165Hz 高帧率模式",
+        "内容": "一加官方宣布，一加15T等五款机型将首批适配《无畏契约手游》的原生165Hz高帧率模式，该功能将于游戏后续赛季更新中推出。首批支持机型包括：一加15T、一加15、一加Ace 6、一加Ace 6T及一加Turbo 6。",
+        "配图": [
+            "https://img.ithome.com/images/v2/t.png"
         ]
     }
 ]

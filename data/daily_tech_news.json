@@ -1,58 +1,58 @@
 [
     {
-        "资讯标题": "苹果彻底淘汰 60Hz 屏？消息称 iPhone 19e 有望用上 LTPO OLED",
-        "内容": "据韩媒ZDNet Korea报道，苹果计划在2028年上半年推出的iPhone 19e上采用LTPO OLED屏幕。若此计划实现，届时iPhone全产品线将彻底告别60Hz屏幕。报道指出，苹果正开发更先进的LTPO+技术（将驱动TFT也改为氧化物）以进一步降低功耗，并计划在2028年的iPhone Air上应用无偏光片的CoE技术，以提升透光率、省电并实现更轻薄设计。此外，苹果将在今年下半年推出的首款折叠屏iPhone上首次搭载CoE技术。",
+        "资讯标题": "英伟达版“小龙虾”、DLSS 5 登场，GTC 2026 大会专题",
+        "内容": "英伟达在GTC 2026大会上发布新一代Rubin AI平台，包括专为AI智能体设计的88核Vera CPU及多款GPU，并推出NemoClaw、OpenClaw等软件栈以构建AI智能体生态。同时，联合三星、SK海力士、美光等发布HBM4等下一代AI存储解决方案，并宣布与比亚迪、吉利等车企合作推进L4自动驾驶。CEO黄仁勋预测AI芯片市场未来可达万亿美元，并强调Token是AI时代基础单元。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/c36e0c3f-31fb-466a-97b5-f0a989c1d60c.jpg?x-bce-process=image/quality,q_75/format,f_webp/auto-orient,o_1"
+            "https://www.ithome.com/zt/gtc2026/"
         ]
     },
     {
-        "资讯标题": "卢伟冰回应小米 REDMI K90 系列是否会涨价：理解友商，我们也扛得很肉疼",
-        "内容": "小米集团合伙人卢伟冰回应网友关于REDMI K90系列涨价的提问，表示“很理解友商的涨价，大家都很难，我们也扛得很肉疼”。他此前指出，本轮存储芯片涨价是长周期行情，预计持续至2027年底，影响整个消费电子行业，所有玩家均受影响。在存储成本压力下，OPPO、vivo等厂商已宣布对部分旧机型进行价格调整，行业普遍预期新机涨幅可能在500至2000元之间，手机行业正式进入“涨价时代”。",
+        "资讯标题": "东擎发布紧凑型工作站 AI BOX-A395，搭载 AMD 锐龙 AI Max+ 395 处理器",
+        "内容": "工业电脑制造商东擎（ASRock Industrial）于2026年3月17日发布紧凑型工作站AI BOX-A395。该产品搭载AMD锐龙AI Max+ 395处理器，采用铝合金机身与6热管+铜质底座散热，三维尺寸为200×100×232毫米，内置400W电源，支持峰值160W/持续140W性能释放。其最高配备128GB LPDDR5X-8000板载内存，提供2个PCIe Gen4 x4 M.2盘位，并支持Wi-Fi 7扩展。接口方面，背面配备2个HDMI 2.1、1个10GbE网口、1个2.5GbE网口、2个全功能USB-C（40Gbps）及多个USB-A接口，适用于AI计算及高性能工作站场景。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/ea7333e5-81b3-4edb-8947-b05262eb6521.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/60106535-3159-4ebe-a447-bba030881f89.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "苹果发布 AirPods Max 2 耳机：H2 芯片助力主动降噪提升 1.5 倍，售价 3999 元",
-        "内容": "苹果发布第二代AirPods Max头戴式耳机，搭载H2芯片。核心升级包括：主动降噪效果提升1.5倍，通透模式更自然。新增多项智能功能，如自适应音频、对话感知、语音突显、相机遥控及录音棚级音频录制。音质方面，配备新高动态范围放大器，支持24-bit/48kHz无损音频和个性化空间音频。提供午夜色、星光色、橙色、紫色、蓝色五种配色，售价3999元，3月25日起预购，下月初正式发售。产品在材料中使用了再生稀土元素、再生聚酯纤维等环保成分。",
+        "资讯标题": "马斯克：新款特斯拉 Roadster 电动超跑可能在四月下旬发布",
+        "内容": "特斯拉CEO马斯克在X平台宣布，新款Roadster电动超跑预计于2025年4月下旬发布。该车型是特斯拉2017年发布的第二代Roadster，原计划2020年投产但多次推迟。新车将搭载四驱系统，百公里加速2.1秒，最高时速400km/h，配备200kWh电池，续航里程达1000km。预计发布后12至18个月开始生产。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/f219d4de-7675-435b-9fdf-b3723dc65a3c.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/4e52def5-ca81-4458-bed5-445730eac6bc.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "三星回应部分场景下 Galaxy S26 Ultra 手机防窥屏较暗，日常影响微乎其微",
-        "内容": "三星就Galaxy S26 Ultra手机防窥屏问题作出回应。此前有用户反馈，该手机在特定视角和最高亮度下屏幕出现亮度衰减及颜色变化，显示效果较上一代明显偏暗。三星官方承认在特定条件下屏幕亮度存在“一些波动”，但强调对用户日常握持使用的影响“微乎其微”。然而，科技媒体Android Authority等对三星“影响微乎其微”的说法并不认同，认为该全新屏幕技术的实际显示质量与峰值亮度受到质疑。",
+        "资讯标题": "消息称华为、小米 REDMI、一加、vivo 等厂商正打磨小平板",
+        "内容": "博主@数码闲聊站爆料，苹果、华为、小米REDMI、OPPO、一加、vivo、iQOO、联想和红魔等多家厂商正在打磨小平板产品。其中，联想除即将发布的8.8英寸LCD屏拯救者Y700五代外，还有OLED版本在研；华为主要为现有产品推出新配色；其余厂商将进行大迭代。联想拯救者Y700五代搭载第五代骁龙8至尊版处理器，主打电竞玩家，提供碳晶黑、冰魄白配色及多种内存组合，定于3月18日发布。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/0ac039af-e98d-4647-ad27-c40e1b71e3fe.jpg?x-bce-process=image/quality,q_75/format,f_webp/auto-orient,o_1"
+            "https://img.ithome.com/newsuploadfiles/2026/3/e1cbeab2-ab0c-4a0d-ba76-6044ffa3b98c.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "晚 8 点开抢：苹果 Mac mini M4 京东 3805 元预约开启",
-        "内容": "苹果发布新款Mac mini，搭载M4/M4 Pro芯片，官方起售价4499元。京东平台有国家补贴，标准版低至3805元，目前开启预约，将于今晚20:00开抢。新品性能相比前代及竞品有显著提升，并支持雷雳5等新接口。",
+        "资讯标题": "美的 V11 洗烘套装 2599 元新低：支持巴氏除菌洗 + 42°C 热泵柔烘",
+        "内容": "美的V11洗烘套装（型号MG100V11FPRO+MH100V11F）目前促销至新低实付价2599元。该套装包含10kg洗衣机和10kg烘干机，日常价4129元，国补后约3150元，活动期间直降并支持联系客服退差价至2599元。核心功能上，洗衣机搭载BLDC变频电机，支持巴氏除菌洗和蒸汽桑拿洗，洗净比1.05；烘干机采用42℃低温热泵柔烘技术，配备四重毛屑滤网（适合养宠家庭）和AI智能正反转。此外，提供15分钟快洗+30分钟快烘模式，整机5年质保（前3年换新），并支持30天免费试用。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2024/10/77f681c6-bc6c-452e-b04d-3dead1a6f990.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/5b61b112-390b-47f4-ac92-cc59e9f19f3d.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "英伟达发布 Groq 3 LPX 机架系统：集成 256 颗 LP30 芯片，片上 SRAM 合计 128GB",
-        "内容": "英伟达在GTC 2026上发布Groq 3 LPX机架系统，专为AI推理的低延迟与长上下文需求设计，定位Vera Rubin平台，预计2026年下半年推出。该系统采用全液冷设计，基于MGX基础设施，包含32个1U计算托盘，每托盘集成8颗Groq 3 (LP30)芯片，总计256颗芯片。每颗LPU拥有500MB片上SRAM，整机架片上SRAM合计128GB，提供40PB/s带宽，显著提升解码速度并降低响应延迟。每芯片配备96条112Gbps C2C链路，托盘可扩展384GB DRAM作为后援。该机架将使Vera Rubin平台每兆瓦推理吞吐量提升高达35倍，并为万亿参数模型带来多达10倍的营收机遇。",
+        "资讯标题": "美国零售商 GameStop 将 PS3、Xbox 360 和 Wii U 列为“复古游戏机”",
+        "内容": "美国游戏零售商GameStop宣布将索尼PS3、微软Xbox 360和任天堂Wii U正式归类为“复古游戏机”，与世嘉土星、任天堂DS等老产品并列。同时推出以旧换新活动，玩家可使用这些主机或配件享受9折换新抵扣，且回收条件宽松（设备无法运行、缺少配件或外观较差均可，能开机即可）。此举引发玩家讨论，有人表示这让自己感觉“像60岁一样”。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/c6583a3b-2454-41c9-93a6-bbccf250f51b.png?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/2307d02e-c27e-47cb-89c6-70f86c0581eb.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "三星 Galaxy Z Fold8 折叠手机曝光：告别 4400mAh，升至 5000mAh",
-        "内容": "据IT之家援引荷兰科技媒体Galaxy Club报道，三星下一代大折叠手机Galaxy Z Fold8（代号Q8）在电池方面将有显著升级。其将告别现款Z Fold7沿用自Fold3的4400mAh电池，升级至5000mAh，成为Fold系列容量最高的机型。具体采用双电芯设计，两块电池额定容量分别为2369mAh和2485mAh，总额定4845mAh，官方宣传采用5000mAh典型值。此外，供应链还测试了单块2393mAh电池的方案，可能专为代号“H8”的“Fold Wide”衍生版本准备，该版本总典型容量可达4900mAh。影像系统上，其后置主摄将沿用旗舰级的2亿像素传感器，但内外双屏的前置摄像头仍维持在1000万像素，相较于三星S系列略显保守。",
+        "资讯标题": "雷军回应为何这么早停售第一代小米 SU7：不想背刺老用户",
+        "内容": "小米CEO雷军回应为何提前停售第一代SU7，核心原因是为了避免“背刺老用户”，即不让刚购车的用户因快速推出新款而感到被欺骗或车辆贬值。他表示这一决策虽对前三个月销售造成影响，但保护用户感受更重要。新一代SU7作为首次改款，设计打磨耗时两年多，在第一代基础上进行了“360度无死角的扫描”以全面提升。雷军将小米汽车过去两年形容为“跌宕起伏，冰火两重天”，既取得了远超预期的成绩，也积极倾听并改进外界批评。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/1ae2946b-679c-42e9-8737-9e01259e1fe5.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/b25a630d-cf63-4099-8222-b4f3298f2868.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "三星首款智能眼镜 Galaxy Glasses 曝光：245mAh 电池、1200 万摄像头、Gemini AI 加持",
-        "内容": "科技媒体SamMobile曝光了三星首款智能眼镜Galaxy Glasses（型号EB-O200）。其核心规格包括：245mAh电池、一颗用于第一人称视角拍摄的1200万像素摄像头，并内置谷歌Gemini大模型以处理AI任务。设备将运行专为XR设备开发的Android XR系统，配备麦克风、扬声器和触控区。为兼顾日常佩戴，三星计划推出太阳镜版本，并已与Gentle Monster、Warby Parker等时尚品牌合作设计。这标志着三星正式进军扩展现实（XR）智能眼镜市场。",
+        "资讯标题": "增幅约 5%，三星 Galaxy Tab S12+ 平板被曝配额定 10392mAh 电池",
+        "内容": "三星即将推出的Galaxy Tab S12+平板电脑被曝将配备额定10392mAh电池（典型值约10500-10600mAh），相比前代Tab S10+的10090mAh，容量预计增长4%-5%。此外，该设备预计配备12.4英寸QHD+ 120Hz屏幕，搭载联发科天玑9500+处理器，配备至少12GB RAM和256GB存储，支持microSD扩展，拥有四扬声器、IP68防尘防水及45W快充，S Pen同样具备IP68等级。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/991cb3a9-408e-4067-81a4-3e50154a9e78.png?x-bce-process=image/quality,q_75/format,f_webp/auto-orient,o_1"
+            "https://img.ithome.com/newsuploadfiles/2026/3/45400343-bfe1-40e5-873e-d876cffaabfc.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     }
 ]

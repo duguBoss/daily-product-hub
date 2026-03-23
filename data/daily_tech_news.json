@@ -1,58 +1,58 @@
 [
     {
-        "资讯标题": "华为 Mate 80 Pro Max 风驰版手机登陆官网：极夜黑 / 极昼金双配色，最高 16GB+1TB 规格",
-        "内容": "华为Mate 80 Pro Max风驰版已登陆官网，作为该系列的首款主动式风冷散热手机，将于3月20日12:08开启预订，3月23日发布会后全款预售。提供极夜黑、极昼金双配色，最高16GB+1TB存储规格，预计2026年4月27日前发货。外观与普通版基本一致，但后摄模组内藏散热风扇。预计配置包括双层OLED 1.5K屏（1-120Hz LTPO，峰值亮度8000尼特）、6000mAh以上电池及100W有线快充。",
+        "资讯标题": "三星 Galaxy S26 系列手机现已兼容苹果 AirDrop 隔空投送，消息称港版后续支持",
+        "内容": "三星于3月20日宣布Galaxy S26系列手机将兼容苹果AirDrop隔空投送功能，该更新已于3月23日在韩国开始推送，作为Quick Share（三星的安卓版本类似功能）更新的一部分。用户可通过“设置 > 连接设备 > Quick Share > 与苹果设备共享”路径开启此功能，但开启后可能暂时断开Wi-Fi。使用需苹果设备将AirDrop设置为“所有人”模式。三星表示该功能将首先应用于S26系列，后续计划扩展至其他Galaxy设备，并据博主消息将覆盖欧洲、中国香港、中国台湾、日本、北美、拉美及东南亚等地区。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/b1e57fb7-99d6-40ac-951f-c1953b5d1cf2.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/2/ed59fe99-7517-4014-a08b-bda7fe796d5e.jpg?x-bce-process=image/quality,q_75/format,f_webp/auto-orient,o_1"
         ]
     },
     {
-        "资讯标题": "24G LPDDR5X 内存 + 1T UFS4.0 存储 + 骁龙 8 至尊仅 3726 元，努比亚 Z70 Ultra 新低",
-        "内容": "努比亚 Z70 Ultra（24GB+1TB版）现价创新低。该机原价6299元，京东PLUS会员享受国补后为3776元，晒单返50元E卡后折合仅3726元。核心配置搭载骁龙8至尊版旗舰芯片，配备24GB LPDDR5X内存与1TB UFS4.0存储。其主要卖点包括：6.85英寸AMOLED全面屏，屏占比95.3%，黑边仅1.25mm；采用第七代屏下摄像技术（16MP）；内置6150mAh高能电池，支持80W快充；后置“35mm人眼仿生动态镜头”三摄系统（50MP主摄+50MP超广角微距+64MP潜望长焦）；支持IP68&IP69防尘防水、Wi-Fi 7等。",
+        "资讯标题": "消息称某厂迭代子系新机测试 10000mAh 电池 +100W 快充，预计为小米 REDMI 旗下",
+        "内容": "据博主@数码闲聊站爆料，小米REDMI子系迭代新机正在测试10000mAh超大电池、100W快充及2亿像素影像系统。该机预计归属REDMI旗下，可能采用新命名如Note 17 Pro Max。博主透露目前行业量产最大电池容量约为12000mAh，但该机暂未试产15000mAh版本。作为参考，前代REDMI Note 15 Pro+主打长续航，售价1999元起。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2024/11/fbbcf99c-9248-457e-8a98-fd96688c0c16.png?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/0776c32f-ee3c-4110-a330-df54a10da8de.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "曝某厂新机继续增强音质 + 马达、测试 2 亿像素主摄，预计为小米 REDMI K100 Pro Max",
-        "内容": "据博主@智慧皮卡丘爆料，小米即将推出的旗舰机型REDMI K100 Pro Max（内部代号“松原”）将重点延续并增强音质与马达体验，同时正在测试由2亿像素主摄和5000万像素潜望长焦组成的影像系统，并规划有高定版本。该机是REDMI K100系列中的高端型号。",
+        "资讯标题": "Radxa 瑞莎推出 AICore DX-M1M 紧凑型边缘 AI 加速模组，25 TOPS 算力",
+        "内容": "Radxa（瑞莎）于3月19日推出AICore DX-M1M紧凑型边缘AI加速模组。该产品基于DEEPX的DX-M1M芯片，采用M.2 2242 B+M Key外形，通过PCIe Gen3 ×2接口连接。其核心特点是能以仅3W的功耗提供25 TOPS的INT8算力，并板载1GB LPDDR4X内存和1Gbit闪存。该模组适用于x86与Arm主机，支持Windows、Linux Ubuntu及Docker环境，可通过DX-COM编译器兼容TensorFlow、ONNX等主流AI框架，主要面向嵌入式与工业系统的端侧AI推理场景。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/85fde7d3-9bc5-4f5c-a4ef-a7858326e43a.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/196d044e-3cdb-4875-9935-4a189672bb92.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "小米笔记本 Pro 14 高性能超轻薄本发布，首销 7999 元起",
-        "内容": "小米笔记本 Pro 14 于2026年3月19日小米春季新品发布会上正式发布，作为时隔四年的回归之作，定位高性能超轻薄本。其采用一体压铸镁合金机身，重量仅1.08kg，厚度14.95mm，提供柔雾蓝、雅灰、奶霜白、柔光粉四色。核心配置搭载第三代英特尔酷睿Ultra X7 358H处理器，配备10000mm² VC散热模组，性能释放达50W；配备14.6英寸3.1K分辨率OLED触控屏，支持120Hz刷新率及1600nits峰值亮度。内置72Wh电池，续航约19.8小时，支持100W氮化镓快充，并具备远程操控、跨端协作等小米生态功能。接口包括40Gbps雷电4、HDMI 2.1等。售价8499元起，首销期优惠500元后为7999元起，叠加国补最低可至6799.15元，将于3月21日10点开售。",
+        "资讯标题": "爱国者推出星璨辰 Air 机箱：一体式海景房曲面设计、配 LED 数显屏，449 元",
+        "内容": "爱国者推出星璨辰 Air 海景房机箱，售价449元。其采用一体式曲面玻璃结构，正面配备LED数显屏可显示CPU温度等信息。尺寸为410x275x454mm，前面板提供USB-C、USB-A 3.0及音频接口。支持ATX/M-ATX/ITX主板，显卡限长415mm，风冷限高160mm，最多可安装10把120mm风扇并兼容顶部360水冷。仅黑色配色，已在京东上架。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/3021a93d-0cda-4058-8239-252a44d17fa8.jpg?x-bce-process=image/quality,q_75/format,f_webp/auto-orient,o_1"
+            "https://img.ithome.com/newsuploadfiles/2026/3/ea745e57-1ff1-499b-bf95-ad96f036e8df.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "苹果发布 AirPods Max 2 耳机：H2 芯片助力主动降噪提升 1.5 倍，售价 3999 元",
-        "内容": "苹果发布AirPods Max 2包耳式耳机，搭载H2芯片，主动降噪效果较前代提升1.5倍。新增自适应音频、对话感知、语音突显等智能功能，并支持录音棚级音频录制与相机遥控。音质方面配备新高动态范围放大器，支持24-bit/48kHz无损音频。提供午夜色、星光色、橙色、紫色、蓝色五种配色，售价3999元，3月25日起预购，下月初正式发售。",
+        "资讯标题": "Ubiquiti 推出 UniFi AirWire 旅行路由器，支持 5GHz / 6GHz 双频段",
+        "内容": "Ubiquiti于2026年3月19日推出UniFi AirWire旅行路由器，售价199.99美元（约合1382元人民币）。该产品支持Wi-Fi 7标准，专为高性能设计，舍弃2.4GHz频段，采用5GHz（2×2 MIMO，240MHz频宽）与6GHz（2×2 MIMO，320MHz频宽）双频段，整体规格为BE10100。核心特性包括：提供完整MLO（多链路操作）支持，可同时利用多天线整合频段；通过USB-C接口支持10Gbps速率与5GbE有线连接；双频段均配备11 dbi高增益天线，标称覆盖范围可达标准设备的3倍。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/f219d4de-7675-435b-9fdf-b3723dc65a3c.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/ff720c82-bea5-405e-8196-755e428ec89e.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "苹果 M4 芯片款 iPad Air 发布：4799 元起，3 月 11 日发售",
-        "内容": "苹果发布新款iPad Air，搭载M4芯片，性能较M1版本最高提升2.3倍。产品提供11英寸与13英寸两种屏幕尺寸，拥有深空灰、蓝色、紫色、星光色四种配色。配备12GB统一内存、9核GPU及16核神经网络引擎，支持Wi-Fi 7与蓝牙6。起售价为4799元，3月4日开启预购，3月11日正式发售。",
+        "资讯标题": "鸿蒙智选海雀智能摄像头 5 4K 版上架：支持语音操作、搭海思芯片，231 元",
+        "内容": "鸿蒙智选海雀智能摄像头5 4K版已上架京东，预售价231元。该摄像头搭载800万像素传感器与F1.6光圈镜头，支持4K分辨率，配备4颗850nm红外灯，实现10米红外夜视。云台支持水平360度、垂直140度旋转。核心搭载海思芯片，支持双频Wi-Fi 6，可接入鸿蒙智联生态。最大亮点是内置海雀AI大模型，支持通过唤醒词进行语音操作，理解复杂指令，并配备一键静谧通话与双麦克风功能。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/a5b301be-29f3-4e35-990f-f6cec5afb7c4.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img14.360buyimg.com/pop/jfs/t1/406505/35/1249/99152/69bb9ebeF4c403c8c/0083320320960e4a.jpg"
         ]
     },
     {
-        "资讯标题": "苹果发布搭载 M5 Pro/M5 Max 芯片款 MacBook Pro：17999 元起，3 月 11 日发售",
-        "内容": "苹果于2026年3月3日发布新款MacBook Pro，搭载M5 Pro/M5 Max芯片，3月4日晚预购，3月11日正式发售，起售价17999元。M5 Pro相比M1 Pro最高提速7.8倍，M5 Max相比M1 Max最高提速8倍，可满足代码编译、DNA测序及多路8K视频剪辑等高阶需求。屏幕可选14/16英寸，具备XDR对比度（1000000:1）、最高1600尼特亮度，支持ProMotion自适应刷新率（最高120Hz）。接口配备SDXC卡槽、HDMI、MagSafe 3及三个雷雳5端口。新增Apple N1无线芯片，支持Wi-Fi 7、蓝牙6与Thread。最高可选配18核CPU/40核GPU的M5 Max、128GB内存与8TB固态硬盘。14英寸机型重1.60/1.62kg，16英寸重2.14/2.15kg。",
+        "资讯标题": "山灵 M3 Plus Master 播放器发售：4*CS43198 DAC 矩阵，2998 元",
+        "内容": "山灵 M3 Plus Master 便携播放器于3月23日10点在京东发售，首发到手价2998元。其核心配置为4*CS43198 DAC矩阵，搭载骁龙665芯片与Android 13系统。音频部分采用2*OPA1612差动式放大电路与2*SGM8262-2独立耳放芯片，具备3.5mm/4.4mm耳机接口及S-PDIF同轴输出，单端输出200mW@32Ω，平衡输出800mW@32Ω。配备3500mAh电池，长续航模式下可听歌14小时，支持QC 3.0 18W快充。相比常规Plus版，该Master版本增强了数字部分供电，模拟部分采用Silmic II丝膜电容，并配全新旋钮设计与专属开机动效。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/d3ce572a-5927-4cc5-8a68-e40de63718ba.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img14.360buyimg.com/pop/jfs/t1/404341/11/16718/32978/69bba029F469d140d/0083320320d3c478.jpg"
         ]
     },
     {
-        "资讯标题": "配主动散热风扇：华为 Mate 80 Pro Max 风驰版官宣 12:08 开启预订，3 月 23 日预售",
-        "内容": "华为Mate 80 Pro Max风驰版是华为首款搭载主动式风冷散热的手机，通过在后摄模组集成风扇实现极致散热。该版本于3月20日12:08开启预订，3月23日发布会后全款预售。外观与普通版基本一致，但以散热风扇替换了超长焦镜头位置。配置预计与Pro Max相同，包括1.5K双层OLED屏（峰值亮度8000尼特，1-120Hz LTPO）、6000mAh以上电池及100W快充。提供极夜黑、极昼金双色，最高16GB+1TB存储。",
+        "资讯标题": "机械革命苍龙 18 Pro 笔记本上架：可选 R9-8945HX / R9-9955HX 及 RTX5060/5070，9299 元起",
+        "内容": "机械革命苍龙18 Pro游戏本已上架京东。核心配置可选AMD锐龙9-8945HX或R9-9955HX处理器，显卡为RTX 5060或5070，标配16GB内存与1TB SSD。起售价9299元（R9-8945HX黑色版），国补后低至7904.15元起。主要特性包括：18英寸2560x1600分辨率高色域屏（500尼特亮度），铝镁合金机身（重2.8kg，厚21.85mm），1.8mm键程RGB键盘，以及三风扇散热系统。",
         "配图": [
-            "https://img10.360buyimg.com/pcpubliccms/s1440x1440_jfs/t1/406321/29/4089/75596/69bca26aF81835033/00835a05a0241f24.jpg"
+            "https://img14.360buyimg.com/pop/jfs/t1/407225/16/365/181937/69bcdc04F243520e7/0083320320eaba50.jpg"
         ]
     }
 ]

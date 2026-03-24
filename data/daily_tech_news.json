@@ -1,58 +1,51 @@
 [
     {
-        "资讯标题": "全球性能最高 RISC-V CPU：阿里达摩院新一代旗舰处理器玄铁 C950 正式发布",
-        "内容": "在2026玄铁RISC-V生态大会上，阿里达摩院正式发布新一代旗舰处理器玄铁C950，宣称其为全球性能最高的RISC-V CPU。其综合性能较上一代C950提升3倍以上，SPECint2006单核性能测试首次超过70分，云计算典型负载达到全球领先厂商最新量产CPU水平。该处理器采用64位多核、超标量乱序执行等先进微架构，并首次原生支持Qwen3、DeepSeek V3等千亿参数大模型，主要面向云计算与高性能AI计算场景。同时发布的还有面向智能终端等领域的玄铁C925，能效比提升11%。",
+        "资讯标题": "【视频】HUAWEI MateView GT 体验",
+        "内容": "华为最新发布的HUAWEI MateView GT是一款27英寸4K显示器，其核心卖点是采用了名为“云晰柔光屏”的技术，据称在27英寸4K尺寸段是市面上唯一一款。该产品定位游戏显示器，支持高刷新率。根据相关报道信息，其首发价格为999元，预售期间有立减优惠。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/8affb750-bc90-4831-bf56-7d6101fbfd8b.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/thumbnail/2026/3/931781_240.jpg"
         ]
     },
     {
-        "资讯标题": "初探苹果 iPhone Fold 屏幕：更薄更省电，但户外恐影响阅读",
-        "内容": "苹果为追求极致轻薄与无折痕，计划在iPhone Fold内屏采用CoE（彩色滤光片封装）技术。该技术将滤光片直接印在发光层，省去传统偏光片，使屏幕更薄、更省电、更易折叠。但缺点是失去偏光片后，屏幕阻挡反射光能力下降，在户外强光下眩光会加剧，可能影响阅读体验。三星在Galaxy S26 Ultra上应用相同技术后，屏幕反射率已从1.5%显著升至2.8%，为苹果此技术路线敲响警钟。",
+        "资讯标题": "华为春季全场景新品发布会一文汇总：手机全系全面回归，何刚替班余承东“四界齐聚”",
+        "内容": "华为春季全场景新品发布会于3月23日举行，核心亮点为手机产品线全面回归，全系搭载麒麟芯片并预装HarmonyOS 6。主要新品包括：性能旗舰Mate 80 Pro Max风驰版，主打风驰散热架构与超丝滑方舟引擎；畅享90系列，以8500mAh超大电池和全系Wi-Fi 7为特色。穿戴设备推出WATCH Ultimate 2旷野绿、WATCH GT Runner 2及手环11系列。此外，MatePad系列新增幻影紫配色，发布首款柔光屏显示器MateView GT及Super MiniLED智慧屏6。鸿蒙智行“四界”齐聚，享界S9/S9T、智界R7/新S7、问界M7/M8均迎来新配色与激光雷达升级，并官宣首款MPV智界V9将于4月到店。本次发布会由何刚主持。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/7f59928f-8311-47b5-8a00-be4976ca42b4.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/0ca7f7a9-10f3-4c26-898c-a00c49ee52ab.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "英特尔酷睿 Ultra 9 290K Plus 处理器曝光：单 / 多核跑分较 285K 提升约 17%",
-        "内容": "英特尔未发布的旗舰处理器酷睿 Ultra 9 290K Plus 已现身 Geekbench 跑分库。其在 6.5.0 版本中取得单核 3747 分、多核 26117 分的成绩。与现役旗舰 Core Ultra 9 285K 相比，单核与多核性能均提升约 17%。其单核表现已超越 AMD 及英特尔现有旗舰产品，显示出强大的单核性能，定位为适合专业内容创作者的高性能处理器。此前有传言该芯片可能已被取消，此次跑分曝光证实其仍在开发中。",
+        "资讯标题": "8GB 内存极限测试：苹果 MacBook Neo 同时打开 60 个应用仍能流畅播放视频",
+        "内容": "YouTube频道Hardware Canucks对苹果MacBook Neo进行8GB内存极限测试，同时打开60个应用后系统未崩溃，仍能流畅播放视频，反驳了“8GB内存绝对不够用”的论调，证明其可满足普通用户及部分多开需求。该机为苹果入门级笔记本，搭载A18 Pro处理器，配备13英寸Liquid视网膜屏，官方起售价4599元，叠加国补及优惠后最低可达2699元。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/f69e3e3b-7599-4a61-ba91-9f6fdca84dd0.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/0d121bfc-569f-4b9f-87d7-a36f5992bba9.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "网友反馈其华擎主板升级 BIOS v4.1 后损坏 AMD 9800X3D 处理器",
-        "内容": "网友升级华擎X870 Pro RS WiFi主板BIOS至v4.10版本后，其AMD Ryzen 7 9800X3D处理器发生损坏。该用户此前系统已稳定运行一年，且未进行超频操作（仅启用EXPO）。升级后出现严重卡顿、死机，最终CPU与DRAM自检灯常亮，表明处理器故障。此次BIOS更新本意是修复AM5主板启动问题，但疑似因微代码导致处理器过压损坏，具体原因尚待进一步调查。",
+        "资讯标题": "何刚：华为以后所有新手机都将支持 Wi-Fi 7",
+        "内容": "华为终端BG CEO何刚在春季全场景发布会上宣布，华为未来所有新手机将支持Wi-Fi 7。新发布的畅享90 Pro Max成为首款支持该技术的机型，具备Wi-Fi 7、5A速度、双频GPS三频北斗等特性，搭载麒麟8000处理器和HarmonyOS 6系统，整机性能提升38%，售价1699元起。同期发布的还有Mate 80 Pro Max风驰版、手环11等新品。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/e1ec46f3-11f1-435b-b397-92dafff598d1.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/images/v2/t.png"
         ]
     },
     {
-        "资讯标题": "索尼确认 PS5 Pro 系统不自动升级 PSSR 画质增强版本",
-        "内容": "索尼确认PS5 Pro主机的“PSSR画质增强”系统开关将被锁定在固定版本，未来不会随超分技术（如PSSR 3.0）的迭代而自动升级。索尼表示此举是为了让玩家社区能总结出稳定有效的使用教程，提供清晰指导。这意味着，如果游戏仅支持初版PSSR，未来只能获得现有画质改善；即使推出PSSR 3.0，原生仅支持旧版本的游戏也无法通过系统开关自动获得新版技术加持，除非开发者主动提供更新补丁或索尼改变策略。",
+        "资讯标题": "华为 Mate 80 Pro Max 系列手机重点参数配置差异公布，一表看懂",
+        "内容": "在华为春季全场景新品发布会上，华为Mate 80 Pro Max系列手机正式发布，包含普通版与风驰版两个版本，售价8499元起。两者核心配置相同，均搭载麒麟9030 Pro芯片、HarmonyOS 6.0系统、6000mAh电池、100W有线快充及支持卫星通信。主要差异体现在：1. 颜色：普通版提供极光青等四种配色，风驰版仅两种；2. 摄像头：普通版为5摄（含微距长焦），风驰版为4摄（含超聚光微距长焦）；3. 散热：风驰版独家搭载业界首创的隐藏式无感出风设计。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/6506005d-e941-4a72-a92f-a730370bb65b.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/381c8122-8024-4a03-a253-00660826938e.jpg?x-bce-process=image/quality,q_75/format,f_webp/auto-orient,o_1"
         ]
     },
     {
-        "资讯标题": "英伟达最贵 AI 机架：Vera Rubin 单台预估最高 700 万美元，微软、亚马逊等再贵也要买",
-        "内容": "据供应链媒体DigiTimes报道，英伟达即将推出的Vera Rubin AI机架单台造价预估高达300万至700万美元，成为公司史上最昂贵的AI产品。其高昂成本源于极致的架构复杂度，机架内集成了包括Vera CPU、Rubin GPU及增强版NVLink 6芯片在内的七款全新设计芯片。尽管价格创纪录，但市场需求持续暴涨。微软、亚马逊、OpenAI等科技巨头为免于在AI“军备竞赛”中落后，正不惜代价抢购。行业分析认为，大型云服务商高达6600亿美元的年度资本支出及对算力瓶颈的恐惧是主要驱动力。英伟达CEO黄仁勋据此预测，其Blackwell和Rubin架构在2025至2027年间将创造约1万亿美元营收。",
+        "资讯标题": "余承东：搭载麒麟芯片和全新鸿蒙操作系统的畅享 90 系列发布，华为手机终于实现全面回归",
+        "内容": "2026年3月23日，华为在春季全场景新品发布会上正式推出畅享90系列手机，该系列搭载麒麟8000系处理器及全新鸿蒙操作系统。华为终端BG CEO何刚宣布，随着畅享系列的回归，华为手机（涵盖Mate、Pura、Pocket、nova、畅享全系）已全面采用麒麟芯片，实现“全面回归”。常务董事余承东虽因病未出席发布会，但通过社交媒体确认了这一里程碑。此外，鸿蒙HarmonyOS 5/6系统终端设备数已突破5000万，日均新增设备超15万。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/8926d7c9-2d15-494b-9b78-8693c1a1f2f2.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/46d7aa44-2aba-4c65-9b5b-29937385ce02.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "内置增距镜变成可能：OPPO Find X9 Ultra 手机首创 5 反射棱镜，宣称彻底终结“远摄即妥协”的历史",
-        "内容": "OPPO Find X9 Ultra手机首创5反射棱镜技术，通过460mm等效焦距（20倍光学品质变焦）解决长焦镜头“画质与机身厚度不可兼得”的行业难题。其核心在于三大技术：纳米级棱镜切割与空气光阑消除杂光、三重AOA主动光学校准保证光轴精度、定制JNL 5000万像素融合式传感器优化色彩。该机支持原生10倍光学变焦、20倍光学品质变焦及最高120倍数码变焦，将于2026年4月发布。",
+        "资讯标题": "16G 内存 20G 体验：华为 Mate 80 Pro Max 风驰版手机首发 HyperSpace Memory 技术",
+        "内容": "2026年3月23日，华为在春季全场景新品发布会上正式推出Mate 80 Pro Max风驰版手机，首发HyperSpace Memory超空间内存技术。该技术通过内存压缩，实现对比A手机内存压缩率提升69%、应用保活率提升100%，官方宣称可带来“16G内存20G体验”。手机售价8499元起。华为终端BG CEO何刚宣布，该技术将于下个月适配支持Mate 80全系机型。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/f0498541-9af4-4fbf-8d2a-5ca43fd0adb8.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "拒绝激进瘦身：消息称三星 Galaxy S27 Ultra 手机放弃超薄屏幕，保留支持 S Pen",
-        "内容": "据韩媒ETNews报道，三星已调整Galaxy S27 Ultra旗舰手机规划，放弃此前为追求超薄机身而计划的“无数字板”屏幕方案，决定继续保留对S Pen的全面支持。数字板是屏幕下用于感应S Pen的特殊传感器层，移除它虽能减薄屏幕，但会严重影响手写笔的定位与压力感应精度。三星管理层认为，鉴于市场对极致轻薄手机反应冷淡，且前代S26 Ultra已将厚度控制在7.9毫米，为微乎其微的减薄效果而牺牲核心的S Pen体验并不值得。此外，移除数字板还可能因磁场干扰而迫使手机放弃类似MagSafe的磁吸无线充电功能。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/5a03375e-6894-431f-bf9a-675ee9ab360e.png?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/83011fd2-4c69-4edb-8c93-0cedeee25299.jpg?x-bce-process=image/quality,q_75/format,f_webp/auto-orient,o_1"
         ]
     }
 ]

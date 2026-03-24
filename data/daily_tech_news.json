@@ -1,51 +1,58 @@
 [
     {
-        "资讯标题": "技嘉 Z890M FORCE DUO X WIFI7 主板上市，1699 元",
-        "内容": "技嘉Z890M FORCE DUO X WIFI7主板已在国内电商平台上市，售价1699元。该主板基于Intel Z890芯片组，采用2DIMM内存设计，支持内存超频至9733+ MT/s并兼容4-Rank CQDIMM。存储方面提供5个M.2 SSD接口，其中1个为CPU直连的PCIe 5.0×4，1个为CPU直连的PCIe 4.0×4，其余3个由PCH提供PCIe 4.0×4。供电为12+1+2相，扩展包括1条PCIe 5.0×16插槽和1条物理全长的PCIe 4.0×4插槽。接口丰富，配备5GbE有线网卡、Wi-Fi 7无线网卡（160MHz）、后置雷电4及前置USB-C 10Gbps。",
+        "资讯标题": "华为畅享 90 系列手机发布：麒麟 8000 芯 + 鸿蒙 6 + 巨鲸大电池，1299 元起",
+        "内容": "华为在春季全场景新品发布会上推出畅享90系列手机，包含标准版、Plus和Pro Max三款。全系预装HarmonyOS 6系统，Pro Max搭载麒麟8000处理器和8500mAh巨鲸大电池，支持超级聚能泵，电池容量释放率超98%，整机性能提升38%；Plus同样搭载麒麟8000，性能提升67%；标准版搭载麒麟8000A和6620mAh电池。系列支持5A速度、Wi-Fi 7、双频GPS三频北斗，并通过耐摔认证。售价1299元起，Pro Max顶配2399元。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/62f3a92d-ba7f-48dc-9198-fab75998d1f2.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/f47710bf-51bb-4049-af08-55168b26b7a7.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "京东京造推出 M3 单模轻音鼠标：搭 FCT3065 传感器、三档 DPI 调节，49.9 元",
-        "内容": "京东京造于2026年3月24日推出M3单模轻音鼠标，售价49.9元。该鼠标采用墨岩黑配色，重量仅58克，尺寸为111x74x40mm，适配中小手型，并配备轻音按键。核心搭载FCT3065传感器，支持无线250Hz回报率，提供800/1200/1600三档DPI调节。使用5号电池供电，续航最高可达2个月。",
+        "资讯标题": "华为 Mate 80 Pro Max 风驰版发布：业界首创隐藏式无感出风设计，8499 元起",
+        "内容": "华为于2026年3月23日春季全场景新品发布会推出Mate 80 Pro Max风驰版，定位高端旗舰。该机主打散热创新，采用业界首创的隐藏式无感出风设计，并搭载仿生羽翼涡扇与超导热弯流翅片，在同等噪声下风量提升60%，同等风量下散热效率提升30%。相较于常规版，风驰版减少了一颗5000万像素长焦镜头。核心配置上，搭载麒麟9030 PRO芯片，运行鸿蒙HarmonyOS 6系统，首发HyperSpace Memory技术，内存压缩率提升69%，应用保活率提升100%，整机性能宣称提升45%。支持IP68/IP69级防水，并配备3000万线硬件光追。售价方面，16GB+512GB版8499元，16GB+1TB版9499元，于3月27日10:08开售。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/5a3e1838-2f1d-4146-a7bc-6a4fb9d80f67.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/fe16607b-72d9-4228-9992-9b15a66502a3.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "戴尔推出 2026 款 Dell 15 笔记本：ARL-H 平台，6998.99 元起",
-        "内容": "戴尔推出2026款Dell 15笔记本电脑，搭载英特尔酷睿Ultra 200H处理器（Arrow Lake H平台），起售价为6998.99元。该笔记本配备15.6英寸FHD（1920x1080）120Hz刷新率WVA IPS显示屏，可选8GB/16GB/32GB DDR5-5600内存和512GB/1TB PCIe NVMe固态硬盘。采用塑料机身，厚度18.99mm，起始重量1.81千克，内置41Wh电池。其他特点包括集成非背光键盘、HD摄像头、瑞昱Wi-Fi 6网卡，但USB接口速度限制在10Gbps。",
+        "资讯标题": "鸿蒙智行尚界 Z7/Z7T 正式预售：标配 896 线激光雷达，22.98 万 / 23.98 万元起",
+        "内容": "鸿蒙智行在华为春季发布会上推出首款轿跑尚界Z7和首款猎装Z7T，预售价分别为22.98万元和23.98万元起。Z7尺寸为5036×1976×1465mm，轴距3000mm，配备“都市流光”钻石切割大灯（408个镭射点）及“星云画卷”碎钻尾灯。全系标配华为乾崑智驾ADS 4.1、896线激光雷达、鸿蒙座舱、巨鲸800V电池平台和途灵平台等五大黑科技，以及副驾零重力座椅等八大舒享配置。动力提供单电机264kW及双电机Ultra版（前170kW后264kW），CLTC续航最高905km。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/b03f10e1-8df5-4dc8-a64d-e85e84038f44.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/543fefad-7af4-40b8-8f5a-48612c1c65e0.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "全球首款 AI 智能两轮电动车小牛 NXT2 上市，5299 元起",
-        "内容": "小牛NXT2是全球首款搭载AI车机系统“小牛灵犀AIOS”的新国标电动自行车，于2026年3月24日上市，售价5299元起（Citi普通版），另有ABS运动版（6299元）和Ultra大师版（13499元）。其AI系统基于Qwen3.5大模型开发，支持离线语音交互。安全配置包括HC420/Q20高强度钢车架、46000cd全域光毯大灯（148°照射）、双通道ABS/TCS及环视三摄行车记录仪+毫米波雷达，支持哨兵模式、自动倒车影像等。Ultra版配备7英寸触控屏、双向转把智能倒车，搭载400W电机（0-25km/h加速2.49秒）和“新能安”115km超长续航锂电池。",
+        "资讯标题": "鸿蒙智行问界 M6 开启预售：全系标配全球量产最高 896 线激光雷达，预售价 26.98 万元起",
+        "内容": "鸿蒙智行问界M6于3月23日开启预售，定位年轻智慧SUV。全系标配全球量产最高896线双光路激光雷达，搭载华为ADS 4.1智能驾驶系统。增程版预售价26.98万元起，纯电版28.98万元起。增程版最高续航1400km，纯电版续航760km。外观提供7种配色，内饰配备双零重力座椅、压缩机冰箱等，并拥有多项拓展接口。",
         "配图": [
-            "https://img10.360buyimg.com/pcpubliccms/s1440x1440_jfs/t1/403787/1/12290/104551/69b8ffe3Fb6aafd92/0083320320884c1a.jpg"
+            "https://img.ithome.com/images/v2/t.png"
         ]
     },
     {
-        "资讯标题": "Oura Ring 5 智能戒指曝光：提升健康追踪精度，新增深玫瑰色",
-        "内容": "Oura Ring 5 智能戒指外观设计更圆润，贴近传统戒指观感，提升佩戴舒适度并避免刮伤设备。新增“深玫瑰色”配色，取代上一代玫瑰金，同时保留金色、哑光黑及银色（亮面/拉丝）版本。核心升级在于优化内置传感器，大幅提升健康追踪精度。续航与前代Oura Ring 4基本一致，约为5-8天。产品预计于2025年假日季正式发布。",
+        "资讯标题": "均为 6 核心 6 线程，英特尔酷睿 5 320 / 酷睿 3 310 处理器现身基准测试",
+        "内容": "英特尔酷睿5 320与酷睿3 310处理器现身BAPCo CrossMark及Geekbench基准测试数据库。两者均采用2性能核+4能效核的6核心6线程设计，仅支持单通道内存，属于英特尔已公布但未正式发布的“Wildcat Lake”系列。该系列CPU为2P+0E+4LP-E配置，GPU含2个Xe核心，NPU算力达18 TOPS，支持LPDDR5x-7467或DDR5-6400内存。目前尚未发现更高阶的酷睿7型号测试记录。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/a800bb6f-3353-47c2-a430-20a8cbff3a37.png?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/6a14011a-16ce-40aa-8545-cd33b2b2f0d1.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "爱马仕推出 Paddock Yoyo 旅行便携无线充电器：同时支持 Apple Watch / iPhone 充电，1750 美元",
-        "内容": "爱马仕推出Paddock Yoyo旅行便携无线充电器，采用悠悠球造型，使用Swift小牛皮与手工马鞍针工艺。其双面均可充电：一面为iPhone提供15W磁吸充电，另一面中央嵌入Apple Watch专用磁吸模块，中间区域可收纳USB-C线缆。该产品售价高达1750美元（约合12089元人民币），约为苹果已停产的MagSafe双项充电器（129美元）的13倍。",
+        "资讯标题": "初探苹果 iPhone Fold 屏幕：更薄更省电，但户外恐影响阅读",
+        "内容": "苹果为追求极致轻薄与无折痕，计划在iPhone Fold内屏采用CoE（彩色滤光片封装）技术。该技术将滤光片直接印在发光层，省去传统偏光片，使屏幕更薄、更省电、更易折叠。但缺点是屏幕反射率大幅上升，在户外强光下易产生眩光，影响阅读体验。三星在Galaxy S26 Ultra上应用相同技术后，屏幕反射率已从1.5%升至2.8%，为苹果提供了前车之鉴。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/6344cd66-7e2a-446f-abc5-30a1fc76a8f4.png?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/7f59928f-8311-47b5-8a00-be4976ca42b4.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "闪极推出 170W 带屏自带双线移动电源：25000mAh 电芯、3C+1A 可选黑白双色，399 元",
-        "内容": "闪极推出X6移动电源，主打170W高功率输出，内置25000mAh电芯。其最大特点是自带两根USB-C线（一根120W/100W编织线，一根90W/100W伸缩线），并配备3个USB-C接口与1个USB-A接口（3C+1A）。正面搭载1.3英寸彩色TFT屏，可显示电量、温度等信息。提供黑白双色可选，售价399元。",
+        "资讯标题": "消息称英伟达 MGX ETL 开放架构机架支持其它制造商 AI 芯片",
+        "内容": "英伟达在GTC 2026上推出MGX ETL开放标准化机架，允许客户在Vera Rubin POD系统中集成来自谷歌、AMD等第三方的AI芯片（XPU），并与英伟达自家网络芯片混合部署。若使用第三方芯片，则仅支持Spectrum-X以太网连接，而使用英伟达芯片还可选Groq 3 LPU直接芯片到芯片链路。此举旨在扩大其网络设备市场，并应对潜在的捆绑销售垄断争议。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/48a6ac4a-3ea3-4dcd-817d-7af13a0ff0e2.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/3419fc13-36e4-435a-8737-4745e8647868.png?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "全球性能最高 RISC-V CPU：阿里达摩院新一代旗舰处理器玄铁 C950 正式发布",
+        "内容": "在2026玄铁RISC-V生态大会上，阿里达摩院发布了新一代旗舰处理器玄铁C950，宣称其为全球性能最高的RISC-V CPU。相比上一代玄铁C920，其综合性能提升3倍以上，SPECint2006单核性能测试首次超过70分。该处理器为64位多核设计，采用超标量、乱序执行、8译码宽度、16级流水线等先进微架构，兼容RISC-V RVA23 Profile并支持多项扩展。其云计算典型负载性能达到全球领先厂商最新量产CPU水平，并搭载自研AI加速引擎，首次原生支持Qwen3、DeepSeek V3等千亿参数大模型，主要面向云计算与高性能AI计算场景。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/8affb750-bc90-4831-bf56-7d6101fbfd8b.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     }
 ]

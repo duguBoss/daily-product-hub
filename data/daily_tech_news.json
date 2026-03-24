@@ -1,44 +1,51 @@
 [
     {
         "资讯标题": "一加 15T 小屏旗舰机发布：第五代骁龙 8 至尊版、7500mAh 冰川电池，4299 元起",
-        "内容": "一加15T是一款专为小屏用户打造的旗舰手机，配备6.32英寸极窄边框（1.1mm四等边）屏幕，搭载第五代骁龙8至尊版处理器与7500mAh冰川电池，支持100W有线及50W无线快充。采用全新Free Design设计语言，提供纯粹可可、治愈白巧（行业唯一纯白金属中框）、松弛抹茶三种配色。影像系统升级为LUMO凝光影像，包含5000万像素索尼大底主摄与支持7倍光学品质变焦的3.5倍潜望长焦。运行ColorOS 16，承诺5年4个大版本系统更新。起售价4299元，国补后最低3799元。",
+        "内容": "一加15T是一款小屏旗舰手机，主打高性能与长续航。其核心配置包括搭载第五代骁龙8至尊版处理器、7500mAh冰川电池，支持100W有线与50W无线闪充。屏幕为6.32英寸旗舰直屏，支持165Hz高刷与护眼调光。影像方面配备5000万像素索尼主摄及3.5倍潜望长焦。设计采用极窄边框与50:50配重，提供三种配色。起售价为4299元，各存储版本均有国补优惠。系统搭载ColorOS 16，承诺5年大版本更新。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/3/f7f1ea86-fa2d-4c71-95b0-ad4bb78b5a3b.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
+        "资讯标题": "惠普更新 HyperX OMEN 游戏台式整机，配备酷睿 Ultra 200S Plus 处理器",
+        "内容": "在HP Imagine 2026活动上，惠普旗下HyperX品牌更新了OMEN暗影精灵游戏台式整机，推出搭载英特尔酷睿Ultra 200S Plus处理器的新款HyperX OMEN MAX 45L与OMEN 35L。其中，MAX 45L可选配英伟达GeForce RTX 5090显卡、支持128GB DDR5内存，并提供1200W全模组电源及360mm带LCD屏AIO水冷选项；35L则可选RTX 5080。两款机型均采用行业标准件设计，支持免工具维护。此外，惠普还升级了软件生态，OMEN AI性能优化新增支持《我的世界》等游戏，OMEN Gaming Hub集成了HeyGen数字人平台与Voicemod变声器。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/a5937b69-974f-4b15-a55c-1bc64ca824b4.png?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
+        "资讯标题": "英特尔推出 IBOT 二进制优化技术，酷睿 Ultra 200S Plus、200HX Plus 处理器率先支持",
+        "内容": "英特尔宣布推出IBOT二进制优化技术，该技术通过动态优化指令执行路径，在不修改代码的情况下提升x86处理器性能。首批支持酷睿 Ultra 200S Plus桌面及200HX Plus移动平台处理器。IBOT能优化缓存访问、提升分支预测精度，并实时规划最优指令路径，从而提高每周期指令数（IPC）。在首批12款游戏中平均帧率提升8%，《古墓丽影：暗影》最高提升22%。用户可通过英特尔平台性能套件（IPPP）安装并在应用优化（APO）中启用。",
+        "配图": [
+            "https://img.ithome.com/newsuploadfiles/2026/3/8fd1b160-fa02-4c29-a767-20f5b9b34a49.png?x-bce-process=image/quality,q_75/format,f_webp"
+        ]
+    },
+    {
         "资讯标题": "技嘉 Z890 D PLUS 主板上市：未配备无线网卡，1499 元",
-        "内容": "技嘉Z890 D PLUS主板已上市，定价1499元。该主板面向一般用户，最大特点是未配备无线网卡。规格方面，采用(6+6)+1+2相供电设计，配备2组8-Pin EPS CPU供电接口；支持4条DDR5内存，超频能力达DDR5-9466+；提供3条物理全长PCIe插槽（1条Gen5 x16 + 2条Gen4 x4）；存储接口包括1个Gen5和3个Gen4 M.2盘位及4个SATA III；网络为2.5GbE LAN；I/O方面有后置USB-C 10Gbps和前置USB-C 5Gbps。",
+        "内容": "技嘉GIGABYTE Z890 D PLUS主板已上市，定位一般用户，最大特点是未配备无线网卡，售价1499元。其采用(6+6)+1+2相供电设计，配备2组8-Pin EPS CPU供电接口。内存为4DIMM设计，支持DDR5-9466+超频。扩展性方面，提供3条物理全长PCIe插槽（Gen5 x16 + 2× Gen4 x4）、1个Gen5和3个Gen4 M.2 SSD接口及4个SATA III接口。网络为2.5GbE有线网卡，I/O包括后置USB-C 10Gbps和前置USB-C 5Gbps。",
         "配图": [
-            "https://img14.360buyimg.com/pop/jfs/t1/404998/17/7285/124946/69bbaf55F2d7dd1c0/0083320320c1e7d8.jpg"
+            "https://img.ithome.com/newsuploadfiles/2026/3/22447ba8-a3d4-45e0-882a-1626e9db33cf.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "思特威推出 SC855SL 智能安防应用 CMOS 传感器：800 万像素 1/1.8 英寸，2.0μm",
-        "内容": "思特威推出面向智能安防的CMOS传感器SC855SL。该产品基于SmartClarity-3工艺，搭载SFCPixel、PixGain HDR及Lightbox IR近红外增强技术，主打高感度、低噪声与高动态范围，支持全时录像。核心规格为800万像素，1/1.8英寸光学尺寸，2.0μm像素尺寸。其在520nm波段量子效率达81%，读取噪声低至0.63e-（较竞品低65%），动态范围80dB，最大输出3840x2160@60fps 10bit，适用于极低照度下的AI黑光全彩安防监控。",
+        "资讯标题": "酷比魔方掌玩 mini 4 Ultra 小平板 3 月 31 日开启预售，首发优惠到手价 2199 元",
+        "内容": "酷比魔方掌玩 mini 4 Ultra 小平板将于3月31日开启预售，标价2599元，首发优惠到手价2199元。该平板重330克、厚7.75mm，配备8.8英寸2650x1440分辨率144Hz京东方LCD屏幕（亮度500尼特，支持全亮度DC调光）。预计搭载联发科天玑8300处理器，内置7200mAh电池，支持33W有线快充。特色功能包括开放Bootloader解锁、旁路充电技术和独立游戏模式。此外，官方正与魅族推进Flyme AIOS适配合作。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/42bb8771-9a68-4987-994a-ea9f56833a1d.png?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/f9e2cc54-7626-40b9-a151-7b6ad2d1baa7.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "iQOO Z11x 手机三色官图公布：冰青绿 / 雪屿白 / 夜影黑、大 R 角设计，3 月 26 日发布",
-        "内容": "iQOO Z11x手机将于3月26日发布，公布冰青绿、雪屿白、夜影黑三款配色，采用大R角设计。核心配置搭载天玑7400处理器，配备6.76英寸LCD莱茵护眼屏，内置7200mAh蓝海电池。该机通过SGS五星金标抗跌耐摔认证，并支持IP68+IP69防尘防水。",
+        "资讯标题": "松下 Lumix TZ300 紧凑型相机发布：2010 万像素 1 英寸传感器，24-360mm f/3.3-6.4 变焦镜头",
+        "内容": "松下发布 Lumix TZ300 紧凑型相机，主打便携口袋设计。其核心规格包括：2010万像素1英寸背照式CMOS传感器，搭载徕卡认证的24-360mm（15倍光学变焦）f/3.3-6.4镜头。支持4K视频与照片拍摄、1080p 120fps慢动作，具备5轴混合防抖（HYBRID O.I.S.+）及3cm微距拍摄能力。此外，内置22种滤镜、闪光灯，支持手机App连接与USB-C充电，尺寸为111.2*66.4*45.2mm。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/53010cf1-39be-470e-aff1-c82cca6e8af2.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/images/v2/t.png"
         ]
     },
     {
-        "资讯标题": "曜越推出 Toughpower GX3 SE 直出线电源，80 PLUS EU Gold 能效",
-        "内容": "曜越（Thermaltake）推出 Toughpower GX3 SE 系列直出线电源，该系列罕见地提供了 1200W 的高功率选项，并全系获得 80 PLUS EU Gold 能效认证。产品包含 750W、850W、1000W、1200W 四种功率版本，完全符合 ATX 3.1 规范，提供原生 600W 12V-2×6 供电，并具备 OCP、OVP、UVP、OPP、OTP、SCP 等安全防护。电源采用单路 +12V 输出和 DC-DC 设计，其中 750W/850W 版本长度为 140mm，搭载 120mm FDB 轴承风扇；1000W/1200W 版本长度为 160mm，搭载 140mm FDB 轴承风扇。",
+        "资讯标题": "承诺 10 年安全更新：飞利浦 2026 款全系电视放弃 Google TV 换用 Titan OS",
+        "内容": "飞利浦电视授权商TP Vision宣布，旗下所有2026款飞利浦电视将全面放弃Google TV，转而搭载自研的Titan OS系统。该系统基于Linux底层，采用轻量化Web架构，用户无需安装独立应用即可直接观看流媒体内容。飞利浦承诺为Titan OS提供长达10年的安全更新服务。在内容生态上，该系统原生支持Netflix、YouTube、Disney+、Prime Video等主流平台，Apple TV应用将于2026年春季上线。智能互联方面，它兼容苹果投屏协议、Google Assistant及Alexa，但暂不支持Google Cast投屏功能。此举使飞利浦加入三星Tizen、LG WebOS的独立电视操作系统阵营。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/f3bdeafa-9ae3-48d6-9847-e169a4cf319d.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "内置增距镜变成可能：OPPO Find X9 Ultra 手机首创 5 反射棱镜，宣称彻底终结“远摄即妥协”的历史",
-        "内容": "OPPO Find X9 Ultra 手机首创 5 反射棱镜技术，通过 5 次反射潜望架构实现 460mm 等效焦距（20 倍光学品质变焦），结合纳米级棱镜切割、三重 AOA 校准及定制传感器，宣称终结“远摄即妥协”历史，支持原生 10 倍光学变焦及最高 120 倍数码变焦，将于 2026 年 4 月发布。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/f0498541-9af4-4fbf-8d2a-5ca43fd0adb8.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/images/v2/t.png"
         ]
     }
 ]

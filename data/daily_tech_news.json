@@ -1,58 +1,44 @@
 [
     {
-        "资讯标题": "华为春季全场景新品发布会一文汇总：手机全系全面回归，何刚替班余承东“四界齐聚”",
-        "内容": "华为于3月23日举行春季全场景新品发布会，覆盖手机、穿戴、平板、显示器、智慧屏及汽车等多品类。手机方面，Mate 80 Pro Max风驰版首发风驰散热架构与超丝滑方舟引擎；畅享90系列全系搭载麒麟8000系列芯片及HarmonyOS 6，宣告华为手机产品线全面回归。穿戴设备包括WATCH Ultimate 2新配色、WATCH GT Runner 2专业跑表及手环11系列。平板与显示器新增配色，如MatePad Pro 12.2“幻影紫”及首款柔光屏显示器MateView GT。汽车领域，“四界”问界、智界、享界、尊界多款车型焕新，增加新色与896线激光雷达，鸿蒙智行MPV智界V9将于4月到店。何刚首次代替余承东主持汽车环节。",
+        "资讯标题": "一加 15T 小屏旗舰机发布：第五代骁龙 8 至尊版、7500mAh 冰川电池，4299 元起",
+        "内容": "一加15T是一款专为小屏用户打造的旗舰手机，配备6.32英寸极窄边框（1.1mm四等边）屏幕，搭载第五代骁龙8至尊版处理器与7500mAh冰川电池，支持100W有线及50W无线快充。采用全新Free Design设计语言，提供纯粹可可、治愈白巧（行业唯一纯白金属中框）、松弛抹茶三种配色。影像系统升级为LUMO凝光影像，包含5000万像素索尼大底主摄与支持7倍光学品质变焦的3.5倍潜望长焦。运行ColorOS 16，承诺5年4个大版本系统更新。起售价4299元，国补后最低3799元。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/0ca7f7a9-10f3-4c26-898c-a00c49ee52ab.png?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img.ithome.com/newsuploadfiles/2026/3/f7f1ea86-fa2d-4c71-95b0-ad4bb78b5a3b.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "小米 REDMI Note 15 SE 手机 4 月 2 日海外发布，预计微调标准版配置",
-        "内容": "小米官方确认REDMI Note 15 SE手机将于4月2日在印度市场发布，并通过Flipkart独家销售。该机是Note 15标准版的衍生型号，预计将保留6.77英寸120Hz屏幕和骁龙6 Gen 3处理器，但相机规格可能缩减，电池容量大致相同（5520mAh）。为降低售价，可能采用不附赠充电器等措施，并提供专属配色。其预计售价为16000-18000印度卢比（约合1180-1327元人民币），主要面向预算有限的用户。",
+        "资讯标题": "技嘉 Z890 D PLUS 主板上市：未配备无线网卡，1499 元",
+        "内容": "技嘉Z890 D PLUS主板已上市，定价1499元。该主板面向一般用户，最大特点是未配备无线网卡。规格方面，采用(6+6)+1+2相供电设计，配备2组8-Pin EPS CPU供电接口；支持4条DDR5内存，超频能力达DDR5-9466+；提供3条物理全长PCIe插槽（1条Gen5 x16 + 2条Gen4 x4）；存储接口包括1个Gen5和3个Gen4 M.2盘位及4个SATA III；网络为2.5GbE LAN；I/O方面有后置USB-C 10Gbps和前置USB-C 5Gbps。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/b08834d6-ce59-4782-9061-6bc2f9625569.jpg?x-bce-process=image/quality,q_75/format,f_webp"
+            "https://img14.360buyimg.com/pop/jfs/t1/404998/17/7285/124946/69bbaf55F2d7dd1c0/0083320320c1e7d8.jpg"
         ]
     },
     {
-        "资讯标题": "英特尔推出 IBOT 二进制优化技术，酷睿 Ultra 200S Plus、200HX Plus 处理器率先支持",
-        "内容": "英特尔推出IBOT（Intel Binary Optimization Tool）二进制优化技术，旨在通过动态优化指令执行路径来提升x86架构处理器的每周期指令数（IPC）。该技术在不修改应用程序代码的前提下，通过优化缓存访问、提升分支预测精度、动态规划最优路径等方式，深度适配处理器微架构。首批支持该技术的处理器为酷睿Ultra 200S Plus（桌面）和Ultra 200HX Plus（移动）平台。在首批12款游戏中，平均帧率提升可达8%，其中《古墓丽影：暗影》最高提升22%。用户可通过英特尔平台性能套件安装程序（IPPP）在英特尔应用优化（APO）中启用此功能。",
+        "资讯标题": "思特威推出 SC855SL 智能安防应用 CMOS 传感器：800 万像素 1/1.8 英寸，2.0μm",
+        "内容": "思特威推出面向智能安防的CMOS传感器SC855SL。该产品基于SmartClarity-3工艺，搭载SFCPixel、PixGain HDR及Lightbox IR近红外增强技术，主打高感度、低噪声与高动态范围，支持全时录像。核心规格为800万像素，1/1.8英寸光学尺寸，2.0μm像素尺寸。其在520nm波段量子效率达81%，读取噪声低至0.63e-（较竞品低65%），动态范围80dB，最大输出3840x2160@60fps 10bit，适用于极低照度下的AI黑光全彩安防监控。",
         "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/8fd1b160-fa02-4c29-a767-20f5b9b34a49.png?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "余承东：搭载麒麟芯片和全新鸿蒙操作系统的畅享 90 系列发布，华为手机终于实现全面回归",
-        "内容": "在华为春季全场景新品发布会上，华为正式发布畅享90系列手机，该系列搭载麒麟8000系处理器及全新鸿蒙操作系统。随着畅享系列回归，华为手机五大产品线（Mate、Pura、Pocket、nova、畅享）现已全部采用麒麟芯片，实现全面回归。华为常务董事余承东虽因身体不适未出席发布会，但通过社交媒体确认了这一里程碑。此外，鸿蒙HarmonyOS 5/6系统终端设备数已突破5000万，日均新增设备超15万。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/46d7aa44-2aba-4c65-9b5b-29937385ce02.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "华为 Mate 80 Pro Max 系列手机重点参数配置差异公布，一表看懂",
-        "内容": "2026年3月23日，华为在春季全场景新品发布会上推出Mate 80 Pro Max系列，包含普通版与风驰版。两者核心差异在于：颜色上，普通版提供极光青等4种配色，风驰版仅2种；摄像头数量，普通版为5摄（含微距长焦），风驰版为4摄（为超聚光微距长焦）；此外，风驰版独家支持“风驰散热”功能。二者共享麒麟9030 Pro芯片、6000mAh电池、100W有线快充、HarmonyOS 6.0等主要配置。风驰版售价8499元起。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/381c8122-8024-4a03-a253-00660826938e.jpg?x-bce-process=image/quality,q_75/format,f_webp/auto-orient,o_1"
+            "https://img.ithome.com/newsuploadfiles/2026/3/42bb8771-9a68-4987-994a-ea9f56833a1d.png?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
         "资讯标题": "iQOO Z11x 手机三色官图公布：冰青绿 / 雪屿白 / 夜影黑、大 R 角设计，3 月 26 日发布",
-        "内容": "iQOO Z11x手机将于3月26日发布。其核心配置包括搭载天玑7400处理器、6.76英寸LCD莱茵护眼屏，以及内置7200mAh大容量电池。该机型通过了SGS五星金标抗跌耐摔认证，并支持IP68+IP69级别的防尘防水。外观方面，官方公布了冰青绿、雪屿白、夜影黑三种配色，采用大R角设计，强调旗舰手感，且各配色纹理各异。",
+        "内容": "iQOO Z11x手机将于3月26日发布，公布冰青绿、雪屿白、夜影黑三款配色，采用大R角设计。核心配置搭载天玑7400处理器，配备6.76英寸LCD莱茵护眼屏，内置7200mAh蓝海电池。该机通过SGS五星金标抗跌耐摔认证，并支持IP68+IP69防尘防水。",
         "配图": [
             "https://img.ithome.com/newsuploadfiles/2026/3/53010cf1-39be-470e-aff1-c82cca6e8af2.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "刘作虎晒 OPPO Find X9 Ultra 手机 10 倍光变样张，称真正手机长焦竞争终局一定是 10X",
-        "内容": "OPPO首席产品官刘作虎展示了Find X9 Ultra手机的10倍光学变焦拍摄样张，并宣称“真正的手机长焦竞争，终局一定是10X”，认为10倍光变是手机完整影像能力的最后一块拼图。该机型首创5反射棱镜技术，等效焦距达460mm，支持原生10倍光学变焦、20倍光学品质变焦及最高120倍数码变焦，旨在解决远摄画质妥协问题。",
+        "资讯标题": "曜越推出 Toughpower GX3 SE 直出线电源，80 PLUS EU Gold 能效",
+        "内容": "曜越（Thermaltake）推出 Toughpower GX3 SE 系列直出线电源，该系列罕见地提供了 1200W 的高功率选项，并全系获得 80 PLUS EU Gold 能效认证。产品包含 750W、850W、1000W、1200W 四种功率版本，完全符合 ATX 3.1 规范，提供原生 600W 12V-2×6 供电，并具备 OCP、OVP、UVP、OPP、OTP、SCP 等安全防护。电源采用单路 +12V 输出和 DC-DC 设计，其中 750W/850W 版本长度为 140mm，搭载 120mm FDB 轴承风扇；1000W/1200W 版本长度为 160mm，搭载 140mm FDB 轴承风扇。",
         "配图": [
-            "https://img.ithome.com/images/v2/t.png"
+            "https://img.ithome.com/newsuploadfiles/2026/3/f3bdeafa-9ae3-48d6-9847-e169a4cf319d.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     },
     {
-        "资讯标题": "英伟达最贵 AI 机架：Vera Rubin 单台预估最高 700 万美元，微软、亚马逊等再贵也要买",
-        "内容": "英伟达即将推出的Vera Rubin AI机架单台造价预估300-700万美元，因其集成七款全新芯片（包括Vera CPU、Rubin GPU及增强版NVLink 6）导致架构极其复杂。尽管价格高昂，微软、亚马逊、OpenAI等科技巨头仍大量采购，主要源于对AI算力竞赛中“落后即淘汰”的恐惧。行业分析指出，大型云服务商资本支出高涨，英伟达预计其Blackwell和Rubin架构在2025-2027年将创造约1万亿美元营收。",
+        "资讯标题": "内置增距镜变成可能：OPPO Find X9 Ultra 手机首创 5 反射棱镜，宣称彻底终结“远摄即妥协”的历史",
+        "内容": "OPPO Find X9 Ultra 手机首创 5 反射棱镜技术，通过 5 次反射潜望架构实现 460mm 等效焦距（20 倍光学品质变焦），结合纳米级棱镜切割、三重 AOA 校准及定制传感器，宣称终结“远摄即妥协”历史，支持原生 10 倍光学变焦及最高 120 倍数码变焦，将于 2026 年 4 月发布。",
         "配图": [
-            "https://img.ithome.com/images/v2/t.png"
+            "https://img.ithome.com/newsuploadfiles/2026/3/f0498541-9af4-4fbf-8d2a-5ca43fd0adb8.jpg?x-bce-process=image/quality,q_75/format,f_webp"
         ]
     }
 ]

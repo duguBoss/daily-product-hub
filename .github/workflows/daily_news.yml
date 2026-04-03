@@ -1,4 +1,4 @@
-name: Daily Tech News Crawler
+name: Daily Product Hub
 
 on:
   schedule:

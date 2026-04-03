@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>优化后科技终端卡片风格预览</title>
+</head>
+<body style="margin:0; background-color:#eef1f6;">
+
+    <!-- 模拟微信图文的最外层容器，添加浅灰背景衬托卡片阴影 -->
+    <section style="max-width: 677px; margin: 0 auto; background-color: #f5f7fa; padding: 15px 15px 30px 15px; overflow-x: hidden; box-sizing: border-box;">
+        
+        <!-- ================= 1. 顶部引导部分 ================= -->
+        <section style="margin: 0 0 15px 0; text-align: center;">
+            <img src="" style="width: 100%; display: block; border-radius: 8px;">
+        </section>
+
+        <!-- ================= 2. 新闻模块 01（标准：含图文） ================= -->
+        <!-- 注意：去掉了 overflow: hidden，保障阴影完整显示 -->
+        <section style="margin: 0 0 35px 0; background-color: #ffffff; border-radius: 12px; box-shadow: 0 12px 28px rgba(0, 82, 217, 0.08); border-top: 5px solid #0052d9; box-sizing: border-box;">
+            
+            <!-- 标题区 -->
+            <section style="padding: 24px 20px 20px 20px;">
+                <section style="display: flex; align-items: center; margin-bottom: 12px;">
+                    <section style="background-color: #0052d9; color: #ffffff; font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 11px; font-weight: bold; padding: 2px 8px; border-radius: 3px; letter-spacing: 1px; flex-shrink: 0; line-height: 1.2;">
+                        CORE 01
+                    </section>
+                    <section style="margin-left: 12px; flex: 1; height: 1px; background-color: rgba(0, 82, 217, 0.15);"></section>
+                </section>
+                <section style="font-size: 21px; font-weight: 900; color: #1a1a1a; line-height: 1.5; text-align: justify; letter-spacing: 0.5px;">
+                    2024世界人工智能大会在上海正式开幕
+                </section>
+            </section>
+            
+            <!-- 图片区 (含 object-fit: cover 防止图片变形) -->
+            <section style="width: 100%; margin: 0; padding: 0; line-height: 0; background-color: #ffffff;">
+                <img src="" style="width: 100%; display: block; height: auto; border: none; object-fit: cover;" />
+            </section>
+            
+            <!-- 内容区 -->
+            <section style="padding: 24px 20px 30px 20px;">
+                <section style="font-size: 15px; color: #3f3f3f; line-height: 1.85; text-align: justify; letter-spacing: 0.8px; font-family: system-ui, -apple-system, sans-serif;">
+                    今日，备受瞩目的2024世界人工智能大会（WAIC）在上海世博中心正式开幕。本次大会汇聚了全球顶尖的AI科学家、企业家和投资者。
+                    <!-- 优化后的 14px 段落间距 -->
+                    <section style="height:14px;"></section>
+                    展区内展示了数百项最新的人工智能应用成果，其中大模型技术的落地应用成为全场关注的最核心焦点。
+                </section>
+                
+                <!-- 底部 UI：SYS.ACTIVE -->
+                <section style="margin-top: 28px; display: flex; align-items: center; justify-content: space-between;">
+                    <section style="display: flex; align-items: center;">
+                        <section style="width: 5px; height: 5px; background-color: #0052d9; margin-right: 5px; border-radius: 1px;"></section>
+                        <section style="width: 5px; height: 5px; background-color: #0052d9; opacity: 0.5; margin-right: 5px; border-radius: 1px;"></section>
+                        <section style="width: 5px; height: 5px; background-color: #0052d9; opacity: 0.2; border-radius: 1px;"></section>
+                    </section>
+                    <section style="font-size: 11px; color: #0052d9; font-weight: 700; opacity: 0.85; letter-spacing: 1.5px; font-family: Consolas, 'Courier New', monospace;">
+                        SYS.ACTIVE
+                    </section>
+                </section>
+            </section>
+
+        </section>
+
+        <!-- ================= 2. 新闻模块 02（测试：无图模式） ================= -->
+        <section style="margin: 0 0 35px 0; background-color: #ffffff; border-radius: 12px; box-shadow: 0 12px 28px rgba(0, 82, 217, 0.08); border-top: 5px solid #0052d9; box-sizing: border-box;">
+            
+            <!-- 标题区 -->
+            <section style="padding: 24px 20px 20px 20px;">
+                <section style="display: flex; align-items: center; margin-bottom: 12px;">
+                    <section style="background-color: #0052d9; color: #ffffff; font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 11px; font-weight: bold; padding: 2px 8px; border-radius: 3px; letter-spacing: 1px; flex-shrink: 0; line-height: 1.2;">
+                        CORE 02
+                    </section>
+                    <section style="margin-left: 12px; flex: 1; height: 1px; background-color: rgba(0, 82, 217, 0.15);"></section>
+                </section>
+                <section style="font-size: 21px; font-weight: 900; color: #1a1a1a; line-height: 1.5; text-align: justify; letter-spacing: 0.5px;">
+                    重大突破：下一代量子计算原型机成功问世
+                </section>
+            </section>
+            
+            <!-- （图片区已被 Python 脚本动态隐藏，避免出现破图） -->
+            
+            <!-- 内容区 (直接跟在标题下面，过渡自然) -->
+            <section style="padding: 0 20px 30px 20px;">
+                <section style="font-size: 15px; color: #3f3f3f; line-height: 1.85; text-align: justify; letter-spacing: 0.8px; font-family: system-ui, -apple-system, sans-serif;">
+                    科研团队近日宣布，新一代量子计算原型机已成功完成组装与初步测试。
+                    <section style="height:14px;"></section>
+                    该设备的运算能力突破了传统的计算瓶颈，将在生物医药、气象预测和密码学等多个高算力需求领域发挥不可替代的作用。
+                </section>
+                
+                <!-- 底部 UI：SYS.ACTIVE -->
+                <section style="margin-top: 28px; display: flex; align-items: center; justify-content: space-between;">
+                    <section style="display: flex; align-items: center;">
+                        <section style="width: 5px; height: 5px; background-color: #0052d9; mar

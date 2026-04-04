@@ -59,7 +59,13 @@ class AIClient:
         context = content[:MAX_CONTENT_LENGTH]
         prompt = f"""今天是北京时间：{today_date}。
 请分析以下网页内容，提取最热门的 {NEWS_COUNT} 条【硬件科技产品】新闻。
-优先选择【今天 ({today_date})】发布的新闻，如果没有今天的，则选择最近1-2天内发布的最新新闻。
+
+【重要判断规则】
+- 只有时间格式（如 12:07、11:46、10:32）的是今天的新闻
+- 带有日期格式（如 3日、1日、31日）的是之前的新闻，不要选择
+- 优先选择今天的新闻（只有时间没有日期的）
+- 如果今天的新闻不足 {NEWS_COUNT} 条，可以补充最近1-2天的重要新闻
+
 请严格返回 JSON 数组格式：
 [{{"title": "新闻标题", "url": "链接地址"}}]
 内容来源：{context}"""
@@ -67,10 +73,10 @@ class AIClient:
         response = self._call_with_fallback(prompt)
         if not response:
             return []
-        
+
         # 调试：打印 AI 返回的原始内容
         print(f"   📝 AI 返回内容（前500字符）: {response[:500]}...")
-        
+
         cleaned = clean_json_string(response)
         try:
             data = json.loads(cleaned)

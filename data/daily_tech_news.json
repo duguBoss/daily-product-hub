@@ -1,21 +1,21 @@
 [
     {
-        "资讯标题": "OPPO Pad mini 平板爆料：8.8 英寸 144Hz、骁龙 8 Gen5、8000mAh、支持 eSIM",
-        "内容": "OPPO Pad mini 是一款即将发布的小尺寸平板电脑。其核心配置包括：8.8英寸2880×1920分辨率OLED屏幕，支持144Hz自适应刷新率（LTPO）及1800尼特峰值亮度；搭载高通骁龙8 Gen5芯片；内置8000mAh电池，支持67W快充；机身厚5.39毫米，重279克，采用一体式金属机身，提供深灰、紫色、青色三款配色，后置胶囊造型1300万像素单摄。该平板还支持eSIM独立联网功能，屏幕比例为3:2。",
+        "资讯标题": "苹果 2026 款 AirPods Pro 耳机前瞻：内置红外摄像头、支持手势控制、升级 H3 芯片",
+        "内容": "据科技媒体9to5Mac基于爆料信息汇总，苹果计划在2026年推出新款AirPods Pro（可能命名为AirPods Pro 3系列）。其核心升级包括：1. 为支持Apple Intelligence，内置红外摄像头，用于提供环境视觉智能信息，而非拍照；2. 交互方式改变，移除传统压感柄，转而通过摄像头捕捉手势进行控制；3. 搭载全新H3芯片，以降低音频延迟、提升音质，并为AI功能提供算力。预计该产品将于2026年秋季发布，可能伴随iPhone 18系列登场。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/3d2b669a-f9b6-4cd5-add2-456fb52b7da6.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/44a62a4aec54695bf462900d1ce9af7b.jpg",
-                "local_path": "data/images/44a62a4aec54695bf462900d1ce9af7b.jpg",
-                "filename": "44a62a4aec54695bf462900d1ce9af7b",
-                "original_size": 71720,
-                "processed_size": 71720
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/e1fdeaa7-fbb6-4af1-819b-ebea5a1217d5.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/b09118f0fc86b5f2c071e71e8f0d7121.jpg",
+                "local_path": "data/images/b09118f0fc86b5f2c071e71e8f0d7121.jpg",
+                "filename": "b09118f0fc86b5f2c071e71e8f0d7121",
+                "original_size": 21992,
+                "processed_size": 21992
             }
         ]
     },
     {
         "资讯标题": "三星推出 2026 款 The Frame 系列电视：7 年更新，支持 DLG 240Hz",
-        "内容": "三星发布2026款The Frame系列电视，主打艺术家居设计。新品延续超薄画框外观，支持贴墙安装，并新增背部理线卡扣。核心显示技术搭载Glare Free防眩光屏幕，支持原生144Hz刷新率及通过DLG技术实现的240Hz高刷（需连接PC，会降低分辨率）。艺术体验方面，Samsung Art Store提供超5000幅作品订阅及每月免费推送。音频支持与Q-Series条形音箱协同。产品分标准版与Pro版，主要区别在于Pro版AI Sound Controller Pro支持独立调节人声、音乐等音轨。Pro版65/75/85英寸售价分别为1999.99、2799.99、3999.99美元，标准版售价未公布。全系承诺提供7年系统更新。",
+        "内容": "三星发布2026款The Frame系列艺术电视，延续超薄画框设计，支持贴墙安装。核心升级包括搭载Glare Free防眩光技术，支持原生144Hz刷新率及通过DLG技术实现的240Hz模式（需连接PC，会降低分辨率）。内置Samsung Art Store，提供超5000幅艺术作品订阅及每月免费推送。产品分标准版与Pro版，Pro版独有AI Sound Controller Pro支持独立调节人声、音乐等音效。Pro版售价65英寸1999.99美元起，85英寸3999.99美元。全系搭载升级版Tizen OS，承诺提供长达7年的系统更新。",
         "配图": [
             {
                 "url": "https://img.ithome.com/newsuploadfiles/2026/4/11f75e32-1b54-491f-9b26-eada0a94fe94.jpg?x-bce-process=image/quality,q_75/format,f_webp",
@@ -28,44 +28,44 @@
         ]
     },
     {
-        "资讯标题": "型号命名打破常规：三星神秘耳机 Able 曝光，预估为助听类设备",
-        "内容": "科技媒体Android Authority通过拆解三星Galaxy Buds应用发现代号为“Able”的新耳机，型号为SM-U600，其电池型号EB-BU600AAY已通过印度标准局认证。该型号打破了三星耳机长期使用的“SM-R”系列命名规则。基于“Able”（意为“有能力的”）这一名称，外界推测该产品可能是一款非处方（OTC）助听类设备，旨在拓展听力辅助市场。",
+        "资讯标题": "99 元小米蓝牙遥控器 2 Pro 发售：兼容小米和 REDMI 智能电视 / 盒子，支持手机 NFC 一触即投",
+        "内容": "小米于2026年4月4日上架新款“小米蓝牙遥控器2 Pro 银灰色”，官方定价99元。该遥控器主要兼容小米及REDMI品牌的智能电视与盒子产品。核心功能包括支持蓝牙5.4连接、手机NFC一触即投屏、AI语音操控。硬件方面内置300mAh电池，支持Type-C充电，并设有自定义按键，整机重量约61克。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/648aea04-3bf9-415b-8685-38564832f069.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/42f1005ac7ebb68fa22282778ce52dab.jpg",
-                "local_path": "data/images/42f1005ac7ebb68fa22282778ce52dab.jpg",
-                "filename": "42f1005ac7ebb68fa22282778ce52dab",
-                "original_size": 61036,
-                "processed_size": 61036
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/dbd612ef-ab7f-4bc0-abbc-75c638a49133.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/6e5813994310c85e566566b5adbb6ecd.jpg",
+                "local_path": "data/images/6e5813994310c85e566566b5adbb6ecd.jpg",
+                "filename": "6e5813994310c85e566566b5adbb6ecd",
+                "original_size": 28646,
+                "processed_size": 28646
             }
         ]
     },
     {
-        "资讯标题": "三星承认 Galaxy S26 Ultra 手机 3x 变焦存在画面模糊情况，正开发修复补丁",
-        "内容": "三星已承认其旗舰手机Galaxy S26 Ultra在3倍变焦模式下存在画面模糊的软件问题。根据用户反馈，该问题主要表现为照片细节丢失、画面柔和，在强光及夜间使用闪光灯时尤为严重，但5倍变焦则正常。三星技术团队确认问题源于镜头切换时的软件处理错误，而非硬件故障，目前正在开发修复补丁，并承诺测试后尽快推送给用户。",
+        "资讯标题": "创维推出 27 英寸 2K 250Hz 显示器 G27Q，首发价 969 元",
+        "内容": "创维推出新款电竞显示器G27Q，主打高性价比。其采用27英寸FastIPS面板，拥有2K（2560x1440）分辨率、250Hz刷新率（原生240Hz）、1ms GTG响应时间、490nits峰值亮度及HDR400认证。色彩方面覆盖100% sRGB和97% DCI-P3色域，并通过莱茵低蓝光认证。接口提供两个DP 1.4和两个HDMI 2.0，兼容G-Sync与FreeSync技术。该显示器首发价为969元，并可参与政府数码补贴活动。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/147d0e11-027a-4c0f-8d7e-f6ce8d469221.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/38129ff7845aeb83cbf2c057885dd730.jpg",
-                "local_path": "data/images/38129ff7845aeb83cbf2c057885dd730.jpg",
-                "filename": "38129ff7845aeb83cbf2c057885dd730",
-                "original_size": 42452,
-                "processed_size": 42452
+                "url": "https://img14.360buyimg.com/pop/jfs/t1/410418/23/20199/96116/69cf573cF89f8c78d/0083320320645846.jpg",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/d7d39d4257f934faf42b5205808c0a7b.jpg",
+                "local_path": "data/images/d7d39d4257f934faf42b5205808c0a7b.jpg",
+                "filename": "d7d39d4257f934faf42b5205808c0a7b",
+                "original_size": 186028,
+                "processed_size": 137981
             }
         ]
     },
     {
-        "资讯标题": "iFixit 拆解苹果 AirPods Max 2 耳机，胶水仍是维修“最大敌人”",
-        "内容": "iFixit团队拆解苹果AirPods Max 2后发现，其内部结构与初代产品高度相似，可沿用旧版拆解手册。尽管升级了H2芯片等硬件，但苹果未大幅调整内部设计。然而，维修障碍依然显著：耳罩内部继续大量使用胶水，增加了拆解难度并易损坏内部排线；USB-C接口虽可更换，但需移除大部分组件，操作极为繁琐。此外，苹果仍未为该系列提供官方替换零件或维修手册。",
+        "资讯标题": "英特尔 Nova Lake-S 规格曝光：44 核配 288 MB bLLC 缓存",
+        "内容": "英特尔下一代Nova Lake-S桌面处理器规格更新，核心数从原计划的42核增至44核。采用双计算模块设计，包含16个性能核（Coyote Cove）、24个能效核（Arctic Wolf）及4个低功耗能效核，优化了核心布局。缓存方面，双计算模块版本配备288 MB bLLC缓存（单模块为144 MB），且bLLC技术预计将下放至部分非K系列型号。平台采用LGA 1954接口，配900系列芯片组，支持DDR5-8000内存及更多PCIe通道。对比现款Arrow Lake-S，Nova Lake-S最高核心数为52核，缓存容量提升至320 MB，双模块版本功耗设计约700 W，计划于2026年下半年上市。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/743d05c7-9203-4bee-a753-4a8c127b67a0.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/92b095c866da45e3561bdeeb97d68e3c.jpg",
-                "local_path": "data/images/92b095c866da45e3561bdeeb97d68e3c.jpg",
-                "filename": "92b095c866da45e3561bdeeb97d68e3c",
-                "original_size": 48934,
-                "processed_size": 48934
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/c4b0518c-e5bb-456c-9a96-2ca3d0b39736.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/98265543632dda415118249b398fdb01.jpg",
+                "local_path": "data/images/98265543632dda415118249b398fdb01.jpg",
+                "filename": "98265543632dda415118249b398fdb01",
+                "original_size": 46792,
+                "processed_size": 46792
             }
         ]
     }

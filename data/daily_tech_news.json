@@ -1,7 +1,7 @@
 [
     {
         "资讯标题": "苹果 2026 款 AirPods Pro 耳机前瞻：内置红外摄像头、支持手势控制、升级 H3 芯片",
-        "内容": "苹果计划在2026年秋季推出新款AirPods Pro（可能命名为AirPods Pro 3+），最大升级是内置红外摄像头以支持Apple Intelligence视觉智能功能，配合iOS 27的Siri提供环境信息。交互上取消压感柄，改用摄像头捕捉手势控制。音频方面将搭载全新H3芯片，降低延迟并提升音质，同时为AI功能提供算力。预计将与iPhone 18系列同期发布。",
+        "内容": "苹果计划在2026年秋季发布新款AirPods Pro（可能命名为AirPods Pro 3+）。其核心升级包括：为支持Apple Intelligence功能，内置红外摄像头以提供环境视觉智能信息；移除传统压感柄，改用基于摄像头的手势控制；搭载全新H3芯片，以降低延迟、提升音质并为AI功能提供算力。",
         "配图": [
             {
                 "url": "https://img.ithome.com/newsuploadfiles/2026/4/e1fdeaa7-fbb6-4af1-819b-ebea5a1217d5.jpg?x-bce-process=image/quality,q_75/format,f_webp",
@@ -14,8 +14,22 @@
         ]
     },
     {
+        "资讯标题": "OPPO Pad mini 平板爆料：8.8 英寸 144Hz、骁龙 8 Gen5、8000mAh、支持 eSIM",
+        "内容": "OPPO即将推出新款小尺寸平板电脑OPPO Pad mini。其核心配置包括：8.8英寸2880×1920分辨率OLED屏幕，支持1-144Hz LTPO自适应刷新率，峰值亮度1800尼特，采用3:2屏幕比例；搭载高通骁龙8 Gen5处理器；内置8000mAh电池，支持67W快充；支持eSIM独立联网功能。机身采用一体式金属设计，最薄处仅5.39毫米，重279克，提供深灰、紫色、青色三种配色，后置胶囊造型1300万像素单摄。该产品定位为轻薄便携的高性能小平板。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/3d2b669a-f9b6-4cd5-add2-456fb52b7da6.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/44a62a4aec54695bf462900d1ce9af7b.jpg",
+                "local_path": "data/images/44a62a4aec54695bf462900d1ce9af7b.jpg",
+                "filename": "44a62a4aec54695bf462900d1ce9af7b",
+                "original_size": 71720,
+                "processed_size": 71720
+            }
+        ]
+    },
+    {
         "资讯标题": "苹果 2026 款 Apple TV 前瞻：A17 Pro 芯片、升级 Siri，支持 Wi-Fi 7",
-        "内容": "据MacRumors基于爆料汇总，苹果计划于2026年9月发布新款Apple TV。外观预计沿用现款圆角方形黑色塑料设计，升级重点在内部。核心配置可能搭载A17 Pro芯片（3纳米工艺，支持硬件加速光追以提升游戏体验），也有部分消息称可能升级至A18或A19。连接性方面，将支持Wi-Fi 7（6GHz频段）和蓝牙6.0，以提升流媒体与设备连接体验。为扩大市场份额，苹果可能推出低价版本，采取双机型策略。发布日期较原计划延迟，主要因等待Apple Intelligence与Siri功能就绪。",
+        "内容": "根据MacRumors及彭博社马克·古尔曼的爆料，苹果计划于2026年9月发布新款Apple TV。外观预计沿用现款圆角方形黑色塑料设计，升级重点在内部。核心变化包括：搭载A17 Pro芯片（部分消息称可能为A18/A19），采用3纳米工艺并支持硬件加速光线追踪以提升游戏体验；连接性方面将支持Wi-Fi 7（6GHz频段）和蓝牙6.0，以获得更低延迟和更稳定连接。为扩大市场份额，苹果可能推出双机型策略，包含一个低价版本。产品延迟至2026年发布的原因可能与Apple Intelligence及Siri的深度整合有关。",
         "配图": [
             {
                 "url": "https://img.ithome.com/newsuploadfiles/2026/4/34d3bd28-1d17-4e1b-b1c8-cde52cf142ff.jpg?x-bce-process=image/quality,q_75/format,f_webp",
@@ -28,44 +42,30 @@
         ]
     },
     {
-        "资讯标题": "优惠最高 24%：苹果海外上架官翻 M4 iPad Pro",
-        "内容": "苹果公司在其美国官网上架了官方翻新版M4 iPad Pro，为预算有限的用户提供高性价比选择。11英寸版本翻新起售价为759美元（约合人民币5233元），较原价999美元优惠约24%；13英寸版本起售价1019美元（约合人民币7026元），较原价1299美元优惠约22%。产品提供Wi-Fi与蜂窝网络双版本，存储空间从256GB起步。所有翻新设备均经过苹果严格检测、维修、清洁与重新包装，配备完整配件与手册，享有为期一年的官方保修服务，并支持加购AppleCare+延保。截至发稿，苹果中国官网的官方翻新产品列表中暂未出现M4 iPad Pro型号。",
+        "资讯标题": "99 元小米蓝牙遥控器 2 Pro 发售：兼容小米和 REDMI 智能电视 / 盒子，支持手机 NFC 一触即投",
+        "内容": "小米于2026年4月4日发售新款“小米蓝牙遥控器 2 Pro 银灰色”，官方定价99元。该遥控器主要兼容小米及REDMI品牌的智能电视与盒子产品。核心功能包括：支持蓝牙5.4连接、手机NFC一触即投屏、AI语音操控；内置300mAh电池，支持Type-C充电；配备自定义按键，机身重量约61克。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/02844bb8-0d8b-4b9a-8b44-c7f0336edc3b.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/5fe23b8681fb1e1bef326324cebea611.jpg",
-                "local_path": "data/images/5fe23b8681fb1e1bef326324cebea611.jpg",
-                "filename": "5fe23b8681fb1e1bef326324cebea611",
-                "original_size": 28880,
-                "processed_size": 28880
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/dbd612ef-ab7f-4bc0-abbc-75c638a49133.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/6e5813994310c85e566566b5adbb6ecd.jpg",
+                "local_path": "data/images/6e5813994310c85e566566b5adbb6ecd.jpg",
+                "filename": "6e5813994310c85e566566b5adbb6ecd",
+                "original_size": 28646,
+                "processed_size": 28646
             }
         ]
     },
     {
-        "资讯标题": "英特尔 Nova Lake-S 规格曝光：44 核配 288 MB bLLC 缓存",
-        "内容": "英特尔下一代Nova Lake-S桌面处理器规格更新，核心数从原计划的42核增至44核。采用双计算模块（Dual Compute Tile）设计，包含16个性能核（Coyote Cove）、24个能效核（Arctic Wolf）及4个低功耗能效核，并优化了核心布局。缓存方面，双模块版本最高搭载288 MB bLLC缓存（单模块144 MB），且bLLC技术预计下放至非K系列。平台将使用LGA 1954接口，配900系列芯片组，支持DDR5-8000内存并扩展PCIe通道。对比现款Arrow Lake-S，其最高52核、320 MB缓存，功耗约700 W，计划于2026年下半年上市。",
+        "资讯标题": "创维推出 27 英寸 2K 250Hz 显示器 G27Q，首发价 969 元",
+        "内容": "创维推出新款27英寸电竞显示器G27Q，采用FastIPS面板，支持2560×1440（2K）分辨率与250Hz刷新率（原生240Hz），拥有1ms GTG响应时间、490nits峰值亮度、HDR400认证，覆盖100% sRGB及97% DCI-P3色域，并通过莱茵低蓝光认证。它兼容G-Sync与FreeSync技术，提供两个DP 1.4和两个HDMI 2.0接口。该显示器首发价为969元，目前已在京东开售。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/c4b0518c-e5bb-456c-9a96-2ca3d0b39736.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/98265543632dda415118249b398fdb01.jpg",
-                "local_path": "data/images/98265543632dda415118249b398fdb01.jpg",
-                "filename": "98265543632dda415118249b398fdb01",
-                "original_size": 46792,
-                "processed_size": 46792
-            }
-        ]
-    },
-    {
-        "资讯标题": "特斯拉全球超级充电桩突破 8 万根，中国内地已有超 1.2 万根",
-        "内容": "特斯拉官方宣布其全球超级充电桩数量已突破8万根。在中国内地，已建成并开放超过2500座超级充电站、超12000根超级充电桩，以及超650座目的地充电站。其充电网络已100%覆盖中国内地所有省会城市和直辖市，并延伸至绝大部分地级市。同时，特斯拉已向非特斯拉品牌车辆开放超过950座超级充电站。2025年全年，特斯拉充电网络输送电力达6.7太瓦时，创下历史新高。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/34f0b178-c606-4b6c-8f08-3df0cb756593.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/90a8b00ad1649127667422c29d450e7b.jpg",
-                "local_path": "data/images/90a8b00ad1649127667422c29d450e7b.jpg",
-                "filename": "90a8b00ad1649127667422c29d450e7b",
-                "original_size": 125002,
-                "processed_size": 125002
+                "url": "https://img14.360buyimg.com/pop/jfs/t1/410418/23/20199/96116/69cf573cF89f8c78d/0083320320645846.jpg",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/d7d39d4257f934faf42b5205808c0a7b.jpg",
+                "local_path": "data/images/d7d39d4257f934faf42b5205808c0a7b.jpg",
+                "filename": "d7d39d4257f934faf42b5205808c0a7b",
+                "original_size": 186028,
+                "processed_size": 137981
             }
         ]
     }

@@ -58,7 +58,8 @@ class AIClient:
         """从网页内容中提取今日热点新闻列表."""
         context = content[:MAX_CONTENT_LENGTH]
         prompt = f"""今天是北京时间：{today_date}。
-请分析以下网页内容，严格筛选出【今天 ({today_date})】发布的、最热门的 {NEWS_COUNT} 条【硬件科技产品】新闻。
+请分析以下网页内容，提取最热门的 {NEWS_COUNT} 条【硬件科技产品】新闻。
+优先选择【今天 ({today_date})】发布的新闻，如果没有今天的，则选择最近1-2天内发布的最新新闻。
 请严格返回 JSON 数组格式：
 [{{"title": "新闻标题", "url": "链接地址"}}]
 内容来源：{context}"""
@@ -66,14 +67,26 @@ class AIClient:
         response = self._call_with_fallback(prompt)
         if not response:
             return []
+        
+        # 调试：打印 AI 返回的原始内容
+        print(f"   📝 AI 返回内容（前500字符）: {response[:500]}...")
+        
         cleaned = clean_json_string(response)
         try:
             data = json.loads(cleaned)
+            if not isinstance(data, list):
+                print(f"   ⚠️ AI 返回的不是数组，而是: {type(data)}")
+                return []
+            print(f"   ✅ 成功解析 {len(data)} 条新闻")
             return data[:NEWS_COUNT]
         except json.JSONDecodeError:
             try:
                 fixed = fix_json_if_needed(cleaned)
                 data = json.loads(fixed)
+                if not isinstance(data, list):
+                    print(f"   ⚠️ AI 返回的不是数组，而是: {type(data)}")
+                    return []
+                print(f"   ✅ 修复后成功解析 {len(data)} 条新闻")
                 return data[:NEWS_COUNT]
             except json.JSONDecodeError:
                 print("❌ 无法解析 AI 返回的新闻列表")

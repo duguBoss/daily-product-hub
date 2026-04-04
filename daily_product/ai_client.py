@@ -112,6 +112,15 @@ class AIClient:
         """提取单篇新闻的详情."""
         context = content[:MAX_DETAIL_LENGTH]
         prompt = f"""请阅读这篇科技新闻，提取核心内容总结（{MAX_SUMMARY_LENGTH}字以内）和第一张产品图片的链接。
+
+【重要规则】
+- 选择图片时，排除以下类型的图片：
+  - 占位图、透明像素图（如 t.png、blank.gif 等）
+  - 网站 logo、图标
+  - 小于 1000 字节的图片
+  - 尺寸小于 100x100 像素的图片
+- 优先选择产品实物图、渲染图、场景图
+
 文章内容：{context}
 请严格返回 JSON 格式：{{"content": "总结...", "images": ["图片URL"]}}"""
         response = self._call_with_fallback(prompt)

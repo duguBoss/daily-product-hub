@@ -32,9 +32,24 @@ def download_image(url: str) -> bytes | None:
         图片二进制数据，失败返回 None
     """
     try:
+        # 排除已知的占位图
+        placeholder_patterns = ["t.png", "blank.gif", "placeholder", "1x1", "pixel"]
+        url_lower = url.lower()
+        for pattern in placeholder_patterns:
+            if pattern in url_lower:
+                print(f"   ⚠️ 跳过占位图: {url}")
+                return None
+
         resp = requests.get(url, timeout=REQUEST_TIMEOUT)
         resp.raise_for_status()
-        return resp.content
+        content = resp.content
+
+        # 检查图片大小（至少 1KB）
+        if len(content) < 1000:
+            print(f"   ⚠️ 图片太小 ({len(content)} bytes)，可能是占位图: {url}")
+            return None
+
+        return content
     except Exception as e:
         print(f"   ⚠️ 图片下载失败: {url}, 错误: {e}")
         return None

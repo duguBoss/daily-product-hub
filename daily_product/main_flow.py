@@ -111,7 +111,7 @@ def save_results(final_result: list[dict[str, Any]]) -> bool:
     
     # 保存微信发文 JSON
     if success:
-        weixin_output = Path(OUTPUT_DIR) / "daily_tech_news_weixin.json"
+        weixin_output = Path(OUTPUT_DIR) / "weixin.json"
         save_weixin_json(final_result, str(weixin_output))
     
     if success:

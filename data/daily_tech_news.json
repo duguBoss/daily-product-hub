@@ -1,63 +1,21 @@
 [
     {
-        "资讯标题": "苹果 2026 款 AirPods Pro 耳机前瞻：内置红外摄像头、支持手势控制、升级 H3 芯片",
-        "内容": "据科技媒体9to5Mac报道，苹果计划在2026年秋季推出新款AirPods Pro（可能命名为AirPods Pro 3后缀）。其核心升级包括：1. 内置红外摄像头，用于配合iOS 27的Siri提供环境视觉智能信息，支持Apple Intelligence功能；2. 交互方式变革，移除压感柄，转而通过摄像头捕捉手势进行控制；3. 搭载全新H3芯片，以降低延迟、提升音质，并为AI功能提供算力。该产品预计与iPhone 18系列同期发布。",
+        "资讯标题": "OPPO Pad mini 平板爆料：8.8 英寸 144Hz、骁龙 8 Gen5、8000mAh、支持 eSIM",
+        "内容": "OPPO Pad mini 是一款即将发布的小尺寸平板电脑。其核心配置包括：8.8英寸2880×1920分辨率OLED屏幕，支持144Hz自适应刷新率（LTPO）及1800尼特峰值亮度；搭载高通骁龙8 Gen5芯片；内置8000mAh电池，支持67W快充；机身厚5.39毫米，重279克，采用一体式金属机身，提供深灰、紫色、青色三款配色，后置胶囊造型1300万像素单摄。该平板还支持eSIM独立联网功能，屏幕比例为3:2。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/e1fdeaa7-fbb6-4af1-819b-ebea5a1217d5.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/b09118f0fc86b5f2c071e71e8f0d7121.jpg",
-                "local_path": "data/images/b09118f0fc86b5f2c071e71e8f0d7121.jpg",
-                "filename": "b09118f0fc86b5f2c071e71e8f0d7121",
-                "original_size": 21992,
-                "processed_size": 21992
-            }
-        ]
-    },
-    {
-        "资讯标题": "优惠最高 24%：苹果海外上架官翻 M4 iPad Pro",
-        "内容": "苹果于2026年4月在美国官网上架翻新版M4 iPad Pro，提供11英寸和13英寸两种尺寸。11英寸版起售价759美元（约5233元人民币），较原价999美元优惠约24%；13英寸版起售价1019美元（约7026元人民币），较原价1299美元优惠约22%。产品提供Wi-Fi与蜂窝网络版本，存储空间256GB起步。所有翻新设备均经过苹果严格检测、维修、清洁并重新包装，配备完整配件与手册，享有一年官方保修，并支持加购AppleCare+。该产品原为2024年5月发布，在2025年10月M5系列推出后停售，此次翻新上架为消费者提供了高性价比选择。截至发稿，苹果中国官网的翻新产品列表中暂未出现M4 iPad Pro。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/02844bb8-0d8b-4b9a-8b44-c7f0336edc3b.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/5fe23b8681fb1e1bef326324cebea611.jpg",
-                "local_path": "data/images/5fe23b8681fb1e1bef326324cebea611.jpg",
-                "filename": "5fe23b8681fb1e1bef326324cebea611",
-                "original_size": 28880,
-                "processed_size": 28880
-            }
-        ]
-    },
-    {
-        "资讯标题": "三星承认 Galaxy S26 Ultra 手机 3x 变焦存在画面模糊情况，正开发修复补丁",
-        "内容": "三星已正式承认其旗舰手机Galaxy S26 Ultra存在3倍长焦变焦成像质量问题。根据韩国社区论坛及科技媒体Android Authority的报道，大量用户反馈在切换到3x变焦模式时，照片会出现明显模糊或柔和，细节丢失，尤其在强光及夜间闪光灯环境下更为严重。值得注意的是，5x变焦的成像则表现正常。三星技术团队经核查确认，此问题源于软件层面的图像处理错误，发生在镜头切换过渡期间，并非硬件故障。目前，三星正在积极开发修复补丁，并承诺在完成测试后尽快推送给用户，但尚未公布具体的发布日程。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/images/v2/t.png",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/68370daef67c1e13899ba8726eb94421.jpg",
-                "local_path": "data/images/68370daef67c1e13899ba8726eb94421.jpg",
-                "filename": "68370daef67c1e13899ba8726eb94421",
-                "original_size": 73,
-                "processed_size": 73
-            }
-        ]
-    },
-    {
-        "资讯标题": "丰田发布新款兰德酷路泽 250：强化防盗系统，意在摆脱“日本高失窃车型”之名",
-        "内容": "丰田在日本发布兰德酷路泽250小改款，核心是强化防盗系统以应对其长期位居日本高失窃车型的问题，新增基于钥匙距离的解锁启动限制及远程发动机禁用功能。外观新增中性黑、沙漠色车漆，VX车型可选装复古双光束圆形LED大灯。座舱升级包括VX车型搭载高级辅助驾驶系统（含拥堵辅助、驾驶员监测等）及主驾8向电动记忆座椅。动力沿用2.7升四缸发动机，价格上调至577.94万日元（约合25万元人民币）。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/a593b6ca-ec66-412d-9bec-278dc1d1031d.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/2d01371493807e6973c5c2c5f6a6e84c.jpg",
-                "local_path": "data/images/2d01371493807e6973c5c2c5f6a6e84c.jpg",
-                "filename": "2d01371493807e6973c5c2c5f6a6e84c",
-                "original_size": 159594,
-                "processed_size": 111165
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/3d2b669a-f9b6-4cd5-add2-456fb52b7da6.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/44a62a4aec54695bf462900d1ce9af7b.jpg",
+                "local_path": "data/images/44a62a4aec54695bf462900d1ce9af7b.jpg",
+                "filename": "44a62a4aec54695bf462900d1ce9af7b",
+                "original_size": 71720,
+                "processed_size": 71720
             }
         ]
     },
     {
         "资讯标题": "三星推出 2026 款 The Frame 系列电视：7 年更新，支持 DLG 240Hz",
-        "内容": "三星推出2026款The Frame系列艺术电视，延续超薄画框设计，搭载Glare Free防眩光技术。显示方面支持144Hz刷新率，通过DLG技术可在PC连接时实现240Hz（分辨率会降低）。核心卖点在于艺术体验，集成Samsung Art Store，提供超5000幅作品及每月免费推送。产品分标准版与Pro版，Pro版具备更高级的AI音效控制。系统搭载升级版Tizen OS，承诺提供长达7年的更新支持。Pro版售价已公布：65英寸1999.99美元，75英寸2799.99美元，85英寸3999.99美元。",
+        "内容": "三星发布2026款The Frame系列电视，主打艺术家居设计。新品延续超薄画框外观，支持贴墙安装，并新增背部理线卡扣。核心显示技术搭载Glare Free防眩光屏幕，支持原生144Hz刷新率及通过DLG技术实现的240Hz高刷（需连接PC，会降低分辨率）。艺术体验方面，Samsung Art Store提供超5000幅作品订阅及每月免费推送。音频支持与Q-Series条形音箱协同。产品分标准版与Pro版，主要区别在于Pro版AI Sound Controller Pro支持独立调节人声、音乐等音轨。Pro版65/75/85英寸售价分别为1999.99、2799.99、3999.99美元，标准版售价未公布。全系承诺提供7年系统更新。",
         "配图": [
             {
                 "url": "https://img.ithome.com/newsuploadfiles/2026/4/11f75e32-1b54-491f-9b26-eada0a94fe94.jpg?x-bce-process=image/quality,q_75/format,f_webp",
@@ -66,6 +24,48 @@
                 "filename": "eccb04f6479ed311a98d688f40beaa0f",
                 "original_size": 50468,
                 "processed_size": 50468
+            }
+        ]
+    },
+    {
+        "资讯标题": "型号命名打破常规：三星神秘耳机 Able 曝光，预估为助听类设备",
+        "内容": "科技媒体Android Authority通过拆解三星Galaxy Buds应用发现代号为“Able”的新耳机，型号为SM-U600，其电池型号EB-BU600AAY已通过印度标准局认证。该型号打破了三星耳机长期使用的“SM-R”系列命名规则。基于“Able”（意为“有能力的”）这一名称，外界推测该产品可能是一款非处方（OTC）助听类设备，旨在拓展听力辅助市场。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/648aea04-3bf9-415b-8685-38564832f069.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/42f1005ac7ebb68fa22282778ce52dab.jpg",
+                "local_path": "data/images/42f1005ac7ebb68fa22282778ce52dab.jpg",
+                "filename": "42f1005ac7ebb68fa22282778ce52dab",
+                "original_size": 61036,
+                "processed_size": 61036
+            }
+        ]
+    },
+    {
+        "资讯标题": "三星承认 Galaxy S26 Ultra 手机 3x 变焦存在画面模糊情况，正开发修复补丁",
+        "内容": "三星已承认其旗舰手机Galaxy S26 Ultra在3倍变焦模式下存在画面模糊的软件问题。根据用户反馈，该问题主要表现为照片细节丢失、画面柔和，在强光及夜间使用闪光灯时尤为严重，但5倍变焦则正常。三星技术团队确认问题源于镜头切换时的软件处理错误，而非硬件故障，目前正在开发修复补丁，并承诺测试后尽快推送给用户。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/147d0e11-027a-4c0f-8d7e-f6ce8d469221.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/38129ff7845aeb83cbf2c057885dd730.jpg",
+                "local_path": "data/images/38129ff7845aeb83cbf2c057885dd730.jpg",
+                "filename": "38129ff7845aeb83cbf2c057885dd730",
+                "original_size": 42452,
+                "processed_size": 42452
+            }
+        ]
+    },
+    {
+        "资讯标题": "iFixit 拆解苹果 AirPods Max 2 耳机，胶水仍是维修“最大敌人”",
+        "内容": "iFixit团队拆解苹果AirPods Max 2后发现，其内部结构与初代产品高度相似，可沿用旧版拆解手册。尽管升级了H2芯片等硬件，但苹果未大幅调整内部设计。然而，维修障碍依然显著：耳罩内部继续大量使用胶水，增加了拆解难度并易损坏内部排线；USB-C接口虽可更换，但需移除大部分组件，操作极为繁琐。此外，苹果仍未为该系列提供官方替换零件或维修手册。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/743d05c7-9203-4bee-a753-4a8c127b67a0.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/92b095c866da45e3561bdeeb97d68e3c.jpg",
+                "local_path": "data/images/92b095c866da45e3561bdeeb97d68e3c.jpg",
+                "filename": "92b095c866da45e3561bdeeb97d68e3c",
+                "original_size": 48934,
+                "processed_size": 48934
             }
         ]
     }

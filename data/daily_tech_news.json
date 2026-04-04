@@ -1,7 +1,7 @@
 [
     {
         "资讯标题": "苹果 2026 款 AirPods Pro 耳机前瞻：内置红外摄像头、支持手势控制、升级 H3 芯片",
-        "内容": "据科技媒体9to5Mac基于爆料信息汇总，苹果计划在2026年推出新款AirPods Pro（可能命名为AirPods Pro 3系列）。其核心升级包括：1. 为支持Apple Intelligence，内置红外摄像头，用于提供环境视觉智能信息，而非拍照；2. 交互方式改变，移除传统压感柄，转而通过摄像头捕捉手势进行控制；3. 搭载全新H3芯片，以降低音频延迟、提升音质，并为AI功能提供算力。预计该产品将于2026年秋季发布，可能伴随iPhone 18系列登场。",
+        "内容": "苹果计划在2026年秋季推出新款AirPods Pro（可能命名为AirPods Pro 3+），最大升级是内置红外摄像头以支持Apple Intelligence视觉智能功能，配合iOS 27的Siri提供环境信息。交互上取消压感柄，改用摄像头捕捉手势控制。音频方面将搭载全新H3芯片，降低延迟并提升音质，同时为AI功能提供算力。预计将与iPhone 18系列同期发布。",
         "配图": [
             {
                 "url": "https://img.ithome.com/newsuploadfiles/2026/4/e1fdeaa7-fbb6-4af1-819b-ebea5a1217d5.jpg?x-bce-process=image/quality,q_75/format,f_webp",
@@ -14,50 +14,36 @@
         ]
     },
     {
-        "资讯标题": "三星推出 2026 款 The Frame 系列电视：7 年更新，支持 DLG 240Hz",
-        "内容": "三星发布2026款The Frame系列艺术电视，延续超薄画框设计，支持贴墙安装。核心升级包括搭载Glare Free防眩光技术，支持原生144Hz刷新率及通过DLG技术实现的240Hz模式（需连接PC，会降低分辨率）。内置Samsung Art Store，提供超5000幅艺术作品订阅及每月免费推送。产品分标准版与Pro版，Pro版独有AI Sound Controller Pro支持独立调节人声、音乐等音效。Pro版售价65英寸1999.99美元起，85英寸3999.99美元。全系搭载升级版Tizen OS，承诺提供长达7年的系统更新。",
+        "资讯标题": "苹果 2026 款 Apple TV 前瞻：A17 Pro 芯片、升级 Siri，支持 Wi-Fi 7",
+        "内容": "据MacRumors基于爆料汇总，苹果计划于2026年9月发布新款Apple TV。外观预计沿用现款圆角方形黑色塑料设计，升级重点在内部。核心配置可能搭载A17 Pro芯片（3纳米工艺，支持硬件加速光追以提升游戏体验），也有部分消息称可能升级至A18或A19。连接性方面，将支持Wi-Fi 7（6GHz频段）和蓝牙6.0，以提升流媒体与设备连接体验。为扩大市场份额，苹果可能推出低价版本，采取双机型策略。发布日期较原计划延迟，主要因等待Apple Intelligence与Siri功能就绪。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/11f75e32-1b54-491f-9b26-eada0a94fe94.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/eccb04f6479ed311a98d688f40beaa0f.jpg",
-                "local_path": "data/images/eccb04f6479ed311a98d688f40beaa0f.jpg",
-                "filename": "eccb04f6479ed311a98d688f40beaa0f",
-                "original_size": 50468,
-                "processed_size": 50468
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/34d3bd28-1d17-4e1b-b1c8-cde52cf142ff.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/49abe179399cce48870b96b8f7472fc4.jpg",
+                "local_path": "data/images/49abe179399cce48870b96b8f7472fc4.jpg",
+                "filename": "49abe179399cce48870b96b8f7472fc4",
+                "original_size": 16072,
+                "processed_size": 16072
             }
         ]
     },
     {
-        "资讯标题": "99 元小米蓝牙遥控器 2 Pro 发售：兼容小米和 REDMI 智能电视 / 盒子，支持手机 NFC 一触即投",
-        "内容": "小米于2026年4月4日上架新款“小米蓝牙遥控器2 Pro 银灰色”，官方定价99元。该遥控器主要兼容小米及REDMI品牌的智能电视与盒子产品。核心功能包括支持蓝牙5.4连接、手机NFC一触即投屏、AI语音操控。硬件方面内置300mAh电池，支持Type-C充电，并设有自定义按键，整机重量约61克。",
+        "资讯标题": "优惠最高 24%：苹果海外上架官翻 M4 iPad Pro",
+        "内容": "苹果公司在其美国官网上架了官方翻新版M4 iPad Pro，为预算有限的用户提供高性价比选择。11英寸版本翻新起售价为759美元（约合人民币5233元），较原价999美元优惠约24%；13英寸版本起售价1019美元（约合人民币7026元），较原价1299美元优惠约22%。产品提供Wi-Fi与蜂窝网络双版本，存储空间从256GB起步。所有翻新设备均经过苹果严格检测、维修、清洁与重新包装，配备完整配件与手册，享有为期一年的官方保修服务，并支持加购AppleCare+延保。截至发稿，苹果中国官网的官方翻新产品列表中暂未出现M4 iPad Pro型号。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/dbd612ef-ab7f-4bc0-abbc-75c638a49133.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/6e5813994310c85e566566b5adbb6ecd.jpg",
-                "local_path": "data/images/6e5813994310c85e566566b5adbb6ecd.jpg",
-                "filename": "6e5813994310c85e566566b5adbb6ecd",
-                "original_size": 28646,
-                "processed_size": 28646
-            }
-        ]
-    },
-    {
-        "资讯标题": "创维推出 27 英寸 2K 250Hz 显示器 G27Q，首发价 969 元",
-        "内容": "创维推出新款电竞显示器G27Q，主打高性价比。其采用27英寸FastIPS面板，拥有2K（2560x1440）分辨率、250Hz刷新率（原生240Hz）、1ms GTG响应时间、490nits峰值亮度及HDR400认证。色彩方面覆盖100% sRGB和97% DCI-P3色域，并通过莱茵低蓝光认证。接口提供两个DP 1.4和两个HDMI 2.0，兼容G-Sync与FreeSync技术。该显示器首发价为969元，并可参与政府数码补贴活动。",
-        "配图": [
-            {
-                "url": "https://img14.360buyimg.com/pop/jfs/t1/410418/23/20199/96116/69cf573cF89f8c78d/0083320320645846.jpg",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/d7d39d4257f934faf42b5205808c0a7b.jpg",
-                "local_path": "data/images/d7d39d4257f934faf42b5205808c0a7b.jpg",
-                "filename": "d7d39d4257f934faf42b5205808c0a7b",
-                "original_size": 186028,
-                "processed_size": 137981
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/02844bb8-0d8b-4b9a-8b44-c7f0336edc3b.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/5fe23b8681fb1e1bef326324cebea611.jpg",
+                "local_path": "data/images/5fe23b8681fb1e1bef326324cebea611.jpg",
+                "filename": "5fe23b8681fb1e1bef326324cebea611",
+                "original_size": 28880,
+                "processed_size": 28880
             }
         ]
     },
     {
         "资讯标题": "英特尔 Nova Lake-S 规格曝光：44 核配 288 MB bLLC 缓存",
-        "内容": "英特尔下一代Nova Lake-S桌面处理器规格更新，核心数从原计划的42核增至44核。采用双计算模块设计，包含16个性能核（Coyote Cove）、24个能效核（Arctic Wolf）及4个低功耗能效核，优化了核心布局。缓存方面，双计算模块版本配备288 MB bLLC缓存（单模块为144 MB），且bLLC技术预计将下放至部分非K系列型号。平台采用LGA 1954接口，配900系列芯片组，支持DDR5-8000内存及更多PCIe通道。对比现款Arrow Lake-S，Nova Lake-S最高核心数为52核，缓存容量提升至320 MB，双模块版本功耗设计约700 W，计划于2026年下半年上市。",
+        "内容": "英特尔下一代Nova Lake-S桌面处理器规格更新，核心数从原计划的42核增至44核。采用双计算模块（Dual Compute Tile）设计，包含16个性能核（Coyote Cove）、24个能效核（Arctic Wolf）及4个低功耗能效核，并优化了核心布局。缓存方面，双模块版本最高搭载288 MB bLLC缓存（单模块144 MB），且bLLC技术预计下放至非K系列。平台将使用LGA 1954接口，配900系列芯片组，支持DDR5-8000内存并扩展PCIe通道。对比现款Arrow Lake-S，其最高52核、320 MB缓存，功耗约700 W，计划于2026年下半年上市。",
         "配图": [
             {
                 "url": "https://img.ithome.com/newsuploadfiles/2026/4/c4b0518c-e5bb-456c-9a96-2ca3d0b39736.jpg?x-bce-process=image/quality,q_75/format,f_webp",
@@ -66,6 +52,20 @@
                 "filename": "98265543632dda415118249b398fdb01",
                 "original_size": 46792,
                 "processed_size": 46792
+            }
+        ]
+    },
+    {
+        "资讯标题": "特斯拉全球超级充电桩突破 8 万根，中国内地已有超 1.2 万根",
+        "内容": "特斯拉官方宣布其全球超级充电桩数量已突破8万根。在中国内地，已建成并开放超过2500座超级充电站、超12000根超级充电桩，以及超650座目的地充电站。其充电网络已100%覆盖中国内地所有省会城市和直辖市，并延伸至绝大部分地级市。同时，特斯拉已向非特斯拉品牌车辆开放超过950座超级充电站。2025年全年，特斯拉充电网络输送电力达6.7太瓦时，创下历史新高。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/34f0b178-c606-4b6c-8f08-3df0cb756593.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/90a8b00ad1649127667422c29d450e7b.jpg",
+                "local_path": "data/images/90a8b00ad1649127667422c29d450e7b.jpg",
+                "filename": "90a8b00ad1649127667422c29d450e7b",
+                "original_size": 125002,
+                "processed_size": 125002
             }
         ]
     }

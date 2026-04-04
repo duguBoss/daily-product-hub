@@ -108,13 +108,14 @@ def limit_image_height(
     """限制图片高度，超过则裁剪.
 
     从顶部开始裁剪，保留图片的上半部分（通常产品主体在上方）。
+    返回的图片统一为 RGB 模式的 PIL Image 对象。
 
     Args:
         image_data: 原始图片数据
         max_height: 最大高度（像素）
 
     Returns:
-        处理后的图片数据
+        处理后的图片数据（JPEG 格式）
     """
     try:
         from PIL import Image
@@ -122,9 +123,23 @@ def limit_image_height(
         img = Image.open(io.BytesIO(image_data))
         width, height = img.size
 
-        # 如果高度未超过限制，直接返回原图
+        # 统一转换为 RGB 模式（处理各种格式）
+        if img.mode in ("RGBA", "LA"):
+            # 透明背景转换为白色背景
+            background = Image.new("RGB", img.size, (255, 255, 255))
+            if img.mode == "RGBA":
+                background.paste(img, mask=img.split()[3])
+            else:
+                background.paste(img, mask=img.split()[1])
+            img = background
+        elif img.mode != "RGB":
+            img = img.convert("RGB")
+
+        # 如果高度未超过限制，直接返回转换后的图片
         if height <= max_height:
-            return image_data
+            output = io.BytesIO()
+            img.save(output, format="JPEG", quality=95)
+            return output.getvalue()
 
         print(f"     图片高度 {height}px 超过限制 {max_height}px，进行裁剪")
 
@@ -134,8 +149,6 @@ def limit_image_height(
 
         # 保存为 JPEG
         output = io.BytesIO()
-        if img_cropped.mode in ("RGBA", "P"):
-            img_cropped = img_cropped.convert("RGB")
         img_cropped.save(output, format="JPEG", quality=95)
 
         return output.getvalue()
@@ -162,8 +175,24 @@ def convert_to_jpg(image_data: bytes) -> bytes:
 
         img = Image.open(io.BytesIO(image_data))
 
-        # 转换为 RGB 模式（处理 RGBA、P 等模式）
-        if img.mode in ("RGBA", "P"):
+        # 处理各种模式，统一转换为 RGB
+        if img.mode in ("RGBA", "P", "LA", "L"):
+            # 透明背景转换为白色背景
+            if img.mode in ("RGBA", "LA"):
+                # 创建白色背景
+                background = Image.new("RGB", img.size, (255, 255, 255))
+                if img.mode == "RGBA":
+                    background.paste(img, mask=img.split()[3])  # 使用 alpha 通道作为 mask
+                else:
+                    background.paste(img, mask=img.split()[1])
+                img = background
+            else:
+                img = img.convert("RGB")
+        elif img.mode == "CMYK":
+            # CMYK 模式需要特殊处理
+            img = img.convert("RGB")
+        elif img.mode != "RGB":
+            # 其他模式统一转 RGB
             img = img.convert("RGB")
 
         # 保存为 JPG
@@ -180,10 +209,10 @@ def convert_to_jpg(image_data: bytes) -> bytes:
 
 
 def save_image_to_file(image_data: bytes, filename: str) -> Path | None:
-    """保存图片到本地文件（确保为 JPG 格式）.
+    """保存图片到本地文件（数据已经是 JPG 格式）.
 
     Args:
-        image_data: 图片二进制数据（会被转换为 JPG）
+        image_data: 图片二进制数据（JPEG 格式）
         filename: 文件名
 
     Returns:
@@ -193,13 +222,21 @@ def save_image_to_file(image_data: bytes, filename: str) -> Path | None:
         # 确保目录存在
         IMAGES_DIR.mkdir(parents=True, exist_ok=True)
 
-        # 确保图片为 JPG 格式
-        jpg_data = convert_to_jpg(image_data)
+        # 验证图片数据是否有效（至少1KB）
+        if len(image_data) < 100:
+            print(f"   ⚠️ 图片数据太小 ({len(image_data)} bytes)，可能已损坏")
+            return None
 
         # 保存图片
         file_path = IMAGES_DIR / f"{filename}.jpg"
         with open(file_path, "wb") as f:
-            f.write(jpg_data)
+            f.write(image_data)
+
+        # 验证保存的文件
+        if file_path.stat().st_size < 100:
+            print(f"   ⚠️ 保存的文件太小，可能已损坏")
+            file_path.unlink()  # 删除损坏的文件
+            return None
 
         return file_path
     except Exception as e:

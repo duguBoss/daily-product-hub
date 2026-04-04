@@ -148,11 +148,42 @@ def limit_image_height(
         return image_data
 
 
-def save_image_to_file(image_data: bytes, filename: str) -> Path | None:
-    """保存图片到本地文件.
+def convert_to_jpg(image_data: bytes) -> bytes:
+    """将任何格式的图片转换为 JPG 格式.
 
     Args:
-        image_data: 图片二进制数据
+        image_data: 原始图片二进制数据
+
+    Returns:
+        JPG 格式的图片数据
+    """
+    try:
+        from PIL import Image
+
+        img = Image.open(io.BytesIO(image_data))
+
+        # 转换为 RGB 模式（处理 RGBA、P 等模式）
+        if img.mode in ("RGBA", "P"):
+            img = img.convert("RGB")
+
+        # 保存为 JPG
+        output = io.BytesIO()
+        img.save(output, format="JPEG", quality=95)
+        return output.getvalue()
+
+    except ImportError:
+        print("   ⚠️ PIL 未安装，无法转换图片格式，使用原始数据")
+        return image_data
+    except Exception as e:
+        print(f"   ⚠️ 图片格式转换失败: {e}，使用原始数据")
+        return image_data
+
+
+def save_image_to_file(image_data: bytes, filename: str) -> Path | None:
+    """保存图片到本地文件（确保为 JPG 格式）.
+
+    Args:
+        image_data: 图片二进制数据（会被转换为 JPG）
         filename: 文件名
 
     Returns:
@@ -162,10 +193,13 @@ def save_image_to_file(image_data: bytes, filename: str) -> Path | None:
         # 确保目录存在
         IMAGES_DIR.mkdir(parents=True, exist_ok=True)
 
+        # 确保图片为 JPG 格式
+        jpg_data = convert_to_jpg(image_data)
+
         # 保存图片
         file_path = IMAGES_DIR / f"{filename}.jpg"
         with open(file_path, "wb") as f:
-            f.write(image_data)
+            f.write(jpg_data)
 
         return file_path
     except Exception as e:

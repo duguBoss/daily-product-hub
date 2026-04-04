@@ -14,6 +14,7 @@ from .config import REQUEST_TIMEOUT
 
 
 MAX_FILE_SIZE = 5 * 1024 * 1024
+MAX_IMAGE_HEIGHT = 600  # 最大图片高度（像素），超过则裁剪
 
 
 def download_image(url: str) -> bytes | None:
@@ -95,8 +96,55 @@ def resize_image_to_max_size(
         return image_data
 
 
+def limit_image_height(
+    image_data: bytes,
+    max_height: int = MAX_IMAGE_HEIGHT,
+) -> bytes:
+    """限制图片高度，超过则裁剪.
+    
+    从顶部开始裁剪，保留图片的上半部分（通常产品主体在上方）。
+    
+    Args:
+        image_data: 原始图片数据
+        max_height: 最大高度（像素）
+        
+    Returns:
+        处理后的图片数据
+    """
+    try:
+        from PIL import Image
+        
+        img = Image.open(io.BytesIO(image_data))
+        width, height = img.size
+        
+        # 如果高度未超过限制，直接返回原图
+        if height <= max_height:
+            return image_data
+        
+        print(f"     图片高度 {height}px 超过限制 {max_height}px，进行裁剪")
+        
+        # 从顶部裁剪，保留上半部分
+        crop_box = (0, 0, width, max_height)
+        img_cropped = img.crop(crop_box)
+        
+        # 保存为 JPEG
+        output = io.BytesIO()
+        if img_cropped.mode in ("RGBA", "P"):
+            img_cropped = img_cropped.convert("RGB")
+        img_cropped.save(output, format="JPEG", quality=95)
+        
+        return output.getvalue()
+        
+    except ImportError:
+        print("   ⚠️ PIL 未安装，无法裁剪图片")
+        return image_data
+    except Exception as e:
+        print(f"   ⚠️ 图片裁剪失败: {e}")
+        return image_data
+
+
 def process_image(url: str) -> dict[str, Any] | None:
-    """处理单张图片：下载、转换格式、压缩.
+    """处理单张图片：下载、限制高度、转换格式、压缩.
     
     Args:
         url: 图片 URL
@@ -118,6 +166,10 @@ def process_image(url: str) -> dict[str, Any] | None:
     original_size = len(image_data)
     print(f"     原始大小: {original_size / 1024:.1f} KB")
     
+    # 第一步：限制高度
+    image_data = limit_image_height(image_data, MAX_IMAGE_HEIGHT)
+    
+    # 第二步：压缩文件大小
     processed_data = resize_image_to_max_size(image_data)
     
     processed_size = len(processed_data)

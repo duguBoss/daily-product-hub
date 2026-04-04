@@ -149,16 +149,16 @@ def build_weixin_json(items: list[dict[str, Any]]) -> dict[str, Any]:
             elif isinstance(first_image, str):
                 covers.append(first_image)
     
+    # 生成最吸引人的总标题（使用第一条新闻的标题）
+    main_title = titles[0] if titles else "今日科技新品推荐"
+    
     # 构建微信 JSON 格式
     weixin_data = {
         "wexinhtml": html_content,
         "count": len(titles),
         "generated_at": datetime.now().isoformat(),
+        "key1": main_title,  # 最吸引人的总标题
     }
-    
-    # 添加标题字段 key1, key2, key3...
-    for i, title in enumerate(titles, 1):
-        weixin_data[f"key{i}"] = title
     
     # 添加封面图列表
     if covers:

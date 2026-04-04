@@ -7,10 +7,17 @@ from pathlib import Path
 from typing import Any
 
 from .ai_client import get_ai_client
-from .common import save_json_file
-from .config import OUTPUT_DIR
+from .common import get_beijing_date, save_json_file
+from .config import NEWS_COUNT, OUTPUT_DIR
 from .fetching import fetch_all_sources
 from .processor import extract_article_details, extract_news_list
+from .state_manager import (
+    add_published_items,
+    filter_new_items,
+    get_published_identifiers,
+    load_published_state,
+    save_published_state,
+)
 from .weixin_formatter import save_weixin_json
 
 
@@ -124,6 +131,12 @@ def run_pipeline() -> bool:
     if not validate_setup():
         return False
     
+    # 加载已发布状态
+    print("\n📋 加载已发布产品记录...")
+    state = load_published_state()
+    published_identifiers = get_published_identifiers(state)
+    print(f"   已记录 {len(published_identifiers)} 个已发布产品")
+    
     # 2. 抓取数据源
     content = fetch_sources()
     if not content:
@@ -134,8 +147,46 @@ def run_pipeline() -> bool:
     if not news_list:
         return False
     
-    # 4. 提取详情
-    final_result = process_details(news_list)
+    # 4. 去重：过滤已发布过的产品
+    print(f"\n🔄 开始去重检查...")
+    new_news_list = filter_new_items(news_list, published_identifiers)
+    print(f"   候选产品: {len(news_list)} 个")
+    print(f"   新产品: {len(new_news_list)} 个")
     
-    # 5. 保存结果
-    return save_results(final_result)
+    # 如果新产品不足5个，尝试从候选中补充（可能是状态文件丢失导致）
+    if len(new_news_list) < NEWS_COUNT and len(news_list) >= NEWS_COUNT:
+        print(f"   ⚠️ 新产品不足 {NEWS_COUNT} 个，从候选中补充...")
+        # 使用原始列表，但优先使用新产品
+        used_identifiers = {item.get("title", "") for item in new_news_list}
+        for item in news_list:
+            if len(new_news_list) >= NEWS_COUNT:
+                break
+            title = item.get("title", "")
+            if title and title not in used_identifiers:
+                new_news_list.append(item)
+                used_identifiers.add(title)
+        print(f"   补充后产品数: {len(new_news_list)} 个")
+    
+    if not new_news_list:
+        print("❌ 没有新产品可发布")
+        print("⚠️ 终止更新，保留原有数据。")
+        return False
+    
+    # 限制为最多 NEWS_COUNT 个
+    new_news_list = new_news_list[:NEWS_COUNT]
+    print(f"   将处理前 {len(new_news_list)} 个产品")
+    
+    # 5. 提取详情
+    final_result = process_details(new_news_list)
+    
+    # 6. 保存结果
+    success = save_results(final_result)
+    
+    # 7. 更新已发布状态
+    if success and final_result:
+        today = get_beijing_date()
+        add_published_items(state, final_result, today)
+        save_published_state(state)
+        print(f"\n💾 已更新发布记录，本次发布 {len(final_result)} 个产品")
+    
+    return success

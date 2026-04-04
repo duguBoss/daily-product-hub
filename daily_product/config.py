@@ -96,7 +96,12 @@ MAX_DETAIL_LENGTH = 10000
 MAX_SUMMARY_LENGTH = 300
 
 # 新闻数量配置
-NEWS_COUNT = 8
+NEWS_COUNT = 5
+
+# 状态文件配置（用于去重）
+STATE_DIR = Path("state")
+STATE_FILE = STATE_DIR / "published_products.json"
+MAX_SEEN_ITEMS = 200  # 最多记录多少个已发布的产品
 
 # Jina AI 配置
 JINA_BASE_URL = "https://r.jina.ai"

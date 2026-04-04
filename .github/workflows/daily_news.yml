@@ -43,14 +43,16 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]" 
           
-          # 强制添加到暂存区
+          # 强制添加到暂存区（包括新闻数据和图片）
           git add data/daily_tech_news.json
+          git add data/weixin.json
+          git add data/images/
           
           # 检查是否有变更（因为脚本是覆盖写，如果内容和昨天不一样，这里就会检测到变更）
           if git diff --staged --quiet; then
             echo "No changes in news content."
           else
             echo "News updated. Committing..."
-            git commit -m "update: latest daily tech news [skip ci]"
+            git commit -m "update: latest daily tech news and images [skip ci]"
             git push
           fi

@@ -89,6 +89,11 @@ SOURCES = [
 # ================= 输出配置 =================
 OUTPUT_DIR = Path("data")
 OUTPUT_FILE = OUTPUT_DIR / "daily_tech_news.json"
+IMAGES_DIR = OUTPUT_DIR / "images"
+
+# GitHub 仓库配置（用于生成图片 URL）
+GITHUB_REPO = os.environ.get("GITHUB_REPOSITORY", "duguBoss/daily-product-hub")
+GITHUB_BRANCH = os.environ.get("GITHUB_REF_NAME", "main")
 
 # 内容长度限制
 MAX_CONTENT_LENGTH = 20000

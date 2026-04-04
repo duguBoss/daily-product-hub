@@ -44,7 +44,7 @@ def build_image_html(images: list[Any]) -> str:
     """构建图片 HTML.
     
     Args:
-        images: 图片列表，可以是 URL 字符串或包含 data/url 的字典
+        images: 图片列表，每项是包含 github_url 的字典
         
     Returns:
         图片 HTML 字符串
@@ -54,8 +54,11 @@ def build_image_html(images: list[Any]) -> str:
     
     first_image = images[0]
     
+    # 优先使用 github_url
     if isinstance(first_image, dict):
-        if "data" in first_image:
+        if "github_url" in first_image:
+            return IMAGE_URL_TEMPLATE.format(image_src=html.escape(first_image["github_url"], quote=True))
+        elif "data" in first_image:
             return IMAGE_BASE64_TEMPLATE.format(image_data=first_image["data"])
         elif "url" in first_image:
             return IMAGE_URL_TEMPLATE.format(image_src=html.escape(first_image["url"], quote=True))
@@ -138,14 +141,18 @@ def build_weixin_json(items: list[dict[str, Any]]) -> dict[str, Any]:
     # 提取标题列表
     titles = [compact_text(item.get("资讯标题", "")) for item in items if item.get("资讯标题")]
     
-    # 提取封面图（使用第一张图片的 URL）
+    # 提取封面图（收集所有新闻的第一张图片的 GitHub URL）
     covers = []
     for item in items:
         images = item.get("配图", [])
         if images and len(images) > 0:
             first_image = images[0]
-            if isinstance(first_image, dict) and "url" in first_image:
-                covers.append(first_image["url"])
+            # 优先使用 github_url
+            if isinstance(first_image, dict):
+                if "github_url" in first_image:
+                    covers.append(first_image["github_url"])
+                elif "url" in first_image:
+                    covers.append(first_image["url"])
             elif isinstance(first_image, str):
                 covers.append(first_image)
     

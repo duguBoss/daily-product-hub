@@ -72,12 +72,20 @@ class AIClient:
         print(f"🧠 正在请求 AI 提取 {today_date} 的新闻...")
         response = self._call_with_fallback(prompt)
         if not response:
+            print("   ⚠️ AI 返回空响应")
             return []
 
         # 调试：打印 AI 返回的原始内容
-        print(f"   📝 AI 返回内容（前500字符）: {response[:500]}...")
+        print(f"   📝 AI 返回内容长度: {len(response)} 字符")
+        print(f"   📝 AI 返回内容: {response[:800]}...")
 
         cleaned = clean_json_string(response)
+        print(f"   🧹 清洗后内容: {cleaned[:500]}...")
+        
+        if not cleaned:
+            print("   ⚠️ 清洗后内容为空")
+            return []
+            
         try:
             data = json.loads(cleaned)
             if not isinstance(data, list):
@@ -85,17 +93,19 @@ class AIClient:
                 return []
             print(f"   ✅ 成功解析 {len(data)} 条新闻")
             return data[:NEWS_COUNT]
-        except json.JSONDecodeError:
+        except json.JSONDecodeError as e:
+            print(f"   ⚠️ JSON 解析失败: {e}")
             try:
                 fixed = fix_json_if_needed(cleaned)
+                print(f"   🔧 修复后内容: {fixed[:500]}...")
                 data = json.loads(fixed)
                 if not isinstance(data, list):
                     print(f"   ⚠️ AI 返回的不是数组，而是: {type(data)}")
                     return []
                 print(f"   ✅ 修复后成功解析 {len(data)} 条新闻")
                 return data[:NEWS_COUNT]
-            except json.JSONDecodeError:
-                print("❌ 无法解析 AI 返回的新闻列表")
+            except json.JSONDecodeError as e2:
+                print(f"❌ 无法解析 AI 返回的新闻列表: {e2}")
                 return []
 
     def extract_article_details(self, title: str, content: str) -> dict[str, Any] | None:

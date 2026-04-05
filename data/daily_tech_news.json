@@ -1,26 +1,7 @@
 [
     {
-        "资讯标题": "特斯拉 D3 芯片亮相，专为太空算力设计",
-        "内容": "特斯拉在TERAFAB发布会上公布芯片路线图，推出专为太空设计的D3芯片（Dojo 3）。该芯片是Dojo项目的战略转向，不再与英伟达竞争地面超算，而是针对太空真空环境优化，具备高功耗、耐高温和强抗辐射能力。其目的是解决地球算力瓶颈，利用太空的无限散热和太阳能供电降低运行成本。D3将集成至由星舰发射的人工智能微型卫星星座，为xAI提供海量数据处理、构建火星互联网，并支撑特斯拉AI与SpaceX的星际愿景。",
-        "配图": []
-    },
-    {
-        "资讯标题": "特斯拉严打 FSD“越狱”，用户将承担事故全责并失去保修",
-        "内容": "特斯拉正严厉打击通过非官方“越狱”设备（形似U盘，售价约500欧元）在未支持地区强行解锁FSD功能的行为。该公司已向车主发送邮件及车载通知警告，称已掌握规避手段，将停止违规者的服务权限。特斯拉明确警告：使用此类设备导致的事故，车主需承担全部责任，且车辆可能失去保修资格。该行为在韩国尤为突出，因当地FSD仅限部分车型，许多中国产Model 3/Y车主购买套件后无法使用。韩国政府也将此行为列为刑事犯罪，最高可处两年徒刑或2000万韩元罚款。特斯拉将这类设备视为网络安全威胁，认为其会引入软件漏洞，增加黑客攻击风险。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/bb19fbf8-b2c6-42a3-8601-4f395e5159fd.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/95491a621454018b15406bdeedc92e9a.jpg",
-                "local_path": "data/images/95491a621454018b15406bdeedc92e9a.jpg",
-                "filename": "95491a621454018b15406bdeedc92e9a",
-                "original_size": 76230,
-                "processed_size": 76230
-            }
-        ]
-    },
-    {
         "资讯标题": "大疆 Osmo Pocket 4 全能套装包装曝光：1 英寸传感器、107GB 内置存储",
-        "内容": "大疆 Osmo Pocket 4 全能套装零售包装盒照片曝光，确认了该手持云台相机的核心规格。其主要配置包括：1英寸传感器、14档动态范围、10位 D-Log 色彩模式、2倍无损变焦、107GB 内置高速存储（传输速度800MB/s，无microSD卡槽）。此外，它还搭载智能跟随7.0、OsmoAudio四声道输出、三轴增稳及可旋转触控屏。全能套装内含丰富配件，如补光灯、增广镜、无线麦克风发射器、磁吸背夹等。目前产品已进入量产阶段，中国经销商已获现货，预计于2026年4月20日全球正式发布。",
+        "内容": "大疆 Osmo Pocket 4 全能套装包装盒照片曝光，确认了该相机的核心规格：搭载1英寸传感器，拥有14档动态范围，支持10位D-Log色彩模式，具备2倍无损变焦功能。其内置107GB高速存储（传输速度达800MB/s），并配备三轴增稳云台与可旋转触控屏。全能套装内含丰富配件，包括补光灯、无线麦克风发射器、增广镜、迷你三脚架等。包装信息显示产品已进入量产阶段，预计于2026年4月20日全球正式发布。",
         "配图": [
             {
                 "url": "https://img.ithome.com/newsuploadfiles/2026/4/ecbf9ca9-c187-4167-8cfe-e53013a8a679.jpg?x-bce-process=image/quality,q_75/format,f_webp",
@@ -33,30 +14,58 @@
         ]
     },
     {
-        "资讯标题": "微软 Win11 新版 Copilot 内置完整 Edge 浏览器，内存占用飙升",
-        "内容": "微软为Windows 11推送新版Copilot应用，其核心变化是弃用原生WinUI框架，转而内置一个完整的、独立版本的Microsoft Edge浏览器（而非轻量的WebView2控件）。这导致应用体积和内存占用急剧增加：后台运行最高约500MB，交互使用时内存占用飙升至约1GB，而旧版原生Copilot内存占用不足100MB。安装包分析证实其包含完整的Edge二进制文件（如msedge.exe）及各类组件。尽管新版界面与网页版一致且运行流畅，但此举被批评加剧了系统臃肿，抵消了微软的优化努力。",
+        "资讯标题": "消息称索尼已通知开发者，其正为推出 PS6 及新款 PlayStation 掌机做准备",
+        "内容": "据IT之家报道，索尼已开始向开发者通知，正为推出PlayStation 6（PS6）及新款PlayStation掌机做准备，旨在推进次世代过渡并提升游戏在不同设备间的适配性与可扩展性。尽管面临内存供应危机，PS6仍计划于2027年底或2028年推出。新款掌机性能预计将超过Xbox Series S，且PS5的省电模式已为掌机适配做初步尝试。同时，索尼正逐步缩减对PS4的支持，以集中资源发展新硬件。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/9c6d638a-d456-4e19-a5f0-9a465f38ab11.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/03a971fe01cbf1a4694718ea36dfce4d.jpg",
-                "local_path": "data/images/03a971fe01cbf1a4694718ea36dfce4d.jpg",
-                "filename": "03a971fe01cbf1a4694718ea36dfce4d",
-                "original_size": 19246,
-                "processed_size": 19246
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/9d9aa907-4c55-4632-a80b-67be717a19f9.png?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/0232aee1f32c62ec9a996c51bd221379.jpg",
+                "local_path": "data/images/0232aee1f32c62ec9a996c51bd221379.jpg",
+                "filename": "0232aee1f32c62ec9a996c51bd221379",
+                "original_size": 28088,
+                "processed_size": 28088
             }
         ]
     },
     {
-        "资讯标题": "英伟达“神经纹理压缩”AI 技术可让显存占用直降 85%，且游戏画质无损",
-        "内容": "英伟达在GTC大会上重点介绍了其“神经纹理压缩”技术。该技术利用小型神经网络对纹理进行压缩与解压，替代传统的区块压缩方法，可将游戏显存占用大幅降低85%以上（例如托斯卡纳别墅场景从6.5GB降至970MB），同时保证画质无损，并能将纹理分辨率提升至原来的四倍。其效率得益于对GPU矩阵加速引擎（如张量核心）的利用，不影响基础性能。此外，英伟达还展示了原理相似的“神经材质”技术，可显著提升渲染速度。该技术已被微软纳入DirectX标准（名为“协同向量”），英特尔和AMD也在跟进，但目前尚无游戏实际支持。",
+        "资讯标题": "LG Rollable 未量产绝版卷轴屏手机拆解，揭示其创新机械结构",
+        "内容": "LG Rollable是LG在关停手机业务前研发的未能量产卷轴屏手机原型，仅小批量生产并分发给内部员工。近日，该设备首次被完整拆解（视频由JerryRigEverything发布），揭示了其精妙的机械结构。为实现屏幕卷轴伸缩，LG采用了双电机配合由三组支架构成的弹簧机械结构，确保内部元件平稳运行。此外，屏幕收起时，卷曲的OLED屏可隐藏在透明玻璃面板后，作为状态显示屏或后置副屏使用，并能配合主摄进行自拍预览。这款手机是首款真正抵达用户手中的卷轴屏设备，具有重要的技术探索意义。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/ff9d09c4-c5ff-4d49-b555-6f23f58ca956.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/bea43d559ff98d738ab1f66df6193404.jpg",
-                "local_path": "data/images/bea43d559ff98d738ab1f66df6193404.jpg",
-                "filename": "bea43d559ff98d738ab1f66df6193404",
-                "original_size": 46200,
-                "processed_size": 46200
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/6da62576-8973-439c-bef3-25ccdb2865d2.png?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/8e5a38e2a50fe8af722dbc8c2808fc65.jpg",
+                "local_path": "data/images/8e5a38e2a50fe8af722dbc8c2808fc65.jpg",
+                "filename": "8e5a38e2a50fe8af722dbc8c2808fc65",
+                "original_size": 228472,
+                "processed_size": 183414
+            }
+        ]
+    },
+    {
+        "资讯标题": "为让首款纯电车型 Luce 更快更稳，法拉利聘请 NASA 专家参与调校",
+        "内容": "法拉利为提升首款纯电动车型Luce的驾驶平顺性与舒适性，聘请NASA专家参与加速调校。此举旨在优化加速体验，避免过强加速导致人体不适，体现了法拉利对性能“被人类感知方式”的重视，而非单纯追求极限参数。Luce定位高性能，boost模式下最大功率超1000马力，0-100km/h加速2.5秒，最高时速310km/h。车型更多细节预计于今年5月正式发布时公布。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/132f456d-d7f5-4fb1-b497-49e90a3b5e91.png?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/942ce6b9a38fff65f6dffab04adcf7de.jpg",
+                "local_path": "data/images/942ce6b9a38fff65f6dffab04adcf7de.jpg",
+                "filename": "942ce6b9a38fff65f6dffab04adcf7de",
+                "original_size": 169600,
+                "processed_size": 169600
+            }
+        ]
+    },
+    {
+        "资讯标题": "航拍揭秘特斯拉 Cybercab 机舱：无前备箱，超大储液罐保障自动驾驶安全",
+        "内容": "最新航拍揭示了特斯拉Cybercab的内部构造。该车作为完全无人驾驶出租车，前引擎盖下没有传统前备箱，取而代之的是容纳核心部件的空间，其中最突出的是一个超大储液罐，为全部七个外置摄像头及挡风玻璃提供清洗液，以保障自动驾驶感知系统的清晰与安全。前舱还集成了液压加压设备和可能 relocated 的空调组件，旨在最大化乘客腿部空间。布局暗示车辆可能采用前轮驱动。座舱延续极简风格，配备21英寸巨型触控屏，并新增一键式车门开关。目前特斯拉得克萨斯超级工厂正停产进行生产线升级，为Cybercab在本月启动量产做准备，多辆工程样车已在工厂进行测试。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/5e8d4dcd-7590-4956-bfd1-d87592db259b.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/c56a832d17ddec8e234a53cc32ad88da.jpg",
+                "local_path": "data/images/c56a832d17ddec8e234a53cc32ad88da.jpg",
+                "filename": "c56a832d17ddec8e234a53cc32ad88da",
+                "original_size": 84642,
+                "processed_size": 84642
             }
         ]
     }

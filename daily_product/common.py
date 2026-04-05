@@ -60,9 +60,21 @@ def clean_json_string(text: str) -> str:
     if not text:
         return ""
     text = text.strip()
+    
+    # 尝试提取 markdown 代码块中的 JSON
     match = re.search(r'```(?:json)?\s*(.*?)\s*```', text, re.DOTALL | re.IGNORECASE)
     if match:
         text = match.group(1).strip()
+    
+    # 如果文本包含 "[" 和 "]"，尝试提取中间的 JSON 数组部分
+    if text.startswith("[") and "]" in text:
+        # 找到最后一个 ]
+        last_bracket = text.rfind("]")
+        text = text[:last_bracket + 1]
+    
+    # 移除可能的 BOM 标记和控制字符
+    text = text.replace('\ufeff', '').replace('\x00', '')
+    
     return text
 
 

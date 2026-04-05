@@ -88,6 +88,12 @@ def fetch_all_sources() -> str:
         
         if len(text) > 500:
             full_content += f"\n=== 来源: {site} ===\n{text}\n"
+            # 打印完整内容供调试
+            print(f"\n📄 [{site}] 完整内容预览 (前 5000 字符):")
+            print("-" * 60)
+            print(text[:5000])
+            print("-" * 60)
+            print(f"   ... (共 {len(text)} 字符)\n")
         
         time.sleep(REQUEST_INTERVAL)
     

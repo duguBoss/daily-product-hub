@@ -1,7 +1,7 @@
 [
     {
         "资讯标题": "苹果 2026 款 AirPods Pro 耳机前瞻：内置红外摄像头、支持手势控制、升级 H3 芯片",
-        "内容": "据科技媒体9to5Mac报道，苹果计划在2026年秋季推出新款AirPods Pro（可能命名为AirPods Pro 3后缀）。其核心升级包括：1. 内置红外摄像头，用于配合iOS 27的Siri提供环境视觉智能信息，支持Apple Intelligence功能；2. 交互方式变革，移除压感柄，转而通过摄像头捕捉手势进行控制；3. 搭载全新H3芯片，以降低延迟、提升音质，并为AI功能提供算力。该产品预计与iPhone 18系列同期发布。",
+        "内容": "苹果计划在2026年秋季发布新款AirPods Pro（可能命名为AirPods Pro 3+）。其核心升级包括：为支持Apple Intelligence功能，内置红外摄像头以提供环境视觉智能信息；移除传统压感柄，改用基于摄像头的手势控制；搭载全新H3芯片，以降低延迟、提升音质并为AI功能提供算力。",
         "配图": [
             {
                 "url": "https://img.ithome.com/newsuploadfiles/2026/4/e1fdeaa7-fbb6-4af1-819b-ebea5a1217d5.jpg?x-bce-process=image/quality,q_75/format,f_webp",
@@ -14,58 +14,58 @@
         ]
     },
     {
-        "资讯标题": "优惠最高 24%：苹果海外上架官翻 M4 iPad Pro",
-        "内容": "苹果于2026年4月在美国官网上架翻新版M4 iPad Pro，提供11英寸和13英寸两种尺寸。11英寸版起售价759美元（约5233元人民币），较原价999美元优惠约24%；13英寸版起售价1019美元（约7026元人民币），较原价1299美元优惠约22%。产品提供Wi-Fi与蜂窝网络版本，存储空间256GB起步。所有翻新设备均经过苹果严格检测、维修、清洁并重新包装，配备完整配件与手册，享有一年官方保修，并支持加购AppleCare+。该产品原为2024年5月发布，在2025年10月M5系列推出后停售，此次翻新上架为消费者提供了高性价比选择。截至发稿，苹果中国官网的翻新产品列表中暂未出现M4 iPad Pro。",
+        "资讯标题": "OPPO Pad mini 平板爆料：8.8 英寸 144Hz、骁龙 8 Gen5、8000mAh、支持 eSIM",
+        "内容": "OPPO即将推出新款小尺寸平板电脑OPPO Pad mini。其核心配置包括：8.8英寸2880×1920分辨率OLED屏幕，支持1-144Hz LTPO自适应刷新率，峰值亮度1800尼特，采用3:2屏幕比例；搭载高通骁龙8 Gen5处理器；内置8000mAh电池，支持67W快充；支持eSIM独立联网功能。机身采用一体式金属设计，最薄处仅5.39毫米，重279克，提供深灰、紫色、青色三种配色，后置胶囊造型1300万像素单摄。该产品定位为轻薄便携的高性能小平板。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/02844bb8-0d8b-4b9a-8b44-c7f0336edc3b.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/5fe23b8681fb1e1bef326324cebea611.jpg",
-                "local_path": "data/images/5fe23b8681fb1e1bef326324cebea611.jpg",
-                "filename": "5fe23b8681fb1e1bef326324cebea611",
-                "original_size": 28880,
-                "processed_size": 28880
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/3d2b669a-f9b6-4cd5-add2-456fb52b7da6.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/44a62a4aec54695bf462900d1ce9af7b.jpg",
+                "local_path": "data/images/44a62a4aec54695bf462900d1ce9af7b.jpg",
+                "filename": "44a62a4aec54695bf462900d1ce9af7b",
+                "original_size": 71720,
+                "processed_size": 71720
             }
         ]
     },
     {
-        "资讯标题": "三星承认 Galaxy S26 Ultra 手机 3x 变焦存在画面模糊情况，正开发修复补丁",
-        "内容": "三星已正式承认其旗舰手机Galaxy S26 Ultra存在3倍长焦变焦成像质量问题。根据韩国社区论坛及科技媒体Android Authority的报道，大量用户反馈在切换到3x变焦模式时，照片会出现明显模糊或柔和，细节丢失，尤其在强光及夜间闪光灯环境下更为严重。值得注意的是，5x变焦的成像则表现正常。三星技术团队经核查确认，此问题源于软件层面的图像处理错误，发生在镜头切换过渡期间，并非硬件故障。目前，三星正在积极开发修复补丁，并承诺在完成测试后尽快推送给用户，但尚未公布具体的发布日程。",
+        "资讯标题": "苹果 2026 款 Apple TV 前瞻：A17 Pro 芯片、升级 Siri，支持 Wi-Fi 7",
+        "内容": "根据MacRumors及彭博社马克·古尔曼的爆料，苹果计划于2026年9月发布新款Apple TV。外观预计沿用现款圆角方形黑色塑料设计，升级重点在内部。核心变化包括：搭载A17 Pro芯片（部分消息称可能为A18/A19），采用3纳米工艺并支持硬件加速光线追踪以提升游戏体验；连接性方面将支持Wi-Fi 7（6GHz频段）和蓝牙6.0，以获得更低延迟和更稳定连接。为扩大市场份额，苹果可能推出双机型策略，包含一个低价版本。产品延迟至2026年发布的原因可能与Apple Intelligence及Siri的深度整合有关。",
         "配图": [
             {
-                "url": "https://img.ithome.com/images/v2/t.png",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/68370daef67c1e13899ba8726eb94421.jpg",
-                "local_path": "data/images/68370daef67c1e13899ba8726eb94421.jpg",
-                "filename": "68370daef67c1e13899ba8726eb94421",
-                "original_size": 73,
-                "processed_size": 73
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/34d3bd28-1d17-4e1b-b1c8-cde52cf142ff.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/49abe179399cce48870b96b8f7472fc4.jpg",
+                "local_path": "data/images/49abe179399cce48870b96b8f7472fc4.jpg",
+                "filename": "49abe179399cce48870b96b8f7472fc4",
+                "original_size": 16072,
+                "processed_size": 16072
             }
         ]
     },
     {
-        "资讯标题": "丰田发布新款兰德酷路泽 250：强化防盗系统，意在摆脱“日本高失窃车型”之名",
-        "内容": "丰田在日本发布兰德酷路泽250小改款，核心是强化防盗系统以应对其长期位居日本高失窃车型的问题，新增基于钥匙距离的解锁启动限制及远程发动机禁用功能。外观新增中性黑、沙漠色车漆，VX车型可选装复古双光束圆形LED大灯。座舱升级包括VX车型搭载高级辅助驾驶系统（含拥堵辅助、驾驶员监测等）及主驾8向电动记忆座椅。动力沿用2.7升四缸发动机，价格上调至577.94万日元（约合25万元人民币）。",
+        "资讯标题": "99 元小米蓝牙遥控器 2 Pro 发售：兼容小米和 REDMI 智能电视 / 盒子，支持手机 NFC 一触即投",
+        "内容": "小米于2026年4月4日发售新款“小米蓝牙遥控器 2 Pro 银灰色”，官方定价99元。该遥控器主要兼容小米及REDMI品牌的智能电视与盒子产品。核心功能包括：支持蓝牙5.4连接、手机NFC一触即投屏、AI语音操控；内置300mAh电池，支持Type-C充电；配备自定义按键，机身重量约61克。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/a593b6ca-ec66-412d-9bec-278dc1d1031d.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/2d01371493807e6973c5c2c5f6a6e84c.jpg",
-                "local_path": "data/images/2d01371493807e6973c5c2c5f6a6e84c.jpg",
-                "filename": "2d01371493807e6973c5c2c5f6a6e84c",
-                "original_size": 159594,
-                "processed_size": 111165
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/dbd612ef-ab7f-4bc0-abbc-75c638a49133.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/6e5813994310c85e566566b5adbb6ecd.jpg",
+                "local_path": "data/images/6e5813994310c85e566566b5adbb6ecd.jpg",
+                "filename": "6e5813994310c85e566566b5adbb6ecd",
+                "original_size": 28646,
+                "processed_size": 28646
             }
         ]
     },
     {
-        "资讯标题": "三星推出 2026 款 The Frame 系列电视：7 年更新，支持 DLG 240Hz",
-        "内容": "三星推出2026款The Frame系列艺术电视，延续超薄画框设计，搭载Glare Free防眩光技术。显示方面支持144Hz刷新率，通过DLG技术可在PC连接时实现240Hz（分辨率会降低）。核心卖点在于艺术体验，集成Samsung Art Store，提供超5000幅作品及每月免费推送。产品分标准版与Pro版，Pro版具备更高级的AI音效控制。系统搭载升级版Tizen OS，承诺提供长达7年的更新支持。Pro版售价已公布：65英寸1999.99美元，75英寸2799.99美元，85英寸3999.99美元。",
+        "资讯标题": "创维推出 27 英寸 2K 250Hz 显示器 G27Q，首发价 969 元",
+        "内容": "创维推出新款27英寸电竞显示器G27Q，采用FastIPS面板，支持2560×1440（2K）分辨率与250Hz刷新率（原生240Hz），拥有1ms GTG响应时间、490nits峰值亮度、HDR400认证，覆盖100% sRGB及97% DCI-P3色域，并通过莱茵低蓝光认证。它兼容G-Sync与FreeSync技术，提供两个DP 1.4和两个HDMI 2.0接口。该显示器首发价为969元，目前已在京东开售。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/11f75e32-1b54-491f-9b26-eada0a94fe94.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/eccb04f6479ed311a98d688f40beaa0f.jpg",
-                "local_path": "data/images/eccb04f6479ed311a98d688f40beaa0f.jpg",
-                "filename": "eccb04f6479ed311a98d688f40beaa0f",
-                "original_size": 50468,
-                "processed_size": 50468
+                "url": "https://img14.360buyimg.com/pop/jfs/t1/410418/23/20199/96116/69cf573cF89f8c78d/0083320320645846.jpg",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/d7d39d4257f934faf42b5205808c0a7b.jpg",
+                "local_path": "data/images/d7d39d4257f934faf42b5205808c0a7b.jpg",
+                "filename": "d7d39d4257f934faf42b5205808c0a7b",
+                "original_size": 186028,
+                "processed_size": 137981
             }
         ]
     }

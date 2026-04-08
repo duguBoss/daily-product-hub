@@ -1,53 +1,71 @@
 [
     {
-        "资讯标题": "消息称苹果首款折叠屏手机 iPhone Fold 已在试产",
-        "内容": "据《日经亚洲》报道，苹果首款折叠屏手机iPhone Fold目前处于EVT工程验证测试阶段。早期试生产中发现的问题数量超出预期，已导致部分零部件供应商收到生产计划可能推迟的通知。报道指出，当前的技术解决方案不足以彻底解决工程上的复杂问题，需要更多时间进行调整优化。本月是EVT的关键阶段，若问题无法解决，首批产品交付可能延迟数月，打破苹果原定计划。",
+        "资讯标题": "小米米家空气净化器 6 Max 开启预售：搭载双电机，到手价 3999 元",
+        "内容": "小米米家空气净化器 6 Max 于4月8日开启预售，到手价3999元，政府补贴价3798.99元。新品搭载双电机强劲动力系统与三面进风架构，CADR值达25000 L/min，适用面积97㎡，主打大户型及装修场景净化。其配备“装修滤芯”与“全效滤芯”双套装，分别针对装修期高浓度污染（如甲醛、TVOC）和日常多种污染物，并内置UV消杀系统。产品支持米家App智能控制，可实时显示九维空气质量数据，运行噪音低至31.8dB(A)，设计上采用可置物顶盖与隐藏式万向轮。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/3/3288bbab-0ffa-464d-9a79-6604cf12c6b8.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/26125dd33917947c9701db3232c8e8a1.jpg",
-                "local_path": "data/images/26125dd33917947c9701db3232c8e8a1.jpg",
-                "filename": "26125dd33917947c9701db3232c8e8a1",
-                "original_size": 158038,
-                "processed_size": 148951
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/ffde6739-db12-49d4-bce2-e74f023ce54d.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/619b1a3efda3096770dca2b7d8e16740.jpg",
+                "local_path": "data/images/619b1a3efda3096770dca2b7d8e16740.jpg",
+                "filename": "619b1a3efda3096770dca2b7d8e16740",
+                "original_size": 261322,
+                "processed_size": 89212
             }
         ]
     },
     {
-        "资讯标题": "全球首款 208MB 双缓存消费级处理器：AMD 9950X3D2 售价被曝约 1000 美元",
-        "内容": "AMD即将推出全球首款双缓存消费级处理器Ryzen 9 9950X3D2，总缓存容量达208MB（192MB L3），将于4月22日发售。据多家电商平台信息，其售价约为1000美元。相比仅在单集群堆叠缓存的9950X3D，该处理器在两个核心集群均配备缓存，显著提升游戏性能，但热设计功耗从170W增至200W。AMD表示，在渲染、内容创作、AI与模拟等场景中，性能预计提升5%-10%。",
-        "配图": []
-    },
-    {
-        "资讯标题": "荣耀 MagicBook 数字系列新品发布会定档 4 月 16 日，号称性能续航双满贯",
-        "内容": "荣耀官方宣布，MagicBook数字系列新品发布会将于4月16日举行，将推出MagicBook 14与MagicBook 16两款新品，主打“性能续航双满贯”。根据已公布规格，全系搭载双风扇散热，电池容量均为92Wh。MagicBook 14配备2.8K 120Hz IPS护眼屏，重1.39kg；MagicBook 16配备2.5K 180Hz IPS护眼屏，重1.69kg。此外，还有定位更高的MagicBook Pro 14/16 2026款，采用OLED/LCD高刷屏，性能释放更高。",
-        "配图": []
-    },
-    {
-        "资讯标题": "小米 REDMI K90 Max 手机官宣本月登场：系列第一款 Max，首搭风冷主动散热",
-        "内容": "小米于4月7日官宣REDMI K90 Max手机将于本月发布，这是REDMI K系列首款“Max”机型。其最大亮点是首次搭载小米手机的风冷主动散热方案，并配备新一代狂暴双芯及165Hz高刷电竞屏。据此前爆料，该机还可能采用1.5K LTPS屏幕、独显芯片、大电池、超声波指纹及IP68防尘防水等配置。",
+        "资讯标题": "小米米家智能 IH 电饭煲 P1 4L 款开售：1.2 倍压力精煮米饭，首发到手价 1099 元",
+        "内容": "小米米家智能IH电饭煲P1 4L款正式开售，首发到手价1099元。产品采用IH立体均火烹饪技术，支持1.2倍压力精煮，配备4L容量、0氟涂层2.5mm厚度钛釜内胆（可盛装约16碗饭），延续小米白色机身设计，顶部带LED数显，内盖为不锈钢材质，并支持通过米家App远程控制与设定菜谱。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/27f9e076-ae87-4ef1-8e34-6e45e3da9988.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/0403a85bbfe24db4b57c34fe6a2cae13.jpg",
-                "local_path": "data/images/0403a85bbfe24db4b57c34fe6a2cae13.jpg",
-                "filename": "0403a85bbfe24db4b57c34fe6a2cae13",
-                "original_size": 129810,
-                "processed_size": 115310
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/bf0dfc1d-9dc1-4a40-8d19-1593e3212105.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/e5c65351888b30877826ef6738c31c7c.jpg",
+                "local_path": "data/images/e5c65351888b30877826ef6738c31c7c.jpg",
+                "filename": "e5c65351888b30877826ef6738c31c7c",
+                "original_size": 92376,
+                "processed_size": 61077
             }
         ]
     },
     {
-        "资讯标题": "三星 Galaxy Z Fold8 Wide 阔折叠手机演示图片 / 动画流出，内屏比例 1.3:1",
-        "内容": "三星代号“H8”的阔折叠手机（Galaxy Z Fold8 Wide）内屏比例确认为1.3:1（约4:3），比现款Galaxy Z Fold8的1.11:1更宽。科技媒体通过挖掘One UI 9固件代码，发现了该机的演示动画及更多图片，展示了外屏镜像功能。",
+        "资讯标题": "小米小米 REDMI K Pad 2 小平板官宣本月发布：9100mAh 电池、天玑 9500",
+        "内容": "小米正式官宣REDMI K Pad 2小平板将于本月内发布。该产品搭载联发科天玑9500处理器，配备8.8英寸165Hz高刷新率电竞屏，在亮度、触控与护眼方面均有升级，并内置9100mAh大容量电池。设计上采用金属一体化机身，背部为简洁的单摄像头方案，并提供三款配色可选。作为2025年6月发布的REDMI K Pad的继任者，K Pad 2在性能、屏幕与续航上进行了重点升级。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/6d6e2b43-cc06-427b-a73d-e05a4063327d.gif?x-bce-process=image/format,f_png",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/47facec12781e5cfcfcc45417b18e2d1.jpg",
-                "local_path": "data/images/47facec12781e5cfcfcc45417b18e2d1.jpg",
-                "filename": "47facec12781e5cfcfcc45417b18e2d1",
-                "original_size": 27468,
-                "processed_size": 27468
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/ca225553-7eca-4969-b1f2-cc48e486c3c1.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/b8044af426ca596f579b44377b06fa2b.jpg",
+                "local_path": "data/images/b8044af426ca596f579b44377b06fa2b.jpg",
+                "filename": "b8044af426ca596f579b44377b06fa2b",
+                "original_size": 176550,
+                "processed_size": 94393
+            }
+        ]
+    },
+    {
+        "资讯标题": "小米首款最新国标充电宝：磁吸支架 10000 7.5W 2026 版发布，199 元",
+        "内容": "小米于2026年4月8日发布其首款满足最新强制性国家标准《移动电源安全技术规范》的充电宝产品——小米充电宝磁吸支架10000 7.5W 2026版，首发价199元。该产品采用全新安全电芯，通过15项新国标测试，并搭载12项保护设计。核心功能上，它支持33W有线输出、15W无线输出及30W有线输入，可同时为三台设备充电，并新增智能管理以读取电池状态，支架支持自由调节、磁吸与插线两种使用方式。外观上，3C认证标识移至右侧，并明确标注“建议安全使用年限为5年”。新国标于2026年4月3日发布，2027年4月1日实施，重点强化了电池本质安全（如引入针刺试验）并要求标明安全使用年限。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/2dc841e6-b7a9-4e53-a01d-356453417601.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/9dabbeb327cde86b6689f3a2f8e7be2e.jpg",
+                "local_path": "data/images/9dabbeb327cde86b6689f3a2f8e7be2e.jpg",
+                "filename": "9dabbeb327cde86b6689f3a2f8e7be2e",
+                "original_size": 99672,
+                "processed_size": 69768
+            }
+        ]
+    },
+    {
+        "资讯标题": "小米 REDMI K90 Max 手机“太空银”外观揭晓：冷调银色机身 + 铝合金中框",
+        "内容": "小米REDMI K90 Max手机将于本月发布，官方揭晓了“太空银”版本外观。该机采用冷调银色机身、铝合金中框，搭配极窄边框与极简格栅开孔设计。核心亮点是搭载全新风冷散热系统，配备直径超主流方案6%的大尺寸风扇，直立式进风设计，每分钟风量达0.42CFM（为友商1.3倍）。整机支持IP66/IP68/IP69防尘防水，目前已在官网开启预约。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/747a9254-a80a-4c26-b985-ee4d33feedf5.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/316e6eac869a8f14d8288f31ff7e5d03.jpg",
+                "local_path": "data/images/316e6eac869a8f14d8288f31ff7e5d03.jpg",
+                "filename": "316e6eac869a8f14d8288f31ff7e5d03",
+                "original_size": 47242,
+                "processed_size": 47242
             }
         ]
     }

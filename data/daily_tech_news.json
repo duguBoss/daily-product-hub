@@ -1,62 +1,71 @@
 [
     {
-        "资讯标题": "小米手机今日起正式调价，REDMI K90 Pro Max 上涨 200 元",
-        "内容": "小米宣布自2026年4月11日起调整部分在售产品建议零售价，原因是全球存储芯片等关键零部件价格持续大幅上涨。REDMI K90 Pro Max全系上涨200元，具体价格为：12GB+256GB版4199元（首销3999元）、12GB+512GB版4699元（首销4499元）、16GB+512GB版4999元（首销4799元）、16GB+1TB版5499元（首销5299元）。REDMI Turbo 5和Turbo 5 Max取消新春特惠，但512GB大内存版本继续享受200元补贴。",
+        "资讯标题": "华为 Pura X Max 横向阔折叠手机外观再曝，官方称“老余说这条可以发”",
+        "内容": "华为 Pura X Max 横向阔折叠手机外观再曝，官方视频显示余承东操作该机，背面采用三摄像头凸出模组。余承东亦在小红书首发真机，并宣布该产品将于4月20日正式发布。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/f7304941-d4e2-4d01-a0a4-2aeddf0832be.png?x-bce-process=image/quality,q_75/format,f_webp/auto-orient,o_1",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/bb9d47a5605c3ada7cfe2b59a03444e0.jpg",
-                "local_path": "data/images/bb9d47a5605c3ada7cfe2b59a03444e0.jpg",
-                "filename": "bb9d47a5605c3ada7cfe2b59a03444e0",
-                "original_size": 56692,
-                "processed_size": 56692
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/9f1a38f1-958c-4cda-a37a-3b2355666504.png?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/d73688a1a9d5288d0d5d5c0d3c82536c.jpg",
+                "local_path": "data/images/d73688a1a9d5288d0d5d5c0d3c82536c.jpg",
+                "filename": "d73688a1a9d5288d0d5d5c0d3c82536c",
+                "original_size": 68740,
+                "processed_size": 55798
             }
         ]
     },
     {
-        "资讯标题": "华为 MateBook 14 2026 及 MateBook Pro 通过开源鸿蒙评测认证：预装 6.1.0.117 系统",
-        "内容": "华为 MateBook 14 2026（MNTXM-32A）及 MateBook Pro（HAD-W32）已通过开源鸿蒙 OpenHarmony 评测认证，均预装 HarmonyOS 6.1.0.117 版本。MateBook 14 2026 配备 24GB+1TB 大内存，提供深空灰/皓月银两种配色，预计搭载麒麟 9030 或麒麟 X90 系列处理器。",
+        "资讯标题": "行业首款横向阔折叠手机：华为 Pura X Max 正式亮相，4 月 20 日发布",
+        "内容": "华为正式发布行业首款横向阔折叠手机Pura X Max，将于4月20日与Pura 90系列同步发布。该机采用横向折叠方案，外屏顶部居中挖孔，内屏右上角挖孔，展开后约7.6英寸；背部采用横向圆角矩形套三个圆形镜头模组，提供三种配色。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/c6bb8d74-10b6-46e1-acea-37dcd52a341e.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/cf8fb3358450c4e5f553bbc3c014662d.jpg",
-                "local_path": "data/images/cf8fb3358450c4e5f553bbc3c014662d.jpg",
-                "filename": "cf8fb3358450c4e5f553bbc3c014662d",
-                "original_size": 22788,
-                "processed_size": 22788
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/1ba0a6f1-7b53-4740-8689-9c31897372e0.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/cede261238b0cc09f199f1ffc5de891a.jpg",
+                "local_path": "data/images/cede261238b0cc09f199f1ffc5de891a.jpg",
+                "filename": "cede261238b0cc09f199f1ffc5de891a",
+                "original_size": 93776,
+                "processed_size": 93776
             }
         ]
     },
     {
-        "资讯标题": "小米电视桌面 4.0 明日起推送：纵向导航布局上线、支持多赛事同屏播放",
-        "内容": "小米电视桌面4.0将于4月13日起陆续推送，采用全新纵向导航布局，操作路径更短，常用功能和推荐内容更快到达。新增精彩高光片段预览、观看记录按类型和时间排序、体育模块支持赛事预约开播自动提醒及多赛事同屏播放，儿童模式实现远程一键锁屏、时长管理和观看报告。覆盖小米电视S Pro Mini LED、S Mini LED、REDMI电视X、MAX、A Pro等多款2025/2026系列机型。",
-        "配图": []
-    },
-    {
-        "资讯标题": "大疆 Osmo Pocket 4 运动相机 4 月 16 日发布，更多图片曝光",
-        "内容": "大疆 Osmo Pocket 4 运动相机将于4月16日20:00发布，预热中透露将提供更大存储空间。爆料者伊戈尔·博格丹诺夫曝光了近十张图片，展示了机身及多款配件。标配包括新款LED补光灯、带1/4英寸螺纹手柄、发射器、迷你三脚架和广角镜头；创作者套装（Creator Combo）额外附赠收纳包、便携袋、固定夹、两个防风罩及磁吸充电线。起售价约499美元（约3415元人民币），创作者套装售价可能为649美元（约4441元）或749美元（约5126元）。",
+        "资讯标题": "华为 Pura X Max 今日开启预订，行业首款横向阔折叠手机",
+        "内容": "华为今日（4月13日）上午12:08正式开启Pura X Max预订，这是行业首款横向阔折叠手机。新机提供幻夜黑、橄榄金等五款配色，并将于4月20日14:30的华为Pura系列及全场景新品发布会上正式亮相。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/3539b68f-896a-4ab9-a5d6-b4be72970178.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/e744a6d208583e4251f93d026f9ef789.jpg",
-                "local_path": "data/images/e744a6d208583e4251f93d026f9ef789.jpg",
-                "filename": "e744a6d208583e4251f93d026f9ef789",
-                "original_size": 41652,
-                "processed_size": 41652
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/e961b3e7-b4c0-4694-89de-3014b8adc6eb.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/5e5962c30dcf88c77cb63c36c3a17447.jpg",
+                "local_path": "data/images/5e5962c30dcf88c77cb63c36c3a17447.jpg",
+                "filename": "5e5962c30dcf88c77cb63c36c3a17447",
+                "original_size": 223000,
+                "processed_size": 111700
             }
         ]
     },
     {
-        "资讯标题": "OPPO Pad Mini 平板 4 月 21 日全球首发：2.5K OLED 柔光屏，第五代骁龙 8 旗舰芯",
-        "内容": "OPPO 宣布 OPPO Pad Mini 平板将于 4 月 21 日全球首发，采用 2.5K OLED 明眸柔光屏、第五代骁龙 8 旗舰芯片，机身轻薄，提供浅紫色配色，后置竖向 OPPO Logo 和胶囊形摄像头模组。发布会同步展示 Hasselblad 联合影像新品及 Find X9 系列手机等产品。",
+        "资讯标题": "消息称某厂 nova 系列迭代机型上双红枫镜头、下放 9 系芯片，预计为华为旗下",
+        "内容": "据博主@智慧皮卡丘爆料，某厂nova系列新机将配备双红枫镜头、约7000mAh大容量电池，并下放华为9系旗舰芯片，具备侧边指纹、金属中框、无线充电等配置，背面采用新设计。该机预计为华为nova 16系列，可能对应Ultra/Pro Max版本，配备约6.84英寸1.5K LTPO屏幕，主摄为50MP 1/1.3英寸超大底，并保留潜望镜和多光谱镜头。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/6aac804d-6295-4296-8278-8ec0714b5cbd.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/a296b8ce0983ccb6b5cd7b74bea6688d.jpg",
-                "local_path": "data/images/a296b8ce0983ccb6b5cd7b74bea6688d.jpg",
-                "filename": "a296b8ce0983ccb6b5cd7b74bea6688d",
-                "original_size": 143230,
-                "processed_size": 83999
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/963fc388-b25a-4367-b070-290452596838.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/0a66e2644f1a22e711754ce1d874c924.jpg",
+                "local_path": "data/images/0a66e2644f1a22e711754ce1d874c924.jpg",
+                "filename": "0a66e2644f1a22e711754ce1d874c924",
+                "original_size": 55720,
+                "processed_size": 55720
+            }
+        ]
+    },
+    {
+        "资讯标题": "小米推出 27 英寸 REDMI 显示器 G27U 2026：4K 160Hz 双模切换，1499 元",
+        "内容": "小米推出了 27 英寸 REDMI G27U 2026 显示器，售价 1499 元，4 月 17 日开售。该显示器采用 Fast IPS 面板，支持 4K 160Hz 和 1080P 320Hz 双模切换，具备 1ms GTG 响应时间、HDR400 和 10Bit 色彩，提供三年质保。",
+        "配图": [
+            {
+                "url": "https://img14.360buyimg.com/pop/jfs/t1/417655/10/2323/134346/69d74fc8F56656e5b/0083320320dd53bf.jpg",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/3b8becaf8465d77ef22fa4668efa9281.jpg",
+                "local_path": "data/images/3b8becaf8465d77ef22fa4668efa9281.jpg",
+                "filename": "3b8becaf8465d77ef22fa4668efa9281",
+                "original_size": 190721,
+                "processed_size": 135030
             }
         ]
     }

@@ -1,53 +1,53 @@
 [
     {
-        "资讯标题": "vivo Y600 Pro 手机现身中国电信终端产品库：10200mAh 耐低温电池，4 月 27 日发布",
-        "内容": "vivo Y600 Pro 手机现身中国电信终端产品库，提供 8GB/12GB RAM 与 128GB/256GB/512GB 存储五种版本，配色有浮光金、皓月黑、浩渺蓝、星曜紫。机型采用 6.83 英寸居中单挖孔屏、直角边框，前置 3200 万像素、后置 5000 万像素摄像头，搭载天玑 7300e 处理器，预装 Android 16，尺寸 163.90×76.50×8.15mm、重约 221g，内置 10200mAh 耐低温电池，USB Type-C 接口，计划于 4 月 27 日发布。",
+        "资讯标题": "消息称小米新一代自研芯片 + Ai 大模型 + OS 大会师终端产品排期已定，比网传晚一点",
+        "内容": "在小米投资者日上，雷军透露小米玄戒 O1 芯片出货已超百万颗，并将用于小米汽车。博主 @数码闲聊站 称新一代自研芯片、AI 大模型与 OS 将在某终端产品上“大会师”，排期已定，比网传稍晚。雷军 ранее 表示 2026 年将实现自研芯片、自研 OS、自研 AI 大模型的终端突破，玄戒 O1 已获 2025 小米“千万技术大奖”。",
         "配图": []
     },
     {
-        "资讯标题": "AI 需求致苹果 M4 Mac mini 基础款缺货，二手平台溢价严重",
-        "内容": "AI 应用需求激增导致苹果 M4 芯片基础款 Mac mini（16GB+256GB）在官网全线售罄，供应紧张。此机型因低功耗、安静成为运行 OpenClaw 等端侧 AI 模型的热门设备，二手平台 eBay 出现大幅溢价，全新拆封机售价 715‑795 美元，翻新机最高达 979 美元，比官方原价 599 美元高出 100‑380 美元。缺货还波及 Mac Studio 需求上升，而其他 MacBook 系列仍可正常发货，表明短缺主要源于 Mac mini 本身需求激增。",
+        "资讯标题": "联发科发布天玑 7450/7450X 芯片，后者原生支持折叠屏双屏显示功能",
+        "内容": "联发科发布天玑 7450/7450X 芯片，基于台积电 4nm 工艺，采用八核 CPU（4×Cortex‑A78 2.6GHz + 4×Cortex‑A55 2.0GHz），Mali‑G615 MC2 GPU，支持 LPDDR5/LPDDR4X 内存（最高 6400Mbps）及 UFS 3.1/2.2 存储，集成 5G Release 17 调制解调器、Wi‑Fi 6E、蓝牙 5.4，Imagiq 950 ISP 可支持 2亿像素传感器和 4K 视频录制，第六代 NPU AI 性能较前代提升约7%，并配备 HyperEngine 游戏技术和自适应游戏技术 3.0。显示方面最高支持 WFHD+ 120Hz 或 Full HD+ 144Hz 刷新率。天玑 7450X 相比标准版 7450 额外增加折叠屏双屏显示功能，专为小折叠屏手机设计，预计首发搭载摩托罗拉 Razr 70 系列。相比天玑 7300，A78 性能核心主频从 2.5GHz 提升至 2.6GHz，GPU 频率提升约24%。",
+        "配图": []
+    },
+    {
+        "资讯标题": "联想来酷 AI MINI PRO 迷你主机开售：双 2.5G 网口，U5 228V 版本 4299 元",
+        "内容": "联想来酷 AI MINI PRO 迷你主机今日开售，基于英特尔酷睿 Ultra 200V（Lunar Lake）平台。京东提供两款配置：Ultra 5 228V+32GB内存+512GB SSD 售 4299 元；Ultra 7 258V+32GB内存+1TB SSD 售 5799 元。联想官网还可选配更低端的 Ultra 5 226V+16GB+512GB（3799 元）及 Ultra 5 228V 升级 1TB SSD（4799 元）。机身采用一体化铝合金，尺寸 128×134×52 mm，体积 0.9 L，配备双 2.5GbE 网口、Wi‑Fi 6、USB‑C 40Gbps、多种视频输出及丰富 I/O 接口。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/9f1d149d-65f2-412f-a9b7-e6302dbad390.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/dc16041f24086d2823450e70a7906b27.jpg",
-                "local_path": "data/images/dc16041f24086d2823450e70a7906b27.jpg",
-                "filename": "dc16041f24086d2823450e70a7906b27",
-                "original_size": 48746,
-                "processed_size": 48746
+                "url": "https://img14.360buyimg.com/pop/jfs/t1/421090/7/21491/73449/69eb2cfcFce914114/008332032027adb8.jpg",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/390f058e5d9b43ecd5afbaa31ec971db.jpg",
+                "local_path": "data/images/390f058e5d9b43ecd5afbaa31ec971db.jpg",
+                "filename": "390f058e5d9b43ecd5afbaa31ec971db",
+                "original_size": 155268,
+                "processed_size": 122056
             }
         ]
     },
     {
-        "资讯标题": "小米技术：截至 2025 年底，小米集团全球授权专利数已超 4.5 万项",
-        "内容": "小米技术官方微博在2026年世界知识产权日宣布，截至2025年底，小米集团全球已获授权专利数量突破4.5万项。技术布局涵盖通信（5G/6G等）、影像、人工智能、汽车及机器人等领域，同时审查中专利申请数亦超过4万项。这表明小米在AI驱动的人车家全生态中持续加大研发与知识产权投入，以巩固技术领先地位并推动新质生产力发展。",
-        "配图": []
-    },
-    {
-        "资讯标题": "鸿蒙智行智界 V9 旗舰 MPV 预售 72 小时订单破 22500 台，39.98 万起",
-        "内容": "鸿蒙智行智界 V9 旗舰 MPV 预售 72 小时订单突破 22500 台，起售价 39.98 万元。该车是鸿蒙智行首款旗舰 MPV，基于华为途灵 MPV 定制平台，采用前双叉臂+后 H 臂多连杆悬架，全系标配后轮转向（最大转角 ±7°），最小转弯半径 5.35 米。余承东透露华为终端 BG CEO 何刚已下单，称赞其二排迎宾座椅、百变空间和超大后备箱。",
+        "资讯标题": "雷军：小米玄戒 O1 芯片已经出货超过一百万颗",
+        "内容": "雷军在小米投资者日透露，小米自研玄戒 O1 芯片已出货超过 100 万颗，采用 3nm 先进制程。他表示后续自研芯片将用于小米汽车，并透露小米自研大芯片自 2021 年重启，计划至少投资 10 年、500 亿元，截至 2025 年 4 月底研发投入已超 135 亿元。此外，代码库现身一款神秘折叠屏新机（代号 lhasa），有望搭载玄戒 O3 芯片，可能跳过 O2 命名。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/c2f373c5-3d3b-4bc0-aa72-b8887c0e7425.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/c4da9ef480572fc54e676053fcc1f8d5.jpg",
-                "local_path": "data/images/c4da9ef480572fc54e676053fcc1f8d5.jpg",
-                "filename": "c4da9ef480572fc54e676053fcc1f8d5",
-                "original_size": 133196,
-                "processed_size": 77819
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/a0106237-6902-4fa5-a783-c1648197793a.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/c805dba9f6b858d2c4f4a388c8f8fd26.jpg",
+                "local_path": "data/images/c805dba9f6b858d2c4f4a388c8f8fd26.jpg",
+                "filename": "c805dba9f6b858d2c4f4a388c8f8fd26",
+                "original_size": 36418,
+                "processed_size": 36418
             }
         ]
     },
     {
-        "资讯标题": "全新一代红旗 H9 轿车今启预热：华为乾崑智驾 ADS 5 + 鸿蒙智舱 + HUAWEI SOUND 卓越音响",
-        "内容": "一汽红旗今日启动全新一代红旗 H9 预热，定位 C+ 级智慧豪华旗舰轿车。新车将搭载华为乾崑智驾 ADS 5、鸿蒙智舱 HarmonySpace 及 HUAWEI SOUND 卓越音响，配备双光路图像级 896 线激光雷达与 40 颗高感知传感器，宣称 120km/h 时速可稳定识别 120 米外 14cm 高度微小障碍物。车内提供专属舒享座椅、HUAWEI SOUND 音响系统及 MoLA 架构智能语音助手。外观采用高山飞瀑格栅、贯穿式 U 型灯组及车身等宽智能光毯，内饰采用中轴对称环抱式座舱 + 三联叠屏。动力方面匹配红旗全球首创 2.0T 纵置两档混动系统，提供主动可变阻尼减震 + 四挡空气悬架，并具备五星碰撞安全、电池全域防护及一键隐私模式。新车已于 2026 北京车展亮相，官宣首批搭载华为乾崑智驾 ADS 5。",
+        "资讯标题": "一加 Ace 6 至尊版手机预热：165Hz 直屏 + 天玑 9500 芯片 + 8600mAh 电池，4 月 28 日发布",
+        "内容": "一加 Ace 6 至尊版官方预热，将于4月28日发布。新机搭载天玑9500旗舰芯片及全新风驰游戏内核，配备灵犀触控芯、电竞网络芯、主机级陀螺仪及专属枪神游戏手柄。采用金属中框、165Hz东方屏直屏、超声波指纹，内置8600mAh冰川电池支持120W闪充，预装ColorOS16，具IP66/68/69/69K满级防水。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/4773c430-24d2-410a-b74f-d308e8aae636.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/19ad63782a2af0e4aeadf6a1ba97dbe4.jpg",
-                "local_path": "data/images/19ad63782a2af0e4aeadf6a1ba97dbe4.jpg",
-                "filename": "19ad63782a2af0e4aeadf6a1ba97dbe4",
-                "original_size": 257882,
-                "processed_size": 48957
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/20d78f41-6a45-43b9-81cd-de44cd2488eb.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/65e759981e63b516feeb3416111e9399.jpg",
+                "local_path": "data/images/65e759981e63b516feeb3416111e9399.jpg",
+                "filename": "65e759981e63b516feeb3416111e9399",
+                "original_size": 789784,
+                "processed_size": 127893
             }
         ]
     }

@@ -1,53 +1,53 @@
 [
     {
-        "资讯标题": "消息称小米新一代自研芯片 + Ai 大模型 + OS 大会师终端产品排期已定，比网传晚一点",
-        "内容": "在小米投资者日上，雷军透露小米玄戒 O1 芯片出货已超百万颗，并将用于小米汽车。博主 @数码闲聊站 称新一代自研芯片、AI 大模型与 OS 将在某终端产品上“大会师”，排期已定，比网传稍晚。雷军 ранее 表示 2026 年将实现自研芯片、自研 OS、自研 AI 大模型的终端突破，玄戒 O1 已获 2025 小米“千万技术大奖”。",
-        "配图": []
-    },
-    {
-        "资讯标题": "联发科发布天玑 7450/7450X 芯片，后者原生支持折叠屏双屏显示功能",
-        "内容": "联发科发布天玑 7450/7450X 芯片，基于台积电 4nm 工艺，采用八核 CPU（4×Cortex‑A78 2.6GHz + 4×Cortex‑A55 2.0GHz），Mali‑G615 MC2 GPU，支持 LPDDR5/LPDDR4X 内存（最高 6400Mbps）及 UFS 3.1/2.2 存储，集成 5G Release 17 调制解调器、Wi‑Fi 6E、蓝牙 5.4，Imagiq 950 ISP 可支持 2亿像素传感器和 4K 视频录制，第六代 NPU AI 性能较前代提升约7%，并配备 HyperEngine 游戏技术和自适应游戏技术 3.0。显示方面最高支持 WFHD+ 120Hz 或 Full HD+ 144Hz 刷新率。天玑 7450X 相比标准版 7450 额外增加折叠屏双屏显示功能，专为小折叠屏手机设计，预计首发搭载摩托罗拉 Razr 70 系列。相比天玑 7300，A78 性能核心主频从 2.5GHz 提升至 2.6GHz，GPU 频率提升约24%。",
-        "配图": []
-    },
-    {
-        "资讯标题": "联想来酷 AI MINI PRO 迷你主机开售：双 2.5G 网口，U5 228V 版本 4299 元",
-        "内容": "联想来酷 AI MINI PRO 迷你主机今日开售，基于英特尔酷睿 Ultra 200V（Lunar Lake）平台。京东提供两款配置：Ultra 5 228V+32GB内存+512GB SSD 售 4299 元；Ultra 7 258V+32GB内存+1TB SSD 售 5799 元。联想官网还可选配更低端的 Ultra 5 226V+16GB+512GB（3799 元）及 Ultra 5 228V 升级 1TB SSD（4799 元）。机身采用一体化铝合金，尺寸 128×134×52 mm，体积 0.9 L，配备双 2.5GbE 网口、Wi‑Fi 6、USB‑C 40Gbps、多种视频输出及丰富 I/O 接口。",
+        "资讯标题": "小米米家空调强劲风超 1.5 匹开售：900m³/h 风量、APF 6.01，2699 元",
+        "内容": "小米米家空调强劲风超1.5匹今日开售，售价2699元（国补后2294.2元）。该机风量达900m³/h，APF6.01，AI节能率40%，采用纯热泵制热，配备13cc双缸压缩机+双排纯铜管换热器，制冷量6000W、制热量8200W，具备内外双导风板、15秒速冷、30秒速热、车家联动及十年整机免费包修等特点。",
         "配图": [
             {
-                "url": "https://img14.360buyimg.com/pop/jfs/t1/421090/7/21491/73449/69eb2cfcFce914114/008332032027adb8.jpg",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/390f058e5d9b43ecd5afbaa31ec971db.jpg",
-                "local_path": "data/images/390f058e5d9b43ecd5afbaa31ec971db.jpg",
-                "filename": "390f058e5d9b43ecd5afbaa31ec971db",
-                "original_size": 155268,
-                "processed_size": 122056
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/5d8d5707-51dc-4863-aeec-b1c4eb7b154a.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/abc3066ffebecdd4d436c47ec1f99d96.jpg",
+                "local_path": "data/images/abc3066ffebecdd4d436c47ec1f99d96.jpg",
+                "filename": "abc3066ffebecdd4d436c47ec1f99d96",
+                "original_size": 216132,
+                "processed_size": 117188
             }
         ]
     },
     {
-        "资讯标题": "雷军：小米玄戒 O1 芯片已经出货超过一百万颗",
-        "内容": "雷军在小米投资者日透露，小米自研玄戒 O1 芯片已出货超过 100 万颗，采用 3nm 先进制程。他表示后续自研芯片将用于小米汽车，并透露小米自研大芯片自 2021 年重启，计划至少投资 10 年、500 亿元，截至 2025 年 4 月底研发投入已超 135 亿元。此外，代码库现身一款神秘折叠屏新机（代号 lhasa），有望搭载玄戒 O3 芯片，可能跳过 O2 命名。",
+        "资讯标题": "荣耀 Play11C 入门级手机发售：搭载联发科天玑 6300 芯片，4+128GB 版本 1299 元",
+        "内容": "荣耀 Play11C 入门级 5G 手机正式发售，搭载联发科天玑 6300 芯片，提供 4+128GB 版 1299 元和 6+128GB 版 1499 元。机身配备 6.75 英寸 720p 90Hz LCD 水滴屏，内置 5300mAh 电池支持 15W 有线充电，前置 5MP、后置 13MP 摄像头，厚度 7.89mm，重约 186g，出厂预装 MagicOS 9.0。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/a0106237-6902-4fa5-a783-c1648197793a.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/c805dba9f6b858d2c4f4a388c8f8fd26.jpg",
-                "local_path": "data/images/c805dba9f6b858d2c4f4a388c8f8fd26.jpg",
-                "filename": "c805dba9f6b858d2c4f4a388c8f8fd26",
-                "original_size": 36418,
-                "processed_size": 36418
+                "url": "https://img14.360buyimg.com/pop/jfs/t20280426/422421/28/20886/44219/69ef51c7Fb0a37e67/0a023203207f41bb.jpg",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/7d8fec22629c477c780b28c7c2de8519.jpg",
+                "local_path": "data/images/7d8fec22629c477c780b28c7c2de8519.jpg",
+                "filename": "7d8fec22629c477c780b28c7c2de8519",
+                "original_size": 39329,
+                "processed_size": 39329
             }
         ]
     },
     {
-        "资讯标题": "一加 Ace 6 至尊版手机预热：165Hz 直屏 + 天玑 9500 芯片 + 8600mAh 电池，4 月 28 日发布",
-        "内容": "一加 Ace 6 至尊版官方预热，将于4月28日发布。新机搭载天玑9500旗舰芯片及全新风驰游戏内核，配备灵犀触控芯、电竞网络芯、主机级陀螺仪及专属枪神游戏手柄。采用金属中框、165Hz东方屏直屏、超声波指纹，内置8600mAh冰川电池支持120W闪充，预装ColorOS16，具IP66/68/69/69K满级防水。",
+        "资讯标题": "华为 MateBook 14 鸿蒙版今日开售：搭载麒麟 X90，售价 6599~8599 元",
+        "内容": "华为 MateBook 14 鸿蒙版今日开售，提供原野绿、樱粉金、深空灰三配色，搭载麒麟 X90 处理器，最高 32GB RAM+1TB SSD，2880×1920 120Hz OLED 屏幕，支持华为 M-Pen 3，双风扇散热，Wi‑Fi 7，70Wh 电池续航达 21 小时，价格区间 6599‑8599 元；同时发布华为无线鼠标 3，标准版 129 元、轻音版 149 元。",
+        "配图": []
+    },
+    {
+        "资讯标题": "一加 Ace 6 至尊版手机详细配置公布：天玑 9500、165Hz 屏、8600mAh 电池、120W 闪充",
+        "内容": "一加 Ace 6 至尊版将于今晚19:00发布，搭载天玑9500旗舰芯片，配备165Hz超高刷东方屏、8600mAh超巨量冰川电池和120W超级闪充。相较于一加 Ace 5 至尊版，新机升级了全新“风驰游戏内核”、4000Hz瞬时触控采样率的灵犀触控芯、电竞网络芯G2 Pro、主机手柄同规格陀螺仪、全新一代“冰河散热系统”，并首次采用OPPO冰川电池“聚能芯片”。影像方面保留5000万像素主摄并使用全新OPPO旗舰影像算法；系统升级至ColorOS 16；防护等级提升至IP66/68/69/69K；机身采用旗舰金属中框，配备双1115W对称双扬声器、红外遥控和多功能NFC。此外，一加还推出了行业首款“触按融合”枪神游戏手柄，专为射击手游优化。",
+        "配图": []
+    },
+    {
+        "资讯标题": "华为 Vision 智慧屏 6 Pro 开售：Super Mini LED 黑晶屏、130W 音响，国补到手价 5999 元起",
+        "内容": "华为 Vision 智慧屏 6 Pro 于 2026 年 4 月 28 日正式开售，采用 Super Mini LED 黑晶屏，峰值亮度 2000nit，色域覆盖 100% DCI-P3，刷新率最高 288Hz，双层纳米低反镀膜实现 0.5% 反射率。音响系统为 130W Hi-Fi 2.1 声道（2×20W 全频、2×20W 高音、1×50W 低音），通过双 Vivid 认证。提供 65、75、85、98 英寸四种规格，国补到手价分别为 5999、7499、9999、16999 元起。机器配备 8GB RAM、128GB 存储，支持屏幕触控书写（需搭配华为灵犀手写笔）。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/20d78f41-6a45-43b9-81cd-de44cd2488eb.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/65e759981e63b516feeb3416111e9399.jpg",
-                "local_path": "data/images/65e759981e63b516feeb3416111e9399.jpg",
-                "filename": "65e759981e63b516feeb3416111e9399",
-                "original_size": 789784,
-                "processed_size": 127893
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/36435c82-fc39-4b67-8701-b00943e0cc9c.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/4e7cdea0abfc16eecf4ace791be3d624.jpg",
+                "local_path": "data/images/4e7cdea0abfc16eecf4ace791be3d624.jpg",
+                "filename": "4e7cdea0abfc16eecf4ace791be3d624",
+                "original_size": 333488,
+                "processed_size": 133516
             }
         ]
     }

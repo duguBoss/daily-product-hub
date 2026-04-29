@@ -1,53 +1,62 @@
 [
     {
-        "资讯标题": "小米米家空调强劲风超 1.5 匹开售：900m³/h 风量、APF 6.01，2699 元",
-        "内容": "小米米家空调强劲风超1.5匹今日开售，售价2699元（国补后2294.2元）。该机风量达900m³/h，APF6.01，AI节能率40%，采用纯热泵制热，配备13cc双缸压缩机+双排纯铜管换热器，制冷量6000W、制热量8200W，具备内外双导风板、15秒速冷、30秒速热、车家联动及十年整机免费包修等特点。",
+        "资讯标题": "华为 Pura 90 Pro / Pro Max 手机备件价格公布，屏幕组件留件价 1349 元起",
+        "内容": "华为于2026年4月29日正式开售Pura 90 Pro / Pro Max两款新机，首发搭载麒麟9030S处理器，起售价5499元。官方同时公布了备件价格：Pura 90 Pro屏幕组件（含屏幕、中框、电池）留件价1349元，正常价1949元；Pura 90 Pro Max屏幕组件留件价1649元，正常价2449元。其他备件包括电池199元、主板（依据存储版本）留件价2399‑3599元、后壳379‑399元、各类摄像头及配件价格均有详细列出。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/5d8d5707-51dc-4863-aeec-b1c4eb7b154a.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/abc3066ffebecdd4d436c47ec1f99d96.jpg",
-                "local_path": "data/images/abc3066ffebecdd4d436c47ec1f99d96.jpg",
-                "filename": "abc3066ffebecdd4d436c47ec1f99d96",
-                "original_size": 216132,
-                "processed_size": 117188
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/34876bd3-a46b-433e-a4c2-0dbb170e209e.png?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/1bdb72dcac188587386345c0aefbe619.jpg",
+                "local_path": "data/images/1bdb72dcac188587386345c0aefbe619.jpg",
+                "filename": "1bdb72dcac188587386345c0aefbe619",
+                "original_size": 113780,
+                "processed_size": 97414
             }
         ]
     },
     {
-        "资讯标题": "荣耀 Play11C 入门级手机发售：搭载联发科天玑 6300 芯片，4+128GB 版本 1299 元",
-        "内容": "荣耀 Play11C 入门级 5G 手机正式发售，搭载联发科天玑 6300 芯片，提供 4+128GB 版 1299 元和 6+128GB 版 1499 元。机身配备 6.75 英寸 720p 90Hz LCD 水滴屏，内置 5300mAh 电池支持 15W 有线充电，前置 5MP、后置 13MP 摄像头，厚度 7.89mm，重约 186g，出厂预装 MagicOS 9.0。",
+        "资讯标题": "吉利银河星舰 7 EV 纯电 SUV 官宣：Flyme Auto 系统加持，续航达 605km",
+        "内容": "吉利银河官方发布银河星舰 7 EV 纯电 SUV，搭载 Flyme Auto 系统，提供 60.2kWh 和 68.39kWh 两种电池组，CLTC 续航分别为 525km 和 605km。车身尺寸 4740×1905×1685mm，轴距 2755mm，采用前置单电机（最大功率 160kW），风阻系数 0.278Cd，提供多种车漆配色。",
+        "配图": []
+    },
+    {
+        "资讯标题": "韶音 OpenDots 2 耳夹耳机预售：IP57、杜比音效，1298 元",
+        "内容": "韶音 OpenDots 2 耳夹耳机开启预售，到手价 1298 元。采用柔韧钛片与不对称弧形设计，内置 11.8mm 对称双单元，失真较上代降低 70%，搭载全新杜比音效。支持 IP57 防尘防水、蓝牙 6.1、双设备连接、AI 通话降噪及无线充电，单耳续航 10 小时，配合充电盒可达 40 小时，提供白金缮、黑芒星、银雪松三种配色。",
         "配图": [
             {
-                "url": "https://img14.360buyimg.com/pop/jfs/t20280426/422421/28/20886/44219/69ef51c7Fb0a37e67/0a023203207f41bb.jpg",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/7d8fec22629c477c780b28c7c2de8519.jpg",
-                "local_path": "data/images/7d8fec22629c477c780b28c7c2de8519.jpg",
-                "filename": "7d8fec22629c477c780b28c7c2de8519",
-                "original_size": 39329,
-                "processed_size": 39329
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/310f58b4-9751-4df7-9309-62863c91897e.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/94771d6af85fd33dc0ed3db49f7718ce.jpg",
+                "local_path": "data/images/94771d6af85fd33dc0ed3db49f7718ce.jpg",
+                "filename": "94771d6af85fd33dc0ed3db49f7718ce",
+                "original_size": 97226,
+                "processed_size": 79713
             }
         ]
     },
     {
-        "资讯标题": "华为 MateBook 14 鸿蒙版今日开售：搭载麒麟 X90，售价 6599~8599 元",
-        "内容": "华为 MateBook 14 鸿蒙版今日开售，提供原野绿、樱粉金、深空灰三配色，搭载麒麟 X90 处理器，最高 32GB RAM+1TB SSD，2880×1920 120Hz OLED 屏幕，支持华为 M-Pen 3，双风扇散热，Wi‑Fi 7，70Wh 电池续航达 21 小时，价格区间 6599‑8599 元；同时发布华为无线鼠标 3，标准版 129 元、轻音版 149 元。",
-        "配图": []
-    },
-    {
-        "资讯标题": "一加 Ace 6 至尊版手机详细配置公布：天玑 9500、165Hz 屏、8600mAh 电池、120W 闪充",
-        "内容": "一加 Ace 6 至尊版将于今晚19:00发布，搭载天玑9500旗舰芯片，配备165Hz超高刷东方屏、8600mAh超巨量冰川电池和120W超级闪充。相较于一加 Ace 5 至尊版，新机升级了全新“风驰游戏内核”、4000Hz瞬时触控采样率的灵犀触控芯、电竞网络芯G2 Pro、主机手柄同规格陀螺仪、全新一代“冰河散热系统”，并首次采用OPPO冰川电池“聚能芯片”。影像方面保留5000万像素主摄并使用全新OPPO旗舰影像算法；系统升级至ColorOS 16；防护等级提升至IP66/68/69/69K；机身采用旗舰金属中框，配备双1115W对称双扬声器、红外遥控和多功能NFC。此外，一加还推出了行业首款“触按融合”枪神游戏手柄，专为射击手游优化。",
-        "配图": []
-    },
-    {
-        "资讯标题": "华为 Vision 智慧屏 6 Pro 开售：Super Mini LED 黑晶屏、130W 音响，国补到手价 5999 元起",
-        "内容": "华为 Vision 智慧屏 6 Pro 于 2026 年 4 月 28 日正式开售，采用 Super Mini LED 黑晶屏，峰值亮度 2000nit，色域覆盖 100% DCI-P3，刷新率最高 288Hz，双层纳米低反镀膜实现 0.5% 反射率。音响系统为 130W Hi-Fi 2.1 声道（2×20W 全频、2×20W 高音、1×50W 低音），通过双 Vivid 认证。提供 65、75、85、98 英寸四种规格，国补到手价分别为 5999、7499、9999、16999 元起。机器配备 8GB RAM、128GB 存储，支持屏幕触控书写（需搭配华为灵犀手写笔）。",
+        "资讯标题": "华硕正式宣布英特尔 800 系主板支持单子通道 HUDIMM 内存",
+        "内容": "华硕宣布其英特尔 800 系主板（Z890、B860、Q870、H810）通过最新 Beta BIOS 支持单子通道 HUDIMM 内存。HUDIMM 仅使用 DDR5 UDIMM 的一个 32‑bit 子通道，DRAM die 数量减半，降低成本但带宽减半。此举降低了入手 800 系平台的开销，并提供更灵活的升级路径。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/36435c82-fc39-4b67-8701-b00943e0cc9c.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/4e7cdea0abfc16eecf4ace791be3d624.jpg",
-                "local_path": "data/images/4e7cdea0abfc16eecf4ace791be3d624.jpg",
-                "filename": "4e7cdea0abfc16eecf4ace791be3d624",
-                "original_size": 333488,
-                "processed_size": 133516
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/4bc87b35-7d62-4329-99df-6390934e1faa.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/44ae2fccd2f8d9679dfcab059d87d6b1.jpg",
+                "local_path": "data/images/44ae2fccd2f8d9679dfcab059d87d6b1.jpg",
+                "filename": "44ae2fccd2f8d9679dfcab059d87d6b1",
+                "original_size": 209270,
+                "processed_size": 143969
+            }
+        ]
+    },
+    {
+        "资讯标题": "路虎揽胜 SV ULTRA 登场，该品牌最豪华、最先进的 SUV",
+        "内容": "路虎今日发布全新揽胜 SV ULTRA，定位为品牌史上最豪华、最先进且最尊贵的 SUV。外观采用独家 Titan Silver 漆面，含真实铝片及缎光铂金与银色镀铬装饰，呈液态金属镜面质感。内饰使用环保 Ultrafabrics 材质，提供兰花白/煤灰双色，座椅首次激光雕刻马赛克图案，配备陶瓷换档杆及藤编棕榈木饰板。音响系统首发车载静电音响技术，21 个 1mm 超轻振膜传感器，响应速度比传统扬声器快 1000 倍，重量与能耗降低 90%，全由 100% 可回收材料制成，并集成于头枕与椅背，配合 AI 驱动的“身心感应座椅”实现声音‑振动沉浸。动力提供 P550e 插电混动与 P540 V8 两种选择，纯电版计划今年晚些时候推出，SV Ultra 仅接受受邀客户订购。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/02d394cd-4ee1-41ff-a161-33cf3ba9dac0.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/e5f4244cd42779ef050195fdc043d5f6.jpg",
+                "local_path": "data/images/e5f4244cd42779ef050195fdc043d5f6.jpg",
+                "filename": "e5f4244cd42779ef050195fdc043d5f6",
+                "original_size": 27074,
+                "processed_size": 27074
             }
         ]
     }

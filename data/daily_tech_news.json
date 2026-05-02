@@ -1,63 +1,72 @@
 [
     {
-        "资讯标题": "打破 3 项 3DMark 世界纪录：华硕 ROG Astral RTX 5090 显卡单 16 针供电超频至 3.7 GHz",
-        "内容": "华硕 ROG Astral RTX 5090 显卡在超频玩家 SPLAVE 的极限改装下，核心频率达 3.7 GHz，GDDR7 显存 36 Gbps，仅用单 16 针供电接口，凭借液氮散热罐、定制铜片及三鼓风风扇，打破 3DMark Port Royal（50060 分）、Steel Nomad（19427 分）和 Speed Way（18734 分）三项世界纪录。",
+        "资讯标题": "AOC 推出 QHD 540Hz / HD 720Hz OLED 显示器新品 Q27G4KDP",
+        "内容": "AOC 于4月30日上线WOLED显示器新品Q27G4KDP，采用26.5英寸面板，支持QHD 540Hz与HD 720Hz双模显示。相比之前的AGP277QKD，该机型采用二叉式底座、取消Light FX灯效、无24.5英寸模式切换，色准从ΔE＜1放宽至ΔE＜2，预计定价低于7999元。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/ec8bd11e-1361-416b-b352-c9bad1067ddb.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/2a64758140bcc29173854fab22af2e66.jpg",
-                "local_path": "data/images/2a64758140bcc29173854fab22af2e66.jpg",
-                "filename": "2a64758140bcc29173854fab22af2e66",
-                "original_size": 349398,
-                "processed_size": 336169
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/7cd94b33-591f-4188-973d-fbbda6a63724.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/d8965e8ca7803b511da17c39ccad2dc5.jpg",
+                "local_path": "data/images/d8965e8ca7803b511da17c39ccad2dc5.jpg",
+                "filename": "d8965e8ca7803b511da17c39ccad2dc5",
+                "original_size": 152986,
+                "processed_size": 152986
             }
         ]
     },
     {
-        "资讯标题": "英特尔酷睿 5 330 处理器首次现身 PassMark 平台：6 核 6 线程",
-        "内容": "英特尔酷睿 5 330 处理器首次出现在 PassMark 跑分库，采用 6 核 6 线程设计（2 性能核 + 4 能效核），单核得分 4215 分，多核得分 14947 分。相比酷睿 5 320，单核提升约 4%，多核差距不到 1%。新增支持英特尔 SIPP 技术，面向商业用户提供更长平台生命周期保障。",
+        "资讯标题": "新一代小米 SU7 锁单已超过 7 万台，首销期过后会下架一些选装配置",
+        "内容": "小米汽车宣布新一代SU7锁单已突破7万台，首销期将于5月5日结束；首销期内支付大定可享价值4.4万-6.9万元的购车权益，包含副驾零重力座椅、电动前备箱等；5月6日起部分选装配置将下架，但已交付或已选配车辆的售后备件供应不受影响。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/f35871de-a344-4eed-a0d7-899d4acafe9a.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/6e6843ca491abfd68ae0ea7db2504927.jpg",
-                "local_path": "data/images/6e6843ca491abfd68ae0ea7db2504927.jpg",
-                "filename": "6e6843ca491abfd68ae0ea7db2504927",
-                "original_size": 37068,
-                "processed_size": 37068
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/d6e3fe86-4d63-44a5-a74d-6c72eecd133b.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/022f74571cca0a3c0aede46dbc6769cc.jpg",
+                "local_path": "data/images/022f74571cca0a3c0aede46dbc6769cc.jpg",
+                "filename": "022f74571cca0a3c0aede46dbc6769cc",
+                "original_size": 166830,
+                "processed_size": 107490
             }
         ]
     },
     {
-        "资讯标题": "英特尔 Arc G3 Extreme 掌机芯片规格曝光，多核超 AMD Z2 Extreme 约 25%",
-        "内容": "英特尔 Arc G3 Extreme 掌机芯片曝光，采用 2 性能核 + 8 能效核 + 4 LPE 能效核的 14 核心 14 线程混合架构（Panther Cove + Darkmont），基频 3.7GHz，睿频 4.6GHz，三级缓存 12MB、二级缓存 18MB。核显为 Arc B390，集成 12 Xe3 核心，GPU 性能较 Radeon 890M 及 Arc 140V 提升超 50%，支持 XeSS 3 与可变显存。TDP 15‑30W，支持 LPDDR5x‑9600 内存。跑分多线程 29622、单线程 4288，多核性能领先 AMD Z2 Extreme 約 25%，单核领先約 8%。",
+        "资讯标题": "起售价升至 5999 元，苹果 Mac mini 16+256GB 版本官网悄然停售",
+        "内容": "苹果在中国官网悄然下架了基础款 Mac mini（16GB+256GB），目前最低可选配置为 16GB+512GB，起售价从 4499 元涨至 5999 元，上涨 1500 元。香港、日本和美国官网也同步下架该版本，而京东平台仍可预约抢购。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/4b9fe8d5-1adc-45bf-8ff6-89421ca34ee1.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/a00d6c150a82fe0d98352b08486a46fe.jpg",
-                "local_path": "data/images/a00d6c150a82fe0d98352b08486a46fe.jpg",
-                "filename": "a00d6c150a82fe0d98352b08486a46fe",
-                "original_size": 92666,
-                "processed_size": 92666
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/cbe9905b-25ab-43ff-9311-f72347bcfc77.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/43769cdbe35f6d00f19421fce70a35a1.jpg",
+                "local_path": "data/images/43769cdbe35f6d00f19421fce70a35a1.jpg",
+                "filename": "43769cdbe35f6d00f19421fce70a35a1",
+                "original_size": 34718,
+                "processed_size": 34718
             }
         ]
     },
     {
-        "资讯标题": "飞利浦 5K 双模显示器 Evnia 27M2G5800 发售，4499 元",
-        "内容": "飞利浦 Evnia 27M2G5800 是一款 27 英寸 Fast IPS 面板的 5K 双模显示器，支持 5120×2880 分辨率下 180Hz（超频）/165Hz（原生） 以及 2560×1440 分辨率下 350Hz（超频）/330Hz（原生） 切换。亮度达 500nits，色域覆盖 98% DCI-P3、100% sRGB，sRGB 下色差 ΔE＜1，响应时间 1ms（Smart MBR 开启后低至 0.5ms），具备无闪烁、低蓝光、AGLR 涂层及 VESA DisplayHDR 400 认证。接口包括 2 个 HDMI 2.1 FLR、1 个 DisplayPort 2.1 UHBR20，以及 USB Hub（1×USB-B 5Gbps 上行、2×USB-A 5Gbps 下行），售价 4499 元。",
+        "资讯标题": "俞浩晒追觅模块化手机真机，镜头模组、后盖都能拆",
+        "内容": "追觅科技CEO俞浩晒出模块化手机真机视频，展示白色后盖、圆形后置镜头模组可磁吸拆卸，后盖亦可拆除使机身更轻薄，正面居中前置摄像头。此前追觅于1月展出高奢与旗舰模块化系列，博主爆料称新机AURORA定位高端影像旗舰，配备1英寸主摄+磁吸镜头模块，内含独立SoC、传感器、供电及通信系统，支持pin点和无线传输。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/0b299a33-24bb-476f-870a-2aadc4b2f410.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/ab63dc6dc1d96b683a354c0d407599c0.jpg",
-                "local_path": "data/images/ab63dc6dc1d96b683a354c0d407599c0.jpg",
-                "filename": "ab63dc6dc1d96b683a354c0d407599c0",
-                "original_size": 77490,
-                "processed_size": 77490
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/4945eb05-3d46-431d-b27f-9d32aa4d85e4.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/368ec4b33347eed0b332ee43f2f9ed65.jpg",
+                "local_path": "data/images/368ec4b33347eed0b332ee43f2f9ed65.jpg",
+                "filename": "368ec4b33347eed0b332ee43f2f9ed65",
+                "original_size": 85042,
+                "processed_size": 85042
             }
         ]
     },
     {
-        "资讯标题": "苹果 AirPods Ultra 耳机曝光：配红外摄像头，强化 Siri 交互",
-        "内容": "彭博社记者马克·古尔曼透露，苹果正在研发一款配备红外摄像头的全新耳机，暂命名为AirPods Ultra，定位高于现有Pro系列，价格将超过AirPods Pro 3（国行1899元）。该摄像头不用于拍照或录像，而是配合iOS 27的新版Siri，提供周围环境的视觉智能信息，使耳机成为AI生态入口。产品将取消压感柄，改用手势控制，依赖摄像头捕捉手部动作。音频方面预计搭载全新H3芯片，降低延迟、提升音质并为摄像头和AI功能提供算力。发布时间可能为2026年秋季，与iPhone 18系列同步亮相。",
-        "配图": []
+        "资讯标题": "LG 推出 UltraGear 32GX870B 显示器：31.5 英寸 4K 240Hz/1080P 480Hz OLED 双模，最高亮度 1500 尼特",
+        "内容": "LG 在日本发布 UltraGear 32GX870B 显示器，采用 31.5 英寸第四代 Tandemo Primary RGB 双层 OLED 面板，支持 4K 240Hz / 1080P 480Hz 双模切换，HDR 峰值亮度 1500 尼特（SDR 335 尼特），10-bit 色深，覆盖 99.5% DCI-P3，ΔE＜2，动态对比度 185万:1，响应时间 0.03ms。配备 2×HDMI、1×DP2.1、1×USB‑C（90W）及 USB 3.2 Hub，重量 9.8kg，售价 169800 日元（约合人民币 7365 元），6 月 11 日起发货。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/d11d9973-26f6-4410-a560-089c40874dac.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/80bf6214f8cf5044f9ff4ecbca590b64.jpg",
+                "local_path": "data/images/80bf6214f8cf5044f9ff4ecbca590b64.jpg",
+                "filename": "80bf6214f8cf5044f9ff4ecbca590b64",
+                "original_size": 120138,
+                "processed_size": 120138
+            }
+        ]
     }
 ]

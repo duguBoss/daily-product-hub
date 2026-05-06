@@ -1,62 +1,53 @@
 [
     {
-        "资讯标题": "AMD 锐龙 AI Max+ PRO 495 处理器现身：8065S 核显，192GB 内存",
-        "内容": "AMD 锐龙 AI Max+ PRO 495 处理器在 PassMark 基准测试库中首次现身，成为锐龙 AI Max 400 \"Gorgon Halo\" 系列的商用旗舰。该芯片采用 16 核心 32 线程设计，GPU 为 Radeon 8065S，搭载 HP（惠普）8F6D 主板，测试平台为笔记本电脑，并集成了 192GB LPDDR5X 内存。相比前代锐龙 AI Max+ PRO 395（Radeon 8060S、最高 128GB 内存），该型号在 CPU、GPU 频率及内存速度上均有提升，预计将在 2026 年第四季度登场。",
+        "资讯标题": "华为 MatePad Pro Max 平板亮相：4.7mm 厚度，13.2 英寸轻薄大屏没刘海",
+        "内容": "华为 MatePad Pro Max 平板电脑亮相，厚度仅 4.7mm，配备 13.2 英寸柔性 OLED PaperMatte 显示屏，边框宽度 3.55mm，前置摄像头隐藏在边框中实现无刘海设计。背面采用银白色后盖，带有华为 Mate 标志性圆环摄像头模组，支持外接键盘、66W 有线快充，高配版还具备卫星通信功能，并配有星环镜组和 PU 磁吸保护套。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/78b312d7-1429-4a09-b96c-0e384df475ce.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/91cc58035fb9e33a552e8cb4003f198d.jpg",
-                "local_path": "data/images/91cc58035fb9e33a552e8cb4003f198d.jpg",
-                "filename": "91cc58035fb9e33a552e8cb4003f198d",
-                "original_size": 36304,
-                "processed_size": 36304
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/bab8de2d-3614-41dc-beae-f782373e2120.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/5b4fa0b637d0fef88afc9a5a6d5b2877.jpg",
+                "local_path": "data/images/5b4fa0b637d0fef88afc9a5a6d5b2877.jpg",
+                "filename": "5b4fa0b637d0fef88afc9a5a6d5b2877",
+                "original_size": 43640,
+                "processed_size": 43640
             }
         ]
     },
     {
-        "资讯标题": "联合创新 2410F 2026 款显示器开售：23.8 英寸 1080P 120Hz IPS 面板，599 元",
-        "内容": "联合创新 2410F 2026 款显示器现已开售，采用 23.8 英寸 IPS 面板，分辨率 1920×1080，刷新率 120Hz，售价 599 元。该机支持升降旋转底座（上下 100mm 高度调节），覆盖 99% sRGB、92% DCI-P3 色域，具备 8Bit 色深（6Bit+FRC）和低蓝光控制，提供 1×HDMI、1×DisplayPort 接口，兼容笔记本与台式机，亦可使用 100×100mm 标准壁挂支架。",
+        "资讯标题": "谷歌推送 5 月 Pixel 手机更新：修复无线充电慢等问题，升级后无法回退至安卓 16",
+        "内容": "谷歌于2026年5月6日向Pixel 7a至Pixel 10系列及Pixel Tablet推送5月更新（构建号CP1A.260505.005）。更新主要修复了75%-80%电量区间无线充电慢的问题，针对Pixel 10系列修复了录像调焦后相机应用卡死的bug，改善了Pixel 10 Pro/Pro XL的屏幕闪白点、模糊及冻结现象，并修复了部分应用中输入法卡死或偏移的问题。本次更新包含bootloader升级，Pixel 10系列升级后无法回退至Android 16，提醒依赖root或刷机的用户升级前备份数据。适配机型包括Pixel 7a、8、8 Pro、8a、Fold、Tablet、9、9 Pro、9 Pro XL、9 Pro Fold、9a、10、10 Pro、10 Pro XL、10 Pro Fold、10a等。",
         "配图": []
     },
     {
-        "资讯标题": "Steam 2026 年 4 月软硬件调查报告发布：RTX 5050 显卡首次单独列出",
-        "内容": "Valve 发布 2026 年 4 月 Steam 软硬件调查报告，数据恢复正常。RTX 3060 重夺显卡榜首（3.99%），RTX 50 系列逐步渗透，其中 RTX 5050 首次单独列出（0.16%），16GB 显存占比升至 23.51%。AMD 处理器份额升至 45.19%，Linux 系统回落至 4.52%，Windows 11 升至 67.74%。VR 头显被 Meta Quest 3 主导（28.58%）。",
+        "资讯标题": "荣耀 WIN 游戏本 H9 开售：至高 RTX 5070 Ti、酷睿 Ultra 9，国补价 9999~16499 元",
+        "内容": "荣耀 WIN 游戏本 H9 于 2026 年 5 月 6 日全渠道开售，提供多种配置：最高可选 RTX 5070 Ti 显卡及酷睿 Ultra 9 290HX Plus 处理器，国补后价格区间为 9999～16499 元。笔记本采用荣耀东风尾喷散热引擎，性能释放可达 270W；配备 16 英寸 IPS LCD 雾面电竞屏，分辨率 2560×1600，刷新率 300Hz，亮度 500nits，色域覆盖 100% DCI-P3，并首发 3D 游戏防眩晕技术。接口丰富，包括 USB-A、HDMI 2.1、RJ45、Thunderbolt 4 等，支持双扩展槽位升级和多种性能模式一键切换。",
+        "配图": []
+    },
+    {
+        "资讯标题": "Galaxy Watch9 系列智能手表现身三星官网，44 毫米版预估配 435mAh 电池",
+        "内容": "三星加拿大官网智能手表以旧换新页面意外出现“Watch9 range”，确认Galaxy Watch9系列即将发布。该系列提供40mm和44mm两种尺寸，其中44mm版预估电池容量为435mAh，型号SM-L345U曾在美国测试服务器现身。发布时间预计与Galaxy Z Fold8同步，但以旧换新页面提前上线属罕见操作，尚需官方确认。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/c6026077-b57c-4455-9e1d-04bc73765817.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/a8ed35a125a4bf7c486179a2c08d7597.jpg",
-                "local_path": "data/images/a8ed35a125a4bf7c486179a2c08d7597.jpg",
-                "filename": "a8ed35a125a4bf7c486179a2c08d7597",
-                "original_size": 7682,
-                "processed_size": 7682
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/8a4c4dd8-4b13-4d62-b340-b202c391595e.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/a1b7e14d8a45fb2961e5c923aa910781.jpg",
+                "local_path": "data/images/a1b7e14d8a45fb2961e5c923aa910781.jpg",
+                "filename": "a1b7e14d8a45fb2961e5c923aa910781",
+                "original_size": 30304,
+                "processed_size": 30304
             }
         ]
     },
     {
-        "资讯标题": "特斯拉 FSD 行驶里程突破 100 亿英里，马斯克“无监督自动驾驶”数据里程碑达成",
-        "内容": "特斯拉 FSD（监督版）车队行驶里程突破 100 亿英里（约 160.93 亿公里），达成马斯克设定的无监督自动驾驶数据里程碑。日均行驶里程从年初的 1400 万英里提升至 4 月的 2900 万英里。特斯拉称其安全性优于人类驾驶，但业界质疑其统计口径。里程突破不等于即将实现 L4 级完全自动驾驶，Waymo 等公司已在实际运营中取得更低事故率。",
+        "资讯标题": "小米米家空气净化器 6 发布：双滤芯架构 + 双扇叶设计，首销价 1399 元",
+        "内容": "小米米家空气净化器 6 正式发布，采用双滤芯架构＋双扇叶设计，预售价 1399 元（建议零售价 1799 元），5 月 13 日开售。新品除醛能力较上一代提升 3 倍，甲醛 2 小时去除率 99%、PM1 1 小时去除率 99.99%、树花粉过敏原 1 小时去除率 98.9%，除颗粒物效果提升 1.7 倍。双扇叶提供 11666L/min 大风量，运行噪音低至 26.6dB(A)，顶部封闭防尘可置物。内置六项复合净化矩阵，涵盖初效、抗菌、除醛、高精过滤、活性炭及紫外线杀菌层，实现多层次净化。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/1/023e55fe-a725-43c8-8bcd-d8e734504ee0.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/919b24f2f4aa331ef5c5feb350734209.jpg",
-                "local_path": "data/images/919b24f2f4aa331ef5c5feb350734209.jpg",
-                "filename": "919b24f2f4aa331ef5c5feb350734209",
-                "original_size": 110194,
-                "processed_size": 110194
-            }
-        ]
-    },
-    {
-        "资讯标题": "IT早报 0504：苹果 iOS 27 将重心转向 AI；黄仁勋称英伟达中国市场份额已降为零；华为 5A 通信最新支持设备清单公布；小米 MIX 5 真全面屏手机回归",
-        "内容": "苹果 iOS 27 将把重心转向 AI，Siri 将成为独立 App 并深度整合到相机；黄仁勋称英伟达在中国 AI 加速器市场份额已降为零，警告出口管制适得其反；华为公布最新支持 5A 通信技术的设备清单，包括 Pura X Max、畅享 90 系列等；小米 MIX 5 真全面屏手机曝光，将搭载骁龙 8 Elite Gen 6 Pro 和磁吸镜头技术，预计全球发布。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/067458d4-a561-46b5-bb71-a0709442b5d2.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/52cdfed0d20466184513063ef2a1346a.jpg",
-                "local_path": "data/images/52cdfed0d20466184513063ef2a1346a.jpg",
-                "filename": "52cdfed0d20466184513063ef2a1346a",
-                "original_size": 51488,
-                "processed_size": 51488
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/d3cd2c39-f829-4dcc-9c08-a5850c2b8286.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/f50ac86e3311b3c3487a01d0437d3d86.jpg",
+                "local_path": "data/images/f50ac86e3311b3c3487a01d0437d3d86.jpg",
+                "filename": "f50ac86e3311b3c3487a01d0437d3d86",
+                "original_size": 216286,
+                "processed_size": 118389
             }
         ]
     }

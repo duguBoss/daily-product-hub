@@ -1,71 +1,62 @@
 [
     {
-        "资讯标题": "iQOO Pad6 Pro 平板、TWS 5i 无线耳机亮相，有望本月发布",
-        "内容": "iQOO 官方于 5 月 7 日开启 iQOO Pad6 Pro 平板和 iQOO TWS 5i 无线耳机的全渠道预约，并公布了外观样式。Pad6 Pro 将搭载骁龙 8 Elite Gen5 处理器，提供 16GB+512GB 版本，配备 13.2 英寸 4K LCD 屏幕、13000mAh 大电池、90W 快充及 8 扬声器，有曼岛/灰晶/银翼等配色，预计本月发布。TWS 5i 耳机亦同步亮相，具体参数尚未披露。",
+        "资讯标题": "苹果首款 AI 可穿戴设备：内置摄像头的 AirPods 已进入 DVT 阶段，预计最快 9 月搭载新 Siri 亮相",
+        "内容": "彭博社报道，苹果内置摄像头的 AirPods 已进入设计验证测试（DVT）阶段，有望成为其首款 AI 可穿戴设备。左右耳机均配低分辨率摄像头，作为 Siri 的“眼睛”实现视觉查询、导航提醒等功能，耳机柄略加长，外观类似 AirPods Pro 3。硬件基本就绪，但升级版 Siri（依赖谷歌 Gemini 技术）预计最快 9 月上线，否则可能推迟发布。苹果还在研发对标 Meta 的 AI 智能眼镜和颈挂式设备，但进度落后于此款 AirPods。该产品开发周期约四年，苹果预计需求强劲，正积极备货。",
+        "配图": []
+    },
+    {
+        "资讯标题": "全球最薄旗舰平板：华为 MatePad Pro Max 海外发布，售 999.99 英镑起",
+        "内容": "华为 MatePad Pro Max 在泰国曼谷海外发布，被称全球最薄旗舰平板，厚度仅 4.7mm，重 499‑509g，起售价 999.99 英镑（约 9274 元人民币）。配备 13.2 英寸柔性 OLED PaperMatte 柔光屏，分辨率 3000×2000，144Hz 高刷，峰值亮度 1600nits，对比度 2,000,000:1；搭载麒麟 9 系列处理器，前置 12MP 隐藏摄像头，后置 50MP \"星环\" 摄像头；六扬声器四麦克风，支持 HUAWEI SOUND、M‑Pencil Pro 手写笔及 Glide 键盘；电池欧盟版 9760mAh，其他地区 10400mAh，支持最高 66W 超级快充及 40W 反向充电；预装 HarmonyOS 4.3，支持星闪、Wi‑Fi 7、蓝牙 6.0 及智能天线 2.0。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/6db34e1a-2499-4805-b8ae-0852bc121184.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/97bf6006d4aee0b3cf2c7ce4cbcfaca8.jpg",
-                "local_path": "data/images/97bf6006d4aee0b3cf2c7ce4cbcfaca8.jpg",
-                "filename": "97bf6006d4aee0b3cf2c7ce4cbcfaca8",
-                "original_size": 217632,
-                "processed_size": 113358
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/3e2a8b01-db95-4f1b-a76a-09af0150a4fe.png?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/85080add2fbfaaa716a7135b83689120.jpg",
+                "local_path": "data/images/85080add2fbfaaa716a7135b83689120.jpg",
+                "filename": "85080add2fbfaaa716a7135b83689120",
+                "original_size": 92246,
+                "processed_size": 92246
             }
         ]
     },
     {
-        "资讯标题": "小米 BE7200 Pro Wi-Fi 7 路由器发布：全 2.5GE 网口，首销到手价 883.15 元",
-        "内容": "小米今日发布BE7200 Pro Wi-Fi 7路由器，全2.5GE网口，首销到手价883.15元（建议零售价1199元）。该机支持Wi-Fi 7，无线速率达7200Mbps，采用高通跃龙NPro A7四核芯片，配1GB DDR+512MB Flash，散热面积72348mm²，内置8根天线和8路高功率放大器，支持AI场景加速、AI Mesh漫游及智能中枢，可连接600台设备。",
+        "资讯标题": "小米 17 Max 新机通过 3C 认证：支持 100W 闪充，预计本月下旬发布",
+        "内容": "小米 17 Max（型号2605EPN8EC）已通过国家3C认证，标配MDY-18-EW充电器支持100W闪充。据爆料，新机将搭载高通第五代骁龙8至尊版平台，配备6.9英寸1.5K四等窄直屏、200MP主摄+50MP长焦微距、对称双扬声器、8000mAh级电池、3D超声波指纹及满级防水，预计5月下旬发布。",
         "配图": [
             {
-                "url": "https://img14.360buyimg.com/pop/jfs/t1/429990/34/8601/34406/69faf6b8Fa67ebe72/00833203201bd527.jpg",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/4d9c01e35cd7960feea3ad848a4f1c1a.jpg",
-                "local_path": "data/images/4d9c01e35cd7960feea3ad848a4f1c1a.jpg",
-                "filename": "4d9c01e35cd7960feea3ad848a4f1c1a",
-                "original_size": 63654,
-                "processed_size": 63654
+                "url": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/4/944840_240.jpg",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/fdb9192c2b1f4a49f9bf1e04f7b35882.jpg",
+                "local_path": "data/images/fdb9192c2b1f4a49f9bf1e04f7b35882.jpg",
+                "filename": "fdb9192c2b1f4a49f9bf1e04f7b35882",
+                "original_size": 63733,
+                "processed_size": 23588
             }
         ]
     },
     {
-        "资讯标题": "iQOO 15T 新机全渠道预约开启，消息称将采用 Ultra 同款设计语言",
-        "内容": "iQOO 15T 开启全渠道预约，官方海报展示侧边外观。博主透露新机采用 Ultra 同款设计语言，采用透明风格方形摄像头模组，配备 6.83 英寸 2K 大直屏和 2 亿像素主摄，疑似搭载天玑 9500 处理器，支持 144Hz 刷新率、超 8000mAh 电池及 100W 快充。",
+        "资讯标题": "荣耀 600/Pro 海外发布：搭载高通骁龙 7 Gen4、骁龙 8 Elite",
+        "内容": "荣耀于2026年5月6日在土耳其伊斯坦布尔发布荣耀600和600Pro两款手机。两机均采用6.57英寸AMOLED屏幕（1264×2728，120Hz，8000尼特），6400mAh电池支持80W有线快充，后置200MP主摄(OIS)，IP68/IP69K防水防尘，预装基于Android 16的MagicOS 10。荣耀600搭载骁龙7 Gen4，8GB+256GB存储，副摄12MP，前置50MP，支持Wi‑Fi6/蓝牙5.4，土耳其首发价34,999里拉（约5252元人民币）。荣耀600 Pro搭载骁龙8 Elite，12GB+512GB存储，副摄50MP长焦(3.5x)，前置50MP，支持Wi‑Fi7/蓝牙6.0及50W无线充电，首发价61,999里拉（约9304元人民币）。同时开展至5月15日的促销活动，最高可获价值10000里拉的优惠礼品。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/ad728216-9ad8-4963-8b5f-cdca885241f7.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/eefee659dbf8f886298f1c71d1809017.jpg",
-                "local_path": "data/images/eefee659dbf8f886298f1c71d1809017.jpg",
-                "filename": "eefee659dbf8f886298f1c71d1809017",
-                "original_size": 136634,
-                "processed_size": 93751
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/d22e0fce-f5dd-4981-bee7-6c9fcfcdc2e7.png?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/e8379e74e9f3ad3eca23a0cc01654bb2.jpg",
+                "local_path": "data/images/e8379e74e9f3ad3eca23a0cc01654bb2.jpg",
+                "filename": "e8379e74e9f3ad3eca23a0cc01654bb2",
+                "original_size": 42260,
+                "processed_size": 42260
             }
         ]
     },
     {
-        "资讯标题": "三星 One UI 9.5 踪迹首曝，Galaxy S27 系列手机有望首发",
-        "内容": "三星正在研发基于安卓17的One UI 9.5系统，代码片段首次曝光。该版本预计将首次预装在即将发布的非折叠旗舰Galaxy S27系列上，预期带来更简洁现代的界面、更丰富的定制选项以及进一步扩展的Galaxy AI功能。具体功能细节尚未公开。",
+        "资讯标题": "谷歌 Pixel 12 系列手机自研芯片 Tensor G7 曝光：代号 Lajolla，改进版 2nm 工艺",
+        "内容": "谷歌Pixel 12系列手机曝光将搭载自研Tensor G7芯片，内部代号Lajolla，预计采用台积电改进版2nm工艺，定位2027年发布，重点提升AI功能而非纯跑分性能。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/cff91210-8160-4e18-a9b5-7c356783b70f.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/3330cb11f8e2ce5d104fb388edf28e9f.jpg",
-                "local_path": "data/images/3330cb11f8e2ce5d104fb388edf28e9f.jpg",
-                "filename": "3330cb11f8e2ce5d104fb388edf28e9f",
-                "original_size": 105396,
-                "processed_size": 105396
-            }
-        ]
-    },
-    {
-        "资讯标题": "Culpium 称苹果 2026 年 MacBook Neo 笔记本产量目标翻倍至 1000 万台",
-        "内容": "半导体分析平台Culpium最新研报称，苹果已要求供应商将2026年MacBook Neo的产量目标从最初的500‑600万台提升至1000万台，以缓解当前的供应短缺。报告指出产量提升的主要瓶颈是A18 Pro芯片供应，因台积电3nm N3E工艺产能被AI客户占满，苹果需支付高额溢价获取非降级版芯片。芯片及DRAM内存价格上升导致BOM成本显著增加，苹果可能通过提价或推出新配色来转嫁成本并缓解消费者对涨价的抵触。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/425455e0-b414-479f-84d6-c0f7898eb121.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/2debe1ef9e330abe6a272a1ad897b3af.jpg",
-                "local_path": "data/images/2debe1ef9e330abe6a272a1ad897b3af.jpg",
-                "filename": "2debe1ef9e330abe6a272a1ad897b3af",
-                "original_size": 50430,
-                "processed_size": 50430
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/732076bb-2683-4fdf-949c-caee54162745.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/c9bb444862a00986c38e6c5c4be8432e.jpg",
+                "local_path": "data/images/c9bb444862a00986c38e6c5c4be8432e.jpg",
+                "filename": "c9bb444862a00986c38e6c5c4be8432e",
+                "original_size": 12374,
+                "processed_size": 12374
             }
         ]
     }

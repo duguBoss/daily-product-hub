@@ -1,72 +1,63 @@
 [
     {
-        "资讯标题": "联想推出小新 Pro 27 2026 酷睿版一体机：Ultra 5 325，QHD 120Hz",
-        "内容": "联想于2026年5月9日在官方商城上架小新 Pro 27 2026 酷睿版一体机，搭载Intel酷睿 Ultra 5 325处理器，配备27英寸QHD 120Hz显示屏（96%屏占比），板载16GB LPDDR5X-7647内存和1TB M.2 PCIe Gen4 NVMe SSD，售价8999元。机身薄至15.8mm，噪声低至16dB(A)，屏幕获TÜV莱茵低蓝光无频闪认证，内置2592×1944摄像头、双麦降噪、Harman 2.0杜比立体声音响。I/O包括Wi-Fi6、2×USB-C 10Gbps、2×USB-A 10Gbps、1×USB-A 480Mbps、1GbE RJ45、HDMI 2.1输出及HDMI-in输入、3.5mm音频插孔。",
+        "资讯标题": "华为 Pura 90 系列手机首销五天数据曝光：两款机型破 17 万，对比上一代同期销量均有上涨",
+        "内容": "华为 Pura 90 系列（Pro/Pro Max）首销五天（2026年第18周）销量约 17.14 万台，两款机型均较上一代同期增长。新机于 4 月 29 日开售，首发麒麟 9030S 处理器，起售价 5499 元。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/7fb9e1b5-619c-482a-90fc-697b8f0abccc.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/ed0e6913252bd52b71b11ce366720d83.jpg",
-                "local_path": "data/images/ed0e6913252bd52b71b11ce366720d83.jpg",
-                "filename": "ed0e6913252bd52b71b11ce366720d83",
-                "original_size": 79516,
-                "processed_size": 79516
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/a7bfb144-915d-4419-9699-a3a0ad621b4d.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/86907bed4731986007246e628613f3d7.jpg",
+                "local_path": "data/images/86907bed4731986007246e628613f3d7.jpg",
+                "filename": "86907bed4731986007246e628613f3d7",
+                "original_size": 17796,
+                "processed_size": 17796
             }
         ]
     },
     {
-        "资讯标题": "前苹果设计师提出 iPhone 删除键新方案：滑动拉伸控制删除速度",
-        "内容": "前苹果设计师Eli Guerron在X平台提出iPhone删除键新方案：将传统点按删除扩展为可拉伸调速交互，用户轻点删除字符，拉伸按钮则提升删除速度，实现按需控制删除节奏，避免删多或删慢，提供更精细的文本编辑体验。",
+        "资讯标题": "1299 元：小米 REDMI Pad 2 SE 4G 版平板开售，6+128GB 支持通话、数据与短信",
+        "内容": "小米 REDMI Pad 2 SE 4G 版平板正式开售，售价 1299 元（国补后约 1104.15 元）。该平板配备 9.7 英寸 2K 120Hz 高刷屏，峰值亮度 600nits，通过莱茵三重护眼认证；采用金属一体机身，搭载第二代骁龙 6s 4G 处理器，LPDDR4X + UFS 2.2 存储，内置 7600mAh 大电池，待机时长可达 70.2 天。支持双卡双待 4G 通话、数据与短信，出厂预装澎湃 OS 3，具备立体声双扬声器、microSD 卡扩展。目前已在京东开售。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/29567912-7cef-4430-9585-8e7672df2106.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/f294c02797175571250dc77130b58cfb.jpg",
-                "local_path": "data/images/f294c02797175571250dc77130b58cfb.jpg",
-                "filename": "f294c02797175571250dc77130b58cfb",
-                "original_size": 181938,
-                "processed_size": 181938
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/ce3d98c2-fd3b-4439-9cc4-cc982dbd9c69.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/f3579f08657c5ebe1ce68d6264143814.jpg",
+                "local_path": "data/images/f3579f08657c5ebe1ce68d6264143814.jpg",
+                "filename": "f3579f08657c5ebe1ce68d6264143814",
+                "original_size": 37144,
+                "processed_size": 37144
             }
         ]
     },
     {
-        "资讯标题": "小米推出米家无线吸尘器 4：90 分钟长续航，首发 999 元",
-        "内容": "小米于5月9日上架米家无线吸尘器4，京东首发价999元，5月10日开启预售。产品采用12万RPM高速无刷电机，提供230AW无损大吸力，支持智能灰尘感应、180°蓝光显尘、梳齿防缠绕设计，续航达90分钟。文章还提醒当前数码家电政府补贴活动，可领取相应优惠券。",
+        "资讯标题": "华为智慧屏 S7 发布：全新自研鸿鹄芯片、升级 Super MiniLED，3999 元起",
+        "内容": "华为于2026年5月10日发布智慧屏S7系列，搭载全新自研鸿鹄芯片，升级Super MiniLED背光，预装HarmonyOS 4.3，提供55、65、75、85、98英寸五种尺寸，起售价3999元。产品支持3840×2160分辨率，最高300Hz刷新率（98英寸为288Hz），内置运动补偿算法，配备4GB+64GB存储且可扩展至6GB运存，具备鸿蒙AI、4K超级投屏等功能，并提供全质保服务。",
         "配图": [
             {
-                "url": "https://img14.360buyimg.com/pop/jfs/t1/430083/9/11443/118263/69fda49cF5c14a94a/0083320320914b5e.jpg",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/89fee828bb005cabda74e71e49515e58.jpg",
-                "local_path": "data/images/89fee828bb005cabda74e71e49515e58.jpg",
-                "filename": "89fee828bb005cabda74e71e49515e58",
-                "original_size": 186399,
-                "processed_size": 153399
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/19327c42-574a-40bf-9b75-a429e1a6efce.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/cb76cfe42a1015dd98db74d78cfad1a3.jpg",
+                "local_path": "data/images/cb76cfe42a1015dd98db74d78cfad1a3.jpg",
+                "filename": "cb76cfe42a1015dd98db74d78cfad1a3",
+                "original_size": 217336,
+                "processed_size": 217336
             }
         ]
     },
     {
-        "资讯标题": "微星神影 16 Max 2026 16 英寸游戏本开启预约：12999 元起，Ultra 9 290HX Plus/285HX 处理器",
-        "内容": "微星神影 16 Max 2026 16 英寸游戏本开启预约，起售价 12999 元，可选英特尔酷睿 Ultra 9 290HX Plus/285HX 处理器，搭配 RTX 5060/5070 显卡。Ultra 9 290HX Plus 版具 24 核心 24 线程，睿频 5.5GHz，CPU 功耗 85W，开启超增压后可达 200W 双烤性能。笔记本采用双显三模切换、四出风口双酷冷风扇及相变式导热材料，配备 16 英寸 QHD+ 240Hz 屏幕（500nits、100% DCI-P3），内置 16GB DDR5 内存、1TB PCIe Gen4 SSD、雷电 4 接口、80Whr 电池并支持 140W PD 快充，现已在京东开启预约并可享国补。",
+        "资讯标题": "索泰悄然发布 GeForce RTX 5070 AMP 白色版显卡，双槽设计配 12GB GDDR7 显存",
+        "内容": "索泰悄然发布 GeForce RTX 5070 AMP 白色版显卡，基于英伟达 GB205 核心，采用双槽设计，配备 6144 CUDA 核心、12GB GDDR7 显存（192位位宽），加速频率 2598MHz，显存速度 28Gbps，整卡功耗 250W，使用 12V-2×6 供电接口，尺寸 304.4×115.8×41.6mm，散热器更长并附赠 GPU 支架，提供 3×DisplayPort 2.1b、1×HDMI 2.1b，配备 BladeLink 风扇和 SPECTRA RGB 灯效。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/868f576f-270a-48d1-bdfc-641de3428755.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/fc57cdb4da99d5b96a30f7c32d5d1ef6.jpg",
-                "local_path": "data/images/fc57cdb4da99d5b96a30f7c32d5d1ef6.jpg",
-                "filename": "fc57cdb4da99d5b96a30f7c32d5d1ef6",
-                "original_size": 298366,
-                "processed_size": 149449
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/ed0a36d4-1e44-4f2b-93f4-25ddbbadfedf.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/1e3dcf3d6eab95f9c8195fd41070b7e3.jpg",
+                "local_path": "data/images/1e3dcf3d6eab95f9c8195fd41070b7e3.jpg",
+                "filename": "1e3dcf3d6eab95f9c8195fd41070b7e3",
+                "original_size": 104646,
+                "processed_size": 104646
             }
         ]
     },
     {
-        "资讯标题": "阿维塔 07L 豪华 SUV 官图公布，华为乾崑联合设计",
-        "内容": "阿维塔官方发布全新阿维塔07L豪华SUV官图，车型在华为乾崑联合设计下延续了07的前脸家族式设计，侧面后车门加长、C柱侧窗增大、后备箱更长，车尾灯组采用贯穿式灯条及U形导流槽。全车采用同色车身，前铲、侧裙、后杠取消熏黑配色，提升豪华感。相比现款07（长4825mm、轴距2940mm），07L进行了加长，并预计搭载华为最新的896线激光雷达，硬件配置进一步提升。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/a4a54d23-eb81-4ded-9579-77a67d4aa0f0.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/0b76cf525ca3550834bab9ae259f7445.jpg",
-                "local_path": "data/images/0b76cf525ca3550834bab9ae259f7445.jpg",
-                "filename": "0b76cf525ca3550834bab9ae259f7445",
-                "original_size": 172810,
-                "processed_size": 112529
-            }
-        ]
+        "资讯标题": "荣耀首款耳夹耳机亮相：外观借鉴奢品元素，有望近期发布",
+        "内容": "荣耀首款耳夹耳机曝光，外观采用金属抛光工艺，借鉴奢侈品元素，兼顾颜值与佩戴舒适度，音质独特。产品预计近期发布，具备HONOR SOUND空间音频、双设备连接、AI翻译、AI录音、查找耳机、EQ调节及固件升级等功能。",
+        "配图": []
     }
 ]

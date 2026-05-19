@@ -1,62 +1,71 @@
 [
     {
-        "资讯标题": "OPPO Reno16 系列发布会定档 5 月 25 日",
-        "内容": "OPPO 宣布 Reno16 系列新品发布会定于 5 月 25 日傍晚 18:00 举行。Reno16 Pro 配备 6.78 英寸 1.5K LTPO 四窄边直屏，搭载天玑 9400+（9500s）处理器，提供 2 亿像素 HP5 大底主摄、潜望长焦及金属中框，内存组合有 12GB/16GB RAM 与 256GB/512GB/1TB 存储可选，电池容量 7000mAh，支持 80W 有线及 50W 无线充电。标准版 Reno16 采用 6.32 英寸 1.5K OLED 小直屏，搭载天玑 8550，电池 6700mAh，同样支持 80W 有线充电，其余影像与材质与 Pro 版相近。",
+        "资讯标题": "英特尔 Wildcat Lake 酷睿 7 350 现身 PassMark：多核性能超苹果 A19 Pro，单核落后 18%",
+        "内容": "英特尔Wildcat Lake酷睿7 350首次出现在PassMark基准测试中，多线程得分16237分，超越苹果A19 Pro约9.4%；单线程得分4228分，比A19 Pro的5172分低约18%。该处理器采用Intel 18A工艺，6核6线程（2性能核+4能效核），最高睿频4.8GHz/3.6GHz，三级缓存6MB，功耗15W~35W，定位入门级笔记本、迷你PC及NAS设备。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/6412e7ec-a82d-42d6-bfce-3573e685394c.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/4bd6bbd2f0ef2c6cf18ada0535232557.jpg",
-                "local_path": "data/images/4bd6bbd2f0ef2c6cf18ada0535232557.jpg",
-                "filename": "4bd6bbd2f0ef2c6cf18ada0535232557",
-                "original_size": 103836,
-                "processed_size": 103836
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/2952adfa-1f13-4c6c-b28e-5abe3cdc8add.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/52474ff02df0d6248d71de5c185c39ff.jpg",
+                "local_path": "data/images/52474ff02df0d6248d71de5c185c39ff.jpg",
+                "filename": "52474ff02df0d6248d71de5c185c39ff",
+                "original_size": 32790,
+                "processed_size": 32790
             }
         ]
     },
     {
-        "资讯标题": "vivo S60 系列手机全系标配 3D 超声波指纹、7200mAh 超薄蓝海电池",
-        "内容": "vivo S60 系列手机全系标配 3D 超声波指纹（识别时间低至 0.1s）和 7200mAh 超薄蓝海电池，支持 90W 快充、全局直驱供电，具备 IP68/IP69 防尘防水、立体声双扬声器、红外遥控、X 轴线性马达；白色款背面银白底色，灵感来源于夏日海面星光，采用超大面积一体冷雕玻璃。",
+        "资讯标题": "vivo S60 系列新机首发亮相：田曦薇代言，5 月 29 日发布",
+        "内容": "vivo S60 系列新机于5月19日首发亮相，由田曦薇代言，定于5月29日19:30发布。新机主打“星星海”配色，银白底色配横向大矩阵镜头和渐变后盖，灵感源于夏日海面星光，采用一体冷雕玻璃。全系标配3D超声波指纹2.0（解锁0.1s）、7200mAh超薄蓝海电池、90W快充及全局直驱供电，支持IP68/IP69防水、立体声双扬声器、红外遥控和X轴线性马达。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/30f13303-eb62-48fb-9cd9-7e84742b19f3.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/01c0125b7a86147c8f286b91074e60d6.jpg",
-                "local_path": "data/images/01c0125b7a86147c8f286b91074e60d6.jpg",
-                "filename": "01c0125b7a86147c8f286b91074e60d6",
-                "original_size": 154938,
-                "processed_size": 112523
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/c91a1403-73f2-4fdb-adaf-6b9f2a91f955.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/69ef9f3cb85d2a0dd6ce2621c21ac72e.jpg",
+                "local_path": "data/images/69ef9f3cb85d2a0dd6ce2621c21ac72e.jpg",
+                "filename": "69ef9f3cb85d2a0dd6ce2621c21ac72e",
+                "original_size": 244760,
+                "processed_size": 168795
             }
         ]
     },
     {
-        "资讯标题": "荣耀笔记本 X14 2026 战斗版开售：酷睿 5 320 处理器，16GB+512GB 售 4299 元",
-        "内容": "荣耀笔记本 X14 2026 战斗版今日开售，搭载英特尔酷睿 5 320 处理器（6核6线程，最高35W），配备16GB内存+512GB SSD，售价4299元。机身重1.39kg，厚16.9mm，内置60Wh电池，日常办公续航约13.5小时。屏幕为14英寸16:10 IPS，分辨率1920×1200，亮度300nits，支持类自然光护眼、低蓝光无频闪。接口包括1个全功能USB-C、2个USB-A 5Gbps、1个HDMI和1个3.5mm音频插孔。",
-        "配图": []
-    },
-    {
-        "资讯标题": "消息称苹果 iPhone Fold / Ultra 折叠屏手机试产受阻，数字旗舰没有放弃钛金属",
-        "内容": "博主@刹那数码爆料，苹果 iPhone Fold/Ultra 折叠屏手机试产受阻，主要卡点是铰链的长期高频开合可靠性未达苹果品控标准；屏幕折痕方面苹果已基本接受，测试显示可实现长期稳定无折痕。同时博主透露，苹果内部认为 iPhone 17 Pro 采用铝合金是妥协，未来将寻找能平衡重量与散热的材料，液态金属是折叠屏的潜在选择，成熟后有望推广至数字 Pro 系列；此外，苹果仍未放弃钛金属，正在研发改良版以解决导热差和重量问题，待新配方成熟后可能重新采用钛。",
+        "资讯标题": "6cm 仿生机械足越障：小米米家扫拖机器人 6 Max 国补后 3827 元新低",
+        "内容": "小米米家扫拖机器人 6 Max 于2026年3月19日开售，具备仿生双机械足，最高可跨越6cm垂直台阶，最低通过9.3cm低矮区域；35000Pa吸力，实时活水洗地、三重机械臂贴边扫拖、16孔出水自清洁、仿人手加压拖地、双重毛发防缠绕；内置摄像头支持AI三摄全景识别避障，可识别280种物品、47种脏污及3mm耳机线；搭载小爱同学及米家App控制；京东618活动叠加国补、以旧换新等后到手价3827.94元。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/d89e63ce-c380-44ef-a267-48f81c50cf24.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/54925694d783430b9ab48e1f46aa1543.jpg",
-                "local_path": "data/images/54925694d783430b9ab48e1f46aa1543.jpg",
-                "filename": "54925694d783430b9ab48e1f46aa1543",
-                "original_size": 138328,
-                "processed_size": 138328
+                "url": "https://img14.360buyimg.com/pop/jfs/t1/402913/12/4296/54366/69b0d050F4caaf32f/0083320320b8b2dd.jpg",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/840b3cf69978ca460d588bbb57d2528e.jpg",
+                "local_path": "data/images/840b3cf69978ca460d588bbb57d2528e.jpg",
+                "filename": "840b3cf69978ca460d588bbb57d2528e",
+                "original_size": 32770,
+                "processed_size": 32770
             }
         ]
     },
     {
-        "资讯标题": "荣耀 600 系列手机官宣首发 7 倍超长焦 + 前置 4K Live：一站式无损生态链路，5 月 25 日发布",
-        "内容": "荣耀官宣荣耀 600 系列手机将于 5 月 25 日发布，首发行业唯一全焦段 4K Live，包括首发 7 倍超长焦 4K Live、前置 4K Live 及双对称 AI 变焦闪光灯，实现“一拍二修三分享，张张都是真 4K”的一站式无损生态链路。荣耀 600 配备 6.57 英寸 1.5K 直屏、8600mAh 电池+80W 有线快充、前置 50MP、后置 200MP（1/1.4\"）+12MP、骁龙 7 Gen 4 处理器；荣耀 600 Pro 则采用 8000mAh 电池+80W 有线+50W 无线快充、后置加入 50MP 3.5 倍长焦镜头、搭载天玑 8550 处理器。新机还采用自研天际线封装工艺，实现 0.98mm 极窄四等边框。",
+        "资讯标题": "全新 OPPO Reno 16 系列手机亮相：宋雨琦代言，5 月 25 日发布",
+        "内容": "OPPO 官方宣布 Reno 16 系列手机将于 5 月 25 日 18:00 发布，宋雨琦继续担任代言人。系列新机主打「怦然星动」配色，采用 3D 悬浮星球工艺，后盖融入星球、星环等元素，全系标配金属中框。Reno 16 Pro 配备 6.78 英寸 1.5K LTPO 四窄边大直屏，搭载天玑 9500s 处理器，内置 7000mAh 电池，支持 80W 有线充 + 50W 无线充，后置 2 亿像素 HP5 主摄 + 5000 万超广角 + 5000 万潜望长焦。Reno 16 则采用 6.32 英寸 1.5K OLED 小直屏，搭载天玑 8550，电池容量 6700mAh，支持 80W 有线充，摄像头规格与 Pro 版相同。",
         "配图": [
             {
-                "url": "https://qimg.ithome.com/newfiles/2026/5/1c77d9a1-20f2-474b-9e45-fc284a553cf2.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/8a9ba2002a03d72b11be048887e2253e.jpg",
-                "local_path": "data/images/8a9ba2002a03d72b11be048887e2253e.jpg",
-                "filename": "8a9ba2002a03d72b11be048887e2253e",
-                "original_size": 335576,
-                "processed_size": 119117
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/565f989a-22cd-4f37-bc26-07ca39dafd8b.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/446dfcbc9008cd892c5ab3743bc6cc18.jpg",
+                "local_path": "data/images/446dfcbc9008cd892c5ab3743bc6cc18.jpg",
+                "filename": "446dfcbc9008cd892c5ab3743bc6cc18",
+                "original_size": 175700,
+                "processed_size": 165605
+            }
+        ]
+    },
+    {
+        "资讯标题": "256G 版立减千元：苹果 iPad Air 11 英寸 M4 芯片款国补后 4272 元",
+        "内容": "苹果 iPad Air 11 英寸 M4 芯片 256G WLAN 版原价 5299 元，京东 618 促销后到手价 4272.51 元（领 500 元券、国补 500 元、PLUS 会员减 26.49 元）。外观提供深空灰、蓝、紫、星光四色，11/13 英寸屏幕，IPS LED 面板，亮度 500/600 尼特，全贴合技术，P3 广色域，支持原彩显示。搭载 M4 芯片，12GB 统一内存，8 核 CPU（3 性能+5 能效），9 核 GPU，16 核 NPU，性能较 M1 提升 2.3 倍，光追渲染提升 4 倍。运行 iPadOS 26，有 Liquid Glass 设计和更新窗口系统。支持 Wi-Fi 7、蓝牙 6、Thread 技术，可选蜂窝网络，数据传输速度提升 50%，支持 eSIM。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/3/a5b301be-29f3-4e35-990f-f6cec5afb7c4.jpg?x-bce-process=image/quality,q_75/format,f_webp/auto-orient,o_1",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/d8cb6047e8f65309d697f05d756177e4.jpg",
+                "local_path": "data/images/d8cb6047e8f65309d697f05d756177e4.jpg",
+                "filename": "d8cb6047e8f65309d697f05d756177e4",
+                "original_size": 166114,
+                "processed_size": 163580
             }
         ]
     }

@@ -1,54 +1,63 @@
 [
     {
-        "资讯标题": "三星 Galaxy S27 Pro 手机被曝配 S27 Ultra 同款主摄和超广角",
-        "内容": "消息称三星 Galaxy S27 Pro 将采用与 S27 Ultra 相同的全新 2 亿像素主摄和 5000 万像素超广角镜头，但长焦镜头有所不同，可能为 3.5 倍 50MP ALoP 传感器。机型配备约 6.47 英寸 OLED 屏幕，略大于 S26 标准版，且不支持 S Pen。另有爆料称 S27 标准版将使用两颗 5000 万像素和一颗 1200 万像素传感器。",
+        "资讯标题": "小米米家冰箱 Pro 508L 自动制冰新品今日开售：十字门 / 法式门 4199/4399 元",
+        "内容": "小米米家冰箱 Pro 508L 自动制冰新品今日开售，提供十字门 4199 元（国补后 3569.15 元）和法式门 4399 元（国补后 3739.15 元）两款版本，购买还送 2 年延保。该冰箱采用 792mm 窄身设计，容量 508L，配备全域离子净化 4.0、独立蒸发器与风机、干湿可调模式、法式直开大抽屉及轻奢钢面板，支持小米澎湃智联，运行噪音 31dB，内部带显示屏可直接控制参数。",
+        "配图": [
+            {
+                "url": "https://img10.360buyimg.com/pcpubliccms/s1440x1440_jfs/t1/433763/5/11540/187131/6a072242F67859792/0083320320d8c8d6.jpg",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/5b413f8994aae1c47be0b9e97aba4c78.jpg",
+                "local_path": "data/images/5b413f8994aae1c47be0b9e97aba4c78.jpg",
+                "filename": "5b413f8994aae1c47be0b9e97aba4c78",
+                "original_size": 550609,
+                "processed_size": 214221
+            }
+        ]
+    },
+    {
+        "资讯标题": "消息称 OPPO Reno 新机搭载 2 亿像素超清云台主摄，同档唯一天玑 9 系 + 顶配镜头联调",
+        "内容": "博主@数码闲聊站透露，OPPO Reno 新机将搭载 2 亿像素超清云台主摄，且是同档位唯一搭载天玑 9 系旗舰芯片并进行顶配镜头联调的机型，同时也是中端价位首款采用云台防护的手机。该机预计属于 OPPO Reno 16 系列，预计于 5 月 25 日发布，包含 Reno 16 和 Reno 16 Pro 两款型号。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/9b9fed6c-8242-4c93-baa3-2f6e04d6cea0.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/4f0d55c222936cfaa4f02e9a880f710e.jpg",
+                "local_path": "data/images/4f0d55c222936cfaa4f02e9a880f710e.jpg",
+                "filename": "4f0d55c222936cfaa4f02e9a880f710e",
+                "original_size": 46858,
+                "processed_size": 46858
+            }
+        ]
+    },
+    {
+        "资讯标题": "用户反馈三星 One UI 8.5 移除视频滤镜功能",
+        "内容": "用户反馈称，三星 One UI 8.5 更新后移除了视频模式下的滤镜功能，影响旗舰至中端多款 Galaxy 机型。原本在视频模式点击右上角魔法棒图标可使用清新、冷色、复古、黑白等滤镜（仅限 1080p），但升级后即使在 1080p 30FPS/60FPS 下也无法使用，仅照片模式仍保留滤镜。该现象在 One UI 9 测试版的 Galaxy S26 Ultra 上也得到验证，外界认为是三星的故意调整而非临时 bug。社区提供两种变通方案：在照片模式加滤镜后长按快门录制视频，或在原生相册为已拍视频添加滤镜（会导致重新压缩影响画质）。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/82ed3d50-f9f8-474e-b19d-149279815520.png?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/b482b65bc16d4e1083f8be374af1706a.jpg",
+                "local_path": "data/images/b482b65bc16d4e1083f8be374af1706a.jpg",
+                "filename": "b482b65bc16d4e1083f8be374af1706a",
+                "original_size": 44290,
+                "processed_size": 35815
+            }
+        ]
+    },
+    {
+        "资讯标题": "华为乾崑｜启境 GT7 车型官宣 5 月 29 日预售发布，同步开启预订",
+        "内容": "华为乾崑与广汽集团合作推出高端智能新能源品牌“启境”首款车型GT7，定位中大型智能猎装轿跑，车身5050×1980×1470mm，轴距3000mm。配备灵眸大灯（HUAWEI XPIXEL百万像素智慧投影大灯）和启境之翼尾灯，全车空气动力学优化14处，提供六种车身颜色及三种定制漆面。内饰采用全新一代鸿蒙座舱Harmony Space，配15.6英寸中控屏、88英寸AR抬头显示，后排可形成1.9米纯平空间，后备箱最高1606L。智能驾驶搭载华为乾崑ADS 5系统，具896线双光路激光雷达等，支持L3级自动驾驶。动力提供单电机和三电机版，三电机版0‑100km/h 2.98秒，电池容量86.111/102.768kWh，CLTC续航最高900km，支持6C超充（1秒1公里），底盘前双叉臂后H臂多连杆悬架，标配闭式双腔空气悬架与连续阻尼可调减震器。车型将于5月29日开启预售，6月上市交付。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/2807da43-74c2-4aa1-88fa-eda65149316d.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/7a667c76578071e21f46850909e90613.jpg",
+                "local_path": "data/images/7a667c76578071e21f46850909e90613.jpg",
+                "filename": "7a667c76578071e21f46850909e90613",
+                "original_size": 637274,
+                "processed_size": 196706
+            }
+        ]
+    },
+    {
+        "资讯标题": "苹果 A3577 认证曝光，预估为 Beats 蓝牙头戴式耳机",
+        "内容": "苹果型号A3577的设备在美国FCC备案中被发现，产品描述为‘Bluetooth头戴式耳机’，文件仅含基础申报信息，未公布规格、外观或功能。媒体推测该型号可能是Beats Studio Pro的更新版或新款Beats头戴式耳机，因Beats Studio Pro已发布近三年，处于更新窗口期。",
         "配图": []
-    },
-    {
-        "资讯标题": "369 元：小米金沙江充电宝超薄磁吸 10000 45W 开启预约，磁吸 20W、有线 45W",
-        "内容": "小米金沙江超薄磁吸充电宝（10000mAh）已在京东开启预约，售价369元。机身厚度仅13.2mm，重量195g，内置两块5000mAh硅碳负极电池，能量密度达840Wh/L，支持20W Max磁吸无线快充和45W Max有线快充，可同时为两设备充电，自充功率最高30W，具备NTC智能温控和石墨烯散热。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/ed5fe554-cab7-4632-9eb6-0d493c8905b5.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/693c652753e4d2e3b516a2df25d574bb.jpg",
-                "local_path": "data/images/693c652753e4d2e3b516a2df25d574bb.jpg",
-                "filename": "693c652753e4d2e3b516a2df25d574bb",
-                "original_size": 80370,
-                "processed_size": 63097
-            }
-        ]
-    },
-    {
-        "资讯标题": "苹果在印度落地 2 项健康功能：Apple Watch 监测睡眠呼吸暂停、AirPods Pro 3 执行听力测试",
-        "内容": "苹果宣布在印度推出两项健康功能：Apple Watch 通过加速度传感器检测睡眠呼吸暂停风险，支持 Series 9、10、11 及 Ultra 2/3；AirPods Pro 2/3 配合 iOS/iPadOS 18.1+ 进行听力测试，播放 500Hz、1kHz、2kHz、4kHz 声音生成 audiogram，结果存入健康 App 并可共享。高管 Greg Joswiak 称这些功能已覆盖全球超 160 个国家和地区。",
-        "配图": []
-    },
-    {
-        "资讯标题": "HMD Vibe 2 5G 手机海外发售：紫光展锐 T8200 芯片、6.75 英寸 720P+ LCD 屏，10999 卢比起",
-        "内容": "HMD Vibe 2 5G 手机已在海外市场发售，定位入门级。该机搭载紫光展锐 T8200 芯片（6nm，2×A76+6×A55），配备 6.75 英寸 IPS LCD 屏幕，分辨率 720P+，支持 120Hz 高刷。内置 6000mAh 大容量电池，最高支持 18W USB-C 有线充电。后置主摄 5000 万像素，前置 800 万像素，保留 3.5mm 耳机接口，具备 IP64 防护等级，出厂预装 Android 16，官方承诺两年安全更新。印度市场售价：4GB+64GB 版 10999 卢比（约合人民币 776 元），4GB+128GB 版 11999 卢比（约合人民币 847 元）。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/1f1fd8f5-7bb1-4f31-bc4d-d6f4bc438dd4.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/ea1c46af58cfd77f334800e712fac3d8.jpg",
-                "local_path": "data/images/ea1c46af58cfd77f334800e712fac3d8.jpg",
-                "filename": "ea1c46af58cfd77f334800e712fac3d8",
-                "original_size": 140230,
-                "processed_size": 139272
-            }
-        ]
-    },
-    {
-        "资讯标题": "罗技 G512 X 游戏键盘发售：TMR 磁轴 / 机械轴双兼容，1399 元起",
-        "内容": "罗技 G512 X 游戏键盘已发售，支持 TMR 磁轴与机械轴双兼容。75% 配列售价 1399 元，98% 配列售价 1499 元。键盘预装线性或段落手感机械轴，39 个热插拔 Dual Swap 轴座可替换 TMR 磁轴（随附 9 颗磁轴），另有 5 个 SAPP 二段压力触发环。具备 8kHz 回报率、Gasket 结构、PBT 二色注塑键帽、右上双可自定义旋钮、前方 COSMETIC Lighting 斜纹灯带、后方 G 键与游戏模式键，底部脚撑兼作拔键器与拔轴器。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/626a9d34-8777-45ec-9419-dc377682697c.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/51fb99441477683bfced0294aeac36f4.jpg",
-                "local_path": "data/images/51fb99441477683bfced0294aeac36f4.jpg",
-                "filename": "51fb99441477683bfced0294aeac36f4",
-                "original_size": 92430,
-                "processed_size": 92430
-            }
-        ]
     }
 ]

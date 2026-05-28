@@ -1,71 +1,53 @@
 [
     {
-        "资讯标题": "微星推出 1339 元 MAG B850M MORTAR MAX 迫击炮主板：支持 8400MT/s 内存超频",
-        "内容": "微星于2026年5月27日发布MAG B850M MORTAR MAX WIFI迫击炮主板，定价1339元（首发满减10元），采用M-ATX灰黑散热装甲。供电升级至14+2+1相（80A DrMOS），8层2oz加厚铜PCB，支持AMD Ryzen 7000/9000系列。内存速率提升至DDR5 8400MT/s（超频），提供4条DDR5插槽，最高256GB。存储方面新增至4个M.2槽（2×PCIe5.0 x4、1×PCIe4.0 x4、1×PCIe4.0 x2），SATA降至2个，移除一个PCIe4.0 x1槽。板载64MB BIOS、Wi‑Fi 7（MT7925）及5GbE有线网卡（RTL8126），背部I/O丰富，兼容大型双塔散热器。",
+        "资讯标题": "vivo 首款无线头戴降噪耳机卖点公布：75 小时续航、58dB 降噪，5 月 29 日发布",
+        "内容": "vivo 首款无线头戴降噪耳机将于5月29日19:30发布，官方公布六大卖点：最高降噪深度58dB，超软皮质耳罩重238g，支持跨生态无缝三连接（手机/平板/电脑），Hi-Res金标音质配40mm大动圈单元，影院级空间音频360°环绕声，续航长达75小时，提供云雾白和微风紫两种配色。",
         "配图": [
             {
-                "url": "https://img14.360buyimg.com/pop/jfs/t1/437841/8/21146/359796/6a150ff2Fef88518e/00835dc5dced0435.jpg",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/08e032a0021eb40c28dd5fb76d5f0f0b.jpg",
-                "local_path": "data/images/08e032a0021eb40c28dd5fb76d5f0f0b.jpg",
-                "filename": "08e032a0021eb40c28dd5fb76d5f0f0b",
-                "original_size": 599057,
-                "processed_size": 221629
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/fff0b310-091b-4ab9-94cf-ab7107ef1dd8.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/53c760601cce47d5b9d2e32328f74764.jpg",
+                "local_path": "data/images/53c760601cce47d5b9d2e32328f74764.jpg",
+                "filename": "53c760601cce47d5b9d2e32328f74764",
+                "original_size": 411772,
+                "processed_size": 72811
             }
         ]
     },
     {
-        "资讯标题": "华为 nova 新代言人预热，时代少年团队长马嘉祺手持 nova 16 系列被拍",
-        "内容": "华为官方发布nova全新代言人预热视频，展示7人剪影，线下在上海、重庆、南京等地投放大屏广告。粉丝曝光时代少年团队长马嘉祺手持未发布的nova 16系列新机，暗示该团将成为nova新代言人。nova 16系列将于6月1日发布，提供晴空蓝、幻彩贝母、天际白、星空黑等配色。",
+        "资讯标题": "索尼电视 9 系、8 系、7 系二代发布：可选 True RGB 真彩原色，10999 元起",
+        "内容": "索尼在2026年家庭影音娱乐新品发布会上发布Bravia 2026新款电视，包括9系二代、8系二代、7系二代。其中9系二代和7系二代标配True RGB真彩原色技术，采用独立红绿蓝LED背光，提升亮度和色彩容积。9系二代起售价19999元（65英寸），最高149999元（115英寸）；7系二代起售价10999元（50英寸），最高34999元（98英寸）；8系二代采用QD-OLED屏，起售价15999元（55英寸），最高21999元（65英寸）。所有新机支持Miracle Black Screen Pro防眩抗反、亮度提升30%、100% BT.2020色域。",
+        "配图": []
+    },
+    {
+        "资讯标题": "小米蓝牙音箱 C 上新：3D 幻彩灯光、多台串联播放，到手价 269 元",
+        "内容": "小米蓝牙音箱 C 今日官宣上新，到手价 269 元，现已开启预约，5 月 31 日全渠道开售。该产品采用 3D 幻彩灯光＋全新底部灯环设计，声光同频营造氛围；净重 415g，配备便捷按键及柔软硅胶提手。搭载 18W 全频扬声器并配合内外双被动辐射器，提供丰富细腻的音质和深沉低音，支持 TWS 模式双设备配对及 Auracast 多设备同步播放。具备 IP68 级防水防尘，内置 2600mAh 电池，满电可播放约 14 小时，蓝牙 6.0，支持免提通话。",
+        "配图": []
+    },
+    {
+        "资讯标题": "LG Display 宣布世界首款 240Hz RGB 条纹子像素 OLED 面板进入量产",
+        "内容": "LG Display 宣布全球首款 240Hz RGB 条纹子像素 OLED 显示面板进入量产。该面板尺寸为 27 英寸（约 26.5 英寸），支持 UHD 240Hz / FHD 480Hz 双模 DFR 切换，像素密度 160 PPI。RGB 条纹排列提升小字符和数字的清晰度，适合文档、股票、编程等长时间注视场景，可减轻眼部疲劳。公司表示此技术证明 OLED 在高端显示器市场的领先地位，将加速 OLED 在显示器领域的拓展。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/a98847e4-1d50-4468-a463-1b124de1c070.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/1b095dd4e124a96d0fa35b7e8c686e59.jpg",
-                "local_path": "data/images/1b095dd4e124a96d0fa35b7e8c686e59.jpg",
-                "filename": "1b095dd4e124a96d0fa35b7e8c686e59",
-                "original_size": 92260,
-                "processed_size": 92260
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/0bdf113e-c14d-4730-afc6-99119cb5384a.png?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/33c3815be7a1292f1388d115055595f3.jpg",
+                "local_path": "data/images/33c3815be7a1292f1388d115055595f3.jpg",
+                "filename": "33c3815be7a1292f1388d115055595f3",
+                "original_size": 366464,
+                "processed_size": 288668
             }
         ]
     },
     {
-        "资讯标题": "用户反馈三星 Galaxy S26 Ultra 手机升级 One UI 9 Beta 后无法侧载 App",
-        "内容": "用户反映，三星 Galaxy S26 Ultra 升级到 One UI 9 Beta 后无法侧载 APK 应用。即便更换不同 APK、重新下载或重启设备，系统均未弹出安装界面。该问题未由 Auto‑Blocker 导致，相关功能已关闭。此前编辑计划将手机作为桌面替代设备，借助 GameNative 等应用访问 Steam 游戏库，但因侧载失效而未能实现。",
+        "资讯标题": "极米 MIRA 4K 系列激光电视开售：0.175:1 投射比、哈曼卡顿 36W 扬声器，6499 元起",
+        "内容": "极米今日正式开售MIRA 4K系列激光电视，包含MIRA 4K（6499元起）和MIRA 4K Pro（7999元起）两款机型。该系列采用0.175:1超短焦投射比，最高可达3000 ISO亮度，配备0.39英寸DMD显示芯片和哈曼卡顿36W扬声器，内置联发科MT9681处理器，2GB RAM+64GB存储，提供多种USB和HDMI接口。文章还附带京东及淘宝618无门槛红包活动信息。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/8ea104c4-f9c2-4304-8b2a-68456c45f27c.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/5696ab4358a43376f0f52d7ac13b8b7a.jpg",
-                "local_path": "data/images/5696ab4358a43376f0f52d7ac13b8b7a.jpg",
-                "filename": "5696ab4358a43376f0f52d7ac13b8b7a",
-                "original_size": 22278,
-                "processed_size": 22278
-            }
-        ]
-    },
-    {
-        "资讯标题": "OPPO Reno 16 系列手机全新毕业季影像故事片定档 5 月 29 日首映",
-        "内容": "OPPO 官方宣布 Reno 16 系列手机全新毕业季影像故事片将于 5 月 29 日首映。该系列手机已于 5 月 25 日发布，搭载天玑 9500s 或天玑 8550 SUPER 处理器，主摄像头达 2 亿像素，售价 3499 元起（国补后 2999 元起）。文章同时回顾了 OPPO  earlier 的新春影片《偷时间的人》，并指出目前尚不知毕业季故事片是否由 Reno 16 系列拍摄。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/a51c4ff9-3b57-4754-a59d-de4e0428a66a.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/1f8a4b591afdd1a09b234c2aebf16f9d.jpg",
-                "local_path": "data/images/1f8a4b591afdd1a09b234c2aebf16f9d.jpg",
-                "filename": "1f8a4b591afdd1a09b234c2aebf16f9d",
-                "original_size": 74480,
-                "processed_size": 74480
-            }
-        ]
-    },
-    {
-        "资讯标题": "小米推出米家电动直柄螺丝刀：三档扭力可调，2000mAh 大电池",
-        "内容": "小米于5月27日推出米家电动直柄螺丝刀，支持三档扭力可调，电动模式最大扭矩4N·m，手动模式达8N·m；内置2000mAh电池，满电可拧约600颗螺丝；配备磁吸批头卡座（9长9短批头）、环形LED灯、一体收纳、一键正反转及Type-C充电；众筹价99元，下周三开启众筹。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/6b98801d-3982-4860-bbc5-8abf1f97cdfb.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/990bf7d202e466e6eaec09d14461e087.jpg",
-                "local_path": "data/images/990bf7d202e466e6eaec09d14461e087.jpg",
-                "filename": "990bf7d202e466e6eaec09d14461e087",
-                "original_size": 266354,
-                "processed_size": 139335
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/896be439-3152-4e41-ade3-1b8385ed9608.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/dbec4889895f74f25b00188fcb6823d8.jpg",
+                "local_path": "data/images/dbec4889895f74f25b00188fcb6823d8.jpg",
+                "filename": "dbec4889895f74f25b00188fcb6823d8",
+                "original_size": 567646,
+                "processed_size": 113448
             }
         ]
     }

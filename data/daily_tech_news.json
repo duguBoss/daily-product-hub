@@ -1,71 +1,53 @@
 [
     {
-        "资讯标题": "戴尔推出 XPS 13 笔记本电脑：12.7mm 薄如剃刀，约 1kg 轻若鸿毛",
-        "内容": "戴尔在COMPUTEX 2026展出XPS 13笔记本，厚度仅12.7mm，重量约1kg。提供酷睿5 320或酷睿Ultra 7 355处理器，最高32GB LPDDR5X内存和1TB PCIe Gen4 SSD，配13.4英寸2.5K高刷屏、Wi‑Fi 7、FHD IR摄像头、8W四扬声器、52Wh电池续航约17小时，双USB‑C接口。",
+        "资讯标题": "荣耀平板MagicOS 6 月更新公布：新增 PC 级桌面、YOYO 伴学助手等",
+        "内容": "荣耀官方发布平板MagicOS 6月更新，新增PC级桌面（14x8大容量布局，支持文件打开、压缩、打印等操作）、YOYO伴学助手（伴学知识库与周报）、桌面装饰卡片、闹钟卡片、手势自定义、文件夹自动命名、极客中心2.0、全局充电分离、游戏管家AI变声、灵动胶囊媒体播放动画及服务生态扩容、状态栏图标优化、AI圈搜智慧套索、丝滑音量面板、锁屏小组件增强、虚拟权限、输入法样式更新、截屏纯净模式、原生AirPods互联以及WLAN网络加速功能。更新覆盖荣耀MagicPad3 Pro、平板GT、V9等多款机型。",
+        "配图": []
+    },
+    {
+        "资讯标题": "小米米家空调 巨省电 大 1.5 匹今晚开售：双排蒸发器+高效压缩机，国补 1529.15 元",
+        "内容": "小米米家空调 巨省电 2026 款大 1.5 匹（型号 35GW-PG15/N2A1）于 5 月 30 日 20:00 开售，首发价 1799 元，国补后到手价 1529.15 元。该机采用双排蒸发器、108mm 贯流风叶、9.8cc 高效压缩机，风量达 760m³/h，噪音低至 18dB(A)，支持 3 分钟速冷暖。搭载米家灵云节能算法，综合节能率 25.3%，APF 5.36，年省电约 208 度，折合电费约 124 元。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/173dd5f3-5c47-440d-913b-7f93297fd344.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/e367fc278548fce9c0b9196db11a6259.jpg",
-                "local_path": "data/images/e367fc278548fce9c0b9196db11a6259.jpg",
-                "filename": "e367fc278548fce9c0b9196db11a6259",
-                "original_size": 50246,
-                "processed_size": 50246
+                "url": "https://img14.360buyimg.com/pop/jfs/t1/432137/29/21201/26920/6a0bc5a3Fe9b05ea5/00833203200ccbdb.jpg",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/2a64bb32766caf996832d7ff2449a1f3.jpg",
+                "local_path": "data/images/2a64bb32766caf996832d7ff2449a1f3.jpg",
+                "filename": "2a64bb32766caf996832d7ff2449a1f3",
+                "original_size": 59410,
+                "processed_size": 59410
             }
         ]
     },
     {
-        "资讯标题": "酷派小方块翻转镜头手机上架：联发科 G99 芯片，8+128GB 存储 999 元",
-        "内容": "酷派在京东上架「小方块」翻转镜头手机，首发价1099元，使用满减券后到手999元。该机搭载联发科曦力G99芯片，内置智能AI伴侣并配备实体AI键，支持DroiClaw掌心龙虾和自然语音交互，可实现一句话打车、购物、发朋友圈等功能。配置方面，采用3.95英寸LCD方屏（720×720），提供8+128GB存储，后置1300万像素翻转摄像头，内置2450mAh电池支持10W充电，具备红外遥控，提供琉光紫、漫屿粉、玄曜黑、凝霜白四种配色。",
+        "资讯标题": "小米 REDMI K90 单品激活突破 200 万台，基本是两家同档竞品机的销量之和",
+        "内容": "博主@数码闲聊站透露，小米REDMI K90单机激活量突破200万台，约等于两家同档竞品机型的销量之和。K90采用6.59英寸黄金中尺寸屏幕，搭载骁龙8至尊版处理器，内置7100mAh电池，支持100W有线快充+22.5W反充，定价2599元起。博主指出，K90PM销量一般，因首发定价较高，而K90的成功表明中屏全能机更受欢迎，并暗示K100系列将继续采用中屏+大屏双尺寸策略。",
+        "配图": []
+    },
+    {
+        "资讯标题": "鸿蒙智行尚界 Z7/Z7T 在沪开启首批交付：全系标配华为乾崑智驾，21.98 万元起",
+        "内容": "鸿蒙智行尚界 Z7/Z7T 在上海首批交付，全国同步启动大规模交付。该系列定位中大型新能源轿车，车身尺寸 5036×1976×1465 毫米，轴距 3000 毫米。提供单电机后驱和双电机四驱版本，最大功率 434 千瓦，0‑100 km/h 加速 3.44 秒。续航方面，标配华为巨鲸 800V 高压电池，最高 CLTC 续航 905 公里，支持 5 分钟补能 200 公里以上。全系标配华为乾崑智驾 ADS 4.1，搭载 896 线双光路激光雷达，支持无图城区 NCA 和全场景自动泊车。售价区间：尚界 Z7 21.98‑29.98 万元，尚界 Z7T 22.98‑30.98 万元。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/5263e67f-8712-4fab-b568-4ac0a3c59dbc.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/471fe4c07226cc1fd04cd45b519184f1.jpg",
-                "local_path": "data/images/471fe4c07226cc1fd04cd45b519184f1.jpg",
-                "filename": "471fe4c07226cc1fd04cd45b519184f1",
-                "original_size": 548792,
-                "processed_size": 203640
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/d35b925c-e4c4-4e40-8f21-41b2601cb1f3.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/0400a5453e889bb515fd10dfe02392de.jpg",
+                "local_path": "data/images/0400a5453e889bb515fd10dfe02392de.jpg",
+                "filename": "0400a5453e889bb515fd10dfe02392de",
+                "original_size": 505026,
+                "processed_size": 136139
             }
         ]
     },
     {
-        "资讯标题": "小米推出米家三区洗衣机 滚筒 14kg 新品：双 1kg 小筒，国补价 4499.05 元",
-        "内容": "小米今日宣布米家三区洗衣机滚筒14kg新品开启预售，建议零售价5999元，国补到手价4499.05元。洗衣机包含12kg大筒和两个1kg小筒，大筒洗净比1.37，小筒洗净比1.83。具备三区独立水路防交叉感染，能去除顽固污渍和陈旧血渍，获得内衣袜子健康洗认证，支持智能减震降噪，宠物除毛率91.4%，并兼容小米澎湃智联。",
+        "资讯标题": "畅享 90 系列新成员？两款华为新机入网，电池容量 6100mAh、8500mAh",
+        "内容": "博主@数码闲聊站透露，华为型号CHZ-AL60和CAS-AL50两款新机已入网，电池容量分别为6100mAh和8500mAh，疑为畅享90系列新成员，大概率搭载麒麟8系芯片，定价约1000‑2000元。网友担心处理器偏弱，博主称加上鸿蒙系统尚可接受，并强调设计将是竞争优势。",
         "配图": [
             {
-                "url": "https://img14.360buyimg.com/pop/jfs/t1/445229/33/3815/169235/6a18f34bFbf7f7ab5/0083320320bf4217.jpg",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/d23d9bafc0430003350612cc467bb8ba.jpg",
-                "local_path": "data/images/d23d9bafc0430003350612cc467bb8ba.jpg",
-                "filename": "d23d9bafc0430003350612cc467bb8ba",
-                "original_size": 258290,
-                "processed_size": 193089
-            }
-        ]
-    },
-    {
-        "资讯标题": "荣耀 600 系列手机首销：2 亿像素主摄、4K Live 直出，3299 元起",
-        "内容": "荣耀600系列手机今日首销，起售价3299元。荣耀600超级版搭载第四代骁龙7处理器，8600mAh青海湖电池，支持80W快充，IP68/IP69/IP69K防尘防水，6.57英寸1.5K屏幕峰值亮度8000nits，后置2亿像素主摄+1200万超广角微距，支持4K Live直出等功能。荣耀600 Pro则采用天玑8550 Elite，8000mAh电池，80W有线+50W无线快充，后置2亿主摄+5000万潜望长焦+1200万超广角微距，支持全焦段4K Live直出及无损修图分享。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/7215b5d4-139b-4102-a63e-f5d4a5baf7a9.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/3d937b81aaa43dad96bb21800ec34120.jpg",
-                "local_path": "data/images/3d937b81aaa43dad96bb21800ec34120.jpg",
-                "filename": "3d937b81aaa43dad96bb21800ec34120",
-                "original_size": 368334,
-                "processed_size": 138749
-            }
-        ]
-    },
-    {
-        "资讯标题": "零刻 ME Pro 上新：可选 i5-13500H、R7 H 255 及锐龙 AI 9 HX 370 处理器，升级万兆网卡 + 最高 136TB 存储",
-        "内容": "零刻今日更新ME Pro大存储迷你主机系列，推出2盘位与4盘位版本，可选英特尔酷睿i5-13500H、AMD锐龙7 H255及锐龙AI 9 HX 370三款处理器。机型标配10GbE万兆网口及2.5GbE第二网口，支持宽带叠加、链路聚合等组网方式。存储方面，2盘位最高支持76TB，4盘位最高可达136TB。ME Pro采用抽屉式可更换主板设计，实现长期升级。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/edbe0401-0f1e-4eac-a242-8815e2dc49d7.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/16732d1209a522d947425ead0b7dabcd.jpg",
-                "local_path": "data/images/16732d1209a522d947425ead0b7dabcd.jpg",
-                "filename": "16732d1209a522d947425ead0b7dabcd",
-                "original_size": 80850,
-                "processed_size": 80850
+                "url": "https://img.ithome.com/newsuploadfiles/2026/5/66ea9667-395d-4e2a-bb2a-23e4db64cd97.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/3dbe26dcf3863b31395ffb4a8278f15f.jpg",
+                "local_path": "data/images/3dbe26dcf3863b31395ffb4a8278f15f.jpg",
+                "filename": "3dbe26dcf3863b31395ffb4a8278f15f",
+                "original_size": 49216,
+                "processed_size": 49216
             }
         ]
     }

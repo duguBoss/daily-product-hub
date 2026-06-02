@@ -1,71 +1,71 @@
 [
     {
-        "资讯标题": "文石 Note X6 墨水屏读写办公本首销：10.3 英寸、高通 6690，售价 3299 元",
-        "内容": "文石 Note X6 墨水屏读写办公本今日首销，售价 3299 元。该产品配备 10.3 英寸 300ppi 墨水屏，采用 4nm 高通 6690 处理器（主频 2.9GHz，跑分超 69 万），内置 4GB RAM + 128GB ROM，支持最高 2TB 扩展存储。机身约 365g、厚 5.2mm，玻璃盖板，随附“点金笔”手写笔。运行 Android 16 系统，支持分屏、实时语音转文字、AI 纪要总结等功能，并对百款应用进行深度优化。",
+        "资讯标题": "华硕发表便携显示器 ZenScreen OLED MQ14FCKV，支持 65W PD 直通",
+        "内容": "华硕发布便携显示器ZenScreen OLED MQ14FCKV，厚度8mm、重量不到500g，支持65W USB PD直通供电，内置DisplayWidget Center管理应用。采用14英寸1920×1200 OLED面板，响应时间1ms，色域覆盖90% DCI-P3，并提供M Model P3色彩设置以实现与macOS设备一致的色彩表现。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/e8da530f-a155-4ad2-bdbc-ad158c265916.jpg?x-bce-process=image/quality,q_75/format,f_webp/auto-orient,o_1",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/0fb3a3a9f1b6257c643123c3f976790b.jpg",
-                "local_path": "data/images/0fb3a3a9f1b6257c643123c3f976790b.jpg",
-                "filename": "0fb3a3a9f1b6257c643123c3f976790b",
-                "original_size": 358894,
-                "processed_size": 207418
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/59bff595-1617-42b9-bc3b-2f8eb8e914df.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/edfdb688d150391d79e39971e0018733.jpg",
+                "local_path": "data/images/edfdb688d150391d79e39971e0018733.jpg",
+                "filename": "edfdb688d150391d79e39971e0018733",
+                "original_size": 33964,
+                "processed_size": 33964
             }
         ]
     },
     {
-        "资讯标题": "终于能听出无损与母带的区别了：松下 Technics AZ80 降噪耳机 2099 → 979 元新低",
-        "内容": "松下 Technics AZ80 真无线降噪耳机于2023年6月发布，国行定价2099元。搭载10mm驱动单元，支持LDAC、LE Audio LC3编码及主动降噪，具备Qi无线充电和跨设备快速切换功能，提供黑金和银色两种配色。在京东618大促期间，通过领取9折耳机券及立减551元，实付价降至历史新低979元。",
+        "资讯标题": "三星在 2026 台北电脑展期间展示全球首款 HBM5 内存",
+        "内容": "三星在2026年台北国际电脑展上展示了全球首款HBM5内存。HBM5是面向高性能计算和AI训练的第八代存储技术，预计2029-2031年上市，采用2nm基础裸片+1c nm DRAM，采用浸没式冷却，I/O通道达4096-bit，16层堆叠，单堆叠带宽可达4TB/s。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/135908c1-9844-42f5-82fa-b8cfafec5005.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/0a9f6b1036c33f2328e6fbf827b1d581.jpg",
-                "local_path": "data/images/0a9f6b1036c33f2328e6fbf827b1d581.jpg",
-                "filename": "0a9f6b1036c33f2328e6fbf827b1d581",
-                "original_size": 5374,
-                "processed_size": 5374
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/acd34414-100e-4d66-b7ce-0ea8ed6d5e9a.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/2641ed593a6ea6b711b5bdb59b530cd2.jpg",
+                "local_path": "data/images/2641ed593a6ea6b711b5bdb59b530cd2.jpg",
+                "filename": "2641ed593a6ea6b711b5bdb59b530cd2",
+                "original_size": 159724,
+                "processed_size": 129550
             }
         ]
     },
     {
-        "资讯标题": "AMD 锐龙 Z2 GO 定制处理器：联想拯救者 Legion Go S 掌机 3173 元国补新低",
-        "内容": "文章介绍了搭载 AMD 锐龙 Z2 GO 定制处理器的联想拯救者 Legion Go S 掌机。该机官方定价 3999 元，京东 618 大促期间可领取 9 折 PLUS 专享品类补贴并叠加 10% 国补，到手价仅需 3173.2 元。配置包括 4 核心 Zen 3+ CPU、12CU RDNA 3 GPU（最高 40W 性能释放）、16GB 内存、512GB SSD，8 英寸 1920×1200 120Hz IPS 屏幕（100% sRGB、FreeSync、DC 调光），霍尔效应 RGB 摇杆、一体式手柄、USB‑C 40Gbps 接口及 55.5Wh 电池。",
+        "资讯标题": "华硕 ROG 首款全息光显风扇整机“枪神 10X”国行发售，R9 9950X3D2 + 64G + 4T + RTX5080 售 69999 元",
+        "内容": "华硕 ROG 首款全息光显风扇整机“枪神 10X”国行上市，搭载 AMD 锐龙 9 9950X3D2、64GB DDR5 内存、4TB SSD、RTX 5080 显卡，售价 69999 元。机箱采用 104L 全塔侧透设计，配备三颗 AniMe Holo 全息光显风扇，支持独立/组合/同步显示，并配有 420 AIO 水冷散热系统。",
         "配图": [
             {
-                "url": "https://img14.360buyimg.com/pop/jfs/t1/284345/6/17958/62303/67f7b2c1F669f353f/10a70286c526ec12.jpg",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/8835166124f1383f9986c4e767a6ed87.jpg",
-                "local_path": "data/images/8835166124f1383f9986c4e767a6ed87.jpg",
-                "filename": "8835166124f1383f9986c4e767a6ed87",
-                "original_size": 109578,
-                "processed_size": 82460
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/c427a5f9-f094-425c-a01d-4bdfa6d30df2.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/5e9c348f8375ab8eb1301e5357f122c2.jpg",
+                "local_path": "data/images/5e9c348f8375ab8eb1301e5357f122c2.jpg",
+                "filename": "5e9c348f8375ab8eb1301e5357f122c2",
+                "original_size": 145464,
+                "processed_size": 83488
             }
         ]
     },
     {
-        "资讯标题": "技嘉推出 D5 Single Boost：单通道内存自动超频 8400MT/s，带宽接近双通道",
-        "内容": "技嘉推出 D5 Single Boost 技术，可在兼容的 Z890/B860 主板及 SK 海力士 M‑Die DDR5 内存上实现单通道自动超频至 8400MT/s，带宽接近双通道，无需手动设置，通过自适应 BIOS 调优引擎实时调节时序和电压，宣称在 AAA 大作和竞技基准中帧率、加载时间及整体响应提升约 10%，旨在降低高价内存时代的装机成本。",
+        "资讯标题": "微星超神 MEG MAESTRO 900R 海景房旗舰机箱发售：支持显卡竖装、配可拆卸式主板支架，3999 元",
+        "内容": "微星超神 MEG MAESTRO 900R 海景房旗舰机箱现已在京东发售，定价 3999 元。机箱尺寸 695×379×671 mm，支持 Mini-ITX 至 E-ATX 主板及 ATX 背插产品，采用三面侧透一体式弯曲玻璃，配备可拆卸式主板旋转支架和 PCIe 5.0 延长线，便于显卡竖装。提供模块化 I/O（1×USB-C 20Gbps、4×USB-C 10Gbps、4×USB-C 5Gbps、3.5mm 音频），兼容多种硬盘位和扩展槽，CPU 散热器限高 170mm，显卡限长 440mm，电源限长 200mm。风扇与水冷排位丰富，顶部、左右侧和底部均可安装多规格风扇及冷排，散热性能出众。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/c50886a0-eadd-467a-95c3-9927c7b7dde8.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/55200d630575a2f7c38d7769232c569c.jpg",
-                "local_path": "data/images/55200d630575a2f7c38d7769232c569c.jpg",
-                "filename": "55200d630575a2f7c38d7769232c569c",
-                "original_size": 363368,
-                "processed_size": 267730
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/d854ad1f-6750-4165-847d-5097f371f71c.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/79d23c08f44c569e840995af4b11fa3c.jpg",
+                "local_path": "data/images/79d23c08f44c569e840995af4b11fa3c.jpg",
+                "filename": "79d23c08f44c569e840995af4b11fa3c",
+                "original_size": 150212,
+                "processed_size": 123048
             }
         ]
     },
     {
-        "资讯标题": "AMD Radeon RX 9070 GRE 显卡全球市场起价偷跑：549 美元",
-        "内容": "AMD 宣布 Radeon RX 9070 GRE 显卡将于次日起在全球市场发售，起价 549 美元（约合 3726 元人民币）。该卡定位于填补 RX 9070 与 RX 9060 XT 之间的性能空档，在 1440p 超高设置下平均比 RX 7900 GRE 快 6%，并宣称比 NVIDIA RTX 5070 领先 2%、具备 4% 的性价比优势。中国市场之前的首发价为 4199 元人民币。",
+        "资讯标题": "英伟达 RTX Spark PC 处理器正式发布：联发科合作 20 核 CPU + 英伟达 RTX GPU，首批电脑秋季推出",
+        "内容": "英伟达在2026台北电脑展发布RTX Spark PC处理器，由联发科合作的20核Grace CPU和Blackwell RTX GPU组成，拥有6144 CUDA核心，AI性能达1 petaFLOP，采用台积电3nm工艺，配128GB统一内存。可渲染90GB+3D场景、编辑12K视频、生成4K AI视频、运行1200亿参数LLM及3A游戏1440p/100fps以上。笔记本厚14mm、重3磅，提供14/16寸OLED屏，将于秋季由华硕、戴尔、惠普、联想、微软Surface、微星等首发，随后宏碁、技嘉跟进。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/5/d55aaa44-b6c0-42ad-b2f2-33748cdc62d5.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/c388ea0bdfd8306401e64f8c5aca59eb.jpg",
-                "local_path": "data/images/c388ea0bdfd8306401e64f8c5aca59eb.jpg",
-                "filename": "c388ea0bdfd8306401e64f8c5aca59eb",
-                "original_size": 134478,
-                "processed_size": 134478
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/9e9eec1c-feb9-41b5-8dc7-9f68fe5df8ce.png?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/2e79820c854d132f40a13f4524ae5130.jpg",
+                "local_path": "data/images/2e79820c854d132f40a13f4524ae5130.jpg",
+                "filename": "2e79820c854d132f40a13f4524ae5130",
+                "original_size": 110070,
+                "processed_size": 109016
             }
         ]
     }

@@ -1,71 +1,62 @@
 [
     {
-        "资讯标题": "【IT之家评测室】微星星芒Y28显示器体验：第四代W-OLED，FPS玩家的\"版本答案\"",
-        "内容": "微星星芒 Y28（MAG 276QRY28）是一款面向大众的 26.5 英寸 2K 280Hz 第四代 W-OLED 电竞显示器，售价 2499 元。面板提供 0.03ms 响应、1500 尼特峰值亮度、无限对比度、99.5% DCI-P3 色域，并通过 DisplayHDR True Black 500 认证。采用雾面低反光涂层，内置微星 OLED Care 2.0 防烧屏方案并提供三年烧屏质保。支架支持全向人体工学调节，接口为双 HDMI 2.1 和 DP 1.4a，适合 FPS 玩家及轻度办公使用。",
+        "资讯标题": "消息称小米机器人有望亮相 Xiaomi 17T 系列手机发布会",
+        "内容": "消息称小米机器人有望在小米 17T 系列手机发布会上亮相。该机器人曾于今年4月小米投资者日首次展示，延续2022年CyberOne（“铁大”）具身人形设计，机身采用暗灰色面料，胸前印有小米标志。与此同时，小米 17T Pro 采用全系四曲包裹式中框、2D直屏、一体化金属镜头Deco、超大R角和超窄边框，搭载天玑9500 3nm旗舰芯片，GPU性能提升33%、功耗降低42%、光追渲染性能提升199%，并配备徕卡光学专业三摄，包括Summilux镜头、5X潜望长焦等。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/bfb761bc-0e0f-48f5-bf75-623781343db9.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/f3aa74d4f4a68b8cfc2a0bef9983e1aa.jpg",
-                "local_path": "data/images/f3aa74d4f4a68b8cfc2a0bef9983e1aa.jpg",
-                "filename": "f3aa74d4f4a68b8cfc2a0bef9983e1aa",
-                "original_size": 104308,
-                "processed_size": 104308
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/555e50e3-6801-4684-924e-dfdf4f1ae9c3.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/765c933c0c7c4435f344fa165bad4190.jpg",
+                "local_path": "data/images/765c933c0c7c4435f344fa165bad4190.jpg",
+                "filename": "765c933c0c7c4435f344fa165bad4190",
+                "original_size": 96536,
+                "processed_size": 96536
             }
         ]
     },
     {
-        "资讯标题": "vivo S60系列手机维修备件价格公布：屏幕优惠价690元起，主板1480元起",
-        "内容": "vivo S60 系列于6月3日首销，S60定价3599元，元气版2899元。维修备件价格公布：元气版屏幕优惠价690元，主板1480元起；S60屏幕优惠价850元，主板1980元起。保内免费换屏、换电池、换主板、换摄像头；保外费用=配件费+人工费50元，多件同修仅收一次人工费。",
+        "资讯标题": "华为 nova 16 系列手机首销情况出炉，Pro 同期约为上一代的 170%",
+        "内容": "华为 nova 16 系列于6月5日首销，nova 16销量约为上代nova 15的140%，Pro版约为nova 15 Pro的170%，Ultra版仅约为nova 15 Ultra的35%。标准版、Pro、Ultra均搭载麒麟9010S处理器，nova 16z搭载麒麟8020，起售价2699元。系列机型均配备7000mAh大电池并支持100W有线快充，Ultra版支持50W无线快充，屏幕采用昆仑玻璃（Pro/Ultra）或铝硅玻璃，刷新率最高120Hz，后置摄像头最高达2亿像素RYYB大底防抖，并支持卫星通信等特色功能。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/5b577927-6044-4876-b703-46483634b570.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/ebf99b581734d5166065d17b09947bae.jpg",
-                "local_path": "data/images/ebf99b581734d5166065d17b09947bae.jpg",
-                "filename": "ebf99b581734d5166065d17b09947bae",
-                "original_size": 355366,
-                "processed_size": 120002
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/3d760f2d-8f6c-49cc-80e8-98cabdbf1c1d.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/c1ecad35baee42f0cd51dd31844ae02a.jpg",
+                "local_path": "data/images/c1ecad35baee42f0cd51dd31844ae02a.jpg",
+                "filename": "c1ecad35baee42f0cd51dd31844ae02a",
+                "original_size": 43254,
+                "processed_size": 43254
             }
         ]
     },
     {
-        "资讯标题": "消息称某厂2nm天玑工程机采用索尼LOFIC主摄，预计为vivo X500 Pro Max",
-        "内容": "据博主@数码闲聊站爆料，某厂2nm天玑工程机主摄采用索尼LOFIC技术的5000万像素1/1.28英寸超大底传感器，长焦为大底潜望2000万像素1/1.4英寸，超广角考虑升级，曾测试5000万像素IMX8中底，备选为5000万像素小底。该机型预计为vivo X500 Pro Max，vivo将跳过‘数字4’命名，直接从X300系列过渡。vivo X500 Pro Max已现身GSMA数据库，暗示将面向全球市场发布，但全球发布计划尚未最终确定。",
+        "资讯标题": "2026 高考今日开考，vivo 上线“AI 志愿助手”功能提供一站式全程服务",
+        "内容": "2026年全国高考今日开考，vivo 通过其‘高考通’功能上线 AI 志愿助手，提供高考日程、真题答案、院校专业信息、高校排名、同分去向、一分一段及省控线查询，并引入 AI 大模型实现科学志愿预测、提前估分及一键生成导出志愿表，实现一站式全程服务。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/a8c59da3-f61e-476b-a9db-9d0b46aadf66.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/f490ae3286fed76a237c342e451f0c71.jpg",
-                "local_path": "data/images/f490ae3286fed76a237c342e451f0c71.jpg",
-                "filename": "f490ae3286fed76a237c342e451f0c71",
-                "original_size": 68740,
-                "processed_size": 68740
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/99d6b622-a11b-496f-a6bc-8d10f7b7b74f.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/eb5619ff03b3158e41fb15a7c026e0e2.jpg",
+                "local_path": "data/images/eb5619ff03b3158e41fb15a7c026e0e2.jpg",
+                "filename": "eb5619ff03b3158e41fb15a7c026e0e2",
+                "original_size": 71136,
+                "processed_size": 69162
             }
         ]
     },
     {
-        "资讯标题": "消息称某厂2nm大屏迭代旗舰2亿主摄首发新一代LOFIC技术，预计为小米18 Pro Max",
-        "内容": "据博主@数码闲聊站爆料，某厂即将推出采用2nm工艺的大屏迭代旗舰，主摄将首发新一代LOFIC技术的200MP传感器（1/1.28\"），工程机长焦版同样为200MP（1/1.56\"），3X±焦段，F2.4±光圈，支持近距离长焦微距，传感器与镜组全面更新。结合之前的爆料，该机疑为小米18 Pro Max，预计新增AI按键、超大矩阵后摄模组、可选玻璃/玻璃纤维机身及测试透明玻纤与光致变色方案。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/68bf6b09-e32c-4f74-8567-9857553c6813.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/44debaf3b4b9ad13f10375225f6a4e14.jpg",
-                "local_path": "data/images/44debaf3b4b9ad13f10375225f6a4e14.jpg",
-                "filename": "44debaf3b4b9ad13f10375225f6a4e14",
-                "original_size": 83990,
-                "processed_size": 83990
-            }
-        ]
+        "资讯标题": "小米 17 Max 新机首销情况出炉，同期约为 17 的 25%",
+        "内容": "小米 17 Max 新机首销 7 天的销量约为同期小米 17 的 25%。博主指出，由于该机不是之前产品的迭代，此对比仅供参考。开售前（5 月 22‑24 日）累计激活量达到万级，疑似存在提前开售情况；线下小米之家盲订可比发售日提前两天取货。该机搭载第五代骁龙 8 至尊版处理器、内置 8000mAh 金沙江电池、配备徕卡 2 亿像素主摄和 6.9 英寸超级像素屏幕，提供白色、晴空蓝、像素黑三款配色，国补到手价 4299 元起。",
+        "配图": []
     },
     {
-        "资讯标题": "对标杜比视界：苹果、谷歌联合推出Eclipsa Video HDR开源标准，有望率先应用于iPhone 18 Pro系列",
-        "内容": "苹果、谷歌与NBC环球联合SMPTE开发了新的开源HDR视频标准Eclipsa Video（SMPTE ST 2094-50），旨在成为杜比视界的开源替代方案。该标准引入Reference White Anchor和Headroom-Adaptive Gain Curves两项动态元数据技术，以解决不同设备峰值亮度和环境光导致的HDR显示不一致问题。初期重点在移动设备和计算平台，首批支持产品预计今年晚些时候发布，有望率先在iPhone 18 Pro系列上应用。",
+        "资讯标题": "飞利浦推出“27M4N3500FQ”27 英寸显示器：2K 210Hz，829 元",
+        "内容": "飞利浦推出27英寸显示器27M4N3500FQ，采用2560x1440 Fast IPS面板，支持210Hz超频、1ms GtG响应，静态对比度1000:1，亮度350尼特，10-bit色彩，覆盖93.8% AdobeRGB、94% DCI-P3、100% sRGB。支架可倾斜，支持VESA 100x100壁挂，提供2个HDMI 2.1（144Hz）和1个DP 1.4（210Hz）接口。首发价829元，部分地区国补后低至795.84元。",
         "配图": [
             {
-                "url": "https://img.ithome.com/hb-banner/jd-26-618.png?x-bce-process=image/format,f_auto",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/e415ceef84b75b0735358be975a84478.jpg",
-                "local_path": "data/images/e415ceef84b75b0735358be975a84478.jpg",
-                "filename": "e415ceef84b75b0735358be975a84478",
-                "original_size": 11710,
-                "processed_size": 6058
+                "url": "https://img.alicdn.com/bao/uploaded/i1/2415742114/O1CN01kGJ7Pm1RUGQcLxxV2_!!4611686018427382946-0-item_pic.jpg",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/1e3b3c0d6d9c1b9ec8a7f3eb23dcfee4.jpg",
+                "local_path": "data/images/1e3b3c0d6d9c1b9ec8a7f3eb23dcfee4.jpg",
+                "filename": "1e3b3c0d6d9c1b9ec8a7f3eb23dcfee4",
+                "original_size": 58528,
+                "processed_size": 58528
             }
         ]
     }

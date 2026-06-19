@@ -1,62 +1,62 @@
 [
     {
-        "资讯标题": "小米澎湃 OS 3 上线 2026 父亲节限定水印，Xiaomi 17T 首发「Live Moment」水印同步向徕卡合作机型下发",
-        "内容": "小米宣布为澎湃 OS 3 系统全量上线 2026 年父亲节限定水印，可在 6 月 18 日至 6 月 24 日使用，需将「小米相册-编辑」升级至 2.3.0 以上版本。同时，Xiaomi 17T 首发的「Live Moment」徕卡定制水印已同步下发至所有 Xiaomi 与徕卡合作机型，只要运行 OS3 或更高版本即可获取。",
+        "资讯标题": "挑战台积电：消息称英特尔携手联电 UMC 开发 12nm 与 3nm 芯片工艺",
+        "内容": "英特尔宣布与全球第四大晶圆代工厂联电（UMC）合作，共同开发12nm和3nm制程以挑战台积电的代工主导地位。合作将在英特尔亚利桑那州Fab 52工厂进行，12nm工艺的PDK将今年交付客户，2027年初完成流片，年底实现量产，主要服务于物联网和WiFi芯片；3nm工艺旨在对标台积电3nm，帮助英特尔扩大代工市场份额。联电将利用英特尔的制造能力实现技术跃迁，而英特尔则借助联电的客户资源提升产能利用率。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/68fd91aa-98d9-477d-9c17-89b86f15b39f.png",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/03b7f3f4cd409c43a1b52a90875085c2.jpg",
+                "local_path": "data/images/03b7f3f4cd409c43a1b52a90875085c2.jpg",
+                "filename": "03b7f3f4cd409c43a1b52a90875085c2",
+                "original_size": 486373,
+                "processed_size": 90415
+            }
+        ]
+    },
+    {
+        "资讯标题": "优派发布 VX27G26-2K-9 显示器：27 英寸 2K 面板，支持 340Hz 刷新率",
+        "内容": "优派发布 VX27G26-2K-9 电竞显示器，采用 27 英寸友达 Fast IPS 面板，分辨率 2560×1440，原生/超频刷新率分别为 320Hz/340Hz，响应时间 1ms，峰值亮度 450尼特，对比度 1000:1，DCI-P3 色域 97%，sRGB 100%，支持 HDR10、AMD FreeSync 和 NVIDIA G-Sync。显示器具备 24.5 英寸缩放模式、黑色稳定、猫眼/夜间视角等电竞辅助功能，内置多种 ViewMode 预设（FPS、RTS、MOBA 等），配备两个 HDMI 2.1、两个 DisplayPort 1.4 和 3.5mm 音频接口，支架可前后俯仰 -5°~20°，支持 100×100mm VESA 壁挂，专为网吧电竞场景设计。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/9fd4e2a2-1ff6-466c-a8b5-8c896bf2c4c7.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/619633a6be4fb2e2b7e3b555340e5408.jpg",
+                "local_path": "data/images/619633a6be4fb2e2b7e3b555340e5408.jpg",
+                "filename": "619633a6be4fb2e2b7e3b555340e5408",
+                "original_size": 38980,
+                "processed_size": 38980
+            }
+        ]
+    },
+    {
+        "资讯标题": "Pixel 10 手机用户反馈谷歌 AI“抢镜”问题，Gmail 无法正常回复邮件",
+        "内容": "Pixel 10 系列手机在使用 Gmail 回复邮件时出现 AI“抢镜” bug，导致键盘无法正常弹出，仅显示 Gemini 驱动的 Help me write AI 写作界面。该问题主要出现在 Pixel 10 Pro XL 和 Pixel 10 Pro Fold 上，用户需先点击左下角键盘隐藏按钮并多次点击回复区才可能弹出键盘，或在折叠机型上根本无法显示光标。其他设备（如 vivo X300 FE、OnePlus 15 及 iOS 版 Gmail）均未复现该 bug。",
         "配图": []
     },
     {
-        "资讯标题": "任天堂向初代 Switch 游戏机推送 22.5.0 固件更新，eShop 商店从网页封装升级为原生应用",
-        "内容": "任天堂向初代 Switch 推送 22.5.0 固件更新，将 eShop 商店从网页封装升级为原生应用，显著提升加载速度。更新还新增深色模式同步、PIN 码锁定及在预告片播放时使用 ZL/ZR 按键快进/后退 10 秒的功能，此前这些特性仅在 Switch 2 上实现。",
+        "资讯标题": "三星 Galaxy A27 5G 手机渲染图曝光：5000mAh 电池，3 种配色",
+        "内容": "三星 Galaxy A27 5G 渲染图曝光，提供海军蓝、石墨黑、柔粉三种配色。机身边框与背板同色，侧边圆润，背面竖向三摄被药丸状凸起包裹并带 LED 闪光灯。正面采用水滴式前置摄像头和 Super AMOLED 屏幕，内置 5000mAh 电池，搭载 NPU 支持部分 Galaxy AI 功能，疑似具备 Circle to Search 视觉搜索。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/2d6e9dbf-978f-4e38-ac19-186461e60a24.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/59ae4ae8c211ef35058122262b5667ff.jpg",
-                "local_path": "data/images/59ae4ae8c211ef35058122262b5667ff.jpg",
-                "filename": "59ae4ae8c211ef35058122262b5667ff",
-                "original_size": 100770,
-                "processed_size": 100770
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/b9276799-f4a0-42d2-8c0e-7fef20cd15b2.png",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/07b12546b7822e03a406f902d2c54c1c.jpg",
+                "local_path": "data/images/07b12546b7822e03a406f902d2c54c1c.jpg",
+                "filename": "07b12546b7822e03a406f902d2c54c1c",
+                "original_size": 196989,
+                "processed_size": 62518
             }
         ]
     },
     {
-        "资讯标题": "vivo X Fold6 折叠屏手机“黑金”配色公布，6 月 26 日发布",
-        "内容": "vivo 今日公布了 X Fold6 折叠屏手机的全新“黑金”配色，除之前曝光的“蓝洞”“盐湖”“极夜”外，黑金以浓黑为底、鎏金点睛，彰显优雅。新机定档 6 月 26 日 19:00 发布，搭载天玑 9500 超能版 SoC，NPU 峰值性能提升 111%，功耗降低 56%，算力翻倍且功耗减半。影像方面，X Fold6 折叠首发蔡司 APO 超级潜望长焦，配备蓝图影像芯片 V3+、等效 200mm vivo 蔡司增距镜 G2，支持蓝图原生色彩和多种色彩风格。内外屏均采用最新发光材料，折叠首发三星 M14 内屏，峰值亮度更高、功耗更低。新品已在全平台开启预约。",
+        "资讯标题": "iQOO Z11i 手机配色公布：青峰、沙漠金、墨影，下月发售",
+        "内容": "iQOO Z11i 手机官方公布三款配色：青峰、沙漠金、墨影，计划下月发售。新机背面采用双摄设计，正面为水滴屏。参考已发布的 iQOO Z11x，该机搭载天玑 7400 处理器，内置 7200mAh 电池并支持 44W 闪充，配备 6.76 英寸 LCD 显示屏，后置 5000 万像素索尼主摄 + 200 万像素景深镜头。官方对配色进行了诗意描述，青峰如青山云海的寒光，沙漠金似大漠落日的万顷鎏光，墨影源自静夜深岩的深邃幽光。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/eb7c56d0-e682-488a-a91b-41a198ea1422.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/d3bb5018d878f1be1442ce819fb058a7.jpg",
-                "local_path": "data/images/d3bb5018d878f1be1442ce819fb058a7.jpg",
-                "filename": "d3bb5018d878f1be1442ce819fb058a7",
-                "original_size": 59258,
-                "processed_size": 59258
-            }
-        ]
-    },
-    {
-        "资讯标题": "三星 Galaxy S26 FE 手机壁纸曝光，有望采用京东方 OLED 面板",
-        "内容": "三星 Galaxy S26 FE 手机官方壁纸曝光，采用 Cobalt 配色的“S”形流体设计。消息称该机将首次在 FE 系列中使用京东方提供的 OLED 面板，搭载三星自研 Exynos 2500 芯片并配备 8GB RAM，预计满足日常多任务需求。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/0e9ed17b-20bc-4f30-9483-4ec70ee74b06.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/ee7ed17a43c6354f822854fc29b55f48.jpg",
-                "local_path": "data/images/ee7ed17a43c6354f822854fc29b55f48.jpg",
-                "filename": "ee7ed17a43c6354f822854fc29b55f48",
-                "original_size": 103186,
-                "processed_size": 81865
-            }
-        ]
-    },
-    {
-        "资讯标题": "8.8 英寸 LCD 屏：小米 REDMI K Pad 平板电脑 8+256G 国补后 1663 元",
-        "内容": "REDMI 首款旗舰小平板 K Pad 于 2025 年 6 月 26 日发布，配备 8.8 英寸定制 3K LCD 屏幕，支持 165Hz 刷新率、372Hz 触控采样率，搭载天玑 9400+ 旗舰芯片及超大铝合金液冷 VC，内置 7500mAh 电池，首次采用双 USB-C 接口并支持旁路充电 Plus，提供三款时尚配色。京东 618 大促期间，叠加 PLUS 超级补贴 150 元、店铺券 200 元及国补 15%，8GB+256GB 版到手价仅 1663.6 元。",
-        "配图": [
-            {
-                "url": "https://img14.360buyimg.com/pop/jfs/t1/289030/35/14573/27140/685d03bdFb7296c37/a515ecba11d23121.png",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/19bff75cb7b7de98513c3514ab81899e.jpg",
-                "local_path": "data/images/19bff75cb7b7de98513c3514ab81899e.jpg",
-                "filename": "19bff75cb7b7de98513c3514ab81899e",
-                "original_size": 75782,
-                "processed_size": 62530
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/c5eba344-9f95-4396-8d43-b9e82d0565e0.png?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/84938668dcf5b33caa8bf294e81a8466.jpg",
+                "local_path": "data/images/84938668dcf5b33caa8bf294e81a8466.jpg",
+                "filename": "84938668dcf5b33caa8bf294e81a8466",
+                "original_size": 30348,
+                "processed_size": 30348
             }
         ]
     }

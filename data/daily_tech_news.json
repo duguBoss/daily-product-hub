@@ -1,71 +1,62 @@
 [
     {
-        "资讯标题": "方正推出 10.1 英寸二合一 Win11 平板 BSI16E0A：搭英特尔 N5030、1200P 触控面板，1499 元",
-        "内容": "方正推出型号BSI16E0A的10.1英寸二合一Win11平板，售价1499元（部分地区国补后1349.1元）。该机搭载英特尔N5030处理器，配8GB RAM、128GB存储，正面为1920×1200分辨率、亮度300尼特的触控屏，前置2MP、后置5MP摄像头，重量1.16kg，内置4000mAh电池支持30W有线充电，侧面提供USB-A、USB-C、TF卡槽、Mini HDMI和3.5mm音频接口，已在京东上架。",
+        "资讯标题": "三星 Galaxy Z Fold8 Ultra 等 3 款折叠手机颜色 / 存储规格曝光",
+        "内容": "三星计划在2026年推出Galaxy Z Flip8、Galaxy Z Fold8（宽折叠）和Galaxy Z Fold8 Ultra三款折叠手机。每款机型提供四种配色：奶油白、石墨灰通用，以及各自独有的薄荷绿/开心果色/绿、粉色/薰衣草色/紫。存储方面，起步为256GB，最高可达1TB（仅Ultra提供1TB版），且颜色与存储不绑定，用户可自由组合。",
         "配图": [
             {
-                "url": "https://img14.360buyimg.com/pop/jfs/t1/451222/33/3946/59822/6a239012F685acaa3/0083320320c81ac9.jpg",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/f6c5e774f42f4c0fb0fb9869c8299d3f.jpg",
-                "local_path": "data/images/f6c5e774f42f4c0fb0fb9869c8299d3f.jpg",
-                "filename": "f6c5e774f42f4c0fb0fb9869c8299d3f",
-                "original_size": 114636,
-                "processed_size": 107051
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/e0365583-46a9-4959-8b04-4e83c3a613a2.jpg@s_2,w_820,h_462",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/eaea027de3145172854d19b0e67065de.jpg",
+                "local_path": "data/images/eaea027de3145172854d19b0e67065de.jpg",
+                "filename": "eaea027de3145172854d19b0e67065de",
+                "original_size": 46486,
+                "processed_size": 46486
             }
         ]
     },
     {
-        "资讯标题": "郭明錤：谷歌开发 TPU v9 芯片推理优化升级款，联发科接单",
-        "内容": "郭明錤透露，谷歌将在TPU v9（代号Humufish）基础上推出推理优化升级版，代号可能为Triggerfish，旨在缓解CPU墙与内存墙问题。该芯片内部SRAM缓存将是Humufish的2～3倍，外部DRAM从HBM4升级至更高速率的HBM4E，并引入simulation die用于本地TPU管理、训推切换、强化学习与AI智能体协作。联发科独家获得订单，预计2027年底投产、2028年底放量，生命周期出货100～200万颗，单价较Humufish高约30%。",
+        "资讯标题": "品牌首款纯电车型 Luce 发布后，法拉利更换营销负责人",
+        "内容": "法拉利在首款纯电车型Luce发布后不久，更换了任职16年以上的首席营销与商务官恩里科·加列拉，由宝马意大利前负责人马西米利亚诺·迪·西尔维斯特雷接任，7月1日生效。Luce发布当日法拉利股价单日跌约8%。文章指出，法拉利提前公布了车型名称、内饰、性能参数，导致发布会仅剩争议的外观设计成为焦点，舆论集中吐槽外观，且未安排媒体试驾，营销节奏失当被视为高管更替的背景原因。",
+        "配图": []
+    },
+    {
+        "资讯标题": "东风奕派 M8 官宣 6 月 28 日开启预售，搭载华为乾崑智驾 ADS 5 Pro",
+        "内容": "东风汽车官宣奕派 M8 将于 6 月 28 日开启预售，搭载华为乾崑智驾 ADS 5 Pro。新车提供烟霞紫、远黛蓝等五种外观色，车身尺寸 5020×1975×1733mm，轴距 3025mm。配备华为乾崑技术六件套（ADS 5 Pro、HarmonySpace 5.2 座舱、乾崑车云、乾崑车控、鲸鳍通信、HUAWEI SOUND 21 扬声器）。动力方面，纯电版采用 800V 高压平台，电机功率 230kW，CLTC 续航 600km；增程版采用 4C 快充架构，增程器最大功率 95kW，驱动电机峰值功率 215kW，纯电 CLTC 续航 300km。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/1cecdad4-b546-4f3a-ba0f-06973002fce2.jpg",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/246d9caaba5fc5ea8aca6924388517bf.jpg",
-                "local_path": "data/images/246d9caaba5fc5ea8aca6924388517bf.jpg",
-                "filename": "246d9caaba5fc5ea8aca6924388517bf",
-                "original_size": 169461,
-                "processed_size": 149479
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/164df8bd-66bf-4640-9c6e-4606ca9bb245.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/dc2c2256f2da6500e6b5fde2a528101f.jpg",
+                "local_path": "data/images/dc2c2256f2da6500e6b5fde2a528101f.jpg",
+                "filename": "dc2c2256f2da6500e6b5fde2a528101f",
+                "original_size": 79436,
+                "processed_size": 79436
             }
         ]
     },
     {
-        "资讯标题": "优派“XG323B-4K-OLED”31.5 英寸显示器发售：4K 165Hz/1080P 330Hz 双模，4099 元",
-        "内容": "优派推出XG323B-4K-OLED 31.5英寸显示器，支持4K 165Hz和1080p 330Hz双模切换，首发价4099元。该机采用LG Display WOLED面板，峰值亮度1300尼特，响应时间0.03ms，动态对比度150万:1，覆盖98.5% DCI-P3色彩，提供升降/倾斜/旋转支架及VESA挂接，接口包括2×HDMI 2.1、2×DP 1.4和3.5mm音频 jack，已在京东开售。",
+        "资讯标题": "腾龙 17-70mm F2.8 VC 尼康 Z / 佳能 RF 卡口双版本镜头发布",
+        "内容": "腾龙今日发布适用于尼康 Z 卡口和佳能 RF 卡口的 APS-C 画幅大光圈标准变焦镜头 17-70mm F/2.8 Di III-A VC RXD（型号 B070），实现 4.1 倍变焦、恒定 F2.8 大光圈，等效全画幅焦距约 25.5‑105mm（尼康 Z）/27.2‑112mm（佳能 RF）。镜头内置防抖机构 VC，具备高速静音对焦并抑制对焦呼吸，广角端最近对焦距离 0.19 m，配备简易防滴构造、抗污涂层，滤镜口径 φ67mm。佳能 RF 版额外提供 AF/MF 切换开关和 VC 防抖开关。新品定价暂未公布，参考索尼 E 卡口和富士 X 卡口版首发价超 5000 元，腾龙京东自营旗舰店当前定价 4200 元，将于 7 月 2 日上市。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/2f97b8b9-6216-4d1c-8971-5bfdd53d6c34.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/b596e32b6e2a728d349fb1f5302c64a4.jpg",
-                "local_path": "data/images/b596e32b6e2a728d349fb1f5302c64a4.jpg",
-                "filename": "b596e32b6e2a728d349fb1f5302c64a4",
-                "original_size": 201750,
-                "processed_size": 111754
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/ffeec024-0f02-4929-a4f2-b730af48b743.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/b5de0641c8aa964b47a49bd68313041f.jpg",
+                "local_path": "data/images/b5de0641c8aa964b47a49bd68313041f.jpg",
+                "filename": "b5de0641c8aa964b47a49bd68313041f",
+                "original_size": 180808,
+                "processed_size": 150743
             }
         ]
     },
     {
-        "资讯标题": "英伟达自夸 AI 服务器 100% 液冷散热：能在 45℃ 冷却液中运行，比洗澡水还热",
-        "内容": "英伟达宣布其最新 Rubin AI 服务器实现 100% 液冷散热，无风扇，冷却液最高可达 45℃（高于普通浴缸水温），采用 75% 水和 25% 丙二醇的闭环液体直接带走芯片热量。此技术可显著降低数据中心制冷能耗——每提升 1℃ 冷却液温度可节约约 4% 制冷能源，50 MW 超大规模设施转向液冷后每年可节省超过 400 万美元（约 2715.6 万元人民币）的冷却相关能源和水费，同时消除风扇噪音（传统数据中心噪音 ≥85 dB），实现更安静、更节能的 AI 基础设施。",
+        "资讯标题": "索尼首款 RB2×2 OCL 像素结构手机图像传感器光喻 LYTIA 610 发布：1/2 英寸、64MP",
+        "内容": "索尼发布首款采用RB2×2 OCL像素结构的手机CMOS图像传感器LYTIA 610，规格为1/2英寸、约6400万像素。该结构融合1×1 OCL高分辨率与2×2 OCL对焦提升，较前代LYTIA 601解像线数提升20%以上，并成为索尼首款支持4K 120fps视频的1/2英寸传感器。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/14864b41-d1a7-4ff5-9aab-b61dddd4e174.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/fa02e5c17221ffb794887affc90f211c.jpg",
-                "local_path": "data/images/fa02e5c17221ffb794887affc90f211c.jpg",
-                "filename": "fa02e5c17221ffb794887affc90f211c",
-                "original_size": 326284,
-                "processed_size": 270259
-            }
-        ]
-    },
-    {
-        "资讯标题": "小米 YU7 GT 第一视角：见证全球首个纽北自动驾驶圈速纪录诞生",
-        "内容": "小米 YU7 GT 实现全球首个纽北自动驾驶圈速纪录，时间为 10 分 29 秒 483。官方发布了第一视角视频，展示该车在赛道上的自动驾驶表现。该车搭载新一代超级电机 V8s EVO，最大马力 1003 匹，峰值功率 738kW，CLTC 续航 705km，零百加速 2.92 秒，最高时速 300km/h，配备 101.7kWh 三元锂电池和 897V 碳化硅高压平台，15 分钟可补能 570km。全系标配 1 颗激光雷达、1 颗 4D 毫米波雷达、11 个高清摄像头、12 个超声波雷达及小米 HAD 辅助驾驶系统，算力平台为全新 NVIDIA DRIVE AGX Thor™。官方指导价 38.99‑42.99 万元。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/46d46669-bafa-4c7a-ad89-361c7c52dbca.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/d83d912ec2eb166b0e96a60c9b0f531a.jpg",
-                "local_path": "data/images/d83d912ec2eb166b0e96a60c9b0f531a.jpg",
-                "filename": "d83d912ec2eb166b0e96a60c9b0f531a",
-                "original_size": 116588,
-                "processed_size": 116588
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/00bf63a2-3618-420c-bd2f-9c69015887b2.jpg@s_2,w_820,h_1389",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/ee636714d241101e1306e6039835ef0f.jpg",
+                "local_path": "data/images/ee636714d241101e1306e6039835ef0f.jpg",
+                "filename": "ee636714d241101e1306e6039835ef0f",
+                "original_size": 376407,
+                "processed_size": 132628
             }
         ]
     }

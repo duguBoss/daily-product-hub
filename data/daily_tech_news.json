@@ -1,62 +1,71 @@
 [
     {
-        "资讯标题": "三星 Galaxy Z Fold8 Ultra 等 3 款折叠手机颜色 / 存储规格曝光",
-        "内容": "三星计划在2026年推出Galaxy Z Flip8、Galaxy Z Fold8（宽折叠）和Galaxy Z Fold8 Ultra三款折叠手机。每款机型提供四种配色：奶油白、石墨灰通用，以及各自独有的薄荷绿/开心果色/绿、粉色/薰衣草色/紫。存储方面，起步为256GB，最高可达1TB（仅Ultra提供1TB版），且颜色与存储不绑定，用户可自由组合。",
+        "资讯标题": "IDC 报告：2026Q1 全球手持智能相机市场出货量同比增长 33% 至 414 万台，大疆、影石前二",
+        "内容": "IDC报告称，2026Q1全球手持智能相机出货量414万台，同比增长33%，销售额超105亿元人民币，增长20%。预计2030年出货量超4000万台，五年复合增长率近18%。其中运动相机出货约201万台，增39%；云台相机增18%；全景相机增55%。大疆占运动相机市场份额53%以上，影石24%；大疆整体手持智能相机份额65%，影石22%，均实现显著增长。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/e0365583-46a9-4959-8b04-4e83c3a613a2.jpg@s_2,w_820,h_462",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/eaea027de3145172854d19b0e67065de.jpg",
-                "local_path": "data/images/eaea027de3145172854d19b0e67065de.jpg",
-                "filename": "eaea027de3145172854d19b0e67065de",
-                "original_size": 46486,
-                "processed_size": 46486
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/f4ef3c11-c431-4bb3-8fcf-14d2039b43b0.png",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/cea7f79c510be35f65819fb8fc8490a6.jpg",
+                "local_path": "data/images/cea7f79c510be35f65819fb8fc8490a6.jpg",
+                "filename": "cea7f79c510be35f65819fb8fc8490a6",
+                "original_size": 84780,
+                "processed_size": 60256
             }
         ]
     },
     {
-        "资讯标题": "品牌首款纯电车型 Luce 发布后，法拉利更换营销负责人",
-        "内容": "法拉利在首款纯电车型Luce发布后不久，更换了任职16年以上的首席营销与商务官恩里科·加列拉，由宝马意大利前负责人马西米利亚诺·迪·西尔维斯特雷接任，7月1日生效。Luce发布当日法拉利股价单日跌约8%。文章指出，法拉利提前公布了车型名称、内饰、性能参数，导致发布会仅剩争议的外观设计成为焦点，舆论集中吐槽外观，且未安排媒体试驾，营销节奏失当被视为高管更替的背景原因。",
-        "配图": []
-    },
-    {
-        "资讯标题": "东风奕派 M8 官宣 6 月 28 日开启预售，搭载华为乾崑智驾 ADS 5 Pro",
-        "内容": "东风汽车官宣奕派 M8 将于 6 月 28 日开启预售，搭载华为乾崑智驾 ADS 5 Pro。新车提供烟霞紫、远黛蓝等五种外观色，车身尺寸 5020×1975×1733mm，轴距 3025mm。配备华为乾崑技术六件套（ADS 5 Pro、HarmonySpace 5.2 座舱、乾崑车云、乾崑车控、鲸鳍通信、HUAWEI SOUND 21 扬声器）。动力方面，纯电版采用 800V 高压平台，电机功率 230kW，CLTC 续航 600km；增程版采用 4C 快充架构，增程器最大功率 95kW，驱动电机峰值功率 215kW，纯电 CLTC 续航 300km。",
+        "资讯标题": "谷歌安卓 17 测试新特性：除手电筒外，锁屏限制操控所有快速设置控件",
+        "内容": "谷歌正在安卓 17 QPR1 Beta 5 中测试一项新的锁屏安全特性‘Require unlock for Quick Settings’。启用后，除手电筒外，所有快速设置控件（如蓝牙、热点、钱包、快速共享等）均需解锁后才能操作，旨在防止他人未经授权修改设置。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/164df8bd-66bf-4640-9c6e-4606ca9bb245.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/dc2c2256f2da6500e6b5fde2a528101f.jpg",
-                "local_path": "data/images/dc2c2256f2da6500e6b5fde2a528101f.jpg",
-                "filename": "dc2c2256f2da6500e6b5fde2a528101f",
-                "original_size": 79436,
-                "processed_size": 79436
+                "url": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/6/965145_240.jpg",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/8b249ffbc6530a399839d5dff2b49400.jpg",
+                "local_path": "data/images/8b249ffbc6530a399839d5dff2b49400.jpg",
+                "filename": "8b249ffbc6530a399839d5dff2b49400",
+                "original_size": 12629,
+                "processed_size": 7738
             }
         ]
     },
     {
-        "资讯标题": "腾龙 17-70mm F2.8 VC 尼康 Z / 佳能 RF 卡口双版本镜头发布",
-        "内容": "腾龙今日发布适用于尼康 Z 卡口和佳能 RF 卡口的 APS-C 画幅大光圈标准变焦镜头 17-70mm F/2.8 Di III-A VC RXD（型号 B070），实现 4.1 倍变焦、恒定 F2.8 大光圈，等效全画幅焦距约 25.5‑105mm（尼康 Z）/27.2‑112mm（佳能 RF）。镜头内置防抖机构 VC，具备高速静音对焦并抑制对焦呼吸，广角端最近对焦距离 0.19 m，配备简易防滴构造、抗污涂层，滤镜口径 φ67mm。佳能 RF 版额外提供 AF/MF 切换开关和 VC 防抖开关。新品定价暂未公布，参考索尼 E 卡口和富士 X 卡口版首发价超 5000 元，腾龙京东自营旗舰店当前定价 4200 元，将于 7 月 2 日上市。",
+        "资讯标题": "Akko 推出无摇杆街机控制器 FUNBOX：凯华矮磁轴，集成 2.0\" LCD 屏幕",
+        "内容": "Akko 最近推出街机控制器新品 FUNBOX，采用无摇杆设计，搭载凯华 Star Mini Magnetic 矮磁轴（亦兼容其他凯华低轴），支持 8kHz 回报率、50kHz 扫描率，Rapid Trigger 精度达 0.005mm。产品配有 17 个游戏按键＋6 个系统按键，侧面设有多功能铝制旋钮，顶部集成 2.0 英寸全彩 LCD 屏幕，表面经电火花哑光处理。PCB 支持轴体热插拔，原装轴总行程 2.8mm，初始力度 30gf，采用 POM/PC/尼龙三种材料，使用寿命超过 1 亿次。美国售价 94.99 美元，日本含税售价 22990 日元（约合人民币 647.6–968.8 元）。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/ffeec024-0f02-4929-a4f2-b730af48b743.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/b5de0641c8aa964b47a49bd68313041f.jpg",
-                "local_path": "data/images/b5de0641c8aa964b47a49bd68313041f.jpg",
-                "filename": "b5de0641c8aa964b47a49bd68313041f",
-                "original_size": 180808,
-                "processed_size": 150743
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/7424988d-c09b-48b3-b685-fc9834eacde0.jpg@s_2,w_820,h_615",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/4b1ccc17fd2132294f39bca54aa081a5.jpg",
+                "local_path": "data/images/4b1ccc17fd2132294f39bca54aa081a5.jpg",
+                "filename": "4b1ccc17fd2132294f39bca54aa081a5",
+                "original_size": 31884,
+                "processed_size": 31884
             }
         ]
     },
     {
-        "资讯标题": "索尼首款 RB2×2 OCL 像素结构手机图像传感器光喻 LYTIA 610 发布：1/2 英寸、64MP",
-        "内容": "索尼发布首款采用RB2×2 OCL像素结构的手机CMOS图像传感器LYTIA 610，规格为1/2英寸、约6400万像素。该结构融合1×1 OCL高分辨率与2×2 OCL对焦提升，较前代LYTIA 601解像线数提升20%以上，并成为索尼首款支持4K 120fps视频的1/2英寸传感器。",
+        "资讯标题": "比亚迪推出 BYD 灵动按键：自定义 40+ 项快捷功能，259 元",
+        "内容": "比亚迪官方商城上线BYD灵动按键，首发价259元。该按键支持磁吸或3M胶贴附着车内任意位置，可自定义40+项快捷功能（如空调、座椅调节），支持单击、双击、旋转三种交互，控制延迟不超30ms；可通过NFC与手机碰一碰实现车机蓝牙连接；内置可拆卸纽扣电池，标称续航1年；首发适配比亚迪大唐，后续将陆续支持更多车型。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/00bf63a2-3618-420c-bd2f-9c69015887b2.jpg@s_2,w_820,h_1389",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/ee636714d241101e1306e6039835ef0f.jpg",
-                "local_path": "data/images/ee636714d241101e1306e6039835ef0f.jpg",
-                "filename": "ee636714d241101e1306e6039835ef0f",
-                "original_size": 376407,
-                "processed_size": 132628
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/a40d7326-e332-4c94-a5e7-445bd9819ed0.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/67a78c04ae8f29ec9751f11471d837c0.jpg",
+                "local_path": "data/images/67a78c04ae8f29ec9751f11471d837c0.jpg",
+                "filename": "67a78c04ae8f29ec9751f11471d837c0",
+                "original_size": 63424,
+                "processed_size": 63424
+            }
+        ]
+    },
+    {
+        "资讯标题": "理想 AI 眼镜 Livis 六月 OTA 升级：新增同声传译、手机端语音助手唤醒等",
+        "内容": "理想 AI 眼镜 Livis 六月 OTA 升级新增同声传译（聆听与对话模式，后续支持 19 种语言）、手机端语音助手唤醒、按键与触控区个性化设置、眼镜盒低电量弹窗提醒、理想同学新音色、单次录音时长提升至最高 7 小时、竖版视频画质提升 42%、视频传输速度提约 20%，并优化了多项功能。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/6afab1c0-b439-4341-b14e-8353503fa863.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/4f9dbd141c2e745a9cb4ff7eb380feaf.jpg",
+                "local_path": "data/images/4f9dbd141c2e745a9cb4ff7eb380feaf.jpg",
+                "filename": "4f9dbd141c2e745a9cb4ff7eb380feaf",
+                "original_size": 249746,
+                "processed_size": 136751
             }
         ]
     }

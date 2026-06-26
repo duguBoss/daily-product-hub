@@ -1,71 +1,57 @@
 [
     {
-        "资讯标题": "IDC 报告：2026Q1 全球手持智能相机市场出货量同比增长 33% 至 414 万台，大疆、影石前二",
-        "内容": "IDC报告称，2026Q1全球手持智能相机出货量414万台，同比增长33%，销售额超105亿元人民币，增长20%。预计2030年出货量超4000万台，五年复合增长率近18%。其中运动相机出货约201万台，增39%；云台相机增18%；全景相机增55%。大疆占运动相机市场份额53%以上，影石24%；大疆整体手持智能相机份额65%，影石22%，均实现显著增长。",
+        "资讯标题": "三星重启维护近 10 年旧手机：Galaxy S8/S8+/Note 8 推送性能优化更新",
+        "内容": "三星近日向Galaxy S8、S8+及Note 8三款近十年旧机推送性能优化更新，主要提升系统稳定性和运行流畅度，未引入新功能，安全补丁仍停留在2021年。更新先由Verizon运营商版推送，随后将覆盖零售版及更多地区。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/f4ef3c11-c431-4bb3-8fcf-14d2039b43b0.png",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/cea7f79c510be35f65819fb8fc8490a6.jpg",
-                "local_path": "data/images/cea7f79c510be35f65819fb8fc8490a6.jpg",
-                "filename": "cea7f79c510be35f65819fb8fc8490a6",
-                "original_size": 84780,
-                "processed_size": 60256
+                "url": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/6/967185_240.jpg",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/c57aaca668aee98a310efd1eac208626.jpg",
+                "local_path": "data/images/c57aaca668aee98a310efd1eac208626.jpg",
+                "filename": "c57aaca668aee98a310efd1eac208626",
+                "original_size": 15382,
+                "processed_size": 13080
             }
         ]
     },
     {
-        "资讯标题": "谷歌安卓 17 测试新特性：除手电筒外，锁屏限制操控所有快速设置控件",
-        "内容": "谷歌正在安卓 17 QPR1 Beta 5 中测试一项新的锁屏安全特性‘Require unlock for Quick Settings’。启用后，除手电筒外，所有快速设置控件（如蓝牙、热点、钱包、快速共享等）均需解锁后才能操作，旨在防止他人未经授权修改设置。",
+        "资讯标题": "特朗普 T1 手机开放销售，结算页需额外支付 41.75 美元的“设备税”",
+        "内容": "特朗普移动（Trump Mobile）T1 手机于6月26日开放公开销售，标价499美元，但结算时加收41.75美元“设备税”，实际到手价540美元。早期预订用户已付100美元定金却仍未收到货且未获官方沟通。该机原称美国制造，后多次延期，仅在迈阿密进行最终组装，外观与HTC U24 Pro相似，配备6.78英寸OLED屏、骁龙7系列处理器、5000mAh电池、后置三摄（5000万主摄+2倍长焦+800万超广角）、512GB存储，运行Android 15。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/6/965145_240.jpg",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/8b249ffbc6530a399839d5dff2b49400.jpg",
-                "local_path": "data/images/8b249ffbc6530a399839d5dff2b49400.jpg",
-                "filename": "8b249ffbc6530a399839d5dff2b49400",
-                "original_size": 12629,
-                "processed_size": 7738
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/ec26f1e2-54b0-406d-a2d2-2c8ba4f06988.png",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/5d0374331840a45ef76cede73db4803d.jpg",
+                "local_path": "data/images/5d0374331840a45ef76cede73db4803d.jpg",
+                "filename": "5d0374331840a45ef76cede73db4803d",
+                "original_size": 234143,
+                "processed_size": 82203
             }
         ]
     },
     {
-        "资讯标题": "Akko 推出无摇杆街机控制器 FUNBOX：凯华矮磁轴，集成 2.0\" LCD 屏幕",
-        "内容": "Akko 最近推出街机控制器新品 FUNBOX，采用无摇杆设计，搭载凯华 Star Mini Magnetic 矮磁轴（亦兼容其他凯华低轴），支持 8kHz 回报率、50kHz 扫描率，Rapid Trigger 精度达 0.005mm。产品配有 17 个游戏按键＋6 个系统按键，侧面设有多功能铝制旋钮，顶部集成 2.0 英寸全彩 LCD 屏幕，表面经电火花哑光处理。PCB 支持轴体热插拔，原装轴总行程 2.8mm，初始力度 30gf，采用 POM/PC/尼龙三种材料，使用寿命超过 1 亿次。美国售价 94.99 美元，日本含税售价 22990 日元（约合人民币 647.6–968.8 元）。",
+        "资讯标题": "安卓最强 2nm 芯片：高通阵营迭代新机 8 系芯片方案曝光，骁龙 8 Elite Gen6 可选 Pro 版",
+        "内容": "博主@数码闲聊站曝光高通骁龙8系新芯片方案：SM8975（骁龙8 Elite Gen6 Pro）和SM8950（骁龙8 Elite Gen6）均采用2nm工艺，采用2+3+3 Oryan CPU架构，共享16MB L2缓存，分别配备A850 GPU（18MB GMEM）和A845 GPU（12MB GMEM），支持LPDDR6/5X或LPDDR5X；SM8850系列为3nm骁龙8 Elite Gen5/Gen5XX/Gen5 Pro。Pro版被定位为安卓最强2nm芯片，主要面向2027年Ultra旗舰，需考虑高昂成本，且新增UFS5.0支持及驱动三折叠手机能力。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/7424988d-c09b-48b3-b685-fc9834eacde0.jpg@s_2,w_820,h_615",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/4b1ccc17fd2132294f39bca54aa081a5.jpg",
-                "local_path": "data/images/4b1ccc17fd2132294f39bca54aa081a5.jpg",
-                "filename": "4b1ccc17fd2132294f39bca54aa081a5",
-                "original_size": 31884,
-                "processed_size": 31884
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/4c60f0c4-024e-4799-9f94-8c983a0b3ff8.jpg@s_2,w_820,h_623",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/bdbbcf83edfec5a412dda93407b3264a.jpg",
+                "local_path": "data/images/bdbbcf83edfec5a412dda93407b3264a.jpg",
+                "filename": "bdbbcf83edfec5a412dda93407b3264a",
+                "original_size": 135925,
+                "processed_size": 113810
             }
         ]
     },
     {
-        "资讯标题": "比亚迪推出 BYD 灵动按键：自定义 40+ 项快捷功能，259 元",
-        "内容": "比亚迪官方商城上线BYD灵动按键，首发价259元。该按键支持磁吸或3M胶贴附着车内任意位置，可自定义40+项快捷功能（如空调、座椅调节），支持单击、双击、旋转三种交互，控制延迟不超30ms；可通过NFC与手机碰一碰实现车机蓝牙连接；内置可拆卸纽扣电池，标称续航1年；首发适配比亚迪大唐，后续将陆续支持更多车型。",
+        "资讯标题": "荣耀 X80 Pro Max 手机开售：11000mAh 行业最大电池，1999 元起",
+        "内容": "荣耀 X80 Pro Max 手机于2026年6月26日开售，搭载行业最大的11000mAh 青海湖电池，支持90W有线快充和27W反向充电，峰值亮度突破10000nits的6.8英寸1.5K OLED屏幕，采用第五代骁龙6移动平台，提供8GB+128GB/256GB/512GB和12GB+512GB四种存储版本，定价1999元起，叠加国补后最低可至1699元。新机还获吉尼斯世界纪录26小时08分34秒续航认证，并提供元气橙、闪电红、月影白、玄甲黑四款配色。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/a40d7326-e332-4c94-a5e7-445bd9819ed0.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/67a78c04ae8f29ec9751f11471d837c0.jpg",
-                "local_path": "data/images/67a78c04ae8f29ec9751f11471d837c0.jpg",
-                "filename": "67a78c04ae8f29ec9751f11471d837c0",
-                "original_size": 63424,
-                "processed_size": 63424
-            }
-        ]
-    },
-    {
-        "资讯标题": "理想 AI 眼镜 Livis 六月 OTA 升级：新增同声传译、手机端语音助手唤醒等",
-        "内容": "理想 AI 眼镜 Livis 六月 OTA 升级新增同声传译（聆听与对话模式，后续支持 19 种语言）、手机端语音助手唤醒、按键与触控区个性化设置、眼镜盒低电量弹窗提醒、理想同学新音色、单次录音时长提升至最高 7 小时、竖版视频画质提升 42%、视频传输速度提约 20%，并优化了多项功能。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/6afab1c0-b439-4341-b14e-8353503fa863.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/4f9dbd141c2e745a9cb4ff7eb380feaf.jpg",
-                "local_path": "data/images/4f9dbd141c2e745a9cb4ff7eb380feaf.jpg",
-                "filename": "4f9dbd141c2e745a9cb4ff7eb380feaf",
-                "original_size": 249746,
-                "processed_size": 136751
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/8da75195-e37f-4838-8511-01f0e49cfccb.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/d247a053063f0d3161ce58a5b7ee4951.jpg",
+                "local_path": "data/images/d247a053063f0d3161ce58a5b7ee4951.jpg",
+                "filename": "d247a053063f0d3161ce58a5b7ee4951",
+                "original_size": 696400,
+                "processed_size": 174198
             }
         ]
     }

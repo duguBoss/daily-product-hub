@@ -1,57 +1,57 @@
 [
     {
-        "资讯标题": "三星重启维护近 10 年旧手机：Galaxy S8/S8+/Note 8 推送性能优化更新",
-        "内容": "三星近日向Galaxy S8、S8+及Note 8三款近十年旧机推送性能优化更新，主要提升系统稳定性和运行流畅度，未引入新功能，安全补丁仍停留在2021年。更新先由Verizon运营商版推送，随后将覆盖零售版及更多地区。",
+        "资讯标题": "外媒在 AMD RDNA 3 显卡上测试：FSR 4.1 超分比 3.1 最多慢 14.5%",
+        "内容": "ComputerBase 在 AMD RDNA 3 显卡（RX 7900 XTX、RX 7800 XT、RX 7600 及 RX 9070 XT）上测试了 9 款游戏，发现 FSR 4.1 超分技术相比 FSR 3.1 在质量模式下帧率降低约 11%，在性能模式下最多降低 14.5%。具体来说，RX 7900 XTX 在 FSR 4.1 质量模式下为 52.6 FPS（FSR 3.1 为 59 FPS），性能模式为 65.2 FPS（FSR 3.1 为 76.3 FPS）；其他型号表现类似，性能下降幅度在 7%~14.5% 之间。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/6/967185_240.jpg",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/c57aaca668aee98a310efd1eac208626.jpg",
-                "local_path": "data/images/c57aaca668aee98a310efd1eac208626.jpg",
-                "filename": "c57aaca668aee98a310efd1eac208626",
-                "original_size": 15382,
-                "processed_size": 13080
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/fadf1b04-4236-4447-bdfe-23ee65671498.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/745c9c54c187fd62b5dba1318613b1b9.jpg",
+                "local_path": "data/images/745c9c54c187fd62b5dba1318613b1b9.jpg",
+                "filename": "745c9c54c187fd62b5dba1318613b1b9",
+                "original_size": 31334,
+                "processed_size": 31334
             }
         ]
     },
     {
-        "资讯标题": "特朗普 T1 手机开放销售，结算页需额外支付 41.75 美元的“设备税”",
-        "内容": "特朗普移动（Trump Mobile）T1 手机于6月26日开放公开销售，标价499美元，但结算时加收41.75美元“设备税”，实际到手价540美元。早期预订用户已付100美元定金却仍未收到货且未获官方沟通。该机原称美国制造，后多次延期，仅在迈阿密进行最终组装，外观与HTC U24 Pro相似，配备6.78英寸OLED屏、骁龙7系列处理器、5000mAh电池、后置三摄（5000万主摄+2倍长焦+800万超广角）、512GB存储，运行Android 15。",
+        "资讯标题": "一加 N6 手机开箱图曝光：45W 充电，将配 8000mAh 电池",
+        "内容": "一加 N6 手机开箱图曝光，盒内附硅胶保护壳、USB‑C 数据线、取卡针和 45W SuperVOOC 充电器。机身背面有三个摄像头开孔，官方仅确认 5000 万像素主摄和 800 万像素前置。据悉该机采用 1570×720 屏幕，搭载联发科天玑 6100+ 芯片，配 6GB 内存，运行 Android 16，内置 8000mAh 大电池，支持 45W 快充，计划于 6 月 30 日发布。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/ec26f1e2-54b0-406d-a2d2-2c8ba4f06988.png",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/5d0374331840a45ef76cede73db4803d.jpg",
-                "local_path": "data/images/5d0374331840a45ef76cede73db4803d.jpg",
-                "filename": "5d0374331840a45ef76cede73db4803d",
-                "original_size": 234143,
-                "processed_size": 82203
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/a3fa4610-7929-4012-ad74-6202e9ff89c6.png?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/13bb4130b3e55b5b1a5242756d25cfec.jpg",
+                "local_path": "data/images/13bb4130b3e55b5b1a5242756d25cfec.jpg",
+                "filename": "13bb4130b3e55b5b1a5242756d25cfec",
+                "original_size": 252136,
+                "processed_size": 96041
             }
         ]
     },
     {
-        "资讯标题": "安卓最强 2nm 芯片：高通阵营迭代新机 8 系芯片方案曝光，骁龙 8 Elite Gen6 可选 Pro 版",
-        "内容": "博主@数码闲聊站曝光高通骁龙8系新芯片方案：SM8975（骁龙8 Elite Gen6 Pro）和SM8950（骁龙8 Elite Gen6）均采用2nm工艺，采用2+3+3 Oryan CPU架构，共享16MB L2缓存，分别配备A850 GPU（18MB GMEM）和A845 GPU（12MB GMEM），支持LPDDR6/5X或LPDDR5X；SM8850系列为3nm骁龙8 Elite Gen5/Gen5XX/Gen5 Pro。Pro版被定位为安卓最强2nm芯片，主要面向2027年Ultra旗舰，需考虑高昂成本，且新增UFS5.0支持及驱动三折叠手机能力。",
+        "资讯标题": "三星 Galaxy Watch9 系列、Galaxy Watch Ultra2 智能手表表带曝光",
+        "内容": "三星 Galaxy Watch9 系列及 Galaxy Watch Ultra2 智能手表官方表带曝光。Ultra2 表带尾端带有 Ultra 标识及橙色外圈，可能不兼容 Watch9。Hybrid 表带回归，外观似皮革实为塑料，适合运动。新款运动风表带类似 Marine 但更薄，提供橙、绿、黑、浅蓝、米五色。Sport 表带中部微内凹，颜色有黄、蓝、黑、绿等。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/4c60f0c4-024e-4799-9f94-8c983a0b3ff8.jpg@s_2,w_820,h_623",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/bdbbcf83edfec5a412dda93407b3264a.jpg",
-                "local_path": "data/images/bdbbcf83edfec5a412dda93407b3264a.jpg",
-                "filename": "bdbbcf83edfec5a412dda93407b3264a",
-                "original_size": 135925,
-                "processed_size": 113810
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/5577c06d-0cbf-49e9-878d-1867c626f760.png?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/5944bea562be81e936b0f0c2ad8d5e0e.jpg",
+                "local_path": "data/images/5944bea562be81e936b0f0c2ad8d5e0e.jpg",
+                "filename": "5944bea562be81e936b0f0c2ad8d5e0e",
+                "original_size": 56108,
+                "processed_size": 56108
             }
         ]
     },
     {
-        "资讯标题": "荣耀 X80 Pro Max 手机开售：11000mAh 行业最大电池，1999 元起",
-        "内容": "荣耀 X80 Pro Max 手机于2026年6月26日开售，搭载行业最大的11000mAh 青海湖电池，支持90W有线快充和27W反向充电，峰值亮度突破10000nits的6.8英寸1.5K OLED屏幕，采用第五代骁龙6移动平台，提供8GB+128GB/256GB/512GB和12GB+512GB四种存储版本，定价1999元起，叠加国补后最低可至1699元。新机还获吉尼斯世界纪录26小时08分34秒续航认证，并提供元气橙、闪电红、月影白、玄甲黑四款配色。",
+        "资讯标题": "Framework Laptop 13 Pro 笔记本电脑面临处理器价格上涨",
+        "内容": "Framework 宣布因处理器价格上涨，将在数周内对新订单的 Framework Laptop 13 Pro 进行价格调整。该机型搭载英特尔最新 Panther Lake 处理器，供需情况与整体行业趋势不完全一致。同时，Framework 已采购成本更低的威刚 XPG MARS 970 PCIe Gen5 SSD，并将原先 500GB 的预售订单免费升级至 1TB 存储。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/8da75195-e37f-4838-8511-01f0e49cfccb.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/d247a053063f0d3161ce58a5b7ee4951.jpg",
-                "local_path": "data/images/d247a053063f0d3161ce58a5b7ee4951.jpg",
-                "filename": "d247a053063f0d3161ce58a5b7ee4951",
-                "original_size": 696400,
-                "processed_size": 174198
+                "url": "https://img.ithome.com/newsuploadfiles/2026/4/52908e17-254c-4ba9-9e88-80387e171cfc.jpg@s_2,w_820,h_565",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/4ee19ff96d29422c88d145f80f47013d.jpg",
+                "local_path": "data/images/4ee19ff96d29422c88d145f80f47013d.jpg",
+                "filename": "4ee19ff96d29422c88d145f80f47013d",
+                "original_size": 132748,
+                "processed_size": 124137
             }
         ]
     }

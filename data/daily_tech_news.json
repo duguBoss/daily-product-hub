@@ -1,58 +1,54 @@
 [
     {
-        "资讯标题": "外媒在 AMD RDNA 3 显卡上测试：FSR 4.1 超分比 3.1 最多慢 14.5%",
-        "内容": "ComputerBase 在 AMD RDNA 3 显卡（RX 7900 XTX、RX 7800 XT、RX 7600 及 RX 9070 XT）上测试了 9 款游戏，发现 FSR 4.1 超分技术相比 FSR 3.1 在质量模式下帧率降低约 11%，在性能模式下最多降低 14.5%。具体来说，RX 7900 XTX 在 FSR 4.1 质量模式下为 52.6 FPS（FSR 3.1 为 59 FPS），性能模式为 65.2 FPS（FSR 3.1 为 76.3 FPS）；其他型号表现类似，性能下降幅度在 7%~14.5% 之间。",
+        "资讯标题": "小鹏 MONA L03 公布 23 处拓展接口，可架设运动相机、手机支架等",
+        "内容": "小鹏 MONA L03 新车将于7月亮相，官方透露全车拥有23处拓展接口：包括4个后备厢洞洞板接口（适合露营、集市），5个1/4英寸标准螺纹接口（可装运动相机、手机支架），8个无痕磁吸接口（可吸附按键、玩偶、墨镜盒），2个座椅靠背接口（可接平板、化妆镜），以及3个智能Pin口（用于香氛、净化器）。内饰方面，软包面积超72%，配备拉丝金属扬声器网罩、双层镀银全景天幕、超大柔光美妆镜；256色环抱式柔波氛围灯、4.15米超长灯带；跑车风格方向盘带双卫星按键；26.8英寸W-HUD和15.6英寸2.5K超高清中控屏。车身尺寸为4650/4672×1920×1600mm，轴距2850mm，整备质量1855‑1942kg，最高时速180km/h，搭载立讯智造70kW/183kW电机及中创新航磷酸铁锂电池包。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/fadf1b04-4236-4447-bdfe-23ee65671498.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/745c9c54c187fd62b5dba1318613b1b9.jpg",
-                "local_path": "data/images/745c9c54c187fd62b5dba1318613b1b9.jpg",
-                "filename": "745c9c54c187fd62b5dba1318613b1b9",
-                "original_size": 31334,
-                "processed_size": 31334
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/f88b9ab7-c361-4995-b730-d6dbf4b87cc9.jpg@s_2,w_820,h_1093",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/cf0572af86cf03cb95f575657665b05a.jpg",
+                "local_path": "data/images/cf0572af86cf03cb95f575657665b05a.jpg",
+                "filename": "cf0572af86cf03cb95f575657665b05a",
+                "original_size": 321413,
+                "processed_size": 127302
             }
         ]
     },
     {
-        "资讯标题": "一加 N6 手机开箱图曝光：45W 充电，将配 8000mAh 电池",
-        "内容": "一加 N6 手机开箱图曝光，盒内附硅胶保护壳、USB‑C 数据线、取卡针和 45W SuperVOOC 充电器。机身背面有三个摄像头开孔，官方仅确认 5000 万像素主摄和 800 万像素前置。据悉该机采用 1570×720 屏幕，搭载联发科天玑 6100+ 芯片，配 6GB 内存，运行 Android 16，内置 8000mAh 大电池，支持 45W 快充，计划于 6 月 30 日发布。",
+        "资讯标题": "红魔游戏平板 5 Pro 软件功能首曝：支持 AI 战术教练陪玩指导、投屏助手可投 1080P 185Hz 画面等",
+        "内容": "红魔游戏平板 5 Pro 首次曝光软件功能，内置 AI 战术教练提供赛前赛中英雄选取、出装及战术指导，以及 AI 魔姬嘴替基于 DeepSeek 进行自然语音互动。此外，平板还配备投屏助手（支持无黑边 1080P 185Hz / 4K 144Hz 低延迟投屏）、剪辑应用及电子书模式（彩墨/黑白）。硬件方面，采用第五代骁龙 8 至尊版（CPU 4.6GHz）、2K 144Hz OLED 电竞屏、2000Hz 瞬时报点率触控，并具备 RGB 水冷灯效、自研压电微泵及魔冷散热架构，提供氘锋透明银翼和暗夜两款配色。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/a3fa4610-7929-4012-ad74-6202e9ff89c6.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/13bb4130b3e55b5b1a5242756d25cfec.jpg",
-                "local_path": "data/images/13bb4130b3e55b5b1a5242756d25cfec.jpg",
-                "filename": "13bb4130b3e55b5b1a5242756d25cfec",
-                "original_size": 252136,
-                "processed_size": 96041
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/3cad2dbd-c55c-4ab5-a129-29e1e3d4c51b.jpg",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/987f9536d5514bcbd7a31cf5abe1a22d.jpg",
+                "local_path": "data/images/987f9536d5514bcbd7a31cf5abe1a22d.jpg",
+                "filename": "987f9536d5514bcbd7a31cf5abe1a22d",
+                "original_size": 1994477,
+                "processed_size": 110086
             }
         ]
     },
     {
-        "资讯标题": "三星 Galaxy Watch9 系列、Galaxy Watch Ultra2 智能手表表带曝光",
-        "内容": "三星 Galaxy Watch9 系列及 Galaxy Watch Ultra2 智能手表官方表带曝光。Ultra2 表带尾端带有 Ultra 标识及橙色外圈，可能不兼容 Watch9。Hybrid 表带回归，外观似皮革实为塑料，适合运动。新款运动风表带类似 Marine 但更薄，提供橙、绿、黑、浅蓝、米五色。Sport 表带中部微内凹，颜色有黄、蓝、黑、绿等。",
+        "资讯标题": "vivo X Fold6 折叠屏手机维修备件价格公布：内屏组件 3780 元，主板 3700 元起",
+        "内容": "vivo X Fold6 折叠屏手机于6月26日发布，起售价7999元。官方已公布维修备件价格：内屏组件3780元（首次维修7.5折后2835元），外屏外层玻璃299元，外屏组件920元，电池259元。主板价格随存储和内存不同：12GB+256GB 3700元，12GB+512GB 4200元，16GB+512GB 4700元，16GB+1TB 5200元。摄像头前置105元，后置广角110元，潜望290元，主摄390元。保修外维修费用＝配件费＋人工费50元，同一次送修更换多个配件仅收取一次人工费。",
+        "配图": []
+    },
+    {
+        "资讯标题": "HKC 推出“M27A9F1”27 英寸曲面显示器：1080P 144Hz VA 面板，599 元",
+        "内容": "HKC 于京东上架 27 英寸曲面显示器 M27A9F1，采用 1920×1080 分辨率 144Hz VA 面板，曲率 1800R，支持 8‑Bit 色彩，配备固定支架及 HDMI/VGA 接口，首发价 599 元（官方价 649 元）。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/5577c06d-0cbf-49e9-878d-1867c626f760.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/5944bea562be81e936b0f0c2ad8d5e0e.jpg",
-                "local_path": "data/images/5944bea562be81e936b0f0c2ad8d5e0e.jpg",
-                "filename": "5944bea562be81e936b0f0c2ad8d5e0e",
-                "original_size": 56108,
-                "processed_size": 56108
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/06d27b6d-2ea4-4c73-9d4c-84193f1a47b2.jpg@s_2,w_820,h_775",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/bab2219d183a7527e6a84596066de42a.jpg",
+                "local_path": "data/images/bab2219d183a7527e6a84596066de42a.jpg",
+                "filename": "bab2219d183a7527e6a84596066de42a",
+                "original_size": 142404,
+                "processed_size": 114219
             }
         ]
     },
     {
-        "资讯标题": "Framework Laptop 13 Pro 笔记本电脑面临处理器价格上涨",
-        "内容": "Framework 宣布因处理器价格上涨，将在数周内对新订单的 Framework Laptop 13 Pro 进行价格调整。该机型搭载英特尔最新 Panther Lake 处理器，供需情况与整体行业趋势不完全一致。同时，Framework 已采购成本更低的威刚 XPG MARS 970 PCIe Gen5 SSD，并将原先 500GB 的预售订单免费升级至 1TB 存储。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/4/52908e17-254c-4ba9-9e88-80387e171cfc.jpg@s_2,w_820,h_565",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/4ee19ff96d29422c88d145f80f47013d.jpg",
-                "local_path": "data/images/4ee19ff96d29422c88d145f80f47013d.jpg",
-                "filename": "4ee19ff96d29422c88d145f80f47013d",
-                "original_size": 132748,
-                "processed_size": 124137
-            }
-        ]
+        "资讯标题": "国内首个第四代半导体材料全产业链项目落户河南郑州",
+        "内容": "国内首个第四代半导体材料全产业链项目落户河南郑州。郑州高新区与中科粉研（河南）超硬材料有限公司签署协议，项目将利用金刚石、氧化镓等超宽禁带材料，为AI芯片、5G/6G通信、新能源汽车等领域提供关键材料。中科粉研拥有全球首条LPPHT微纳米金刚石产线，项目总投资15亿元，具备500台MPCVD生产2‑4英寸单晶晶圆和50条LPPHT生产微米/纳米球形金刚石的能力，预计今年底200台MPCVD投产，三年内年产值达30亿元，为“中国芯”提供重要支撑。",
+        "配图": []
     }
 ]

@@ -1,71 +1,48 @@
 [
     {
-        "资讯标题": "三星 Galaxy A18 手机渲染图曝光，5G 版将改用高通芯片",
-        "内容": "三星 Galaxy A18 手机渲染图曝光，5G 版将改用高通芯片，而 4G 版仍采用联发科。机身尺寸为 164.4 × 77.8 × 7.84mm，比 A17 厚 0.34mm；配备 6.7 英寸 90Hz Super AMOLED 水滴屏，后摄为 50MP 主摄+5MP 超广角+2MP 微距，前置 13MP，电池容量 5000mAh。",
+        "资讯标题": "联想 2026 款 YOGA Pro 15 锐龙版笔记本首销：AI Max+ 388、配 64G RAM + 1T SSD，19999 元",
+        "内容": "联想2026款YOGA Pro 15锐龙版笔记本今日下午4点首销，搭载AMD锐龙AI Max+388处理器，配备64GB LPDDR5X RAM和1TB SSD，15.3英寸2.5K 165Hz OLED屏（100% sRGB/DCI‑P3），厚度16.7mm、重量1.7kg，支持Wi‑Fi 7，内置84Wh电池并提供140W快充，售价19999元。",
+        "配图": []
+    },
+    {
+        "资讯标题": "三星显示首度参展 BW，发布游戏笔记本电脑 OLED 品牌 OBLYX",
+        "内容": "三星显示首次参加Bilibili World（BW2026），设近300㎡展位展出约50款搭载其OLED/QD-OLED面板的智能手机、笔记本和显示器。会上首次发布面向游戏笔记本的OLED品牌OBLYX，灵感源自黑曜石，强调极致纯黑、独特设计和卓越游戏性能。产品线涵盖14″、16″、18″尺寸，刷新率可达120Hz/165Hz/240Hz，响应时间0.2ms，色域覆盖100% DCI‑P3，旨在进军游戏笔记本市场。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/37e78778-e1db-4a26-a007-cd4c69c0e9ee.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/c29000bd5bd65419ba644f3e01a24aea.jpg",
-                "local_path": "data/images/c29000bd5bd65419ba644f3e01a24aea.jpg",
-                "filename": "c29000bd5bd65419ba644f3e01a24aea",
-                "original_size": 15164,
-                "processed_size": 15164
+                "url": "https://img.ithome.com/newsuploadfiles/2026/7/313b4473-8e30-4da1-997b-f5f2aadbb6ea.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/8e19b9e141a806672ea2b13f21cba22b.jpg",
+                "local_path": "data/images/8e19b9e141a806672ea2b13f21cba22b.jpg",
+                "filename": "8e19b9e141a806672ea2b13f21cba22b",
+                "original_size": 324090,
+                "processed_size": 293682
             }
         ]
     },
     {
-        "资讯标题": "联想推出拯救者随身 WiFi LM50S：150Mbps 速率，3000mAh 电池",
-        "内容": "联想于2026年7月8日发布拯救者随身WiFi LM50S，售价59元并附赠1500GB免费流量。该产品采用中兴28nm芯片，支持4G LTE及Wi‑Fi 6，可在三大运营商间切换，最高下载速率达150Mbps，具备高频穿墙技术。内置3000mAh电池，尺寸110.5×68×10.5mm，重量90g，支持最多10台设备同时连接。",
+        "资讯标题": "小米卢伟冰爆料 REDMI Note 17 标准版手机：红米最大 7 寸 OLED 屏、同档罕有 8000mAh 电池",
+        "内容": "卢伟冰爆料REDMI Note 17标准版将配备红米史上最大7英寸OLED屏，支持120Hz刷新率，峰值亮度1200nits并搭载小米青山护眼技术；同时该机罕见地提供同档位8000mAh大电池，并首曝“流星紫”配色，定档7月14日19:00发布。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/cbc536a2-ad6c-4891-9ef7-fb3c6fa224a8.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/837b15d916a836e1978c0c3b8f1b711a.jpg",
-                "local_path": "data/images/837b15d916a836e1978c0c3b8f1b711a.jpg",
-                "filename": "837b15d916a836e1978c0c3b8f1b711a",
-                "original_size": 29818,
-                "processed_size": 29818
+                "url": "https://img.ithome.com/newsuploadfiles/2026/7/f6d026ed-d41f-4aa0-82ae-ed25bdc7ccd5.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/5bd47fe5ae259681054baec18ff18564.jpg",
+                "local_path": "data/images/5bd47fe5ae259681054baec18ff18564.jpg",
+                "filename": "5bd47fe5ae259681054baec18ff18564",
+                "original_size": 27376,
+                "processed_size": 27376
             }
         ]
     },
     {
-        "资讯标题": "机械革命官宣无界 16 Max 和无界 14 Max Carbon 轻薄本，BW2026 亮相",
-        "内容": "机械革命宣布将在BilibiliWorld 2026（BW2026）展出两款新品轻薄笔记本：无界16 Max（大屏长续航）和无界14 Max Carbon（碳纤维超轻便携），分别于7月11日展出。此外，公司将于7月10日14:00举行2026款耀世Air系列轻薄游戏本新品发布会。",
+        "资讯标题": "小米手环 11 系列入网，电池容量与前代一致",
+        "内容": "小米手环11系列（型号M2616B1/M2617B1）已通过工信部无线电核准，对应普通版和NFC版，电池容量为233mAh，与前代保持一致。博主透露新品将在今年下半年发布。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/e494306b-c271-48da-962b-4d2a4fab69e8.jpg@s_2,w_820,h_729",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/b5bade6b8a6d3b122fb81566c00fc56c.jpg",
-                "local_path": "data/images/b5bade6b8a6d3b122fb81566c00fc56c.jpg",
-                "filename": "b5bade6b8a6d3b122fb81566c00fc56c",
-                "original_size": 139257,
-                "processed_size": 133443
-            }
-        ]
-    },
-    {
-        "资讯标题": "谷歌官宣 8 月 12 日发布 Pixel 11 系列手机",
-        "内容": "谷歌官宣将于美国东部时间8月12日18点（北京时间8月13日6点）在纽约举办Made By Google发布会，正式发布Pixel 11系列手机。该系列将取消128GB版本，全系起步容量提升至256GB，Pro、Pro XL和Pro Fold版本还提供1TB选项。配色方面，标准版提供灰/黑/粉/绿四种；Pro/Pro XL提供白/黑/粉/绿四种；Pro Fold仅有黑/绿两种。文章还列出了欧版不同存储容量的售价（欧元及折合人民币）。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/cdc408bc-38a2-4ed5-950c-ddb691eb9802.png",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/c92a5037bee92a2c723eb2bc2c7f6abc.jpg",
-                "local_path": "data/images/c92a5037bee92a2c723eb2bc2c7f6abc.jpg",
-                "filename": "c92a5037bee92a2c723eb2bc2c7f6abc",
-                "original_size": 176837,
-                "processed_size": 56950
-            }
-        ]
-    },
-    {
-        "资讯标题": "小米 REDMI Note 17 系列手机发布定档 7 月 14 日，外观正式公开",
-        "内容": "小米REDMI Note 17系列宣布将于2026年7月14日19点发布，官方称其为‘国民小金刚’，升配不升档，守住中端体验基线，具备更强防水防摔、超长续航（约9000mAh单电芯电池）、1.5K大直屏、双扬声器以及骁龙6系低功耗芯片，旨在成为2026年中端手机新标杆。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/c5e3c1cd-5091-47ac-94e9-8603ca44c879.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/8d7ee71cf78e27e28be33707c3542deb.jpg",
-                "local_path": "data/images/8d7ee71cf78e27e28be33707c3542deb.jpg",
-                "filename": "8d7ee71cf78e27e28be33707c3542deb",
-                "original_size": 224258,
-                "processed_size": 106894
+                "url": "https://img.ithome.com/newsuploadfiles/2026/7/5b8bb726-3d0e-459f-824c-5d2fb42564ac.jpg",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/af374406fa548aa805f392f10e4772b2.jpg",
+                "local_path": "data/images/af374406fa548aa805f392f10e4772b2.jpg",
+                "filename": "af374406fa548aa805f392f10e4772b2",
+                "original_size": 91175,
+                "processed_size": 76828
             }
         ]
     }

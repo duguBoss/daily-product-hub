@@ -1,62 +1,57 @@
 [
     {
-        "资讯标题": "三星称不再免费为 Galaxy Z8 系列手机提供 256GB→512GB 存储升级",
-        "内容": "三星MX业务宣布，即将发布的Galaxy Z 8系列折叠屏手机将不再在预售阶段免费提供256GB→512GB的存储升杯优惠。预售用户需自行承担50%的价差，MX业务补贴剩余50%。此决定源于NAND闪存供应紧张导致价差扩大以及MX业务面临零部件成本亏损风险，使得全额补贴在经济上不可行。",
+        "资讯标题": "三星 Galaxy Watch9 系列、Watch Ultra2 智能手表规格曝光",
+        "内容": "三星 Galaxy Watch9 系列提供 40mm（1.3 英寸 438×438）和 44mm（1.5 英寸 480×480）两种尺寸，采用铝合金表壳，5ATM 防水，搭载 Wear OS 7，骁龙 Wear Elite SW6100 芯片，2GB RAM，32GB 存储，电池容量分别为 325mAh 和 445mAh，支持蓝牙 6.0、NFC、双频 Wi‑Fi 及可选 LTE。Galaxy Watch Ultra2 采用 47mm 钛金属表壳，1.5 英寸 480×480 显示屏，10ATM 防水，同上芯片，2GB RAM，64GB 存储，800mAh 电池，同样支持蓝牙 6.0、NFC、双频 Wi‑Fi 和 LTE，欧洲售价 749 欧元。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/7/972898_240.jpg",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/cfbf82a65fab096c4b5b7d05a2b8c93b.jpg",
-                "local_path": "data/images/cfbf82a65fab096c4b5b7d05a2b8c93b.jpg",
-                "filename": "cfbf82a65fab096c4b5b7d05a2b8c93b",
-                "original_size": 10078,
-                "processed_size": 5412
+                "url": "https://img.ithome.com/newsuploadfiles/2026/7/e592f636-f7cf-4bc2-aa2e-6859708642d3.png",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/0d88595164c90f68631bb21ade0aa171.jpg",
+                "local_path": "data/images/0d88595164c90f68631bb21ade0aa171.jpg",
+                "filename": "0d88595164c90f68631bb21ade0aa171",
+                "original_size": 363697,
+                "processed_size": 102763
             }
         ]
     },
     {
-        "资讯标题": "红魔官方道歉游戏平板 5 Pro 缺货，产能预计 8 月中下旬改善",
-        "内容": "红魔官方就游戏平板5Pro缺货致歉，称供货紧张源于新品搭载多项全新定制旗舰硬件导致量产难度超预期，产能爬坡缓慢。公司正全力攻坚产能，预计8月中下旬有所改善，并将继续波段式销售；同时升级订单风控，严打黄牛、刷单等非正常购机行为，以保障真实玩家购买。",
-        "配图": []
-    },
-    {
-        "资讯标题": "联想拯救者 Y700 无极平板电脑搭载高通第五代骁龙 8 至尊领先版",
-        "内容": "联想拯救者官宣 Y700 无极平板电脑将于 8 月发布，搭载高通第五代骁龙 8 至尊领先版（CPU 最高主频 4.74GHz），配备 LPDDR5T 内存（10667MT/s）和 UFS 4.1 Pro 存储，支持内置流量卡及可插拔 SIM 卡的 5G（N79 频段），后置 50MP 摄像头外围配三段式 RGB 灯环。",
+        "资讯标题": "OPPO K15 标准版手机开启预约：天玑 7360 Super 芯片、8000mAh 电池，7 月 24 日开售",
+        "内容": "OPPO K15 标准版手机已在京东开启预约，搭载天玑 7360 Super 芯片、8000mAh 冰川电池，提供疾速白和疾风灰两种配色，售价暂未公布。机身采用疾速美学设计，背部带有岚影呼吸灯，支持 IP69 防尘防水，前后均为 5000 万像素三摄。配备新一代疾风散热引擎及主动散热风扇，支持 80W 超级闪充和 OPPO 山海通信，将于 7 月 24 日 10:00 开售。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/79599664-b910-4df2-b861-0d681b1c2b11.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/0cee7037c9240ef57eb5619c18c4cbda.jpg",
-                "local_path": "data/images/0cee7037c9240ef57eb5619c18c4cbda.jpg",
-                "filename": "0cee7037c9240ef57eb5619c18c4cbda",
-                "original_size": 251316,
-                "processed_size": 93788
+                "url": "https://img.ithome.com/newsuploadfiles/2026/7/5b0e93dd-381b-48b6-9cb8-23b263b57e74.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/0296e046a519775fbbcd7e31bd16c722.jpg",
+                "local_path": "data/images/0296e046a519775fbbcd7e31bd16c722.jpg",
+                "filename": "0296e046a519775fbbcd7e31bd16c722",
+                "original_size": 125748,
+                "processed_size": 110424
             }
         ]
     },
     {
-        "资讯标题": "小米发布 REDMI 儿童手表 Pro，支持无网络定位 国补价 888.25 元起",
-        "内容": "小米今日发布 REDMI 儿童电话手表 Pro，官方价 1199 元，首发 1045 元起，叠加国家补贴后到手价 888.25 元起，提供活力红和元气紫两种配色。手表支持无网络环境定位（双芯设计，关机后最高约 5 天可继续定位），具备 3D 楼层定位、地铁站点精准定位、高清翻转双摄（前后各 500 万像素）、全天候心率血氧监测、水域提醒、儿童社交系统及家长智能管控等功能，适用于学生日常佩戴与安全监护。",
+        "资讯标题": "小米蓝牙音箱 C 新增紫色款上架预约：18W 扬声器/ IP68 防水，299 元",
+        "内容": "小米蓝牙音箱 C 新增紫色款开启预约，售价 299 元。音箱配备 18W 全频扬声器及内外双被动辐射器，提供丰富音质和深沉低音；具备 IP68 防尘防水，支持 3D 幻彩灯光（水波、鼓点、常亮三种模式），蓝牙 6.0、TWS 立体声及 Auracast 最多连接 100 台设备；内置 2600mAh 电池，关灯 40% 音量下可播放约 14 小时，重 415 小时，续航约 14 小时；重 415g，配柔软硅胶提手，支持免提通话。",
         "配图": [
             {
-                "url": "https://img14.360buyimg.com/pop/jfs/t1/474651/2/15889/84172/6a54bedfF8aa40996/0083320320773b0e.jpg",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/5535633189e64ed4ebe5894d3bac400d.jpg",
-                "local_path": "data/images/5535633189e64ed4ebe5894d3bac400d.jpg",
-                "filename": "5535633189e64ed4ebe5894d3bac400d",
-                "original_size": 73308,
-                "processed_size": 73308
+                "url": "https://img.ithome.com/newsuploadfiles/2026/7/bec35940-4005-4b5b-9370-b921fc509053.png",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/0084c50c6f29138f2c8e6dbf16115043.jpg",
+                "local_path": "data/images/0084c50c6f29138f2c8e6dbf16115043.jpg",
+                "filename": "0084c50c6f29138f2c8e6dbf16115043",
+                "original_size": 460099,
+                "processed_size": 96904
             }
         ]
     },
     {
-        "资讯标题": "微星发布全球首款 27 英寸 4K IJP OLED 显示器 PRO MAX OLED 271UPJW12",
-        "内容": "微星发布全球首款27英寸4K IJP OLED显示器PRO MAX OLED 271UPJW12，采用喷墨打印OLED技术降低成本提升产能。显示规格为4K 120Hz、164 PPI、优化RGB子像素排列，支持10bit色深、99% DCI-P3、ΔE≤2，具DisplayHDR True Black 500、ClearMR 7000认证，HDR峰值亮度1000尼特，SDR亮度250尼特，兼容G-SYNC与FreeSync Premium Pro。配备M-Mate色彩同步、MSI OLED Auto Care防烧屏（三年保修）、防眩光3H硬度涂层、EyesErgo低蓝光无频闪及Eyesafe 3.0认证。人体工学支架提供DP1.4a、双HDMI2.1、四USB-A、一USB-B、双USB-C（98W/15W PD）接口，内置KVM、PIP/PBP及双2.5W扬声器。价格及上市日期暂未公布。",
+        "资讯标题": "三星承认 Galaxy S26 Ultra 手机屏幕局部发红问题：非硬件故障，已发补丁修复",
+        "内容": "三星承认 Galaxy S26 Ultra 手机在最高亮度及强光环境下出现局部发红现象，经调查确认非硬件故障，而是系统优化异常导致的色彩平衡问题。三星已通过软件补丁推送，优化色彩校正算法予以修复。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/c79bf59c-4787-4f46-abbb-57e240a7499c.jpg?x-bce-process=image/quality,q_75/resize,w_1200,h_503/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/ba316f3822d8f064ac95ddcfe8419dd5.jpg",
-                "local_path": "data/images/ba316f3822d8f064ac95ddcfe8419dd5.jpg",
-                "filename": "ba316f3822d8f064ac95ddcfe8419dd5",
-                "original_size": 20260,
-                "processed_size": 20260
+                "url": "https://img.ithome.com/newsuploadfiles/2026/7/2e1a01f5-4d2b-4ee3-b207-79c68f50bb76.png?x-bce-process=image/auto-orient,o_1",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/f27fed40bac45df3620b124863e4743b.jpg",
+                "local_path": "data/images/f27fed40bac45df3620b124863e4743b.jpg",
+                "filename": "f27fed40bac45df3620b124863e4743b",
+                "original_size": 470439,
+                "processed_size": 79540
             }
         ]
     }

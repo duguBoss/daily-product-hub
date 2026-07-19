@@ -1,57 +1,71 @@
 [
     {
-        "资讯标题": "OPPO 新机 PMW110 入网，疑似归属 Find X10 系列",
-        "内容": "OPPO 新机型号 PMW110 已入网，疑似属于 Find X10 系列并支持 N79 5G 频段。博主 @数码闲聊站 推测该机可能采用 2nm 天玑 9600 Pro、双尺寸直屏、更窄 LIPO 四窄边技术、200Mp HPC 超大底主摄及更大硅电池。网友关注发布时间，博主表示内部希望 9 月底发布；关于屏幕供应商，博主称天马 OLED 没问题。此前爆料称某厂 2nm 天玑旗舰配备 6.78 英寸 1.5K LTPO 极窄四等边大 R 角直屏、HPC 200Mp 主摄+长焦+3Mp 多光谱及超 8000mAh 电池，疑似对应 OPPO Find X10 Pro。",
+        "资讯标题": "特斯拉因大灯过亮在美国召回近 2 万辆 Model 3/Y，这次无法 OTA 修复",
+        "内容": "美国国家公路交通安全管理局（NHTSA）驳回特斯拉的软件修复申请，要求对约1.99万辆2017‑2023款Model 3和Model Y进行硬件召回，原因是这些车型的近光灯亮度超出联邦法规上限，可能在雨雪雾等恶劣天气造成眩光增加安全风险。特斯拉 ранее认为偏差微小无实质影响且未收到相关投诉，但监管机构坚持必须通过服务中心重新校准或更换大灯总成，无法通过OTA更新解决。此次事件打破了特斯拉一贯依赖空中软件升级解决问题的惯例。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/a2348922-0303-4290-8e49-3149cf6e493f.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/0ffd89e7edf989d92218afc23be9916c.jpg",
-                "local_path": "data/images/0ffd89e7edf989d92218afc23be9916c.jpg",
-                "filename": "0ffd89e7edf989d92218afc23be9916c",
-                "original_size": 266560,
-                "processed_size": 138257
+                "url": "https://img.ithome.com/newsuploadfiles/2026/7/5229ca0a-088b-47ac-9d95-5a6156e709bc.png?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/44529ffb774452e3738db56bfe42eb5f.jpg",
+                "local_path": "data/images/44529ffb774452e3738db56bfe42eb5f.jpg",
+                "filename": "44529ffb774452e3738db56bfe42eb5f",
+                "original_size": 64586,
+                "processed_size": 64586
             }
         ]
     },
     {
-        "资讯标题": "华为昇腾 950 超节点荣获 2026 世界人工智能大会最高荣誉 SAIL 奖",
-        "内容": "华为昇腾950超节点（Atlas 950 SuperPoD）荣获2026世界人工智能大会最高荣誉SAIL奖。该超节点基于灵衢互联协议和超节点架构，支持最高1024卡规模，提供1 EFLOPS FP8、2 EFLOPS FP4算力，拥有256TB全局统一内存编址空间，具备TB级NPU互联超大带宽和3µs超低RTT时延，并在大会上首次公开亮相真机。",
+        "资讯标题": "荣耀新一代伙伴型多模态智能体操作系统 AgenticOS 发布，8 月 Robot Phone 首发内核",
+        "内容": "荣耀在2026世界人工智能大会上发布新一代伙伴型多模态智能体操作系统AgenticOS，具备意图驱动、自然交互、主动智能、天生跨端四大特征，采用行业首个系统级Agent架构，支持全局多智能体协同、全场景自适应沉淀及面向全场景智能体的自循环。荣耀Robot Phone将于8月首发搭载AgenticOS内核，Q4的荣耀Magic9系列将推出尝鲜版。Robot Phone搭载第五代骁龙8至尊版芯片，机身顶部集成业内最小的四自由度钛合金机械云台，体积比主流方案缩小70%，目前已开启预约。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/e1373815-a7b9-4c42-a870-dc65fc4abf70.png",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/b8947b5facd3eade75ed849d6df5f8c7.jpg",
-                "local_path": "data/images/b8947b5facd3eade75ed849d6df5f8c7.jpg",
-                "filename": "b8947b5facd3eade75ed849d6df5f8c7",
-                "original_size": 287279,
-                "processed_size": 120723
+                "url": "https://img.ithome.com/newsuploadfiles/2026/7/b26b34ca-4eda-4411-94e1-9a94eaed1690.jpg",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/af18ca037a8e28b12cf796d0d475bfc7.jpg",
+                "local_path": "data/images/af18ca037a8e28b12cf796d0d475bfc7.jpg",
+                "filename": "af18ca037a8e28b12cf796d0d475bfc7",
+                "original_size": 4197251,
+                "processed_size": 83732
             }
         ]
     },
     {
-        "资讯标题": "消息称苹果数字车钥匙即将支持长城坦克车型",
-        "内容": "据MacRumors报道，苹果Apple Wallet后台代码显示，长城汽车旗下坦克车型即将支持数字车钥匙功能，具体型号及上线时间尚未确定。该功能可让iPhone或Apple Watch解锁/锁车、远程发动及提前开空调。苹果数字车钥匙已兼容奥迪、宝马、比亚迪等多个品牌。",
+        "资讯标题": "Steam Frame 头显何时发售？曝V社收到 19.3 吨 VR 设备",
+        "内容": "据X平台博主@HardwareSteam爆料，Valve近期收到三批VR设备，总重达19.304吨，疑似Steam Frame头显及配件。Steam平台已新增“非常适合 Frame”分类并开始兼容性评级，表明发售日期将很快公布。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/4a37c932-89d6-4a31-9759-7b76cb27a9ab.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/595a03ee33d6fe80c7dfb614cb50a799.jpg",
-                "local_path": "data/images/595a03ee33d6fe80c7dfb614cb50a799.jpg",
-                "filename": "595a03ee33d6fe80c7dfb614cb50a799",
-                "original_size": 90914,
-                "processed_size": 90914
+                "url": "https://img.ithome.com/newsuploadfiles/2026/7/32228d68-f692-4749-92dd-d5a7147c6184.png?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/63602befc580a0d1ae06211ce95baee4.jpg",
+                "local_path": "data/images/63602befc580a0d1ae06211ce95baee4.jpg",
+                "filename": "63602befc580a0d1ae06211ce95baee4",
+                "original_size": 125890,
+                "processed_size": 120244
             }
         ]
     },
     {
-        "资讯标题": "苹果多款 iPhone 在日本市场涨价，最高涨幅达 11.3%",
-        "内容": "苹果已在日本市场上调 iPhone 系列售价，涨幅最高达 iPhone Air 的 11.3%，其他机型涨幅在 8%~10.3% 之间。同时，多款 Apple Watch 和 AirPods 也有不同程度的涨价，仅 AirPods Max 2 价格未变。涨价原因可能与日元持续贬值有关，美国等地区目前尚未跟进调价。",
+        "资讯标题": "小米汽车回应澎程为何要用 76kWh 大电池，称源于做增程产品的底层理念「纯电长续航」",
+        "内容": "小米汽车澎程系列采用76kWh大容量电池，其核心理念源于增程产品的“纯电长续航”，旨在让用户在绝大多数日常场景下享受纯电驾驶体验，仅在长途时启动增程器保障续航连续性。澎程系列WLTC最高纯电续航380km，CLTC最高纯电续航505km，足以覆盖一周甚至更久的城市通勤与代步，日常使用可基本实现一周充一次电，无需频繁补能或启动增程器，从而降低用车成本并提升纯电驾乘的静谧平顺感。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/77cbf080-e310-451b-a5d8-fd29e627416b.jpg@s_2,w_820,h_541",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/839c478fc436cddf3147cf02311a6412.jpg",
-                "local_path": "data/images/839c478fc436cddf3147cf02311a6412.jpg",
-                "filename": "839c478fc436cddf3147cf02311a6412",
-                "original_size": 65437,
-                "processed_size": 57147
+                "url": "https://img.ithome.com/newsuploadfiles/2026/7/de17d4c7-9129-4640-9247-81e0e285a103.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/824dede7fd7e924c8e64d04fdf092e46.jpg",
+                "local_path": "data/images/824dede7fd7e924c8e64d04fdf092e46.jpg",
+                "filename": "824dede7fd7e924c8e64d04fdf092e46",
+                "original_size": 117514,
+                "processed_size": 117514
+            }
+        ]
+    },
+    {
+        "资讯标题": "华为 Pura X Max、智慧屏 S7 Pro 获国标人工智能 L3 等级手机、电视首证",
+        "内容": "华为终端官方宣布，HUAWEI Pura X Max、HUAWEI MateBook Pro 和华为智慧屏 S7 Pro 获得国家人工智能终端智能化分级（GB/Z 177—2026）L3 等级证书，成为手机、电脑、电视领域首批 L3 认证产品。L3 为目前标准中最高明确划分的智能化水平，标志着华为在 AI 终端方面达到辅助级。此前小米也获批同等 L3 证书。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/7/7a6da63b-2f6e-42e5-af28-a2616a28b997.png?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/2d6e9b471a310918d72e384c00a9aab4.jpg",
+                "local_path": "data/images/2d6e9b471a310918d72e384c00a9aab4.jpg",
+                "filename": "2d6e9b471a310918d72e384c00a9aab4",
+                "original_size": 63554,
+                "processed_size": 63554
             }
         ]
     }

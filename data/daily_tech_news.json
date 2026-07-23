@@ -1,72 +1,63 @@
 [
     {
-        "资讯标题": "特斯拉因大灯过亮在美国召回近 2 万辆 Model 3/Y，这次无法 OTA 修复",
-        "内容": "美国国家公路交通安全管理局（NHTSA）驳回特斯拉的软件修复申请，要求对约1.99万辆2017‑2023款Model 3和Model Y进行硬件召回，原因是这些车型的近光灯亮度超出联邦法规上限，可能在雨雪雾等恶劣天气造成眩光增加安全风险。特斯拉 ранее认为偏差微小无实质影响且未收到相关投诉，但监管机构坚持必须通过服务中心重新校准或更换大灯总成，无法通过OTA更新解决。此次事件打破了特斯拉一贯依赖空中软件升级解决问题的惯例。",
+        "资讯标题": "谷歌 Pixel Watch 5 智能手表规格曝光：升级 3GB 内存，沿用高通 SW5100 芯片",
+        "内容": "谷歌 Pixel Watch 5 规格曝光：继续采用高通 SW5100 平台（4×Cortex‑A53 1.7 GHz CPU、Adreno 702 GPU 1 GHz），内存从前代的 2 GB 提升至 3 GB，以更好支持 Gemini Intelligence 等 AI 功能。未提及协处理器细节。提供深炭黑、自然银、黄铁矿、暖金四种配色可选。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/5229ca0a-088b-47ac-9d95-5a6156e709bc.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/44529ffb774452e3738db56bfe42eb5f.jpg",
-                "local_path": "data/images/44529ffb774452e3738db56bfe42eb5f.jpg",
-                "filename": "44529ffb774452e3738db56bfe42eb5f",
-                "original_size": 64586,
-                "processed_size": 64586
+                "url": "https://img.ithome.com/newsuploadfiles/2026/7/b79b6364-82e0-43fa-8570-4e32000ecd64.jpg@s_2,w_820,h_781",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/b1df6489dc2ff6037ac1a061327f67f7.jpg",
+                "local_path": "data/images/b1df6489dc2ff6037ac1a061327f67f7.jpg",
+                "filename": "b1df6489dc2ff6037ac1a061327f67f7",
+                "original_size": 63735,
+                "processed_size": 55361
             }
         ]
     },
     {
-        "资讯标题": "荣耀新一代伙伴型多模态智能体操作系统 AgenticOS 发布，8 月 Robot Phone 首发内核",
-        "内容": "荣耀在2026世界人工智能大会上发布新一代伙伴型多模态智能体操作系统AgenticOS，具备意图驱动、自然交互、主动智能、天生跨端四大特征，采用行业首个系统级Agent架构，支持全局多智能体协同、全场景自适应沉淀及面向全场景智能体的自循环。荣耀Robot Phone将于8月首发搭载AgenticOS内核，Q4的荣耀Magic9系列将推出尝鲜版。Robot Phone搭载第五代骁龙8至尊版芯片，机身顶部集成业内最小的四自由度钛合金机械云台，体积比主流方案缩小70%，目前已开启预约。",
+        "资讯标题": "诺基亚 Lumia 复刻：HMD Touch AI 小触屏手机发布，469 元",
+        "内容": "HMD 发布诺基亚 Lumia 复刻机型——Touch AI 小触屏手机，首发价 469 元，现已开启预售。该机采用 3.2 英寸触摸屏，前后各 200 万像素摄像头，内置 1950mAh 电池，支持双卡双待 4G 全网通。外观复刻经典 Lumia 配色，搭载豆包 AI 大模型和纯净防沉迷系统，还可使用支付宝，宣称自带复古 CCD 氛围感。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/b26b34ca-4eda-4411-94e1-9a94eaed1690.jpg",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/af18ca037a8e28b12cf796d0d475bfc7.jpg",
-                "local_path": "data/images/af18ca037a8e28b12cf796d0d475bfc7.jpg",
-                "filename": "af18ca037a8e28b12cf796d0d475bfc7",
-                "original_size": 4197251,
-                "processed_size": 83732
+                "url": "https://img.ithome.com/newsuploadfiles/2026/7/ac75af50-fa22-4f70-81b0-4db3ee409bf1.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/dae94da69af1ae61b0b43eab42552955.jpg",
+                "local_path": "data/images/dae94da69af1ae61b0b43eab42552955.jpg",
+                "filename": "dae94da69af1ae61b0b43eab42552955",
+                "original_size": 118714,
+                "processed_size": 81586
             }
         ]
     },
     {
-        "资讯标题": "Steam Frame 头显何时发售？曝V社收到 19.3 吨 VR 设备",
-        "内容": "据X平台博主@HardwareSteam爆料，Valve近期收到三批VR设备，总重达19.304吨，疑似Steam Frame头显及配件。Steam平台已新增“非常适合 Frame”分类并开始兼容性评级，表明发售日期将很快公布。",
+        "资讯标题": "思特威推出 50MP 手机 CMOS 传感器 SC505HS，功耗降低约 18%",
+        "内容": "思特威推出50MP手机CMOS传感器SC505HS，基于SmartClarity-3平台，像素尺寸0.61μm，采用SFCPixel技术，支持Sparse PDAF对焦和ULP低功耗模式，功耗较前代降低约18%，量子效率提升12%，暗电流降低23%，白点降低24%，高温成像性能提升，已送样，2026 Q3量产。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/32228d68-f692-4749-92dd-d5a7147c6184.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/63602befc580a0d1ae06211ce95baee4.jpg",
-                "local_path": "data/images/63602befc580a0d1ae06211ce95baee4.jpg",
-                "filename": "63602befc580a0d1ae06211ce95baee4",
-                "original_size": 125890,
-                "processed_size": 120244
+                "url": "https://img.ithome.com/newsuploadfiles/2026/7/21827874-3114-4713-b08b-a08c30230f00.png",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/224a1c823b28b58af78350e12e343ad1.jpg",
+                "local_path": "data/images/224a1c823b28b58af78350e12e343ad1.jpg",
+                "filename": "224a1c823b28b58af78350e12e343ad1",
+                "original_size": 329867,
+                "processed_size": 103218
             }
         ]
     },
     {
-        "资讯标题": "小米汽车回应澎程为何要用 76kWh 大电池，称源于做增程产品的底层理念「纯电长续航」",
-        "内容": "小米汽车澎程系列采用76kWh大容量电池，其核心理念源于增程产品的“纯电长续航”，旨在让用户在绝大多数日常场景下享受纯电驾驶体验，仅在长途时启动增程器保障续航连续性。澎程系列WLTC最高纯电续航380km，CLTC最高纯电续航505km，足以覆盖一周甚至更久的城市通勤与代步，日常使用可基本实现一周充一次电，无需频繁补能或启动增程器，从而降低用车成本并提升纯电驾乘的静谧平顺感。",
+        "资讯标题": "攻击鲨预告 RS6 ULTRA 鼠标：PAW3955 传感器，磁吸换电系统",
+        "内容": "攻击鲨（ATTACK SHARK）宣布将推出 RS6 ULTRA 无线鼠标，采用磁吸热插拔电池系统，8kHz 高回报率“鲨鱼鳍”2.4GHz 接收器兼具备用电池充电功能。鼠标基于 Nordic nRF54L15 主控和原相 PAW3955 传感器，外壳为挖孔复合碳纤维材质，配备 CNC 金属滚轮和阳极氧化组件，具可调节传感器定位系统，按键行程低至 0.168mm，1kHz 回报率下无线续航可达 800 小时。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/de17d4c7-9129-4640-9247-81e0e285a103.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/824dede7fd7e924c8e64d04fdf092e46.jpg",
-                "local_path": "data/images/824dede7fd7e924c8e64d04fdf092e46.jpg",
-                "filename": "824dede7fd7e924c8e64d04fdf092e46",
-                "original_size": 117514,
-                "processed_size": 117514
+                "url": "https://img.ithome.com/newsuploadfiles/2026/7/0c5ebe2e-884e-4dc4-afb0-6fc97d3a8150.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/1783c8e9e2e094434d7820c1cb11bb12.jpg",
+                "local_path": "data/images/1783c8e9e2e094434d7820c1cb11bb12.jpg",
+                "filename": "1783c8e9e2e094434d7820c1cb11bb12",
+                "original_size": 248718,
+                "processed_size": 241982
             }
         ]
     },
     {
-        "资讯标题": "华为 Pura X Max、智慧屏 S7 Pro 获国标人工智能 L3 等级手机、电视首证",
-        "内容": "华为终端官方宣布，HUAWEI Pura X Max、HUAWEI MateBook Pro 和华为智慧屏 S7 Pro 获得国家人工智能终端智能化分级（GB/Z 177—2026）L3 等级证书，成为手机、电脑、电视领域首批 L3 认证产品。L3 为目前标准中最高明确划分的智能化水平，标志着华为在 AI 终端方面达到辅助级。此前小米也获批同等 L3 证书。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/7a6da63b-2f6e-42e5-af28-a2616a28b997.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/2d6e9b471a310918d72e384c00a9aab4.jpg",
-                "local_path": "data/images/2d6e9b471a310918d72e384c00a9aab4.jpg",
-                "filename": "2d6e9b471a310918d72e384c00a9aab4",
-                "original_size": 63554,
-                "processed_size": 63554
-            }
-        ]
+        "资讯标题": "299 元小米米家智能显示器挂灯 2 上架预约：108 颗定制全光谱灯珠、三角支撑夹持结构",
+        "内容": "小米米家智能显示器挂灯2于7月23日在京东开启预约，定价299元，7月28日正式发售。产品升级为108颗定制全光谱灯珠，显色指数达Ra96，采用非对称光设计降低反光，灯头加长至50cm。新增三角支撑夹持结构，可适配更多显示器，并配备专属无线遥控器，亮度与色温可无级调节。柔光覆盖面积为1.2m×0.6m，无可见频闪，支持小米澎湃智联。文章同时提及当前进行的数码家电政府补贴活动。",
+        "配图": []
     }
 ]

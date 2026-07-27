@@ -1,63 +1,63 @@
 [
     {
-        "资讯标题": "开源启动盘制作工具 Ventoy 1.1.17 发布：改善安全启动兼容性",
-        "内容": "Ventoy 1.1.17 版本发布，主要改善安全启动（Secure Boot）兼容性，修复了多种系统的启动问题（如部分 UOS、最新 GhostBSD、Proxmox VE 在 grub2 模式下等），新增支持部分 EulerOS、Athena OS 等操作系统，优化磁盘写入逻辑、实时注入日志、修复 Ventoy2Disk.sh PATH 损坏和 BusyBox fdisk 检测错误，并完善本地化语言。",
+        "资讯标题": "酷比魔方 iPlay 70 Max Pro 平板开售，紫光展锐 T7300 芯片、支持 4G 双卡双待",
+        "内容": "酷比魔方 iPlay 70 Max Pro 平板上市，售价 1399 元。配备 13 英寸 2.5K LCD 屏幕，紫光展锐 T7300 八核芯片，8GB 内存+128GB UFS 存储，支持 4G 双卡双待和 Wi‑Fi 6。机身厚 7.1mm，重 684g，内置 10000mAh 电池，支持 30W PD 快充，提供 USB‑C 接口及最高 512GB microSD 扩展。具备四扬声器、BOX 音腔，后置 1300 万像素、前置 500 万像素摄像头，运行基于 Android 16 的 ALLDOCUBE OS 5.0L。可选磁吸键盘和手写笔，提供 Google 国际版与国内版，已在京东开售。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/7/f6ebbf05-6951-4000-80fd-af747e161e61.png",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/8b036693d9edd75b5e3ef683579f4fcd.jpg",
+                "local_path": "data/images/8b036693d9edd75b5e3ef683579f4fcd.jpg",
+                "filename": "8b036693d9edd75b5e3ef683579f4fcd",
+                "original_size": 439784,
+                "processed_size": 77192
+            }
+        ]
+    },
+    {
+        "资讯标题": "绿厂系首个万级大电池手机：OPPO A7 Pro Max 亮相，定位“新一代耐用传奇”",
+        "内容": "OPPO 宣布发布首款万级大电池手机 OPPO A7 Pro Max，定位‘新一代耐用传奇’。该机配备 6.78 英寸 1.5K 120Hz OLED 直屏，搭载骁龙 4 Gen 5 芯片，内置 10000mAh 单电芯大电池并支持 80W 快充，前后摄像头分别为 5000 万像素（前置）和 5000 万+200 万像素（后置），机身厚度 8.47mm，重量 226g，上市时间尚未公布。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/7/9cffcdfa-4289-4e50-a7da-3a4ac4c8af81.jpg@s_2,w_820,h_1526",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/75a7c75804127a825226216a6b9cff5d.jpg",
+                "local_path": "data/images/75a7c75804127a825226216a6b9cff5d.jpg",
+                "filename": "75a7c75804127a825226216a6b9cff5d",
+                "original_size": 362028,
+                "processed_size": 111111
+            }
+        ]
+    },
+    {
+        "资讯标题": "联想 ThinkPad T14s Gen 7 骁龙版笔记本海外发售：1.19kg 重，至高可选 32GB 内存",
+        "内容": "联想 ThinkPad T14s Gen 7 骁龙版笔记本已在海外市场发售，机身重量仅 1.19kg，最高可选 32GB LPDDR5X 内存，搭载高通骁龙 X2 Plus 或 X2 Elite 处理器，提供 400nits 触控或 500nits 非触控屏幕，内置 58Wh 电池，支持 Wi‑Fi 7，英国售价 1909 英镑。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/7/d09b03de-df60-458e-bd78-4e570cd75f4f.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/03d741a14fec62039b58b331e5d369b7.jpg",
+                "local_path": "data/images/03d741a14fec62039b58b331e5d369b7.jpg",
+                "filename": "03d741a14fec62039b58b331e5d369b7",
+                "original_size": 79656,
+                "processed_size": 77947
+            }
+        ]
+    },
+    {
+        "资讯标题": "戴尔 Alienware 显示器 AW3426DW 上市：UQHD 280Hz QD-OLED，6199 元",
+        "内容": "戴尔 Alienware 新品 AW3426DW 显示器上市，采用 QD-OLED Penta Tandem 技术和 RGB 条纹子像素，提供 3440×1440 UW-QHD 分辨率、280Hz 刷新率、0.03ms 响应时间，获 VESA DisplayHDR True Black 500 认证，曲率 1800R，亮度 300nits/峰值 1300nits，色域 99% DCI-P3，ΔE＜2，内置 USB 集线器及多种接口，支架支持四自由度调节，售价 6199 元。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/7/6fa4b61e-4198-49c8-884e-66495f8a3c02.jpg@s_2,w_820,h_410",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/55938f6dcddb158962a2711d8c1dcb05.jpg",
+                "local_path": "data/images/55938f6dcddb158962a2711d8c1dcb05.jpg",
+                "filename": "55938f6dcddb158962a2711d8c1dcb05",
+                "original_size": 135299,
+                "processed_size": 106133
+            }
+        ]
+    },
+    {
+        "资讯标题": "vivo X300 E 手机今启预售：第五代骁龙 8 旗舰芯片、蔡司超级长焦，4799 元起",
+        "内容": "vivo X300 E 手机今日开启预售，起售价 4799 元（12GB+256GB），另提供 12GB+512GB 版 5299 元。新机搭载高通第五代骁龙 8 旗舰芯片，内置 7200mAh 大容量电池，后置 5000万+5000万+800万像素三摄，支持蔡司超级长焦及多种胶片风格，配备 144Hz 蔡司大师色彩屏，LPDDR5X+UFS 4.1 存储组合，支持动态拓展 12GB 运行内存，并具备寰宇智慧通信 3.0、湿手秒开超声波指纹 3.0、红外遥控、全功能 NFC、IP69/IP68 防尘防水、立体声双扬声器、X 轴线性马达，预装 OriginOS 6 系统。",
         "配图": []
-    },
-    {
-        "资讯标题": "安伯尼克 ANBERNIC 展示 RG SP 掌机：3.4 寸 IPS 屏幕、1GB 内存，支持 3 倍点对点模拟 GBA",
-        "内容": "安伯尼克 ANBERNIC 官方展示即将推出的 RG SP 掌机。该机采用 3.4 英寸 IPS 屏幕，分辨率 720×480，搭载全志 H700 处理器，配备 1GB 内存和 3000mAh 电池，提供铂金银、珍珠蓝、石墨黑、珍珠粉四种配色。支持 3 倍点对点模式模拟 GBA 游戏，亦可运行 GB、GBC、PSP、PS1、N64、世嘉土星等平台经典游戏，并能串流 PC 游戏、支持 Netplay 本地多人游戏及蓝牙手柄连接。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/44905bc3-816c-4322-abc3-3608950e832d.png",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/5b13f3a2d20c316525970d4f713db5b4.jpg",
-                "local_path": "data/images/5b13f3a2d20c316525970d4f713db5b4.jpg",
-                "filename": "5b13f3a2d20c316525970d4f713db5b4",
-                "original_size": 1067734,
-                "processed_size": 188377
-            }
-        ]
-    },
-    {
-        "资讯标题": "三星 Galaxy F70 Pro 手机现身 GeekBench，搭载骁龙 6 Gen 3 芯片",
-        "内容": "三星 Galaxy F70 Pro（型号 SM-E476B）现身 GeekBench，单核 998 分、多核 3090 分，搭载高通骁龙 6 Gen 3（SM6475）八核芯片，配备 8GB 内存并运行 Android 16。据爆料，该机将配备 6.7 英寸 FHD+ 120Hz Super AMOLED 屏幕，前置 1200 万像素，后置 5000 万主摄+500 万超广角+200 万微距，内置 6000mAh 电池支持 45W 有线快充，并运行 OneUI 8.5 系统。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/098c0d1c-312e-45d3-9f26-45babc07985e.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/3666d496f70b969341f8e6429391eccf.jpg",
-                "local_path": "data/images/3666d496f70b969341f8e6429391eccf.jpg",
-                "filename": "3666d496f70b969341f8e6429391eccf",
-                "original_size": 98768,
-                "processed_size": 78713
-            }
-        ]
-    },
-    {
-        "资讯标题": "国际版小米 18 Pro 手机曝光：不登陆印度市场，妙享背屏走向世界舞台",
-        "内容": "国际版小米 18 Pro（代号 VENICE，型号 26122PN61G）通过 GSMA IMEI 数据库曝光，不会登陆印度市场，将在土耳其、欧洲经济区、俄罗斯和日本等地区发售。该机搭载妙享背屏，支持动态壁纸、自定义时间、卡通人物及虚拟宠物显示；规格包括超清定制小直屏（大 R 极窄四等边）、2nm 旗舰芯、后置 200MP 主摄+200MP 长焦微距、7000mAh 大电池、100W 有线+无线闪充，可能升级双扬声器和更大马达。中国版型号为 M261DB。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/e968d140-9f5f-442f-a311-29b629a9d2cd.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/c801283faf1e069c0717f122befb1aec.jpg",
-                "local_path": "data/images/c801283faf1e069c0717f122befb1aec.jpg",
-                "filename": "c801283faf1e069c0717f122befb1aec",
-                "original_size": 63878,
-                "processed_size": 63878
-            }
-        ]
-    },
-    {
-        "资讯标题": "谷歌确认 Pixel 11 系列手机将涨价，后续 Android 系统将提升内存优化",
-        "内容": "谷歌确认Pixel 11系列手机将因内存成本上涨而提价，内存价格已从每GB约2.8美元涨至12美元。谷歌表示将对整个Pixel产品线进行价格调整，包括即将发布的Pixel 11及现有Pixel 10a等机型，但未透露具体价格。据爆料，Pixel 11 Pro起步内存可能从16GB降至12GB，起售价上调约100美元，同时存储翻倍至256GB以部分抵消涨价影响。此外，谷歌正推进Android系统内存优化，以降低对内存的需求。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/da6da3f5-1b22-4771-9a15-ea9c8c12371e.jpg",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/f625c88526d58e046b6bcd2ed5e51251.jpg",
-                "local_path": "data/images/f625c88526d58e046b6bcd2ed5e51251.jpg",
-                "filename": "f625c88526d58e046b6bcd2ed5e51251",
-                "original_size": 14993,
-                "processed_size": 14993
-            }
-        ]
     }
 ]

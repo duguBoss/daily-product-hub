@@ -1,62 +1,53 @@
 [
     {
-        "资讯标题": "7999 元起，华硕灵耀 14/16 Air 笔记本电脑新增 16GB 内存型号",
-        "内容": "华硕近期陆续上架多款搭载16GB内存的笔记本，其中灵耀14 Air/16 Air新增16GB内存型号，起售价7999元。灵耀14 Air 2026提供锐龙AI 7 H 445、酷睿Ultra 7 356H和骁龙X2 Elite三种处理器版本，均配16GB LPDDR5X内存+1TB SSD，重约1.19kg，厚约1.1cm，采用Ceraluminum陶瓷铝机身，配备2.8K 120Hz OLED屏、杜比全景声、Wi‑Fi7等。灵耀16 Air骁龙版同样提供16GB+1TB配置，售价7999元。此外还有无畏Pro16、破晓迷你主机、无双7X台式机等其他新品。",
+        "资讯标题": "影石 Insta360 Luna Pro 单摄版云台相机外观曝光，白色机身",
+        "内容": "影石 Insta360 Luna Pro 单摄版云台相机外观曝光，采用白色机身，设计延续 Luna Ultra，保留 1 英寸传感器、徕卡镜头、三轴云台、10‑bit 视频、色温传感器及可拆卸遥控屏，但去掉第二颗长焦镜头，使机身更轻、价格更亲民。爆料表明其支持竖拍 4K 30p，垂直拍摄能力优于 Luna Ultra，适合不需要光学变焦但追求高画质与便捷遥控的用户。",
         "配图": []
     },
     {
-        "资讯标题": "三星 Galaxy S26 FE 手机曝光：45W 充电，Exynos 2500 芯片",
-        "内容": "三星 Galaxy S26 FE 手机通过 UL Demko 认证，确认支持 45W 充电（15.0V/3.0A 或 10.0V/4.5A），型号包括 SM-S741W/U1/U/B/DS/N。GeekBench 跑分显示单核 2426 分、多核 8004 分，运行 Android 17，配备 8GB 内存和 10 核 Exynos 2500 处理器。",
+        "资讯标题": "小米米家定时燃气灶 3 今日开售：5.2kW 大火力 + 烟灶联动，国补 989.1 元起",
+        "内容": "小米米家定时燃气灶3今日开售，5.2kW大火力，双灶独立定时1-180分钟，支持烟灶联动，白色款1199元，灰色款国补后989.1元，具备十二重安全防护等。",
+        "配图": []
+    },
+    {
+        "资讯标题": "LG 25G590B-B 显示器上线：原生 1000Hz FHD，可超频至 1100Hz 刷新率",
+        "内容": "LG 于美国官网上线 UltraGear 25G590B-B 显示器，采用 24.5 英寸 IPS FHD 面板，原生刷新率 1000Hz，可超频至 1100Hz；色域覆盖 99% DCI-P3，获得 VESA DisplayHDR 400 认证，灰阶响应时间 1ms；提供 HDMI 2.1（×2）、DisplayPort 2.1（UHBR20）、USB-C 上行接口，支架支持旋转与高度调节；内置 MBR Pro 低运动模糊、AI 声音增强、AI 场景优化等功能，售价 999.99 美元（约合人民币 6774 元）。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/df6fba0d-752e-44eb-afb5-df952fa2ce73.png",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/75b24f879f3805583f549da28dff9c13.jpg",
-                "local_path": "data/images/75b24f879f3805583f549da28dff9c13.jpg",
-                "filename": "75b24f879f3805583f549da28dff9c13",
-                "original_size": 208727,
-                "processed_size": 64193
+                "url": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/7/980900_240.jpg?x-bce-process=image/format,f_auto",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/590185d0c2cb629257188e17d5bb5a06.jpg",
+                "local_path": "data/images/590185d0c2cb629257188e17d5bb5a06.jpg",
+                "filename": "590185d0c2cb629257188e17d5bb5a06",
+                "original_size": 5148,
+                "processed_size": 5148
             }
         ]
     },
     {
-        "资讯标题": "仅重 798g，华为史上最轻笔记本电脑 MateBook Pro S 官宣 8 月 5 日亮相",
-        "内容": "华为宣布将于8月5日全场景新品发布会上亮相MateBook Pro S笔记本，整机重量仅798g，成为华有史以来最轻的笔记本电脑。新机提供仲夏紫、晨曦黄、烟云灰、丝绒白、羽砂黑等多种配色。发布会同步预热了全新鸿蒙折叠电脑MateBook Fold，新增金色外观并首次支持手写笔。",
+        "资讯标题": "三星 Galaxy Tab S12+ 平板认证曝光：12.4 英寸屏幕，天玑 9500 芯片",
+        "内容": "三星 Galaxy Tab S12+ 平板通过 FCC 认证，配备 12.4 英寸 AMOLED 屏幕（120Hz 自适应刷新率），搭载联发科 3nm 天玑 9500 芯片，12GB 内存，存储起步 256GB，电池约 10500mAh，支持 S Pen 手写笔及 45W 快充，前置 1200 万像素摄像头可录 4K 视频，预装基于 Android 17 的 One UI 9.0，有望获得 7 年系统升级与安全补丁。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/201afc6c-945e-4370-8476-344a94c9dc3d.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/5a9d44af86d836226051223e53593014.jpg",
-                "local_path": "data/images/5a9d44af86d836226051223e53593014.jpg",
-                "filename": "5a9d44af86d836226051223e53593014",
-                "original_size": 101404,
-                "processed_size": 67045
+                "url": "https://img.ithome.com/newsuploadfiles/2026/7/dea431af-769a-4a81-b2b5-778b38ba3211.jpg",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/635ef3667b2cf10db4c58cce5a310ae2.jpg",
+                "local_path": "data/images/635ef3667b2cf10db4c58cce5a310ae2.jpg",
+                "filename": "635ef3667b2cf10db4c58cce5a310ae2",
+                "original_size": 95640,
+                "processed_size": 61407
             }
         ]
     },
     {
-        "资讯标题": "16 核英特尔 Nova Lake-S 处理器曝光：配 12 核 Xe3P iGPU 核显",
-        "内容": "英特尔计划在2026年底前推出Nova Lake-S系列处理器，其中一款型号拥有16核CPU（4个性能核、8个能效核、4个超低功耗核）并集成12个Xe3P核显。该核显需要两相VCCGT供电，须配合65W级PD电源才能释放全部图形性能。",
+        "资讯标题": "新型智能戒指原型问世，通过分析汗液无创检测血糖",
+        "内容": "加州大学圣地亚哥分校工程团队研发了一种智能戒指原型，通过柔性渗透水凝胶无痛吸取手指汗液，利用内置电化学传感器检测葡萄糖、酮体、维生素C、尿酸、乳酸和酒精等六项健康指标（单次最多四种），数据经无线传输至手机App。该戒指配备定制可充电锌银氧化物电池，满电续航约12小时。实验表明其葡萄糖和酮体测量结果与商用连续血糖监测仪和血液检测仪相近，团队目前尚未计划商业化，需进一步验证。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/04bf3f57-74d0-4675-b6e7-5e483978d663.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/7e743b5ed7e7cedbd3d8c327fa77a4ca.jpg",
-                "local_path": "data/images/7e743b5ed7e7cedbd3d8c327fa77a4ca.jpg",
-                "filename": "7e743b5ed7e7cedbd3d8c327fa77a4ca",
-                "original_size": 135392,
-                "processed_size": 108679
-            }
-        ]
-    },
-    {
-        "资讯标题": "小米智能存储 UPS 断电保护电源开售，首发 349 元",
-        "内容": "小米今日发布智能存储专用UPS断电保护电源，首发价349元。该产品内置18Wh锂离子电池，具备断电安全关机、来电自动开机以及即插即用三大特点，旨在保障数据安全并简化使用。截至发稿，尚未在京东等平台上架。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/2c0a2037-ab0c-4246-b844-6af49b492904.jpg@s_2,w_820,h_1093",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/dcf82caf11cdff59777ae0a73d599640.jpg",
-                "local_path": "data/images/dcf82caf11cdff59777ae0a73d599640.jpg",
-                "filename": "dcf82caf11cdff59777ae0a73d599640",
-                "original_size": 167440,
-                "processed_size": 78087
+                "url": "https://img.ithome.com/newsuploadfiles/2026/7/65069d87-2ae8-44ac-affb-a058129803d1.png",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/f1714d1ecc6001e00b3c422237a02f04.jpg",
+                "local_path": "data/images/f1714d1ecc6001e00b3c422237a02f04.jpg",
+                "filename": "f1714d1ecc6001e00b3c422237a02f04",
+                "original_size": 438136,
+                "processed_size": 107150
             }
         ]
     }

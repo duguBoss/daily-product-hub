@@ -1,53 +1,48 @@
 [
     {
-        "资讯标题": "影石 Insta360 Luna Pro 单摄版云台相机外观曝光，白色机身",
-        "内容": "影石 Insta360 Luna Pro 单摄版云台相机外观曝光，采用白色机身，设计延续 Luna Ultra，保留 1 英寸传感器、徕卡镜头、三轴云台、10‑bit 视频、色温传感器及可拆卸遥控屏，但去掉第二颗长焦镜头，使机身更轻、价格更亲民。爆料表明其支持竖拍 4K 30p，垂直拍摄能力优于 Luna Ultra，适合不需要光学变焦但追求高画质与便捷遥控的用户。",
-        "配图": []
-    },
-    {
-        "资讯标题": "小米米家定时燃气灶 3 今日开售：5.2kW 大火力 + 烟灶联动，国补 989.1 元起",
-        "内容": "小米米家定时燃气灶3今日开售，5.2kW大火力，双灶独立定时1-180分钟，支持烟灶联动，白色款1199元，灰色款国补后989.1元，具备十二重安全防护等。",
-        "配图": []
-    },
-    {
-        "资讯标题": "LG 25G590B-B 显示器上线：原生 1000Hz FHD，可超频至 1100Hz 刷新率",
-        "内容": "LG 于美国官网上线 UltraGear 25G590B-B 显示器，采用 24.5 英寸 IPS FHD 面板，原生刷新率 1000Hz，可超频至 1100Hz；色域覆盖 99% DCI-P3，获得 VESA DisplayHDR 400 认证，灰阶响应时间 1ms；提供 HDMI 2.1（×2）、DisplayPort 2.1（UHBR20）、USB-C 上行接口，支架支持旋转与高度调节；内置 MBR Pro 低运动模糊、AI 声音增强、AI 场景优化等功能，售价 999.99 美元（约合人民币 6774 元）。",
+        "资讯标题": "谷歌 Pixel 11 Pro Fold 折叠手机和 Pixel Watch 5 智能手表系统截图曝光",
+        "内容": "科技媒体 macobserver 泄露了谷歌 Pixel 11 Pro、Pixel 11 Pro Fold 折叠手机及 Pixel Watch 5 智能手表的系统截图。截图展示了 Pixel 11 Pro 的主屏幕、紧急 SOS、TalkBack、可视语音信箱等设置；Pixel 11 Pro Fold 的应用抽屉居中、相机界面视频控制左侧、快门及镜头切换右侧；Pixel Watch 5 则呈圆形应用网格、优化的大尺寸触控目标及键盘。这些泄露内容揭示了谷歌下一代折叠旗舰和智能表的交互细节。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/7/980900_240.jpg?x-bce-process=image/format,f_auto",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/590185d0c2cb629257188e17d5bb5a06.jpg",
-                "local_path": "data/images/590185d0c2cb629257188e17d5bb5a06.jpg",
-                "filename": "590185d0c2cb629257188e17d5bb5a06",
-                "original_size": 5148,
-                "processed_size": 5148
+                "url": "https://img.ithome.com/newsuploadfiles/2026/8/bbee20dd-0885-4303-ad1b-af006ba2c23c.png?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/43721602eec6ab89fdfe8bc6eb05b574.jpg",
+                "local_path": "data/images/43721602eec6ab89fdfe8bc6eb05b574.jpg",
+                "filename": "43721602eec6ab89fdfe8bc6eb05b574",
+                "original_size": 39924,
+                "processed_size": 39924
             }
         ]
     },
     {
-        "资讯标题": "三星 Galaxy Tab S12+ 平板认证曝光：12.4 英寸屏幕，天玑 9500 芯片",
-        "内容": "三星 Galaxy Tab S12+ 平板通过 FCC 认证，配备 12.4 英寸 AMOLED 屏幕（120Hz 自适应刷新率），搭载联发科 3nm 天玑 9500 芯片，12GB 内存，存储起步 256GB，电池约 10500mAh，支持 S Pen 手写笔及 45W 快充，前置 1200 万像素摄像头可录 4K 视频，预装基于 Android 17 的 One UI 9.0，有望获得 7 年系统升级与安全补丁。",
+        "资讯标题": "小米 REDMI K100 Pro Max 手机搭载第五代骁龙 8 至尊版芯片，8 月 11 日发布",
+        "内容": "小米REDMI K100 Pro Max将搭载第五代骁龙8至尊版芯片，安兔兔V11跑分达455.5万，采用第二代3nm工艺，具备PC级架构、双超大核及狂暴引擎+AI独显芯片D2。新机配备6.9英寸超窄边直屏、四曲包裹式金属中框、一体化金属DECO及随音乐律动的悬浮灯环，定于8月11日19:00发布。",
+        "配图": []
+    },
+    {
+        "资讯标题": "小米 REDMI Note 17 Pro Max 手机曝光：9210mAh 硅碳电池、骁龙 6 Gen 5 芯片",
+        "内容": "小米 REDMI Note 17 Pro Max 曝光，搭载骁龙 6 Gen 5 芯片，配备 9210mAh 硅碳电池并支持 100W 快充，欧盟 EPREL 标签显示满电续航 79 小时 16 分钟。机身提供黑色、紫色、云雾灰、绿色四种配色，采用 6.83 英寸 1.5K AMOLED 120Hz 屏幕，后置 5000 万主摄+800 万超广角，前置 3200 万像素，内存 8/12GB LPDDR5X，存储 128/256/512GB。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/dea431af-769a-4a81-b2b5-778b38ba3211.jpg",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/635ef3667b2cf10db4c58cce5a310ae2.jpg",
-                "local_path": "data/images/635ef3667b2cf10db4c58cce5a310ae2.jpg",
-                "filename": "635ef3667b2cf10db4c58cce5a310ae2",
-                "original_size": 95640,
-                "processed_size": 61407
+                "url": "https://img.ithome.com/newsuploadfiles/2026/8/8db2e40a-019d-4482-8cd6-c81440dff3c9.png?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/7cf67dcbbef69b0ca975086787362786.jpg",
+                "local_path": "data/images/7cf67dcbbef69b0ca975086787362786.jpg",
+                "filename": "7cf67dcbbef69b0ca975086787362786",
+                "original_size": 40508,
+                "processed_size": 40508
             }
         ]
     },
     {
-        "资讯标题": "新型智能戒指原型问世，通过分析汗液无创检测血糖",
-        "内容": "加州大学圣地亚哥分校工程团队研发了一种智能戒指原型，通过柔性渗透水凝胶无痛吸取手指汗液，利用内置电化学传感器检测葡萄糖、酮体、维生素C、尿酸、乳酸和酒精等六项健康指标（单次最多四种），数据经无线传输至手机App。该戒指配备定制可充电锌银氧化物电池，满电续航约12小时。实验表明其葡萄糖和酮体测量结果与商用连续血糖监测仪和血液检测仪相近，团队目前尚未计划商业化，需进一步验证。",
+        "资讯标题": "谷歌 Pixel 11 标准版手机渲染图曝光：4 种颜色，支持 30x 数码变焦",
+        "内容": "谷歌 Pixel 11 标准版渲染图曝光，提供午夜黑（深绿）、品红、苔藓绿和银紫四种配色，支持最高 30 倍数码变焦，未配备 Pixel Glow RGB LED（仅 Pro 系列独有），预计搭载 Tensor G6 芯片。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/7/65069d87-2ae8-44ac-affb-a058129803d1.png",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/f1714d1ecc6001e00b3c422237a02f04.jpg",
-                "local_path": "data/images/f1714d1ecc6001e00b3c422237a02f04.jpg",
-                "filename": "f1714d1ecc6001e00b3c422237a02f04",
-                "original_size": 438136,
-                "processed_size": 107150
+                "url": "https://img.ithome.com/newsuploadfiles/2026/8/8763b72e-88db-45fb-9c3a-48fe3169a2b1.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/a24b6423657e19e42d74080a1c207230.jpg",
+                "local_path": "data/images/a24b6423657e19e42d74080a1c207230.jpg",
+                "filename": "a24b6423657e19e42d74080a1c207230",
+                "original_size": 21442,
+                "processed_size": 21442
             }
         ]
     }

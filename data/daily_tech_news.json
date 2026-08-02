@@ -1,49 +1,63 @@
 [
     {
-        "资讯标题": "谷歌 Pixel 11 Pro Fold 折叠手机和 Pixel Watch 5 智能手表系统截图曝光",
-        "内容": "科技媒体 macobserver 泄露了谷歌 Pixel 11 Pro、Pixel 11 Pro Fold 折叠手机及 Pixel Watch 5 智能手表的系统截图。截图展示了 Pixel 11 Pro 的主屏幕、紧急 SOS、TalkBack、可视语音信箱等设置；Pixel 11 Pro Fold 的应用抽屉居中、相机界面视频控制左侧、快门及镜头切换右侧；Pixel Watch 5 则呈圆形应用网格、优化的大尺寸触控目标及键盘。这些泄露内容揭示了谷歌下一代折叠旗舰和智能表的交互细节。",
+        "资讯标题": "小米 REDMI K100 Pro Max 手机搭载 9070mAh 电池，胡馨心称续航同比增幅 40%",
+        "内容": "小米 REDMI K100 Pro Max 手机在中国国际数码互动娱乐展览会上亮相，采用 6.9 英寸超窄边直屏、四曲包裹式金属中框和一体化金属 DECO，内置 9070mAh 大容量电池。产品经理胡馨心表示，该机在骁龙 8 Elite Gen5 性能调校上更成熟，续航同比提升 40%。此外，新机还配备 185Hz 高刷电竞屏、第五代骁龙 8 至尊版+AI 独显芯片 D2、480Hz 触控采样率、游戏专属天线以及 Sound by Bose 游戏调音等功能。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/8/bbee20dd-0885-4303-ad1b-af006ba2c23c.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/43721602eec6ab89fdfe8bc6eb05b574.jpg",
-                "local_path": "data/images/43721602eec6ab89fdfe8bc6eb05b574.jpg",
-                "filename": "43721602eec6ab89fdfe8bc6eb05b574",
-                "original_size": 39924,
-                "processed_size": 39924
+                "url": "https://img.ithome.com/newsuploadfiles/2026/8/f7a98232-1f36-4dd8-8ec2-f7d866ebf0ac.jpg?x-bce-process=image/auto-orient,o_1",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/574de9c6918223837dbeb3256ff43a72.jpg",
+                "local_path": "data/images/574de9c6918223837dbeb3256ff43a72.jpg",
+                "filename": "574de9c6918223837dbeb3256ff43a72",
+                "original_size": 297068,
+                "processed_size": 157556
             }
         ]
     },
     {
-        "资讯标题": "小米 REDMI K100 Pro Max 手机搭载第五代骁龙 8 至尊版芯片，8 月 11 日发布",
-        "内容": "小米REDMI K100 Pro Max将搭载第五代骁龙8至尊版芯片，安兔兔V11跑分达455.5万，采用第二代3nm工艺，具备PC级架构、双超大核及狂暴引擎+AI独显芯片D2。新机配备6.9英寸超窄边直屏、四曲包裹式金属中框、一体化金属DECO及随音乐律动的悬浮灯环，定于8月11日19:00发布。",
+        "资讯标题": "OPPO A7 Pro Max 手机官宣搭载“A 系列史上最强超清影像”，内置爆闪智能闪光灯",
+        "内容": "OPPO 官宣 A7 Pro Max 手机，称其为 A 系列史上最强超清影像。前后均配 5000 万像素双摄，前置支持 100° 超广角，后置配备爆闪智能闪光灯以提升补光能力。机身厚度 8.47mm，重量 226g，正面 6.78 英寸 1.5K 120Hz OLED 直屏，后置主摄 50MP+2MP 辅助镜头。搭载高通骁龙 4 Gen 5 芯片，内置 10000mAh 大电池，支持 80W 快充。提供 8GB/12GB RAM 与 128GB/256GB/512GB 存储组合，将于 8 月 4 日 14:30 发布，并曾预告将进行 2000°C 火箭发射尾焰冲击测试。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/8/6483399d-02ca-4114-8df7-465ee60dd487.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/4b5d1476f39829e2d9b13ba3b5365e47.jpg",
+                "local_path": "data/images/4b5d1476f39829e2d9b13ba3b5365e47.jpg",
+                "filename": "4b5d1476f39829e2d9b13ba3b5365e47",
+                "original_size": 262726,
+                "processed_size": 78365
+            }
+        ]
+    },
+    {
+        "资讯标题": "消息称佳能 RF 300-600mm f/5.6L IS USM 长焦镜头下月发布",
+        "内容": "据Canon Rumors爆料，佳能RF 300-600mm f/5.6L IS USM长焦镜头预计将于9月正式发布，尚未公布售价和具体规格。佳能目前无计划推出RF 400mm f/2.8L IS USM和RF 600mm f/4L IS USM，传闻称这两款镜头将内置增距镜。此外，佳能可能在9月或第四季度推出两款镜头，其中一款可能是采用VCM或USM马达的RF 24-70mm f/2L。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/8/8c8c02b2-3f35-4b2d-adf2-94b28941a0ac.png?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/b3a5a89556591855e4e39e6e2455663b.jpg",
+                "local_path": "data/images/b3a5a89556591855e4e39e6e2455663b.jpg",
+                "filename": "b3a5a89556591855e4e39e6e2455663b",
+                "original_size": 29544,
+                "processed_size": 29544
+            }
+        ]
+    },
+    {
+        "资讯标题": "谷歌 Android 17 QPR1 Beta 8 预览版更新一览：修复 Pixel 手机指纹识别、扬声器杂音 Bug",
+        "内容": "谷歌已向 Pixel 手机推送 Android 17 QPR1 Beta 8 预览版（版本号 CP31.260623.010），修复了媒体播放及通知交互时的扬声器静电声和音频损坏、Pixel Tablet 连接底座后离线无法连接、NFC 标签读取或 URL 打开失败以及指纹扫描器无法正常工作等多个 Bug。安全补丁与 Beta 7 相同，仍为 2026 年 7 月 5 日。稳定版预计下个月发布，届时可能还会有 1‑2 次 Beta 预览版更新。已加入 Android Beta Program 的用户可通过设置 → 系统 → 软件更新 → 系统更新下载安装包。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/8/2a036b67-de50-44c5-b083-962e8fd8a403.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/837dd518018e897a121869452c4852cc.jpg",
+                "local_path": "data/images/837dd518018e897a121869452c4852cc.jpg",
+                "filename": "837dd518018e897a121869452c4852cc",
+                "original_size": 27272,
+                "processed_size": 27272
+            }
+        ]
+    },
+    {
+        "资讯标题": "Steam 2026 年 7 月软硬件调查报告发布：RTX 3060 仍居榜首，16GB 显存占比大涨",
+        "内容": "Valve 发布 2026 年 7 月 Steam 软硬件调查：Windows 11 64 位占比 70.26%，领先 Windows 10；内存方面 16GB 仍为主流（40.97%），32GB 增至 36.93%；显卡中 NVIDIA 占 72.77%，RTX 3060 仍居首位（3.71%），但新一代 RTX 5060/5060 Ti 快速增长；显存容量亮点为 16GB 显存占比升至 25.90%，超越 8GB 成为最高；8 核 CPU 占比 27.85% 超过 6 核；主流分辨率仍为 1920×1080（51.10%），2560×1440 上升至 21.46%。",
         "配图": []
-    },
-    {
-        "资讯标题": "小米 REDMI Note 17 Pro Max 手机曝光：9210mAh 硅碳电池、骁龙 6 Gen 5 芯片",
-        "内容": "小米 REDMI Note 17 Pro Max 曝光，搭载骁龙 6 Gen 5 芯片，配备 9210mAh 硅碳电池并支持 100W 快充，欧盟 EPREL 标签显示满电续航 79 小时 16 分钟。机身提供黑色、紫色、云雾灰、绿色四种配色，采用 6.83 英寸 1.5K AMOLED 120Hz 屏幕，后置 5000 万主摄+800 万超广角，前置 3200 万像素，内存 8/12GB LPDDR5X，存储 128/256/512GB。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/8/8db2e40a-019d-4482-8cd6-c81440dff3c9.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/7cf67dcbbef69b0ca975086787362786.jpg",
-                "local_path": "data/images/7cf67dcbbef69b0ca975086787362786.jpg",
-                "filename": "7cf67dcbbef69b0ca975086787362786",
-                "original_size": 40508,
-                "processed_size": 40508
-            }
-        ]
-    },
-    {
-        "资讯标题": "谷歌 Pixel 11 标准版手机渲染图曝光：4 种颜色，支持 30x 数码变焦",
-        "内容": "谷歌 Pixel 11 标准版渲染图曝光，提供午夜黑（深绿）、品红、苔藓绿和银紫四种配色，支持最高 30 倍数码变焦，未配备 Pixel Glow RGB LED（仅 Pro 系列独有），预计搭载 Tensor G6 芯片。",
-        "配图": [
-            {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/8/8763b72e-88db-45fb-9c3a-48fe3169a2b1.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/a24b6423657e19e42d74080a1c207230.jpg",
-                "local_path": "data/images/a24b6423657e19e42d74080a1c207230.jpg",
-                "filename": "a24b6423657e19e42d74080a1c207230",
-                "original_size": 21442,
-                "processed_size": 21442
-            }
-        ]
     }
 ]

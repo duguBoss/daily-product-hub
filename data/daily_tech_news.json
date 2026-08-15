@@ -1,63 +1,72 @@
 [
     {
-        "资讯标题": "荣耀手环 11 系列开售：支持专业羽毛球模式，首销优惠价 229 元起",
-        "内容": "荣耀手环 11 系列今日开售，包含标准版、Pro 版、Pro GPS 版及皮表带版，首销价 229 元起。支持专业羽毛球模式等运动功能，标准版采用增强型聚合纤维机身，厚 8.99 毫米，重 15.3 克，配 1.57 英寸 AMOLED 屏幕（最高 60Hz），电池 250mAh，超长续航 18 天。Pro 版采用铝合金柔砂工艺，1.61 英寸 AMOLED 2.5D 曲面屏，亮度 700尼特/峰值 2000尼特，支持 NFC，硅碳负极电池 400mAh，超长续航 26 天。",
+        "资讯标题": "谷歌拟扩展 Pixel 手机防护，反诈功能覆盖拨出电话",
+        "内容": "谷歌计划在Pixel手机上将‘诈骗检测’功能从仅来电扩展至用户主动拨出的电话，目前需手动开启且仅限Pixel 9及以后机型由Gemini在设备端处理。通过在Beta版Phone应用中发现的enableSharpieOnOutgoingCalls字符串，谷歌希望覆盖诈骗者诱导用户主动拨号的漏洞，提升通话安全防护。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/8/37d0568b-5ec9-4fa3-b410-dbe942eea914.jpg@s_2,w_820,h_1458",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/659b671e0ecac54432437048a9dbb7ae.jpg",
-                "local_path": "data/images/659b671e0ecac54432437048a9dbb7ae.jpg",
-                "filename": "659b671e0ecac54432437048a9dbb7ae",
-                "original_size": 190737,
-                "processed_size": 77212
+                "url": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/8/988472_240.jpg",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/ed7141c3be89d157640ad6ded6cf90ba.jpg",
+                "local_path": "data/images/ed7141c3be89d157640ad6ded6cf90ba.jpg",
+                "filename": "ed7141c3be89d157640ad6ded6cf90ba",
+                "original_size": 17168,
+                "processed_size": 13897
             }
         ]
     },
     {
-        "资讯标题": "华为 nova16 SE 手机今日开售：麒麟 8020 芯片、8500mAh 电池，2499 元起",
-        "内容": "华为 nova16 SE 手机今日开售，起售价 2499 元（128GB 版），搭载麒麟 8020 处理器，内置 8500mAh 超大电池支持 66W 快充；配备 6.84 英寸 1.5K OLED 屏幕，刷新率 120Hz，峰值亮度 8000nits，2160Hz PWM 调光；后置 50MP RYYB 主摄 + 红枫原色传感器 + 32MP 前置摄像头，支持双向北斗卫星消息；运行 HarmonyOS 6.1，提供星空黑、樱雪晴空、天际白、破晓橙四种配色，机身重 229g，尺寸 163.3×78×7.98mm。",
+        "资讯标题": "“虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型",
+        "内容": "荣耀宣布其YOYO Claw（虾虾大脑）正式接入智谱最新发布的GLM-5.3大模型。GLM-5.3通过后训练显著提升编程能力（较前代提升50%）并在多项开源基准测试中排名第一，同时在代码审查、漏洞发现等网络安全任务中表现优秀。YOYO Claw此前已于4月发布，支持跨端任务执行及与第三方设备互联，此次模型接入将进一步增强其AI功能。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/8/7df23c94-e829-4288-ad52-538c9cef6d3f.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/2adbdb0409d30cc6ca397e4db196475a.jpg",
-                "local_path": "data/images/2adbdb0409d30cc6ca397e4db196475a.jpg",
-                "filename": "2adbdb0409d30cc6ca397e4db196475a",
-                "original_size": 136688,
-                "processed_size": 56184
+                "url": "https://img.ithome.com/newsuploadfiles/2026/8/0ecd8c85-2976-4c76-8ccc-1a1a666682e9.png?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/342677b300856f973a67b694da2c74e1.jpg",
+                "local_path": "data/images/342677b300856f973a67b694da2c74e1.jpg",
+                "filename": "342677b300856f973a67b694da2c74e1",
+                "original_size": 132944,
+                "processed_size": 98504
             }
         ]
     },
     {
-        "资讯标题": "小米卢伟冰：REDMI K100 Pro Max 手机首销日销量为上代同期 150%",
-        "内容": "小米集团总裁卢伟冰宣布，REDMI K100 Pro Max 首销日销量达到上代同期的150%。该机搭载第五代骁龙8至尊版处理器及AI独显芯片D2，配备9070mAh电池，支持100W有线快充、50W无线充电及反向充电；厚度8.45mm，重238g。屏幕为6.9英寸2608×1200 OLED直屏，185Hz刷新率，采用M11发光材料。后置摄像头组合为200MP主摄+50MP潜望长焦+50MP超广角。提供多种存储版本，首销价4199元起，国补后最低可至3699元。",
+        "资讯标题": "印度网友反馈其三星 Galaxy 手机突发起火，导致双手和大腿区域被烧伤",
+        "内容": "印度一名男子称其刚购买一个月的三星 Galaxy 手机在裤兜内突发起火并爆炸，导致双手和大腿烧伤。事发时手机未使用，照片显示电池仓几乎完全烧毁，后盖约一半熔化，外观疑似 Galaxy S26。另一起青岛事件中，女子在充电时 Galaxy S25+ 手机冒烟起火。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/8/60a879a8-a93b-4214-b44c-8c70ce22dc6e.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/7ac0b64c7d40af67e74ed93169ad02a6.jpg",
-                "local_path": "data/images/7ac0b64c7d40af67e74ed93169ad02a6.jpg",
-                "filename": "7ac0b64c7d40af67e74ed93169ad02a6",
-                "original_size": 35376,
-                "processed_size": 35376
+                "url": "https://img.ithome.com/newsuploadfiles/2026/8/f54495d3-951d-4153-9b87-01e9d9ffecc4.png",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/67bbeedd28aa8b028cb3fdb9064f2833.jpg",
+                "local_path": "data/images/67bbeedd28aa8b028cb3fdb9064f2833.jpg",
+                "filename": "67bbeedd28aa8b028cb3fdb9064f2833",
+                "original_size": 2387793,
+                "processed_size": 178879
             }
         ]
     },
     {
-        "资讯标题": "REDMI K100 Pro Max 上手体验：性能\"超大杯\"，续航也够猛",
-        "内容": "REDMI K100 Pro Max 于2026年8月11日发布，搭载第五代骁龙8至尊版处理器+AI独显D2双芯，配备6.9英寸国产旗舰OLED直屏（2608×1200，185Hz刷新率，峰值亮度4500nits），内置9070mAh金沙江电池支持100W快充，后置三摄+BOSE超大低音炮构成2.1立声系统，获得IP66/68/69防尘防水认证。实测《王者荣耀》《三角洲行动》《崩坏：星穹铁道》等游戏均能保持高帧率流畅体验，功耗与散热表现出色，提供黑色、流金白、追风蓝、赤霞珠四种配色。",
+        "资讯标题": "追觅卖出首台超 3 万美元手机",
+        "内容": "文章报道了苹果与阿里合作开发中国专属AI大模型；追觅售出首台超过3万美元的AURORA手机；微信坚持朋友圈不可编辑；智谱发布GLM-5.3开源编程模型，性能较前版提升50%；此外还涉及雍军回应阿维塔与华为合作争议、马斯克纪念碑两极、库克谈历史地位、诺兰《奥德赛》票房破亿、瑞安航空波音737事故、阿里开源Qwen3.8-27B、长城魏牌V8X SUV上市、小米澎湃OS4 Beta推送、高通骁龙8 Elite Gen6 Pro跑分、工信部点名应用商店表扬、小米升降车标专利、iPhone X及MacBook Pro停产、醉酒辅助驾驶事故、飞牛鸿蒙客户端上线、油价下调等多则科技新闻。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/8/e73dec95-6dfd-4684-9e61-96dfb2d7fd5f.jpg?x-bce-process=image/quality,q_75/resize,w_1200,h_801/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/2b8f8211bc8852d27f830d3b7123e7e2.jpg",
-                "local_path": "data/images/2b8f8211bc8852d27f830d3b7123e7e2.jpg",
-                "filename": "2b8f8211bc8852d27f830d3b7123e7e2",
-                "original_size": 199048,
-                "processed_size": 163437
+                "url": "https://img.ithome.com/newsuploadfiles/2026/8/94e8aac0-9b19-46ed-9303-4f01d39aa7e3.jpg",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/5670ebe362aadb7f6c06068316ec3d09.jpg",
+                "local_path": "data/images/5670ebe362aadb7f6c06068316ec3d09.jpg",
+                "filename": "5670ebe362aadb7f6c06068316ec3d09",
+                "original_size": 131127,
+                "processed_size": 131127
             }
         ]
     },
     {
-        "资讯标题": "三星 Galaxy Tab S12+/S12 Ultra 平板曝光：天玑 9500 芯片",
-        "内容": "三星 Galaxy Tab S12+ 和 S12 Ultra 在蓝牙技术联盟现身，均采用联发科天玑 9500 芯片，提供 Wi‑Fi 和蜂窝版本。S12+ 配 12.4 英寸、120Hz Dynamic AMOLED 2X 屏幕及 10600mAh 电池；Ultra 版配 14.6 英寸同类屏幕及 11600mAh 电池，外观延续 Tab S11 系列设计。",
-        "配图": []
+        "资讯标题": "消息称苹果首款折叠屏手机 iPhone Ultra 产能有限，首批货源优先供应美国市场",
+        "内容": "据外媒ChannelNews援引匿名零部件供应商消息，苹果首款折叠屏手机iPhone Ultra首批产能有限，可能优先供应美国市场，随后陆续进入中国等其他主要市场。此前多方消息已表明iPhone Ultra初期产量将非常紧张。该机配备7.8英寸内屏、5.5英寸外屏，合厚约9mm，共四枚摄像头（内外屏各一颗前摄，背面两颗后置）。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/a43f2043-5b67-4f56-bd3f-0ecc9a105e29.png",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/281a8d3100ff4d23187b826768081201.jpg",
+                "local_path": "data/images/281a8d3100ff4d23187b826768081201.jpg",
+                "filename": "281a8d3100ff4d23187b826768081201",
+                "original_size": 145307,
+                "processed_size": 63967
+            }
+        ]
     }
 ]

@@ -1,57 +1,71 @@
 [
     {
-        "资讯标题": "特斯拉筹备推出 Cybercab 自动驾驶出租车服务，最快本月在奥斯汀上线",
-        "内容": "特斯拉据知情人士透露，正准备推出Cybercab自动驾驶出租车服务，最快将于本月在得克萨斯州奥斯汀率先上线。公司已通知员工，先让员工在公共道路上体验Cybercab，随后将这些车辆纳入奥斯汀的Robotaxi服务。Cybercab是专为无人驾驶设计的车型，无方向盘和踏板，特斯拉自6月起已在公共道路测试量产版，并为大规模产量做准备。",
+        "资讯标题": "初探苹果 iOS 27 版相机应用：新 Siri 模式可估算食物卡路里等",
+        "内容": "苹果 iOS 27 相机应用新增 Siri 模式，可通过右滑进入并利用视觉智能识别植物、食物并估算卡路里、扫描请柬加入日历；同时引入 RAW 9，提升 RAW 图像去马赛克、降噪和色彩分离；此外，代码显示正在开发参考图像模式，用于验证照片真实性。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/8/ba31b27c-cef9-4e48-a891-cac5af65ac38.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/3d5411dac467a3e5321a541ea63d8f76.jpg",
-                "local_path": "data/images/3d5411dac467a3e5321a541ea63d8f76.jpg",
-                "filename": "3d5411dac467a3e5321a541ea63d8f76",
-                "original_size": 79880,
-                "processed_size": 79880
+                "url": "https://img.ithome.com/newsuploadfiles/2026/8/86de3136-752a-4197-aace-a16388977a3d.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/6e17e4bea848d92aa93f692c82dc5bca.jpg",
+                "local_path": "data/images/6e17e4bea848d92aa93f692c82dc5bca.jpg",
+                "filename": "6e17e4bea848d92aa93f692c82dc5bca",
+                "original_size": 98902,
+                "processed_size": 98902
             }
         ]
     },
     {
-        "资讯标题": "联想 IdeaPad Vibe 笔记本规格曝光，剑指苹果 MacBook Neo",
-        "内容": "联想 IdeaPad Vibe 14/15 笔记本规格曝光，直指苹果 MacBook Neo。提供 AMD 锐龙 AI 400/300 系列处理器（最高 30W TDP）及可选高通骁龙版本，预装 Windows 11。内存 8‑32GB LPDDR5X，存储 256GB‑1TB PCIe Gen4 SSD。屏幕有 14/15 英寸 WUXGA IPS（最高 120Hz、100% sRGB）及 OLED 选项，支持触控版本。电池 50/65Wh，支持 15 分钟快充 2 小时使用。接口包括 HDMI、USB‑C、USB‑A、microSD 等，重量约 1.3‑1.43kg，厚度最薄 16.9mm，具 180° 平铺转轴、杜比音效、Wi‑Fi 6、蓝牙 5.3 等功能。",
+        "资讯标题": "OPPO 新一代屏幕双产线技术发布，号称“色彩无限接近真实世界”",
+        "内容": "OPPO 发布新一代屏幕双产线技术，从基材定制到像素级校准实现全链路显示升级。RGB 三色发光材料全面换新，光谱深度优化，BT.2020 色域覆盖率达行业新高，色彩无限接近真实世界。该技术将应用于 OPPO Find X10 系列，配合全新护眼基材，实现最高 BT.2020 超广色域、更高有益红光、更低有害蓝光及超窄边框。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/8/e3e95b41-ae68-4200-9ac1-453758dfb17a.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/346e9f80e89aeb3d7c041e9695913d70.jpg",
-                "local_path": "data/images/346e9f80e89aeb3d7c041e9695913d70.jpg",
-                "filename": "346e9f80e89aeb3d7c041e9695913d70",
-                "original_size": 38596,
-                "processed_size": 38596
+                "url": "https://img.ithome.com/newsuploadfiles/2026/8/2195f6fa-5f71-4166-9a42-037eea29721c.png?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/9cbc8ad95ddc1e3c74118cd2729d6a7a.jpg",
+                "local_path": "data/images/9cbc8ad95ddc1e3c74118cd2729d6a7a.jpg",
+                "filename": "9cbc8ad95ddc1e3c74118cd2729d6a7a",
+                "original_size": 112688,
+                "processed_size": 112688
             }
         ]
     },
     {
-        "资讯标题": "Mac 版 AirBuddy 3 发布，增强苹果 AirPods 管理",
-        "内容": "AirBuddy 3 for Mac 正式发布，提供超过150项改进，增强对苹果 AirPods 的连接与管理。新版重新设计 Action HUD，可自定义位置、大小及显示信息，支持液态玻璃设计、桌面小组件和 Now Playing 播放控制，并通过 AppleScript 扩展自动化功能。",
+        "资讯标题": "小米米家多头筋膜枪 3 开启 0 元众测：25kg 推力，官方售价 369 元",
+        "内容": "小米米家多头筋膜枪3于8月17日开售，官方售价369元。8月20日小米社区宣布该产品开启0元众测，仅5个名额，报名时间为8月18日10时至8月25日24时，入口在小米社区App首页-官方-小米众测。产品配备三款不同规格按摩头，双轴无刷电机推力达25kg，按摩深度4mm，支持定频变频双模式及3挡调节，具智能挡位记忆功能，内置2450mAh电池续航可达31天。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/8/098580f7-45e6-42a4-8650-f52fdf397979.jpg@s_2,w_820,h_565",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/449cb79ab236e333ed5fce57e949bc56.jpg",
-                "local_path": "data/images/449cb79ab236e333ed5fce57e949bc56.jpg",
-                "filename": "449cb79ab236e333ed5fce57e949bc56",
-                "original_size": 112075,
-                "processed_size": 112075
+                "url": "https://img.ithome.com/newsuploadfiles/2026/8/289d3012-eacb-40a1-872a-47d954ee06fd.png?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/9424871485f36a9ac5777044a8ee93f5.jpg",
+                "local_path": "data/images/9424871485f36a9ac5777044a8ee93f5.jpg",
+                "filename": "9424871485f36a9ac5777044a8ee93f5",
+                "original_size": 158250,
+                "processed_size": 95979
             }
         ]
     },
     {
-        "资讯标题": "IT早报 0818：小米 SU7 系列交付突破 50 万台",
-        "内容": "阿里将游戏业务灵犀互娱以至少15亿美元出售给Trustar Capital；吉利汽车宣布李书福卸任董事会主席，改任荣誉主席，安聪慧接任主席；小米SU7系列累计交付突破50万台，用时28.5个月；岚图汽车CBO邵明峰称追光S早在2022年底立项，设计独立；苹果iPhone 17系列在中国累计销量超4000万台；宇树科技发布人形机器人“超人”，跳高2米、速度12.66m/s超越人类纪录；其他要点包括美团AI“养虾运动”导致成本激增、国产动画《牛来》票房破千万、长鑫科技市值重回4万亿等。",
+        "资讯标题": "三星 Galaxy A58 和 Galaxy Xcover FR 手机踪迹曝光",
+        "内容": "三星 Galaxy A58（型号 SM-A5860）和 Galaxy Xcover FR（型号 SM-G778B）近日在 GSMA IMEI 数据库中被发现。A58 作为 A57 的继任机型，预计将在 2027 年第一季度发布；Xcover FR 属于三防系列，面向工业和恶劣环境使用。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/8/69c25b9c-62ab-406e-84e9-bfaaeecfe877.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/8a591529ae44d4ff0e2c815da386d2e8.jpg",
-                "local_path": "data/images/8a591529ae44d4ff0e2c815da386d2e8.jpg",
-                "filename": "8a591529ae44d4ff0e2c815da386d2e8",
-                "original_size": 176962,
-                "processed_size": 72543
+                "url": "https://img.ithome.com/newsuploadfiles/2026/8/ad3f4436-e58e-46d7-9556-10ea4dcd7b15.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/2848a7816aa174d66dffb40a57ebd126.jpg",
+                "local_path": "data/images/2848a7816aa174d66dffb40a57ebd126.jpg",
+                "filename": "2848a7816aa174d66dffb40a57ebd126",
+                "original_size": 41020,
+                "processed_size": 41020
+            }
+        ]
+    },
+    {
+        "资讯标题": "红魔 12 系列手机确认正常迭代：还没到预热时间",
+        "内容": "红魔游戏手机产品总经理姜超确认红魔 12 系列正在正常迭代，只是尚未到预热时间。红魔 11 Pro 于 2025 年 10 月发布，搭载第五代骁龙 8 至尊版、风水双冷散热、“悟空”屏、京东方 X10 发光材料、5000 万双主摄及 8000mAh 牛魔王电池。参考上代发布节奏，红魔 12 预计近期开启预热。",
+        "配图": [
+            {
+                "url": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/8/988472_240.jpg",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/ed7141c3be89d157640ad6ded6cf90ba.jpg",
+                "local_path": "data/images/ed7141c3be89d157640ad6ded6cf90ba.jpg",
+                "filename": "ed7141c3be89d157640ad6ded6cf90ba",
+                "original_size": 17168,
+                "processed_size": 13897
             }
         ]
     }

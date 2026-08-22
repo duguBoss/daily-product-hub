@@ -1,71 +1,71 @@
 [
     {
-        "资讯标题": "初探苹果 iOS 27 版相机应用：新 Siri 模式可估算食物卡路里等",
-        "内容": "苹果 iOS 27 相机应用新增 Siri 模式，可通过右滑进入并利用视觉智能识别植物、食物并估算卡路里、扫描请柬加入日历；同时引入 RAW 9，提升 RAW 图像去马赛克、降噪和色彩分离；此外，代码显示正在开发参考图像模式，用于验证照片真实性。",
+        "资讯标题": "消息称 iQOO 16 / 小平板 9 月见，首批第六代骁龙 8 超级至尊版新机 + 首个第六代骁龙 8 超级至尊版平板",
+        "内容": "博主@数码闲聊站爆料，iQOO 16 手机和 iQOO 小平板将于 9 月发布，分别为首批第六代骁龙 8 超级至尊版（SM8975）新机和首款搭载该平台的平板。iQOO 16 预计采用 6.85 英寸 2K+165Hz 三星直屏、左上角小方块镜头 Deco、全新 ID 设计，后置三颗 50MP 摄像头（主摄 1/1.3\" F1.68、超广角 F2.0、潜望镜 1/1.95\" F2.65）。小平板则传闻配备 2.8K OLED 高刷屏、四窄边、一体金属中框及方形带风扇的 Deco。高通亦曝光第六代骁龙 8 至尊版（SM8950）与超级至尊版命名。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/8/86de3136-752a-4197-aace-a16388977a3d.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/6e17e4bea848d92aa93f692c82dc5bca.jpg",
-                "local_path": "data/images/6e17e4bea848d92aa93f692c82dc5bca.jpg",
-                "filename": "6e17e4bea848d92aa93f692c82dc5bca",
-                "original_size": 98902,
-                "processed_size": 98902
+                "url": "https://img.ithome.com/newsuploadfiles/2026/8/ce68b8d1-17bb-49df-aefd-2b5c6a5e5872.png",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/5873e1db8059f996731cd3abc43e4819.jpg",
+                "local_path": "data/images/5873e1db8059f996731cd3abc43e4819.jpg",
+                "filename": "5873e1db8059f996731cd3abc43e4819",
+                "original_size": 42780,
+                "processed_size": 36483
             }
         ]
     },
     {
-        "资讯标题": "OPPO 新一代屏幕双产线技术发布，号称“色彩无限接近真实世界”",
-        "内容": "OPPO 发布新一代屏幕双产线技术，从基材定制到像素级校准实现全链路显示升级。RGB 三色发光材料全面换新，光谱深度优化，BT.2020 色域覆盖率达行业新高，色彩无限接近真实世界。该技术将应用于 OPPO Find X10 系列，配合全新护眼基材，实现最高 BT.2020 超广色域、更高有益红光、更低有害蓝光及超窄边框。",
+        "资讯标题": "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热",
+        "内容": "苹果计划在2026年底或2027年初发布14英寸入门款M6 MacBook Pro（代号J804），外观延续现款，保留Mini LED屏幕、ProMotion、6扬声器和现有接口。核心升级包括M6标准版GPU从10核提升至12核，内存带宽提高至200GB/s（M5为153GB/s），以及采用覆盖芯片并扩展至全主板的均热板散热方案，并优化风扇与扇叶以降温并减少高负载降频。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/8/2195f6fa-5f71-4166-9a42-037eea29721c.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/9cbc8ad95ddc1e3c74118cd2729d6a7a.jpg",
-                "local_path": "data/images/9cbc8ad95ddc1e3c74118cd2729d6a7a.jpg",
-                "filename": "9cbc8ad95ddc1e3c74118cd2729d6a7a",
-                "original_size": 112688,
-                "processed_size": 112688
+                "url": "https://img.ithome.com/newsuploadfiles/2026/6/22338977-3d8c-4bef-a547-10045efd10dd.png?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/bbaaba5ccd7c51ea1a794e9aac0cfa78.jpg",
+                "local_path": "data/images/bbaaba5ccd7c51ea1a794e9aac0cfa78.jpg",
+                "filename": "bbaaba5ccd7c51ea1a794e9aac0cfa78",
+                "original_size": 42904,
+                "processed_size": 42904
             }
         ]
     },
     {
-        "资讯标题": "小米米家多头筋膜枪 3 开启 0 元众测：25kg 推力，官方售价 369 元",
-        "内容": "小米米家多头筋膜枪3于8月17日开售，官方售价369元。8月20日小米社区宣布该产品开启0元众测，仅5个名额，报名时间为8月18日10时至8月25日24时，入口在小米社区App首页-官方-小米众测。产品配备三款不同规格按摩头，双轴无刷电机推力达25kg，按摩深度4mm，支持定频变频双模式及3挡调节，具智能挡位记忆功能，内置2450mAh电池续航可达31天。",
+        "资讯标题": "小米官方“龙虾”Xiaomi miclaw 将于 9 月 21 日结束封测",
+        "内容": "小米官方“龙虾”Xiaomi miclaw 基于 MiMo 大模型的 AI 交互测试产品于 2026 年 3 月开启封测，现宣布将于 2026 年 9 月 21 日结束封测并停止服务。为感谢用户，小米邀请封测用户升级至澎湃 OS 4 Beta 版，并限时赠送超级小爱专家模式加强档位（原价 149 元/月，现 99 元/月，需填问卷）。升级后将自动退出 miclaw 封测，如需继续使用可留在澎湃 OS 3 直至封测截止。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/8/289d3012-eacb-40a1-872a-47d954ee06fd.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/9424871485f36a9ac5777044a8ee93f5.jpg",
-                "local_path": "data/images/9424871485f36a9ac5777044a8ee93f5.jpg",
-                "filename": "9424871485f36a9ac5777044a8ee93f5",
-                "original_size": 158250,
-                "processed_size": 95979
+                "url": "https://img.ithome.com/newsuploadfiles/2026/8/027437f1-fd05-4588-ae53-1c317ca25526.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/bfc82bfa08020446d629804d064ddb0a.jpg",
+                "local_path": "data/images/bfc82bfa08020446d629804d064ddb0a.jpg",
+                "filename": "bfc82bfa08020446d629804d064ddb0a",
+                "original_size": 187202,
+                "processed_size": 160458
             }
         ]
     },
     {
-        "资讯标题": "三星 Galaxy A58 和 Galaxy Xcover FR 手机踪迹曝光",
-        "内容": "三星 Galaxy A58（型号 SM-A5860）和 Galaxy Xcover FR（型号 SM-G778B）近日在 GSMA IMEI 数据库中被发现。A58 作为 A57 的继任机型，预计将在 2027 年第一季度发布；Xcover FR 属于三防系列，面向工业和恶劣环境使用。",
+        "资讯标题": "极星 Polestar 4 SUV 无伪装实车曝光：新增后窗、方正尾门设计",
+        "内容": "极星 Polestar 4 SUV 无伪装实车曝光，新增后窗并采用方正尾门，相比轿跑版提供更好的后排头部和行李厢空间。车辆基于吉利 SEA 平台，提供后轮驱动（268 hp）和全轮驱动（536 hp）两种动力，配备 94 kWh 电池组，WLTP 续航最高 630 km，比轿跑版多 10 km。官方宣布将于 9 月 2 日海外发布。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/8/ad3f4436-e58e-46d7-9556-10ea4dcd7b15.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/2848a7816aa174d66dffb40a57ebd126.jpg",
-                "local_path": "data/images/2848a7816aa174d66dffb40a57ebd126.jpg",
-                "filename": "2848a7816aa174d66dffb40a57ebd126",
-                "original_size": 41020,
-                "processed_size": 41020
+                "url": "https://img.ithome.com/newsuploadfiles/2026/8/d30c275e-4a3a-44c2-bce7-51885dbd7b6d.png",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/ca13772ef3d8c184ab3c37db1bb0ae66.jpg",
+                "local_path": "data/images/ca13772ef3d8c184ab3c37db1bb0ae66.jpg",
+                "filename": "ca13772ef3d8c184ab3c37db1bb0ae66",
+                "original_size": 1355025,
+                "processed_size": 254012
             }
         ]
     },
     {
-        "资讯标题": "红魔 12 系列手机确认正常迭代：还没到预热时间",
-        "内容": "红魔游戏手机产品总经理姜超确认红魔 12 系列正在正常迭代，只是尚未到预热时间。红魔 11 Pro 于 2025 年 10 月发布，搭载第五代骁龙 8 至尊版、风水双冷散热、“悟空”屏、京东方 X10 发光材料、5000 万双主摄及 8000mAh 牛魔王电池。参考上代发布节奏，红魔 12 预计近期开启预热。",
+        "资讯标题": "全新一代智己 LS6“陆上 A320”官宣 9 月见，定位“家庭 SUV”",
+        "内容": "全新一代智己 LS6“陆上 A320”官宣将于9月亮相，定位家庭 SUV。该车采用航空同源理念，标配 NEO 三电架构、全线控底盘、IM CLAW 智能体和超级头等舱，号称进入航空级安全时代。现款 LS6 去年9月上市，纯电版起价19.79万元，增程版起价20.29万元，定位超级大五座智能 SUV，首搭智己“恒星”超级增程，综合续航1500km+，配备灵蜥数字底盘2.0、全场景数字座舱、旗舰级 MinLED 显示、27.1英寸5K驾舱屏、15.6英寸3K副驾娱乐屏、车载冰箱、氛围灯、四座通风加热按摩等配置。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/8/988472_240.jpg",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/ed7141c3be89d157640ad6ded6cf90ba.jpg",
-                "local_path": "data/images/ed7141c3be89d157640ad6ded6cf90ba.jpg",
-                "filename": "ed7141c3be89d157640ad6ded6cf90ba",
-                "original_size": 17168,
-                "processed_size": 13897
+                "url": "https://img.ithome.com/newsuploadfiles/2026/8/5d6e1426-2a7e-446d-a849-548cb3b4a77e.png",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/e25542cc78eb21cccaa92cf1ee6a8f9d.jpg",
+                "local_path": "data/images/e25542cc78eb21cccaa92cf1ee6a8f9d.jpg",
+                "filename": "e25542cc78eb21cccaa92cf1ee6a8f9d",
+                "original_size": 576622,
+                "processed_size": 103393
             }
         ]
     }

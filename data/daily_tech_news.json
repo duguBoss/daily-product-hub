@@ -1,71 +1,71 @@
 [
     {
-        "资讯标题": "消息称 iQOO 16 / 小平板 9 月见，首批第六代骁龙 8 超级至尊版新机 + 首个第六代骁龙 8 超级至尊版平板",
-        "内容": "博主@数码闲聊站爆料，iQOO 16 手机和 iQOO 小平板将于 9 月发布，分别为首批第六代骁龙 8 超级至尊版（SM8975）新机和首款搭载该平台的平板。iQOO 16 预计采用 6.85 英寸 2K+165Hz 三星直屏、左上角小方块镜头 Deco、全新 ID 设计，后置三颗 50MP 摄像头（主摄 1/1.3\" F1.68、超广角 F2.0、潜望镜 1/1.95\" F2.65）。小平板则传闻配备 2.8K OLED 高刷屏、四窄边、一体金属中框及方形带风扇的 Deco。高通亦曝光第六代骁龙 8 至尊版（SM8950）与超级至尊版命名。",
+        "资讯标题": "OPPO 新机通过 3C 认证：支持 80W 快充，预计为 Find X10 系列",
+        "内容": "OPPO 型号为 PMW110 的新机于 8 月 21 日通过 3C 认证，支持 80W 快充，预计为 Find X10 系列。该机之前已入网，支持 N79 5G 频段及 2.4GHz 扩频通信，预装 ColorOS17 AI 系统并备案多个 AI 大模型。爆料称新机将于 9 月下旬发布，搭载 2nm 天玑 9600 Pro 处理器、HPC 2 亿超大底影像系统及极窄新屏。另据泄露，机配 6.78 英寸 1.5K LTPO 极窄四等边大 R 角直屏，主摄 200Mp 1/1.3\"、长焦 200Mp、多光谱 3Mp，电池目标超 8000mAh，支持无线充、3D 超声波指纹及 IP68/IP69 防尘防水。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/8/ce68b8d1-17bb-49df-aefd-2b5c6a5e5872.png",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/5873e1db8059f996731cd3abc43e4819.jpg",
-                "local_path": "data/images/5873e1db8059f996731cd3abc43e4819.jpg",
-                "filename": "5873e1db8059f996731cd3abc43e4819",
-                "original_size": 42780,
-                "processed_size": 36483
+                "url": "https://img.ithome.com/newsuploadfiles/2026/8/167d5cca-3ebb-435d-9f4c-f4952e8fa420.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/b5286a0ee3f5b857d6948e744d7ea6d5.jpg",
+                "local_path": "data/images/b5286a0ee3f5b857d6948e744d7ea6d5.jpg",
+                "filename": "b5286a0ee3f5b857d6948e744d7ea6d5",
+                "original_size": 61250,
+                "processed_size": 61250
             }
         ]
     },
     {
-        "资讯标题": "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热",
-        "内容": "苹果计划在2026年底或2027年初发布14英寸入门款M6 MacBook Pro（代号J804），外观延续现款，保留Mini LED屏幕、ProMotion、6扬声器和现有接口。核心升级包括M6标准版GPU从10核提升至12核，内存带宽提高至200GB/s（M5为153GB/s），以及采用覆盖芯片并扩展至全主板的均热板散热方案，并优化风扇与扇叶以降温并减少高负载降频。",
+        "资讯标题": "FCC 曝光索尼新版 DualSense Edge 手柄，有望更方便换电池",
+        "内容": "FCC文件显示索尼正准备推出新版DualSense Edge手柄，型号从CFI-ZCP1升级至CFI-ZCP2。改动主要集中在充电电池设计上，使用户能更方便地自行更换内置锂离子电池，以符合欧盟即将生效的“维修权”规定。新版手柄预计不会有大幅外观变化，相关文件将在2027年1月底解锁，届时索尼可能正式发布该产品。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/6/22338977-3d8c-4bef-a547-10045efd10dd.png?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/bbaaba5ccd7c51ea1a794e9aac0cfa78.jpg",
-                "local_path": "data/images/bbaaba5ccd7c51ea1a794e9aac0cfa78.jpg",
-                "filename": "bbaaba5ccd7c51ea1a794e9aac0cfa78",
-                "original_size": 42904,
-                "processed_size": 42904
+                "url": "https://img.ithome.com/newsuploadfiles/2026/8/e3038f0d-d20e-4892-891a-65f86c3605c0.jpg?x-bce-process=image/quality,q_75/format,f_webp",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/3b2b0ba039eb894c0e884751e327c3a0.jpg",
+                "local_path": "data/images/3b2b0ba039eb894c0e884751e327c3a0.jpg",
+                "filename": "3b2b0ba039eb894c0e884751e327c3a0",
+                "original_size": 13044,
+                "processed_size": 13044
             }
         ]
     },
     {
-        "资讯标题": "小米官方“龙虾”Xiaomi miclaw 将于 9 月 21 日结束封测",
-        "内容": "小米官方“龙虾”Xiaomi miclaw 基于 MiMo 大模型的 AI 交互测试产品于 2026 年 3 月开启封测，现宣布将于 2026 年 9 月 21 日结束封测并停止服务。为感谢用户，小米邀请封测用户升级至澎湃 OS 4 Beta 版，并限时赠送超级小爱专家模式加强档位（原价 149 元/月，现 99 元/月，需填问卷）。升级后将自动退出 miclaw 封测，如需继续使用可留在澎湃 OS 3 直至封测截止。",
+        "资讯标题": "消息称华为 Pura X Max 系列横阔折手机销量破 70 万台，标准版与典藏版差距明显缩小",
+        "内容": "华为 Pura X Max 系列横向阔折叠手机首月销量突破 70 万台，其中标准版约 34.46 万台，典藏版约 36.88 万台，两者差距已缩小至不足 3 万台。该机型于 4 月 25 日开售，起售价 10999 元。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/8/027437f1-fd05-4588-ae53-1c317ca25526.jpg?x-bce-process=image/quality,q_75/format,f_webp",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/bfc82bfa08020446d629804d064ddb0a.jpg",
-                "local_path": "data/images/bfc82bfa08020446d629804d064ddb0a.jpg",
-                "filename": "bfc82bfa08020446d629804d064ddb0a",
-                "original_size": 187202,
-                "processed_size": 160458
+                "url": "https://img.ithome.com/newsuploadfiles/2026/8/7398d147-66f3-48a1-a079-dcc47c0dc9ab.png",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/d2b3e23aec72b1c512f21dd7dff8c9f5.jpg",
+                "local_path": "data/images/d2b3e23aec72b1c512f21dd7dff8c9f5.jpg",
+                "filename": "d2b3e23aec72b1c512f21dd7dff8c9f5",
+                "original_size": 127053,
+                "processed_size": 62318
             }
         ]
     },
     {
-        "资讯标题": "极星 Polestar 4 SUV 无伪装实车曝光：新增后窗、方正尾门设计",
-        "内容": "极星 Polestar 4 SUV 无伪装实车曝光，新增后窗并采用方正尾门，相比轿跑版提供更好的后排头部和行李厢空间。车辆基于吉利 SEA 平台，提供后轮驱动（268 hp）和全轮驱动（536 hp）两种动力，配备 94 kWh 电池组，WLTP 续航最高 630 km，比轿跑版多 10 km。官方宣布将于 9 月 2 日海外发布。",
+        "资讯标题": "华为余承东视频意外泄露神秘新机，网友推测是 Mate XT2 非凡大师新款三折叠手机",
+        "内容": "华为余承东在与沈腾、杨幂的视频中意外露出一款装有保护壳的神秘新机，网友根据机身厚度猜测为华为 Mate XT2 非凡大师新款三折叠手机。博主数码闲聊站透露华为9月将有两场发布会，上旬发布新款三折叠，下旬发布Mate 90系列，新机有望搭载最新旗舰处理器，定位万元档超高端。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/8/d30c275e-4a3a-44c2-bce7-51885dbd7b6d.png",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/ca13772ef3d8c184ab3c37db1bb0ae66.jpg",
-                "local_path": "data/images/ca13772ef3d8c184ab3c37db1bb0ae66.jpg",
-                "filename": "ca13772ef3d8c184ab3c37db1bb0ae66",
-                "original_size": 1355025,
-                "processed_size": 254012
+                "url": "https://img.ithome.com/newsuploadfiles/2026/8/6b776d73-8a09-4cb9-a46b-18bd62beaf08.jpg",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/7ce14e646c83aaac1f3c14c94c0fe81a.jpg",
+                "local_path": "data/images/7ce14e646c83aaac1f3c14c94c0fe81a.jpg",
+                "filename": "7ce14e646c83aaac1f3c14c94c0fe81a",
+                "original_size": 483215,
+                "processed_size": 139839
             }
         ]
     },
     {
-        "资讯标题": "全新一代智己 LS6“陆上 A320”官宣 9 月见，定位“家庭 SUV”",
-        "内容": "全新一代智己 LS6“陆上 A320”官宣将于9月亮相，定位家庭 SUV。该车采用航空同源理念，标配 NEO 三电架构、全线控底盘、IM CLAW 智能体和超级头等舱，号称进入航空级安全时代。现款 LS6 去年9月上市，纯电版起价19.79万元，增程版起价20.29万元，定位超级大五座智能 SUV，首搭智己“恒星”超级增程，综合续航1500km+，配备灵蜥数字底盘2.0、全场景数字座舱、旗舰级 MinLED 显示、27.1英寸5K驾舱屏、15.6英寸3K副驾娱乐屏、车载冰箱、氛围灯、四座通风加热按摩等配置。",
+        "资讯标题": "印度少年为买新款苹果 iPhone 威胁父母跳崖，最终三人接连坠崖身亡",
+        "内容": "2026年8月21日，印度马哈拉施特拉邦钱德拉普尔地区发生悲剧：青年男子Kunal因父母拒绝为其购买新款iPhone而在Khavdya Dongar山悬崖边威胁轻生。家人、村民、警方和消防人员劝阻约3小时无效，Kunal坠崖，父亲试图救援时同坠，母亲随后跳崖，三人当场身亡。警方正在调查事件细节。",
         "配图": [
             {
-                "url": "https://img.ithome.com/newsuploadfiles/2026/8/5d6e1426-2a7e-446d-a849-548cb3b4a77e.png",
-                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/e25542cc78eb21cccaa92cf1ee6a8f9d.jpg",
-                "local_path": "data/images/e25542cc78eb21cccaa92cf1ee6a8f9d.jpg",
-                "filename": "e25542cc78eb21cccaa92cf1ee6a8f9d",
-                "original_size": 576622,
-                "processed_size": 103393
+                "url": "https://img.ithome.com/newsuploadfiles/2026/8/632401c2-80da-48a7-8fcc-eb85a6f6fa5b.jpg",
+                "github_url": "https://raw.githubusercontent.com/duguBoss/daily-product-hub/main/data/images/cbc1b606ed2b41356ac1dfd4ca63c678.jpg",
+                "local_path": "data/images/cbc1b606ed2b41356ac1dfd4ca63c678.jpg",
+                "filename": "cbc1b606ed2b41356ac1dfd4ca63c678",
+                "original_size": 85107,
+                "processed_size": 85107
             }
         ]
     }
